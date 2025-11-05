@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "themes": [
         {
             "id": "emojis",
@@ -7,6 +7,9 @@
             "premium": false,
             "difficulty": "easy",
             "grid_size": "4x4",
+            "background_music": "fun_pop.mp3",
+            "unlock_level": 1,
+            "reward_points": 50,
             "items": [
                 "🎮",
                 "🎨",
@@ -19,7 +22,11 @@
                 "⚽",
                 "🏀",
                 "🎾",
-                "🏈"
+                "🏈",
+                "🎹",
+                "🎤",
+                "🎧",
+                "🎬"
             ]
         },
         {
@@ -28,6 +35,9 @@
             "premium": false,
             "difficulty": "easy",
             "grid_size": "4x4",
+            "background_music": "jungle_theme.mp3",
+            "unlock_level": 2,
+            "reward_points": 75,
             "items": [
                 "🐶",
                 "🐱",
@@ -40,7 +50,11 @@
                 "🐨",
                 "🐯",
                 "🦁",
-                "🐮"
+                "🐮",
+                "🐸",
+                "🐵",
+                "🐧",
+                "🐘"
             ]
         },
         {
@@ -49,6 +63,9 @@
             "premium": false,
             "difficulty": "medium",
             "grid_size": "4x4",
+            "background_music": "kitchen_fun.mp3",
+            "unlock_level": 3,
+            "reward_points": 100,
             "items": [
                 "🍕",
                 "🍔",
@@ -61,7 +78,11 @@
                 "🧇",
                 "🥞",
                 "🧈",
-                "🍞"
+                "🍞",
+                "🍰",
+                "🍩",
+                "🍪",
+                "🍫"
             ]
         },
         {
@@ -70,6 +91,9 @@
             "premium": true,
             "difficulty": "hard",
             "grid_size": "6x6",
+            "background_music": "world_theme.mp3",
+            "unlock_level": 5,
+            "reward_points": 200,
             "items": [
                 "🇺🇸",
                 "🇬🇧",
@@ -88,7 +112,157 @@
                 "🇷🇺",
                 "🇿🇦",
                 "🇸🇬",
-                "🇳🇱"
+                "🇳🇱",
+                "🇳🇴",
+                "🇸🇪",
+                "🇩🇰",
+                "🇹🇷",
+                "🇦🇷",
+                "🇮🇩"
+            ]
+        },
+        {
+            "id": "nature",
+            "name": "Beautiful Nature",
+            "premium": false,
+            "difficulty": "medium",
+            "grid_size": "5x5",
+            "background_music": "forest_breeze.mp3",
+            "unlock_level": 4,
+            "reward_points": 120,
+            "items": [
+                "🌳",
+                "🌲",
+                "🌴",
+                "🌵",
+                "🌻",
+                "🌼",
+                "🌹",
+                "🌺",
+                "🍄",
+                "🍁",
+                "🍂",
+                "🌞",
+                "🌈",
+                "🌧️",
+                "⛄",
+                "🔥",
+                "🌊",
+                "💧",
+                "🌍",
+                "🪵",
+                "🌿",
+                "🍃",
+                "🌾",
+                "🪴"
+            ]
+        },
+        {
+            "id": "space",
+            "name": "Cosmic Adventure",
+            "premium": true,
+            "difficulty": "expert",
+            "grid_size": "6x6",
+            "background_music": "space_ambient.mp3",
+            "unlock_level": 7,
+            "reward_points": 250,
+            "items": [
+                "🚀",
+                "🛸",
+                "🪐",
+                "🌕",
+                "🌑",
+                "⭐",
+                "🌟",
+                "☄️",
+                "🌌",
+                "🌠",
+                "🛰️",
+                "👩‍🚀",
+                "🪞",
+                "🔭",
+                "🧑‍🚀",
+                "🪐",
+                "🪙",
+                "💫",
+                "🌎",
+                "🌙",
+                "🪄",
+                "🌛",
+                "🪆",
+                "🪩"
+            ]
+        },
+        {
+            "id": "technology",
+            "name": "Tech Titans",
+            "premium": true,
+            "difficulty": "genius",
+            "grid_size": "6x6",
+            "background_music": "sci_fi.mp3",
+            "unlock_level": 10,
+            "reward_points": 300,
+            "items": [
+                "💻",
+                "📱",
+                "⌚",
+                "🖥️",
+                "🖱️",
+                "🕹️",
+                "💾",
+                "📀",
+                "🧠",
+                "🤖",
+                "⚙️",
+                "🧮",
+                "🔋",
+                "🔌",
+                "📡",
+                "🌐",
+                "🪫",
+                "🧰",
+                "🧩",
+                "📊",
+                "💡",
+                "🛰️",
+                "💿",
+                "🔧"
+            ]
+        },
+        {
+            "id": "fantasy",
+            "name": "Myth & Magic",
+            "premium": true,
+            "difficulty": "expert",
+            "grid_size": "5x5",
+            "background_music": "mystic_forest.mp3",
+            "unlock_level": 8,
+            "reward_points": 275,
+            "items": [
+                "🧙‍♂️",
+                "🧚‍♀️",
+                "🐉",
+                "🦄",
+                "🪄",
+                "⚔️",
+                "🛡️",
+                "🧝‍♀️",
+                "🏰",
+                "🔮",
+                "📜",
+                "🕯️",
+                "🪙",
+                "🪞",
+                "🦸‍♂️",
+                "🧛‍♀️",
+                "🪆",
+                "👑",
+                "💎",
+                "⚗️",
+                "🪓",
+                "🧞",
+                "🐲",
+                "🦹‍♀️"
             ]
         }
     ],
@@ -97,19 +271,84 @@
             "grid_size": "4x4",
             "pairs": 8,
             "time_limit": 120,
-            "max_moves": null
+            "max_moves": null,
+            "hint_available": true
         },
         "medium": {
             "grid_size": "4x4",
             "pairs": 8,
             "time_limit": 90,
-            "max_moves": 25
+            "max_moves": 25,
+            "hint_available": true
         },
         "hard": {
             "grid_size": "6x6",
             "pairs": 18,
             "time_limit": 180,
-            "max_moves": 40
+            "max_moves": 40,
+            "hint_available": false
+        },
+        "expert": {
+            "grid_size": "6x6",
+            "pairs": 20,
+            "time_limit": 150,
+            "max_moves": 35,
+            "hint_available": false
+        },
+        "genius": {
+            "grid_size": "8x8",
+            "pairs": 32,
+            "time_limit": 240,
+            "max_moves": 50,
+            "hint_available": false
         }
-    }
+    },
+    "bonus_modes": [
+        {
+            "type": "speed_match",
+            "title": "Speed Match",
+            "description": "Match all pairs before time runs out!",
+            "multiplier": 2.0,
+            "duration_seconds": 60
+        },
+        {
+            "type": "endless_mode",
+            "title": "Endless Play",
+            "description": "Keep matching until you make 3 mistakes.",
+            "multiplier": 1.5
+        },
+        {
+            "type": "blind_match",
+            "title": "Memory Test",
+            "description": "Cards flip back instantly—can you remember them?",
+            "multiplier": 3.0
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Quick Matcher",
+            "criteria": "Complete any easy game under 60 seconds.",
+            "reward_points": 100
+        },
+        {
+            "title": "Master of Memory",
+            "criteria": "Complete a hard or expert theme with no mistakes.",
+            "reward_points": 200
+        },
+        {
+            "title": "Legendary Brain",
+            "criteria": "Unlock and complete the Genius difficulty level.",
+            "reward_points": 300
+        },
+        {
+            "title": "World Traveler",
+            "criteria": "Play and win in the 'World Flags' theme.",
+            "reward_points": 150
+        },
+        {
+            "title": "Magical Thinker",
+            "criteria": "Finish the Fantasy theme flawlessly.",
+            "reward_points": 250
+        }
+    ]
 }

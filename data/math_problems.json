@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "difficulty_levels": {
         "easy": {
             "range": [
@@ -39,13 +39,50 @@
             ],
             "time_limit": 60,
             "questions_count": 50
+        },
+        "expert": {
+            "range": [
+                10,
+                500
+            ],
+            "operations": [
+                "+",
+                "-",
+                "×",
+                "÷",
+                "^"
+            ],
+            "time_limit": 75,
+            "questions_count": 60
+        },
+        "genius": {
+            "range": [
+                50,
+                1000
+            ],
+            "operations": [
+                "+",
+                "-",
+                "×",
+                "÷",
+                "^",
+                "√"
+            ],
+            "time_limit": 90,
+            "questions_count": 75
         }
     },
     "templates": [
         "What is {num1} {op} {num2}?",
         "Calculate: {num1} {op} {num2}",
         "Solve: {num1} {op} {num2} = ?",
-        "{num1} {op} {num2} equals?"
+        "{num1} {op} {num2} equals?",
+        "Find the result of {num1} {op} {num2}.",
+        "If you {op_word} {num2} from {num1}, what do you get?",
+        "Work it out: {num1} {op} {num2}",
+        "Quick math! {num1} {op} {num2} = ?",
+        "Guess the answer: {num1} {op} {num2}",
+        "Compute the value of {num1} {op} {num2}."
     ],
     "bonus_rounds": [
         {
@@ -53,6 +90,68 @@
             "duration_seconds": 60,
             "multiplier": 2.0,
             "title": "Speed Math Bonus!"
+        },
+        {
+            "type": "accuracy_challenge",
+            "duration_seconds": 90,
+            "multiplier": 3.0,
+            "title": "Accuracy Challenge – No Mistakes Allowed!"
+        },
+        {
+            "type": "lightning_round",
+            "duration_seconds": 45,
+            "multiplier": 1.5,
+            "title": "Lightning Round – Think Fast!"
+        },
+        {
+            "type": "boss_level",
+            "duration_seconds": 120,
+            "multiplier": 4.0,
+            "title": "Final Boss Challenge!"
+        }
+    ],
+    "challenge_types": [
+        {
+            "name": "missing_number",
+            "pattern": "{num1} {op} ___ = {result}",
+            "description": "Find the missing number to complete the equation."
+        },
+        {
+            "name": "reverse_calculation",
+            "pattern": "{result} = {num1} {op} ?",
+            "description": "Find the unknown number that fits the operation."
+        },
+        {
+            "name": "true_or_false",
+            "pattern": "True or False: {num1} {op} {num2} = {result}",
+            "description": "Decide if the given math statement is correct."
+        },
+        {
+            "name": "fill_in_blank",
+            "pattern": "{num1} {op} {num2} = ___",
+            "description": "Fill in the correct result."
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Speed Demon",
+            "criteria": "Finish a speed round with all correct answers.",
+            "reward_points": 100
+        },
+        {
+            "title": "Math Prodigy",
+            "criteria": "Score 90% or more in Genius mode.",
+            "reward_points": 200
+        },
+        {
+            "title": "Comeback King",
+            "criteria": "Recover from a wrong answer streak to finish a round perfectly.",
+            "reward_points": 150
+        },
+        {
+            "title": "Quick Thinker",
+            "criteria": "Answer 5 questions correctly in under 10 seconds.",
+            "reward_points": 75
         }
     ]
 }

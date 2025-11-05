@@ -1,6 +1,6 @@
 {
-    "version": "2.1.0",
-    "last_updated": "2024-11-04T10:00:00Z",
+    "version": "3.0.0",
+    "last_updated": "2025-11-05T10:00:00Z",
     "categories": [
         {
             "id": "general",
@@ -8,6 +8,13 @@
             "icon": "public",
             "color": "#FF6B6B",
             "premium": false,
+            "unlock_level": 1,
+            "background_music": "worldbeat.mp3",
+            "difficulty_distribution": {
+                "easy": 70,
+                "medium": 25,
+                "hard": 5
+            },
             "questions": [
                 {
                     "id": "q_gen_001",
@@ -21,7 +28,12 @@
                     "correct_index": 0,
                     "difficulty": "easy",
                     "points": 10,
+                    "negative_points": 0,
+                    "bonus_for_streak": 5,
+                    "time_limit": 15,
+                    "hint": "City of Love",
                     "explanation": "Paris has been the capital of France since the 12th century.",
+                    "source": "World Atlas",
                     "tags": [
                         "geography",
                         "europe"
@@ -39,7 +51,12 @@
                     "correct_index": 2,
                     "difficulty": "easy",
                     "points": 10,
+                    "negative_points": 0,
+                    "bonus_for_streak": 5,
+                    "time_limit": 20,
+                    "hint": "Count major landmasses",
                     "explanation": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+                    "source": "Encyclopedia Britannica",
                     "tags": [
                         "geography",
                         "basic"
@@ -57,7 +74,12 @@
                     "correct_index": 1,
                     "difficulty": "easy",
                     "points": 10,
+                    "negative_points": 0,
+                    "bonus_for_streak": 5,
+                    "time_limit": 15,
+                    "hint": "Fourth planet from the Sun",
                     "explanation": "Mars appears red due to iron oxide on its surface.",
+                    "source": "NASA",
                     "tags": [
                         "astronomy",
                         "science"
@@ -71,6 +93,13 @@
             "icon": "science",
             "color": "#4ECDC4",
             "premium": false,
+            "unlock_level": 2,
+            "background_music": "curiosity.mp3",
+            "difficulty_distribution": {
+                "easy": 40,
+                "medium": 40,
+                "hard": 20
+            },
             "questions": [
                 {
                     "id": "q_sci_001",
@@ -84,7 +113,12 @@
                     "correct_index": 0,
                     "difficulty": "easy",
                     "points": 10,
+                    "negative_points": 0,
+                    "bonus_for_streak": 5,
+                    "time_limit": 10,
+                    "hint": "Two hydrogens and one oxygen",
                     "explanation": "Water is made of 2 hydrogen atoms and 1 oxygen atom.",
+                    "source": "Chemistry Textbook",
                     "tags": [
                         "chemistry",
                         "basic"
@@ -102,7 +136,12 @@
                     "correct_index": 1,
                     "difficulty": "medium",
                     "points": 20,
+                    "negative_points": 5,
+                    "bonus_for_streak": 10,
+                    "time_limit": 25,
+                    "hint": "More than 200",
                     "explanation": "An adult human skeleton has 206 bones.",
+                    "source": "Human Anatomy Manual",
                     "tags": [
                         "biology",
                         "anatomy"
@@ -116,6 +155,13 @@
             "icon": "history_edu",
             "color": "#95E1D3",
             "premium": false,
+            "unlock_level": 3,
+            "background_music": "ancient_echoes.mp3",
+            "difficulty_distribution": {
+                "easy": 30,
+                "medium": 50,
+                "hard": 20
+            },
             "questions": [
                 {
                     "id": "q_his_001",
@@ -129,10 +175,155 @@
                     "correct_index": 2,
                     "difficulty": "medium",
                     "points": 20,
+                    "negative_points": 5,
+                    "bonus_for_streak": 10,
+                    "time_limit": 30,
+                    "hint": "Mid-1940s",
                     "explanation": "World War II ended in 1945 with Japan's surrender.",
+                    "source": "WWII Archives",
                     "tags": [
                         "war",
                         "20th-century"
+                    ]
+                },
+                {
+                    "id": "q_his_002",
+                    "question": "Who was the first Emperor of China?",
+                    "options": [
+                        "Sun Yat-sen",
+                        "Qin Shi Huang",
+                        "Han Wudi",
+                        "Kangxi"
+                    ],
+                    "correct_index": 1,
+                    "difficulty": "hard",
+                    "points": 40,
+                    "negative_points": 10,
+                    "bonus_for_streak": 15,
+                    "time_limit": 35,
+                    "hint": "Terracotta Army",
+                    "explanation": "Qin Shi Huang unified China and became its first emperor in 221 BC.",
+                    "source": "Chinese History Museum",
+                    "tags": [
+                        "china",
+                        "ancient",
+                        "leaders"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "technology",
+            "name": "Technology & Computing",
+            "icon": "memory",
+            "color": "#A29BFE",
+            "premium": false,
+            "unlock_level": 4,
+            "background_music": "tech_pulse.mp3",
+            "difficulty_distribution": {
+                "easy": 30,
+                "medium": 50,
+                "hard": 20
+            },
+            "questions": [
+                {
+                    "id": "q_tech_001",
+                    "question": "Who is known as the father of the computer?",
+                    "options": [
+                        "Alan Turing",
+                        "Charles Babbage",
+                        "John von Neumann",
+                        "Bill Gates"
+                    ],
+                    "correct_index": 1,
+                    "difficulty": "medium",
+                    "points": 20,
+                    "negative_points": 5,
+                    "bonus_for_streak": 10,
+                    "time_limit": 20,
+                    "hint": "Designed the Analytical Engine",
+                    "explanation": "Charles Babbage designed the first mechanical computer known as the Analytical Engine.",
+                    "source": "Computer History Museum",
+                    "tags": [
+                        "computing",
+                        "history"
+                    ]
+                },
+                {
+                    "id": "q_tech_002",
+                    "question": "Which company created the first iPhone?",
+                    "options": [
+                        "Samsung",
+                        "Apple",
+                        "Nokia",
+                        "Google"
+                    ],
+                    "correct_index": 1,
+                    "difficulty": "easy",
+                    "points": 10,
+                    "negative_points": 0,
+                    "bonus_for_streak": 5,
+                    "time_limit": 15,
+                    "hint": "Steve Jobs’ company",
+                    "explanation": "Apple released the first iPhone in 2007, revolutionizing smartphones.",
+                    "source": "Tech Archives",
+                    "tags": [
+                        "mobile",
+                        "innovation"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sports",
+            "name": "Sports Arena",
+            "icon": "sports_soccer",
+            "color": "#FF9F43",
+            "premium": false,
+            "unlock_level": 5,
+            "background_music": "stadium_roar.mp3",
+            "difficulty_distribution": {
+                "easy": 40,
+                "medium": 40,
+                "hard": 20
+            },
+            "questions": [
+                {
+                    "id": "q_spt_001",
+                    "question": "How many players are there in a soccer team on the field?",
+                    "options": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ],
+                    "correct_index": 2,
+                    "difficulty": "easy",
+                    "points": 10,
+                    "time_limit": 10,
+                    "explanation": "Each soccer team has 11 players on the field during play.",
+                    "tags": [
+                        "sports",
+                        "soccer"
+                    ]
+                },
+                {
+                    "id": "q_spt_002",
+                    "question": "Which country hosted the 2016 Summer Olympics?",
+                    "options": [
+                        "Japan",
+                        "Brazil",
+                        "China",
+                        "Greece"
+                    ],
+                    "correct_index": 1,
+                    "difficulty": "medium",
+                    "points": 20,
+                    "time_limit": 20,
+                    "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil.",
+                    "tags": [
+                        "olympics",
+                        "geography"
                     ]
                 }
             ]
@@ -143,6 +334,13 @@
             "icon": "star",
             "color": "#FFD93D",
             "premium": true,
+            "unlock_level": 8,
+            "background_music": "deep_focus.mp3",
+            "difficulty_distribution": {
+                "easy": 10,
+                "medium": 30,
+                "hard": 60
+            },
             "questions": [
                 {
                     "id": "q_adv_001",
@@ -156,7 +354,12 @@
                     "correct_index": 0,
                     "difficulty": "hard",
                     "points": 50,
-                    "explanation": "This quantum mechanics principle states fundamental limits to measurement precision.",
+                    "negative_points": 10,
+                    "bonus_for_streak": 15,
+                    "time_limit": 45,
+                    "hint": "Quantum physics",
+                    "explanation": "This principle states fundamental limits to measurement precision in quantum mechanics.",
+                    "source": "Quantum Physics Journal",
                     "tags": [
                         "physics",
                         "quantum",
@@ -175,7 +378,12 @@
                     "correct_index": 1,
                     "difficulty": "hard",
                     "points": 50,
+                    "negative_points": 10,
+                    "bonus_for_streak": 15,
+                    "time_limit": 40,
+                    "hint": "Divide and conquer algorithm",
                     "explanation": "Quicksort has O(n log n) average time complexity.",
+                    "source": "Algorithm Design Handbook",
                     "tags": [
                         "computer-science",
                         "algorithms"
@@ -183,5 +391,45 @@
                 }
             ]
         }
-    ]
+    ],
+    "achievements": [
+        {
+            "title": "Quick Thinker",
+            "criteria": "Answer 10 questions in under 10 seconds each.",
+            "reward_points": 100
+        },
+        {
+            "title": "Knowledge Explorer",
+            "criteria": "Play all categories at least once.",
+            "reward_points": 150
+        },
+        {
+            "title": "Streak Master",
+            "criteria": "Achieve a 10-question correct streak.",
+            "reward_points": 200
+        },
+        {
+            "title": "Einstein Mind",
+            "criteria": "Score 1000 points in the Advanced Knowledge category.",
+            "reward_points": 500
+        }
+    ],
+    "ui_settings": {
+        "language_support": [
+            "en",
+            "es",
+            "fr",
+            "hi"
+        ],
+        "voice_assist": true,
+        "theme_mode": [
+            "light",
+            "dark"
+        ],
+        "timer_animation": "pulse",
+        "answer_feedback": {
+            "correct": "confetti_burst",
+            "incorrect": "shake_red"
+        }
+    }
 }

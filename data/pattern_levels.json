@@ -1,40 +1,86 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "levels": [
         {
             "level": 1,
             "sequence_length": 3,
             "colors": 4,
             "speed_ms": 800,
-            "points": 10
+            "points": 10,
+            "theme": "classic",
+            "music": "intro_tune.mp3"
         },
         {
             "level": 5,
             "sequence_length": 5,
             "colors": 4,
             "speed_ms": 700,
-            "points": 50
+            "points": 50,
+            "theme": "classic",
+            "music": "level_up_1.mp3"
         },
         {
             "level": 10,
             "sequence_length": 8,
             "colors": 4,
             "speed_ms": 600,
-            "points": 100
+            "points": 100,
+            "theme": "neon",
+            "music": "neon_beat.mp3"
         },
         {
             "level": 15,
             "sequence_length": 10,
             "colors": 6,
             "speed_ms": 500,
-            "points": 150
+            "points": 150,
+            "theme": "pastel",
+            "music": "soft_glow.mp3"
         },
         {
             "level": 20,
             "sequence_length": 12,
             "colors": 6,
             "speed_ms": 400,
-            "points": 200
+            "points": 200,
+            "theme": "cosmic",
+            "music": "cosmic_pulse.mp3"
+        },
+        {
+            "level": 25,
+            "sequence_length": 14,
+            "colors": 7,
+            "speed_ms": 350,
+            "points": 300,
+            "theme": "retro",
+            "music": "pixel_vibe.mp3"
+        },
+        {
+            "level": 30,
+            "sequence_length": 16,
+            "colors": 8,
+            "speed_ms": 300,
+            "points": 400,
+            "theme": "galaxy",
+            "music": "starfield_loop.mp3"
+        },
+        {
+            "level": 40,
+            "sequence_length": 20,
+            "colors": 8,
+            "speed_ms": 250,
+            "points": 600,
+            "theme": "dark_mode",
+            "music": "shadow_drift.mp3"
+        },
+        {
+            "level": 50,
+            "sequence_length": 25,
+            "colors": 10,
+            "speed_ms": 200,
+            "points": 1000,
+            "theme": "ultra_neon",
+            "music": "finale_mix.mp3"
         }
     ],
     "color_schemes": [
@@ -74,6 +120,174 @@
                 "#F0E68C",
                 "#FFE4B5"
             ]
+        },
+        {
+            "id": "cosmic",
+            "name": "Cosmic Glow",
+            "premium": true,
+            "colors": [
+                "#8A2BE2",
+                "#00CED1",
+                "#FF69B4",
+                "#FFD700",
+                "#7FFF00",
+                "#9400D3"
+            ]
+        },
+        {
+            "id": "retro",
+            "name": "Retro Pixel",
+            "premium": false,
+            "colors": [
+                "#FF4500",
+                "#32CD32",
+                "#1E90FF",
+                "#FFD700",
+                "#FF1493",
+                "#00CED1"
+            ]
+        },
+        {
+            "id": "dark_mode",
+            "name": "Night Vision",
+            "premium": false,
+            "colors": [
+                "#222222",
+                "#444444",
+                "#888888",
+                "#00FFAA",
+                "#FF5555",
+                "#AAAA00"
+            ]
+        },
+        {
+            "id": "galaxy",
+            "name": "Galaxy Hues",
+            "premium": true,
+            "colors": [
+                "#FF00FF",
+                "#800080",
+                "#00FFFF",
+                "#FFD700",
+                "#0000FF",
+                "#FF1493",
+                "#7FFFD4"
+            ]
+        },
+        {
+            "id": "ultra_neon",
+            "name": "Hyper Glow",
+            "premium": true,
+            "colors": [
+                "#FF0066",
+                "#00FFEE",
+                "#FFDD00",
+                "#FF3300",
+                "#66FF33",
+                "#FF33FF",
+                "#00FF99",
+                "#00FFFF"
+            ]
         }
-    ]
+    ],
+    "game_modes": [
+        {
+            "id": "classic",
+            "name": "Classic",
+            "description": "Repeat the sequence correctly to progress. Mistakes reset your streak.",
+            "lives": 3,
+            "combo_multiplier": 1.0
+        },
+        {
+            "id": "zen",
+            "name": "Zen Mode",
+            "description": "Relaxed pace with no time limit. Just focus and enjoy the rhythm.",
+            "lives": "unlimited",
+            "combo_multiplier": 0.5
+        },
+        {
+            "id": "endless",
+            "name": "Endless Mode",
+            "description": "Survive as long as possible! Each round adds a new color to remember.",
+            "lives": 1,
+            "combo_multiplier": 1.5
+        },
+        {
+            "id": "mirror",
+            "name": "Mirror Madness",
+            "description": "Sequences play in reverse. Can your brain handle it?",
+            "lives": 3,
+            "combo_multiplier": 2.0
+        },
+        {
+            "id": "chaos",
+            "name": "Color Chaos",
+            "description": "Colors shuffle mid-sequence—total mayhem for pros only!",
+            "lives": 2,
+            "combo_multiplier": 3.0
+        }
+    ],
+    "power_ups": [
+        {
+            "id": "slow_down",
+            "name": "Time Freeze",
+            "description": "Temporarily slows down the sequence speed by 50%.",
+            "duration_ms": 5000,
+            "unlock_level": 10
+        },
+        {
+            "id": "extra_life",
+            "name": "Heart Boost",
+            "description": "Gives you one additional life per game.",
+            "duration_ms": null,
+            "unlock_level": 15
+        },
+        {
+            "id": "color_hint",
+            "name": "Color Glimpse",
+            "description": "Flashes the next color briefly before playback.",
+            "duration_ms": 3000,
+            "unlock_level": 20
+        },
+        {
+            "id": "double_points",
+            "name": "Combo Surge",
+            "description": "Doubles points for the next 3 sequences.",
+            "duration_ms": null,
+            "unlock_level": 25
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Memory Starter",
+            "criteria": "Complete level 5 without any mistake.",
+            "reward_points": 50
+        },
+        {
+            "title": "Flash Learner",
+            "criteria": "Reach level 20 in Classic mode.",
+            "reward_points": 100
+        },
+        {
+            "title": "Zen Master",
+            "criteria": "Play 10 rounds in Zen Mode.",
+            "reward_points": 75
+        },
+        {
+            "title": "Color Conqueror",
+            "criteria": "Unlock all color themes.",
+            "reward_points": 200
+        },
+        {
+            "title": "Mind Overload",
+            "criteria": "Survive 30 sequences in Chaos mode.",
+            "reward_points": 300
+        }
+    ],
+    "visual_effects": {
+        "on_success": "sparkle_burst",
+        "on_failure": "screen_shake",
+        "combo_flash": "neon_pulse",
+        "background_animation": "color_wave"
+    }
 }

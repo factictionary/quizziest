@@ -1,41 +1,239 @@
 {
-    "version": "1.0.0",
+    "version": "3.0.0",
+    "last_updated": "2025-11-05T10:00:00Z",
+    "challenge_types": [
+        "daily",
+        "weekly",
+        "monthly",
+        "seasonal",
+        "event",
+        "community"
+    ],
     "challenges": [
         {
             "id": "weekly_champion",
             "title": "Weekly Champion",
-            "description": "Complete all 7 daily challenges this week",
+            "type": "weekly",
+            "description": "Complete all 7 daily challenges this week.",
             "target": 7,
+            "progress_type": "count",
+            "difficulty_tier": "medium",
+            "start_date": "2025-11-03T00:00:00Z",
+            "end_date": "2025-11-10T00:00:00Z",
+            "streak_bonus": 100,
             "rewards": {
                 "coins": 1000,
                 "diamonds": 50,
                 "xp": 2000,
-                "badge": "weekly_champion"
+                "badge": "weekly_champion",
+                "leaderboard_points": 150
+            },
+            "ui": {
+                "icon": "trophy",
+                "color": "#FFD93D",
+                "background": "gold_glow",
+                "sound_effect": "victory_fanfare.mp3"
             }
         },
         {
             "id": "math_master",
             "title": "Math Master",
-            "description": "Solve 500 math problems correctly this week",
+            "type": "weekly",
+            "description": "Solve 500 math problems correctly this week.",
             "target": 500,
+            "progress_type": "count",
+            "difficulty_tier": "hard",
+            "start_date": "2025-11-03T00:00:00Z",
+            "end_date": "2025-11-10T00:00:00Z",
+            "streak_bonus": 150,
             "rewards": {
                 "coins": 800,
                 "diamonds": 40,
                 "xp": 1500,
-                "badge": "math_master"
+                "badge": "math_master",
+                "title": "Number Ninja"
+            },
+            "ui": {
+                "icon": "calculate",
+                "color": "#00C9A7",
+                "background": "neon_math",
+                "sound_effect": "math_success.mp3"
             }
         },
         {
             "id": "quiz_genius",
             "title": "Quiz Genius",
-            "description": "Answer 200 quiz questions correctly",
+            "type": "weekly",
+            "description": "Answer 200 quiz questions correctly.",
             "target": 200,
+            "progress_type": "count",
+            "difficulty_tier": "medium",
+            "streak_bonus": 80,
             "rewards": {
                 "coins": 700,
                 "diamonds": 35,
                 "xp": 1300,
-                "badge": "quiz_genius"
+                "badge": "quiz_genius",
+                "theme_unlock": "neon_nights"
+            },
+            "ui": {
+                "icon": "psychology",
+                "color": "#6C5CE7",
+                "background": "brainwave_pattern",
+                "sound_effect": "knowledge_unlock.mp3"
+            }
+        },
+        {
+            "id": "speed_runner",
+            "title": "Speed Runner",
+            "type": "daily",
+            "description": "Complete 10 timed challenges under 10 seconds each.",
+            "target": 10,
+            "progress_type": "time_trial",
+            "difficulty_tier": "hard",
+            "streak_bonus": 120,
+            "rewards": {
+                "coins": 600,
+                "diamonds": 30,
+                "xp": 1200,
+                "badge": "speed_runner",
+                "powerup": "time_freeze"
+            },
+            "ui": {
+                "icon": "bolt",
+                "color": "#FF6B6B",
+                "background": "speed_streak",
+                "sound_effect": "turbo_charge.mp3"
+            }
+        },
+        {
+            "id": "accuracy_ace",
+            "title": "Accuracy Ace",
+            "type": "daily",
+            "description": "Achieve 95% accuracy in any 20-question quiz.",
+            "target": 20,
+            "progress_type": "accuracy",
+            "difficulty_tier": "medium",
+            "rewards": {
+                "coins": 400,
+                "diamonds": 20,
+                "xp": 900,
+                "badge": "accuracy_ace",
+                "leaderboard_points": 100
+            },
+            "ui": {
+                "icon": "target",
+                "color": "#1DD1A1",
+                "background": "precision_focus",
+                "sound_effect": "perfect_hit.mp3"
+            }
+        },
+        {
+            "id": "streak_savior",
+            "title": "Streak Savior",
+            "type": "weekly",
+            "description": "Maintain a 15-day correct-answer streak.",
+            "target": 15,
+            "progress_type": "streak",
+            "difficulty_tier": "hard",
+            "rewards": {
+                "coins": 1200,
+                "diamonds": 60,
+                "xp": 2500,
+                "badge": "streak_savior",
+                "title": "Unbreakable"
+            },
+            "ui": {
+                "icon": "whatshot",
+                "color": "#FF9F43",
+                "background": "flame_wave",
+                "sound_effect": "streak_fire.mp3"
+            }
+        },
+        {
+            "id": "community_collector",
+            "title": "Community Collector",
+            "type": "community",
+            "description": "Collectively answer 10,000 questions as a community this month.",
+            "target": 10000,
+            "progress_type": "global_count",
+            "difficulty_tier": "medium",
+            "rewards": {
+                "coins": 5000,
+                "diamonds": 100,
+                "xp": 5000,
+                "badge": "community_collector",
+                "theme_unlock": "galaxy_mode"
+            },
+            "ui": {
+                "icon": "groups",
+                "color": "#48DBFB",
+                "background": "galaxy_wave",
+                "sound_effect": "collective_cheer.mp3"
+            }
+        },
+        {
+            "id": "seasonal_brainstorm",
+            "title": "Seasonal Brainstorm",
+            "type": "seasonal",
+            "description": "Participate in the limited-time Winter Quiz Fest and earn max points.",
+            "target": 1000,
+            "progress_type": "score_accumulation",
+            "difficulty_tier": "hard",
+            "start_date": "2025-12-01T00:00:00Z",
+            "end_date": "2026-01-01T00:00:00Z",
+            "rewards": {
+                "coins": 3000,
+                "diamonds": 100,
+                "xp": 4000,
+                "badge": "winter_brain",
+                "title": "Frostmind Champion"
+            },
+            "ui": {
+                "icon": "ac_unit",
+                "color": "#74B9FF",
+                "background": "winter_sparkle",
+                "sound_effect": "snow_ding.mp3"
             }
         }
-    ]
+    ],
+    "achievement_tiers": [
+        {
+            "tier": "bronze",
+            "min_points": 0,
+            "max_points": 999,
+            "reward_multiplier": 1.0
+        },
+        {
+            "tier": "silver",
+            "min_points": 1000,
+            "max_points": 4999,
+            "reward_multiplier": 1.2
+        },
+        {
+            "tier": "gold",
+            "min_points": 5000,
+            "max_points": 9999,
+            "reward_multiplier": 1.5
+        },
+        {
+            "tier": "platinum",
+            "min_points": 10000,
+            "max_points": 19999,
+            "reward_multiplier": 2.0
+        },
+        {
+            "tier": "diamond",
+            "min_points": 20000,
+            "max_points": 99999,
+            "reward_multiplier": 3.0
+        }
+    ],
+    "ui_settings": {
+        "progress_bar_style": "animated_gradient",
+        "completion_effect": "confetti_explosion",
+        "badge_animation": "shine_rotate",
+        "sound_theme": "achievement_unlock.mp3",
+        "leaderboard_refresh_interval": "daily"
+    }
 }
