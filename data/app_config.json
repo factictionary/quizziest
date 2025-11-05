@@ -1,0 +1,48 @@
+{
+    "version": "1.0.0",
+    "app_version": "2.0.0",
+    "min_supported_version": "1.5.0",
+    "force_update": false,
+    "maintenance_mode": false,
+    "features": {
+        "daily_bonus": true,
+        "achievements": true,
+        "leaderboards": true,
+        "social_sharing": true,
+        "offline_mode": true,
+        "ads": {
+            "enabled": true,
+            "frequency": {
+                "interstitial_after_games": 3,
+                "banner_enabled": true,
+                "rewarded_available": true
+            }
+        }
+    },
+    "remote_config": {
+        "daily_bonus_multiplier": 1.0,
+        "coin_earn_rate": 1.0,
+        "xp_earn_rate": 1.0,
+        "premium_discount_percent": 0,
+        "show_special_offers": true
+    },
+    "social_links": {
+        "facebook": "https://facebook.com/brainblitz",
+        "twitter": "https://twitter.com/brainblitz",
+        "instagram": "https://instagram.com/brainblitz",
+        "support_email": "support@brainblitz.com",
+        "privacy_policy": "https://brainblitz.com/privacy",
+        "terms_of_service": "https://brainblitz.com/terms"
+    },
+    "notifications": {
+        "daily_reminder": {
+            "enabled": true,
+            "time": "18:00",
+            "message": "Time to train your brain! 🧠"
+        },
+        "streak_reminder": {
+            "enabled": true,
+            "message": "Don't break your streak! Come back today!"
+        }
+    }
+}

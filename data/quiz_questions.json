@@ -1,0 +1,187 @@
+{
+    "version": "2.1.0",
+    "last_updated": "2024-11-04T10:00:00Z",
+    "categories": [
+        {
+            "id": "general",
+            "name": "General Knowledge",
+            "icon": "public",
+            "color": "#FF6B6B",
+            "premium": false,
+            "questions": [
+                {
+                    "id": "q_gen_001",
+                    "question": "What is the capital of France?",
+                    "options": [
+                        "Paris",
+                        "London",
+                        "Berlin",
+                        "Madrid"
+                    ],
+                    "correct_index": 0,
+                    "difficulty": "easy",
+                    "points": 10,
+                    "explanation": "Paris has been the capital of France since the 12th century.",
+                    "tags": [
+                        "geography",
+                        "europe"
+                    ]
+                },
+                {
+                    "id": "q_gen_002",
+                    "question": "How many continents are there?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "correct_index": 2,
+                    "difficulty": "easy",
+                    "points": 10,
+                    "explanation": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+                    "tags": [
+                        "geography",
+                        "basic"
+                    ]
+                },
+                {
+                    "id": "q_gen_003",
+                    "question": "Which planet is known as the Red Planet?",
+                    "options": [
+                        "Venus",
+                        "Mars",
+                        "Jupiter",
+                        "Saturn"
+                    ],
+                    "correct_index": 1,
+                    "difficulty": "easy",
+                    "points": 10,
+                    "explanation": "Mars appears red due to iron oxide on its surface.",
+                    "tags": [
+                        "astronomy",
+                        "science"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "science",
+            "name": "Science & Nature",
+            "icon": "science",
+            "color": "#4ECDC4",
+            "premium": false,
+            "questions": [
+                {
+                    "id": "q_sci_001",
+                    "question": "What is the chemical symbol for water?",
+                    "options": [
+                        "H2O",
+                        "O2",
+                        "CO2",
+                        "H2"
+                    ],
+                    "correct_index": 0,
+                    "difficulty": "easy",
+                    "points": 10,
+                    "explanation": "Water is made of 2 hydrogen atoms and 1 oxygen atom.",
+                    "tags": [
+                        "chemistry",
+                        "basic"
+                    ]
+                },
+                {
+                    "id": "q_sci_002",
+                    "question": "How many bones are in the adult human body?",
+                    "options": [
+                        "186",
+                        "206",
+                        "226",
+                        "246"
+                    ],
+                    "correct_index": 1,
+                    "difficulty": "medium",
+                    "points": 20,
+                    "explanation": "An adult human skeleton has 206 bones.",
+                    "tags": [
+                        "biology",
+                        "anatomy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "history",
+            "name": "History",
+            "icon": "history_edu",
+            "color": "#95E1D3",
+            "premium": false,
+            "questions": [
+                {
+                    "id": "q_his_001",
+                    "question": "In which year did World War II end?",
+                    "options": [
+                        "1943",
+                        "1944",
+                        "1945",
+                        "1946"
+                    ],
+                    "correct_index": 2,
+                    "difficulty": "medium",
+                    "points": 20,
+                    "explanation": "World War II ended in 1945 with Japan's surrender.",
+                    "tags": [
+                        "war",
+                        "20th-century"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "premium_advanced",
+            "name": "Advanced Knowledge",
+            "icon": "star",
+            "color": "#FFD93D",
+            "premium": true,
+            "questions": [
+                {
+                    "id": "q_adv_001",
+                    "question": "What is the Heisenberg Uncertainty Principle?",
+                    "options": [
+                        "Cannot measure position and momentum simultaneously with perfect accuracy",
+                        "Energy cannot be created or destroyed",
+                        "Every action has an equal opposite reaction",
+                        "Objects in motion stay in motion"
+                    ],
+                    "correct_index": 0,
+                    "difficulty": "hard",
+                    "points": 50,
+                    "explanation": "This quantum mechanics principle states fundamental limits to measurement precision.",
+                    "tags": [
+                        "physics",
+                        "quantum",
+                        "advanced"
+                    ]
+                },
+                {
+                    "id": "q_adv_002",
+                    "question": "What is the time complexity of quicksort in the average case?",
+                    "options": [
+                        "O(n)",
+                        "O(n log n)",
+                        "O(n²)",
+                        "O(log n)"
+                    ],
+                    "correct_index": 1,
+                    "difficulty": "hard",
+                    "points": 50,
+                    "explanation": "Quicksort has O(n log n) average time complexity.",
+                    "tags": [
+                        "computer-science",
+                        "algorithms"
+                    ]
+                }
+            ]
+        }
+    ]
+}

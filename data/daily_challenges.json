@@ -1,0 +1,103 @@
+{
+    "version": "1.0.0",
+    "challenges": [
+        {
+            "id": "daily_monday",
+            "weekday": 1,
+            "title": "Monday Math Marathon",
+            "description": "Complete 50 math problems correctly",
+            "type": "math",
+            "target": 50,
+            "difficulty": "medium",
+            "rewards": {
+                "coins": 200,
+                "diamonds": 10,
+                "xp": 500
+            }
+        },
+        {
+            "id": "daily_tuesday",
+            "weekday": 2,
+            "title": "Trivia Tuesday",
+            "description": "Score 500+ points in quiz mode",
+            "type": "quiz",
+            "target": 500,
+            "difficulty": "medium",
+            "rewards": {
+                "coins": 150,
+                "diamonds": 8,
+                "xp": 400
+            }
+        },
+        {
+            "id": "daily_wednesday",
+            "weekday": 3,
+            "title": "Memory Midweek",
+            "description": "Complete 3 memory games with 100% accuracy",
+            "type": "memory",
+            "target": 3,
+            "difficulty": "hard",
+            "rewards": {
+                "coins": 250,
+                "diamonds": 12,
+                "xp": 600
+            }
+        },
+        {
+            "id": "daily_thursday",
+            "weekday": 4,
+            "title": "Pattern Thursday",
+            "description": "Reach level 15 in Pattern Master",
+            "type": "pattern",
+            "target": 15,
+            "difficulty": "hard",
+            "rewards": {
+                "coins": 300,
+                "diamonds": 15,
+                "xp": 700
+            }
+        },
+        {
+            "id": "daily_friday",
+            "weekday": 5,
+            "title": "Friday Frenzy",
+            "description": "Play all 4 game types",
+            "type": "mixed",
+            "target": 4,
+            "difficulty": "easy",
+            "rewards": {
+                "coins": 400,
+                "diamonds": 20,
+                "xp": 1000
+            }
+        },
+        {
+            "id": "daily_saturday",
+            "weekday": 6,
+            "title": "Weekend Warrior",
+            "description": "Score 1000+ total points across all games",
+            "type": "score",
+            "target": 1000,
+            "difficulty": "hard",
+            "rewards": {
+                "coins": 500,
+                "diamonds": 25,
+                "xp": 1200
+            }
+        },
+        {
+            "id": "daily_sunday",
+            "weekday": 0,
+            "title": "Sunday Streak",
+            "description": "Maintain your login streak",
+            "type": "streak",
+            "target": 1,
+            "difficulty": "easy",
+            "rewards": {
+                "coins": 100,
+                "diamonds": 5,
+                "xp": 300
+            }
+        }
+    ]
+}

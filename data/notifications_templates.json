@@ -1,0 +1,60 @@
+{
+    "version": "1.0.0",
+    "templates": [
+        {
+            "id": "daily_reminder",
+            "title": "BrainBlitz Daily Challenge",
+            "body": "Your daily challenge is waiting! Train your brain now 🧠",
+            "icon": "ic_notification",
+            "trigger": "daily_at_time",
+            "time": "18:00"
+        },
+        {
+            "id": "streak_warning",
+            "title": "Don't Lose Your Streak! 🔥",
+            "body": "You have a {streak_days} day streak. Don't break it!",
+            "trigger": "streak_risk",
+            "hours_before_reset": 3
+        },
+        {
+            "id": "challenge_expiring",
+            "title": "Challenge Ending Soon!",
+            "body": "Only {hours_left} hours left to complete today's challenge",
+            "trigger": "challenge_expiring",
+            "hours_before_expiry": 2
+        },
+        {
+            "id": "reward_available",
+            "title": "Rewards Waiting! 🎁",
+            "body": "You have unclaimed rewards worth {coins} coins and {diamonds} diamonds",
+            "trigger": "unclaimed_rewards"
+        },
+        {
+            "id": "level_up",
+            "title": "Level Up! 🎉",
+            "body": "Congratulations! You've reached Level {level}",
+            "trigger": "level_up",
+            "immediate": true
+        },
+        {
+            "id": "achievement_unlocked",
+            "title": "Achievement Unlocked! 🏆",
+            "body": "{achievement_name} - {achievement_description}",
+            "trigger": "achievement",
+            "immediate": true
+        },
+        {
+            "id": "special_offer",
+            "title": "Limited Time Offer! ⚡",
+            "body": "{offer_description} - Only {time_left} left!",
+            "trigger": "special_offer"
+        },
+        {
+            "id": "friend_challenge",
+            "title": "Friend Challenge!",
+            "body": "{friend_name} challenged you to beat their score of {score}!",
+            "trigger": "friend_challenge",
+            "immediate": true
+        }
+    ]
+}

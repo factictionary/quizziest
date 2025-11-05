@@ -1,0 +1,261 @@
+{
+    "version": "1.0.0",
+    "currency_packs": {
+        "coins": [
+            {
+                "id": "coins_100",
+                "amount": 100,
+                "price_diamonds": 1,
+                "bonus": 0,
+                "popular": false
+            },
+            {
+                "id": "coins_500",
+                "amount": 500,
+                "price_diamonds": 4,
+                "bonus": 50,
+                "popular": true,
+                "discount_percent": 10,
+                "label": "BEST VALUE"
+            },
+            {
+                "id": "coins_1000",
+                "amount": 1000,
+                "price_diamonds": 7,
+                "bonus": 200,
+                "popular": false,
+                "discount_percent": 15
+            },
+            {
+                "id": "coins_5000",
+                "amount": 5000,
+                "price_diamonds": 30,
+                "bonus": 1500,
+                "popular": false,
+                "discount_percent": 25,
+                "label": "MEGA PACK"
+            }
+        ],
+        "diamonds": [
+            {
+                "id": "diamonds_10",
+                "sku": "com.brainblitz.diamonds.small",
+                "amount": 10,
+                "price_usd": 0.99,
+                "price_inr": 79,
+                "price_eur": 0.89,
+                "price_gbp": 0.79,
+                "bonus": 0,
+                "popular": false
+            },
+            {
+                "id": "diamonds_50",
+                "sku": "com.brainblitz.diamonds.medium",
+                "amount": 50,
+                "price_usd": 3.99,
+                "price_inr": 299,
+                "price_eur": 3.49,
+                "price_gbp": 2.99,
+                "bonus": 10,
+                "popular": true,
+                "discount_percent": 20,
+                "label": "POPULAR"
+            },
+            {
+                "id": "diamonds_150",
+                "sku": "com.brainblitz.diamonds.large",
+                "amount": 150,
+                "price_usd": 9.99,
+                "price_inr": 749,
+                "price_eur": 8.99,
+                "price_gbp": 7.99,
+                "bonus": 50,
+                "popular": false,
+                "discount_percent": 30
+            },
+            {
+                "id": "diamonds_500",
+                "sku": "com.brainblitz.diamonds.mega",
+                "amount": 500,
+                "price_usd": 29.99,
+                "price_inr": 2199,
+                "price_eur": 26.99,
+                "price_gbp": 23.99,
+                "bonus": 200,
+                "popular": false,
+                "discount_percent": 40,
+                "label": "BEST VALUE"
+            }
+        ]
+    },
+    "premium_subscriptions": [
+        {
+            "id": "premium_monthly",
+            "sku": "com.brainblitz.premium.monthly",
+            "type": "subscription",
+            "title": "Premium Monthly",
+            "description": "Unlock all games, remove ads, 2x coins, exclusive content",
+            "price_usd": 4.99,
+            "price_inr": 399,
+            "price_eur": 4.49,
+            "price_gbp": 3.99,
+            "duration_days": 30,
+            "trial_days": 7,
+            "benefits": [
+                "All premium games unlocked",
+                "No advertisements",
+                "2x coin earnings",
+                "Exclusive daily challenges",
+                "Priority support",
+                "7-day free trial"
+            ]
+        },
+        {
+            "id": "premium_yearly",
+            "sku": "com.brainblitz.premium.yearly",
+            "type": "subscription",
+            "title": "Premium Yearly",
+            "description": "Best value! All premium features for a full year",
+            "price_usd": 39.99,
+            "price_inr": 2999,
+            "price_eur": 35.99,
+            "price_gbp": 31.99,
+            "duration_days": 365,
+            "discount_percent": 33,
+            "popular": true,
+            "label": "SAVE 33%",
+            "benefits": [
+                "All monthly benefits",
+                "Save 33% vs monthly",
+                "Exclusive yearly badge",
+                "Bonus 1000 coins",
+                "Bonus 100 diamonds"
+            ]
+        },
+        {
+            "id": "lifetime_premium",
+            "sku": "com.brainblitz.premium.lifetime",
+            "type": "one_time",
+            "title": "Lifetime Premium",
+            "description": "Pay once, enjoy forever!",
+            "price_usd": 99.99,
+            "price_inr": 7499,
+            "price_eur": 89.99,
+            "price_gbp": 79.99,
+            "label": "ONE-TIME PAYMENT",
+            "benefits": [
+                "All premium features forever",
+                "Future updates included",
+                "Exclusive lifetime badge",
+                "5000 bonus coins",
+                "500 bonus diamonds",
+                "VIP customer support"
+            ]
+        }
+    ],
+    "power_ups": [
+        {
+            "id": "hint_pack_5",
+            "title": "5 Hints",
+            "icon": "lightbulb",
+            "price_coins": 100,
+            "amount": 5
+        },
+        {
+            "id": "hint_pack_20",
+            "title": "20 Hints",
+            "icon": "lightbulb",
+            "price_coins": 350,
+            "amount": 20,
+            "discount_percent": 12,
+            "label": "BEST VALUE"
+        },
+        {
+            "id": "time_freeze",
+            "title": "Time Freeze",
+            "description": "Pause timer for 10 seconds",
+            "icon": "pause",
+            "price_coins": 50,
+            "duration_seconds": 10
+        },
+        {
+            "id": "skip_question",
+            "title": "Skip Question",
+            "description": "Skip to next question",
+            "icon": "skip_next",
+            "price_coins": 30
+        },
+        {
+            "id": "double_xp_1h",
+            "title": "Double XP (1 Hour)",
+            "icon": "star",
+            "price_diamonds": 5,
+            "duration_minutes": 60
+        },
+        {
+            "id": "double_xp_24h",
+            "title": "Double XP (24 Hours)",
+            "icon": "star",
+            "price_diamonds": 20,
+            "duration_minutes": 1440,
+            "discount_percent": 17
+        }
+    ],
+    "special_offers": [
+        {
+            "id": "welcome_bundle",
+            "title": "Welcome Bundle",
+            "description": "Special offer for new players!",
+            "price_usd": 1.99,
+            "price_inr": 149,
+            "price_eur": 1.79,
+            "price_gbp": 1.49,
+            "original_price_usd": 9.99,
+            "discount_percent": 80,
+            "available_until": "first_purchase",
+            "label": "80% OFF",
+            "items": {
+                "coins": 1000,
+                "diamonds": 50,
+                "hints": 10,
+                "power_ups": [
+                    "time_freeze",
+                    "double_xp_1h"
+                ]
+            }
+        },
+        {
+            "id": "flash_sale",
+            "title": "Flash Sale - 50% OFF",
+            "description": "Limited time offer!",
+            "price_diamonds": 25,
+            "original_price_diamonds": 50,
+            "discount_percent": 50,
+            "expires_at": "2024-12-31T23:59:59Z",
+            "label": "LIMITED TIME",
+            "items": {
+                "coins": 2000,
+                "hints": 20
+            }
+        },
+        {
+            "id": "weekend_special",
+            "title": "Weekend Bonanza",
+            "description": "Available only on weekends!",
+            "price_usd": 4.99,
+            "price_inr": 399,
+            "discount_percent": 50,
+            "available_days": [
+                5,
+                6,
+                0
+            ],
+            "label": "WEEKEND ONLY",
+            "items": {
+                "coins": 2500,
+                "diamonds": 100,
+                "hints": 30
+            }
+        }
+    ]
+}

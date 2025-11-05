@@ -1,0 +1,58 @@
+{
+    "version": "1.0.0",
+    "difficulty_levels": {
+        "easy": {
+            "range": [
+                1,
+                20
+            ],
+            "operations": [
+                "+",
+                "-"
+            ],
+            "time_limit": 30,
+            "questions_count": 20
+        },
+        "medium": {
+            "range": [
+                1,
+                50
+            ],
+            "operations": [
+                "+",
+                "-",
+                "×"
+            ],
+            "time_limit": 45,
+            "questions_count": 30
+        },
+        "hard": {
+            "range": [
+                1,
+                100
+            ],
+            "operations": [
+                "+",
+                "-",
+                "×",
+                "÷"
+            ],
+            "time_limit": 60,
+            "questions_count": 50
+        }
+    },
+    "templates": [
+        "What is {num1} {op} {num2}?",
+        "Calculate: {num1} {op} {num2}",
+        "Solve: {num1} {op} {num2} = ?",
+        "{num1} {op} {num2} equals?"
+    ],
+    "bonus_rounds": [
+        {
+            "type": "speed_round",
+            "duration_seconds": 60,
+            "multiplier": 2.0,
+            "title": "Speed Math Bonus!"
+        }
+    ]
+}

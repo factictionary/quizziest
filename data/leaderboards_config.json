@@ -1,0 +1,93 @@
+{
+    "version": "1.0.0",
+    "leaderboards": [
+        {
+            "id": "global_weekly",
+            "name": "Global Weekly",
+            "type": "total_score",
+            "reset_period": "weekly",
+            "max_entries": 100,
+            "rewards": {
+                "rank_1": {
+                    "coins": 5000,
+                    "diamonds": 200,
+                    "badge": "weekly_champion"
+                },
+                "rank_2": {
+                    "coins": 3000,
+                    "diamonds": 100,
+                    "badge": "weekly_second"
+                },
+                "rank_3": {
+                    "coins": 2000,
+                    "diamonds": 75,
+                    "badge": "weekly_third"
+                },
+                "top_10": {
+                    "coins": 1000,
+                    "diamonds": 50
+                },
+                "top_50": {
+                    "coins": 500,
+                    "diamonds": 25
+                },
+                "top_100": {
+                    "coins": 200,
+                    "diamonds": 10
+                }
+            }
+        },
+        {
+            "id": "math_masters",
+            "name": "Math Masters",
+            "type": "math_score",
+            "reset_period": "monthly",
+            "max_entries": 100,
+            "rewards": {
+                "rank_1": {
+                    "coins": 10000,
+                    "diamonds": 500,
+                    "badge": "math_legend"
+                },
+                "top_10": {
+                    "coins": 2000,
+                    "diamonds": 100
+                },
+                "top_50": {
+                    "coins": 1000,
+                    "diamonds": 50
+                }
+            }
+        },
+        {
+            "id": "quiz_champions",
+            "name": "Quiz Champions",
+            "type": "quiz_score",
+            "reset_period": "monthly",
+            "max_entries": 100,
+            "rewards": {
+                "rank_1": {
+                    "coins": 10000,
+                    "diamonds": 500,
+                    "badge": "quiz_legend"
+                },
+                "top_10": {
+                    "coins": 2000,
+                    "diamonds": 100
+                },
+                "top_50": {
+                    "coins": 1000,
+                    "diamonds": 50
+                }
+            }
+        },
+        {
+            "id": "friends",
+            "name": "Friends",
+            "type": "social",
+            "reset_period": "weekly",
+            "description": "Compete with your friends!",
+            "private": true
+        }
+    ]
+}

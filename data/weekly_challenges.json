@@ -1,0 +1,41 @@
+{
+    "version": "1.0.0",
+    "challenges": [
+        {
+            "id": "weekly_champion",
+            "title": "Weekly Champion",
+            "description": "Complete all 7 daily challenges this week",
+            "target": 7,
+            "rewards": {
+                "coins": 1000,
+                "diamonds": 50,
+                "xp": 2000,
+                "badge": "weekly_champion"
+            }
+        },
+        {
+            "id": "math_master",
+            "title": "Math Master",
+            "description": "Solve 500 math problems correctly this week",
+            "target": 500,
+            "rewards": {
+                "coins": 800,
+                "diamonds": 40,
+                "xp": 1500,
+                "badge": "math_master"
+            }
+        },
+        {
+            "id": "quiz_genius",
+            "title": "Quiz Genius",
+            "description": "Answer 200 quiz questions correctly",
+            "target": 200,
+            "rewards": {
+                "coins": 700,
+                "diamonds": 35,
+                "xp": 1300,
+                "badge": "quiz_genius"
+            }
+        }
+    ]
+}

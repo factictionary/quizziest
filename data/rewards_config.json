@@ -1,0 +1,99 @@
+{
+    "version": "1.0.0",
+    "daily_bonus": {
+        "enabled": true,
+        "streak_multiplier": 1.2,
+        "max_streak_bonus": 7,
+        "rewards": [
+            {
+                "day": 1,
+                "coins": 50,
+                "diamonds": 0,
+                "xp": 100
+            },
+            {
+                "day": 2,
+                "coins": 75,
+                "diamonds": 0,
+                "xp": 150
+            },
+            {
+                "day": 3,
+                "coins": 100,
+                "diamonds": 2,
+                "xp": 200
+            },
+            {
+                "day": 4,
+                "coins": 150,
+                "diamonds": 3,
+                "xp": 300
+            },
+            {
+                "day": 5,
+                "coins": 200,
+                "diamonds": 5,
+                "xp": 400
+            },
+            {
+                "day": 6,
+                "coins": 300,
+                "diamonds": 8,
+                "xp": 600
+            },
+            {
+                "day": 7,
+                "coins": 500,
+                "diamonds": 15,
+                "xp": 1000
+            }
+        ]
+    },
+    "level_up_rewards": {
+        "base_coins": 100,
+        "base_diamonds": 5,
+        "base_xp": 1000,
+        "multiplier_per_level": 1.1
+    },
+    "referral_rewards": {
+        "referrer": {
+            "coins": 500,
+            "diamonds": 25
+        },
+        "referee": {
+            "coins": 200,
+            "diamonds": 10
+        }
+    },
+    "achievement_rewards": {
+        "first_game": {
+            "coins": 50,
+            "xp": 100
+        },
+        "perfect_score": {
+            "coins": 200,
+            "diamonds": 5,
+            "xp": 500
+        },
+        "speed_demon": {
+            "coins": 150,
+            "diamonds": 3,
+            "xp": 300
+        },
+        "streak_7": {
+            "coins": 300,
+            "diamonds": 10,
+            "xp": 1000
+        },
+        "streak_30": {
+            "coins": 1000,
+            "diamonds": 50,
+            "xp": 5000
+        },
+        "streak_100": {
+            "coins": 5000,
+            "diamonds": 200,
+            "xp": 20000
+        }
+    }
+}
