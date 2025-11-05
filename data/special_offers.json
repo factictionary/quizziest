@@ -1,0 +1,128 @@
+{
+    "version": "1.0.0",
+    "seasonal_offers": [
+        {
+            "id": "black_friday_2024",
+            "title": "Black Friday Mega Sale",
+            "description": "Biggest sale of the year! 75% OFF everything",
+            "discount_percent": 75,
+            "start_date": "2024-11-29T00:00:00Z",
+            "end_date": "2024-12-02T23:59:59Z",
+            "banner_image": "https://your-cdn.com/black_friday.png",
+            "applies_to": [
+                "premium_monthly",
+                "premium_yearly",
+                "all_diamonds"
+            ]
+        },
+        {
+            "id": "new_year_2025",
+            "title": "New Year, New Brain!",
+            "description": "Start 2025 smart with 50% off Premium",
+            "discount_percent": 50,
+            "start_date": "2024-12-31T00:00:00Z",
+            "end_date": "2025-01-07T23:59:59Z",
+            "banner_image": "https://your-cdn.com/new_year.png",
+            "applies_to": [
+                "premium_monthly",
+                "premium_yearly"
+            ],
+            "bonus_items": {
+                "coins": 500,
+                "diamonds": 25
+            }
+        },
+        {
+            "id": "summer_blast_2024",
+            "title": "Summer Brain Blast",
+            "description": "Beat the heat with cool deals!",
+            "discount_percent": 40,
+            "start_date": "2024-06-01T00:00:00Z",
+            "end_date": "2024-08-31T23:59:59Z",
+            "banner_image": "https://your-cdn.com/summer.png",
+            "applies_to": [
+                "all_items"
+            ]
+        }
+    ],
+    "popup_offers": [
+        {
+            "id": "comeback_offer",
+            "title": "We Missed You!",
+            "description": "Come back and get 50% bonus coins",
+            "trigger": "inactive_7_days",
+            "discount_percent": 50,
+            "one_time": true,
+            "items": {
+                "coins": 1000,
+                "diamonds": 20
+            }
+        },
+        {
+            "id": "level_milestone",
+            "title": "Level Up Celebration!",
+            "description": "Congratulations on reaching level {level}!",
+            "trigger": "level_milestone",
+            "trigger_levels": [
+                10,
+                25,
+                50,
+                75,
+                100
+            ],
+            "discount_percent": 30,
+            "items": {
+                "coins": 500,
+                "diamonds": 15
+            }
+        },
+        {
+            "id": "first_loss",
+            "title": "Don't Give Up!",
+            "description": "Here's a boost to help you improve",
+            "trigger": "first_game_loss",
+            "one_time": true,
+            "free_items": {
+                "hints": 5,
+                "time_freeze": 1
+            }
+        }
+    ],
+    "time_limited_bundles": [
+        {
+            "id": "daily_deal",
+            "title": "Daily Deal",
+            "description": "Fresh deal every day!",
+            "rotation": "daily",
+            "items": [
+                {
+                    "day": 1,
+                    "coins": 500,
+                    "price_diamonds": 5,
+                    "discount_percent": 50
+                },
+                {
+                    "day": 2,
+                    "hints": 20,
+                    "price_coins": 150,
+                    "discount_percent": 40
+                },
+                {
+                    "day": 3,
+                    "double_xp_24h": 1,
+                    "price_diamonds": 15,
+                    "discount_percent": 25
+                }
+            ]
+        },
+        {
+            "id": "hourly_flash",
+            "title": "Flash Deal",
+            "description": "Changes every hour!",
+            "rotation": "hourly",
+            "duration_hours": 1,
+            "discount_percent": 60,
+            "random_items": true
+        }
+    ]
+}

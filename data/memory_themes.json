@@ -1,0 +1,115 @@
+{
+    "version": "1.0.0",
+    "themes": [
+        {
+            "id": "emojis",
+            "name": "Emoji Fun",
+            "premium": false,
+            "difficulty": "easy",
+            "grid_size": "4x4",
+            "items": [
+                "🎮",
+                "🎨",
+                "🎭",
+                "🎪",
+                "🎯",
+                "🎲",
+                "🎸",
+                "🎺",
+                "⚽",
+                "🏀",
+                "🎾",
+                "🏈"
+            ]
+        },
+        {
+            "id": "animals",
+            "name": "Animal Kingdom",
+            "premium": false,
+            "difficulty": "easy",
+            "grid_size": "4x4",
+            "items": [
+                "🐶",
+                "🐱",
+                "🐭",
+                "🐹",
+                "🐰",
+                "🦊",
+                "🐻",
+                "🐼",
+                "🐨",
+                "🐯",
+                "🦁",
+                "🐮"
+            ]
+        },
+        {
+            "id": "food",
+            "name": "Delicious Food",
+            "premium": false,
+            "difficulty": "medium",
+            "grid_size": "4x4",
+            "items": [
+                "🍕",
+                "🍔",
+                "🍟",
+                "🌭",
+                "🍿",
+                "🧂",
+                "🥓",
+                "🥚",
+                "🧇",
+                "🥞",
+                "🧈",
+                "🍞"
+            ]
+        },
+        {
+            "id": "countries",
+            "name": "World Flags",
+            "premium": true,
+            "difficulty": "hard",
+            "grid_size": "6x6",
+            "items": [
+                "🇺🇸",
+                "🇬🇧",
+                "🇫🇷",
+                "🇩🇪",
+                "🇮🇹",
+                "🇪🇸",
+                "🇯🇵",
+                "🇨🇳",
+                "🇮🇳",
+                "🇧🇷",
+                "🇨🇦",
+                "🇦🇺",
+                "🇰🇷",
+                "🇲🇽",
+                "🇷🇺",
+                "🇿🇦",
+                "🇸🇬",
+                "🇳🇱"
+            ]
+        }
+    ],
+    "difficulty_settings": {
+        "easy": {
+            "grid_size": "4x4",
+            "pairs": 8,
+            "time_limit": 120,
+            "max_moves": null
+        },
+        "medium": {
+            "grid_size": "4x4",
+            "pairs": 8,
+            "time_limit": 90,
+            "max_moves": 25
+        },
+        "hard": {
+            "grid_size": "6x6",
+            "pairs": 18,
+            "time_limit": 180,
+            "max_moves": 40
+        }
+    }
+}
