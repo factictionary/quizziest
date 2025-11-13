@@ -1,0 +1,402 @@
+{
+    "game_config": {
+        "questions_per_game": {
+            "easy": 5,
+            "medium": 8,
+            "hard": 10
+        },
+        "time_limits": {
+            "easy": 60,
+            "medium": 45,
+            "hard": 30
+        },
+        "points_per_correct": {
+            "easy": 10,
+            "medium": 15,
+            "hard": 20
+        },
+        "streak_bonus": {
+            "3_correct": 10,
+            "5_correct": 25,
+            "7_correct": 50
+        }
+    },
+    "categories": [
+        {
+            "id": "science",
+            "name": "Science & Nature",
+            "icon": "science",
+            "color": "blue"
+        },
+        {
+            "id": "history",
+            "name": "History",
+            "icon": "history_edu",
+            "color": "brown"
+        },
+        {
+            "id": "geography",
+            "name": "Geography",
+            "icon": "public",
+            "color": "green"
+        },
+        {
+            "id": "general",
+            "name": "General Knowledge",
+            "icon": "lightbulb",
+            "color": "orange"
+        },
+        {
+            "id": "technology",
+            "name": "Technology",
+            "icon": "computer",
+            "color": "purple"
+        }
+    ],
+    "statements": {
+        "easy": [
+            {
+                "id": "e001",
+                "text": "Water boils at 100°C at sea level",
+                "answer": true,
+                "category": "science",
+                "explanation": "Water boils at 100°C (212°F) at sea level atmospheric pressure.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e002",
+                "text": "The Earth is flat",
+                "answer": false,
+                "category": "science",
+                "explanation": "The Earth is spherical (oblate spheroid), not flat. This has been proven by centuries of scientific observation.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e003",
+                "text": "There are 8 planets in our solar system",
+                "answer": true,
+                "category": "science",
+                "explanation": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e004",
+                "text": "The sun rises in the west",
+                "answer": false,
+                "category": "science",
+                "explanation": "The sun rises in the east and sets in the west due to Earth's rotation.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e005",
+                "text": "Ice is frozen water",
+                "answer": true,
+                "category": "science",
+                "explanation": "Ice is the solid state of water, formed when water freezes at 0°C (32°F).",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e006",
+                "text": "The moon orbits Earth",
+                "answer": true,
+                "category": "science",
+                "explanation": "The Moon is Earth's only natural satellite and orbits our planet approximately once every 27.3 days.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e007",
+                "text": "Spiders have 6 legs",
+                "answer": false,
+                "category": "science",
+                "explanation": "Spiders have 8 legs. Insects have 6 legs.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e008",
+                "text": "Humans can breathe underwater without equipment",
+                "answer": false,
+                "category": "science",
+                "explanation": "Humans need oxygen from air to breathe. We cannot extract oxygen from water like fish.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e009",
+                "text": "A week has 7 days",
+                "answer": true,
+                "category": "general",
+                "explanation": "A week consists of 7 days: Monday through Sunday.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e010",
+                "text": "The Great Wall of China is visible from space",
+                "answer": false,
+                "category": "general",
+                "explanation": "This is a common myth. The Great Wall is not visible from space with the naked eye.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e011",
+                "text": "Lightning is hotter than the sun's surface",
+                "answer": true,
+                "category": "science",
+                "explanation": "Lightning can reach temperatures of about 30,000°C, while the sun's surface is about 5,500°C.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e012",
+                "text": "Gold is heavier than iron",
+                "answer": true,
+                "category": "science",
+                "explanation": "Gold has a higher density (19.3 g/cm³) than iron (7.87 g/cm³).",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e013",
+                "text": "Bats are blind",
+                "answer": false,
+                "category": "science",
+                "explanation": "Bats can see, though many species use echolocation as their primary sense.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e014",
+                "text": "Mount Everest is the tallest mountain on Earth",
+                "answer": true,
+                "category": "geography",
+                "explanation": "Mount Everest is 8,849 meters (29,032 feet) above sea level, making it the tallest mountain.",
+                "difficulty": "easy"
+            },
+            {
+                "id": "e015",
+                "text": "Penguins live at the North Pole",
+                "answer": false,
+                "category": "science",
+                "explanation": "Penguins live in the Southern Hemisphere, primarily Antarctica. Polar bears live at the North Pole.",
+                "difficulty": "easy"
+            }
+        ],
+        "medium": [
+            {
+                "id": "m001",
+                "text": "The human body has more than 200 bones at birth",
+                "answer": true,
+                "category": "science",
+                "explanation": "Babies are born with about 270 bones, which fuse together to form 206 bones in adults.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m002",
+                "text": "The Amazon River is longer than the Nile River",
+                "answer": false,
+                "category": "geography",
+                "explanation": "The Nile River (6,650 km) is slightly longer than the Amazon (6,400 km), though the Amazon carries more water.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m003",
+                "text": "Sharks are mammals",
+                "answer": false,
+                "category": "science",
+                "explanation": "Sharks are fish, not mammals. They have gills and are cold-blooded.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m004",
+                "text": "The speed of light is faster than the speed of sound",
+                "answer": true,
+                "category": "science",
+                "explanation": "Light travels at 299,792,458 m/s while sound travels at about 343 m/s in air.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m005",
+                "text": "The Dead Sea is actually a lake",
+                "answer": true,
+                "category": "geography",
+                "explanation": "Despite its name, the Dead Sea is a salt lake bordered by Jordan and Israel.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m006",
+                "text": "Antarctica is owned by multiple countries",
+                "answer": false,
+                "category": "geography",
+                "explanation": "Antarctica is governed by the Antarctic Treaty System and is not owned by any single nation.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m007",
+                "text": "Octopuses have three hearts",
+                "answer": true,
+                "category": "science",
+                "explanation": "Octopuses have three hearts: two pump blood to the gills, one pumps blood to the body.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m008",
+                "text": "The Internet and World Wide Web are the same thing",
+                "answer": false,
+                "category": "technology",
+                "explanation": "The Internet is the infrastructure; the World Wide Web is a service that runs on the Internet.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m009",
+                "text": "Tomatoes are technically fruits, not vegetables",
+                "answer": true,
+                "category": "science",
+                "explanation": "Botanically, tomatoes are fruits because they develop from flowers and contain seeds.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m010",
+                "text": "The first computer programmer was a woman",
+                "answer": true,
+                "category": "technology",
+                "explanation": "Ada Lovelace is considered the first computer programmer for her work in the 1840s.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m011",
+                "text": "Humans only use 10% of their brain",
+                "answer": false,
+                "category": "science",
+                "explanation": "This is a myth. Humans use virtually all parts of the brain, and most of it is active most of the time.",
+                "difficulty": "medium"
+            },
+            {
+                "id": "m012",
+                "text": "The Statue of Liberty was a gift from France",
+                "answer": true,
+                "category": "history",
+                "explanation": "France gave the Statue of Liberty to the United States in 1886 as a gift of friendship.",
+                "difficulty": "medium"
+            }
+        ],
+        "hard": [
+            {
+                "id": "h001",
+                "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid",
+                "answer": true,
+                "category": "history",
+                "explanation": "The Great Pyramid was built around 2560 BC, Cleopatra lived around 30 BC, and the Moon landing was in 1969 AD.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h002",
+                "text": "Bananas are berries, but strawberries are not",
+                "answer": true,
+                "category": "science",
+                "explanation": "Botanically, berries are fruits from a single flower with one ovary. Bananas qualify, strawberries don't.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h003",
+                "text": "There are more possible iterations of a chess game than atoms in the observable universe",
+                "answer": true,
+                "category": "general",
+                "explanation": "The Shannon number estimates 10^120 possible chess games, while there are about 10^80 atoms in the universe.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h004",
+                "text": "Honey never spoils",
+                "answer": true,
+                "category": "science",
+                "explanation": "Due to its low moisture content and acidic pH, honey can last indefinitely. 3000-year-old honey has been found edible.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h005",
+                "text": "The human genome contains more genes than a grape",
+                "answer": false,
+                "category": "science",
+                "explanation": "Humans have about 20,000-25,000 genes, while grapes have about 30,000 genes.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h006",
+                "text": "Scotland's national animal is a unicorn",
+                "answer": true,
+                "category": "general",
+                "explanation": "The unicorn has been Scotland's national animal since the 12th century, symbolizing purity and strength.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h007",
+                "text": "A day on Venus is longer than a year on Venus",
+                "answer": true,
+                "category": "science",
+                "explanation": "Venus takes 243 Earth days to rotate once (a day) but only 225 Earth days to orbit the Sun (a year).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h008",
+                "text": "The fingerprints of koalas are virtually indistinguishable from human fingerprints",
+                "answer": true,
+                "category": "science",
+                "explanation": "Koala fingerprints are so similar to human ones that they could theoretically contaminate crime scenes.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h009",
+                "text": "The Eiffel Tower can be 15 cm taller during summer",
+                "answer": true,
+                "category": "science",
+                "explanation": "Due to thermal expansion, the iron structure expands in heat, making the tower slightly taller.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "h010",
+                "text": "Oxford University is older than the Aztec Empire",
+                "answer": true,
+                "category": "history",
+                "explanation": "Oxford University started teaching in 1096, while the Aztec Empire began in 1428.",
+                "difficulty": "hard"
+            }
+        ]
+    },
+    "daily_rotation": {
+        "enabled": true,
+        "refresh_hour": 0,
+        "timezone": "UTC"
+    },
+    "weekly_themes": [
+        {
+            "week": 1,
+            "theme": "Science Special",
+            "categories": [
+                "science"
+            ],
+            "bonus_multiplier": 1.5
+        },
+        {
+            "week": 2,
+            "theme": "History Week",
+            "categories": [
+                "history"
+            ],
+            "bonus_multiplier": 1.5
+        },
+        {
+            "week": 3,
+            "theme": "Geography Challenge",
+            "categories": [
+                "geography"
+            ],
+            "bonus_multiplier": 1.5
+        },
+        {
+            "week": 4,
+            "theme": "Mixed Knowledge",
+            "categories": [
+                "general",
+                "technology"
+            ],
+            "bonus_multiplier": 1.2
+        }
+    ],
+    "version": "1.0.0",
+    "last_updated": "2025-01-15"
+}
