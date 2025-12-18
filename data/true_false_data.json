@@ -1,402 +1,2506 @@
 {
-    "game_config": {
-        "questions_per_game": {
-            "easy": 5,
-            "medium": 8,
-            "hard": 10
-        },
-        "time_limits": {
-            "easy": 60,
-            "medium": 45,
-            "hard": 30
-        },
-        "points_per_correct": {
-            "easy": 10,
-            "medium": 15,
-            "hard": 20
-        },
-        "streak_bonus": {
-            "3_correct": 10,
-            "5_correct": 25,
-            "7_correct": 50
-        }
-    },
-    "categories": [
-        {
-            "id": "science",
-            "name": "Science & Nature",
-            "icon": "science",
-            "color": "blue"
-        },
-        {
-            "id": "history",
-            "name": "History",
-            "icon": "history_edu",
-            "color": "brown"
-        },
-        {
-            "id": "geography",
-            "name": "Geography",
-            "icon": "public",
-            "color": "green"
-        },
-        {
-            "id": "general",
-            "name": "General Knowledge",
-            "icon": "lightbulb",
-            "color": "orange"
-        },
-        {
-            "id": "technology",
-            "name": "Technology",
-            "icon": "computer",
-            "color": "purple"
-        }
-    ],
-    "statements": {
-        "easy": [
-            {
-                "id": "e001",
-                "text": "Water boils at 100°C at sea level",
-                "answer": true,
-                "category": "science",
-                "explanation": "Water boils at 100°C (212°F) at sea level atmospheric pressure.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e002",
-                "text": "The Earth is flat",
-                "answer": false,
-                "category": "science",
-                "explanation": "The Earth is spherical (oblate spheroid), not flat. This has been proven by centuries of scientific observation.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e003",
-                "text": "There are 8 planets in our solar system",
-                "answer": true,
-                "category": "science",
-                "explanation": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e004",
-                "text": "The sun rises in the west",
-                "answer": false,
-                "category": "science",
-                "explanation": "The sun rises in the east and sets in the west due to Earth's rotation.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e005",
-                "text": "Ice is frozen water",
-                "answer": true,
-                "category": "science",
-                "explanation": "Ice is the solid state of water, formed when water freezes at 0°C (32°F).",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e006",
-                "text": "The moon orbits Earth",
-                "answer": true,
-                "category": "science",
-                "explanation": "The Moon is Earth's only natural satellite and orbits our planet approximately once every 27.3 days.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e007",
-                "text": "Spiders have 6 legs",
-                "answer": false,
-                "category": "science",
-                "explanation": "Spiders have 8 legs. Insects have 6 legs.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e008",
-                "text": "Humans can breathe underwater without equipment",
-                "answer": false,
-                "category": "science",
-                "explanation": "Humans need oxygen from air to breathe. We cannot extract oxygen from water like fish.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e009",
-                "text": "A week has 7 days",
-                "answer": true,
-                "category": "general",
-                "explanation": "A week consists of 7 days: Monday through Sunday.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e010",
-                "text": "The Great Wall of China is visible from space",
-                "answer": false,
-                "category": "general",
-                "explanation": "This is a common myth. The Great Wall is not visible from space with the naked eye.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e011",
-                "text": "Lightning is hotter than the sun's surface",
-                "answer": true,
-                "category": "science",
-                "explanation": "Lightning can reach temperatures of about 30,000°C, while the sun's surface is about 5,500°C.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e012",
-                "text": "Gold is heavier than iron",
-                "answer": true,
-                "category": "science",
-                "explanation": "Gold has a higher density (19.3 g/cm³) than iron (7.87 g/cm³).",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e013",
-                "text": "Bats are blind",
-                "answer": false,
-                "category": "science",
-                "explanation": "Bats can see, though many species use echolocation as their primary sense.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e014",
-                "text": "Mount Everest is the tallest mountain on Earth",
-                "answer": true,
-                "category": "geography",
-                "explanation": "Mount Everest is 8,849 meters (29,032 feet) above sea level, making it the tallest mountain.",
-                "difficulty": "easy"
-            },
-            {
-                "id": "e015",
-                "text": "Penguins live at the North Pole",
-                "answer": false,
-                "category": "science",
-                "explanation": "Penguins live in the Southern Hemisphere, primarily Antarctica. Polar bears live at the North Pole.",
-                "difficulty": "easy"
-            }
-        ],
-        "medium": [
-            {
-                "id": "m001",
-                "text": "The human body has more than 200 bones at birth",
-                "answer": true,
-                "category": "science",
-                "explanation": "Babies are born with about 270 bones, which fuse together to form 206 bones in adults.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m002",
-                "text": "The Amazon River is longer than the Nile River",
-                "answer": false,
-                "category": "geography",
-                "explanation": "The Nile River (6,650 km) is slightly longer than the Amazon (6,400 km), though the Amazon carries more water.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m003",
-                "text": "Sharks are mammals",
-                "answer": false,
-                "category": "science",
-                "explanation": "Sharks are fish, not mammals. They have gills and are cold-blooded.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m004",
-                "text": "The speed of light is faster than the speed of sound",
-                "answer": true,
-                "category": "science",
-                "explanation": "Light travels at 299,792,458 m/s while sound travels at about 343 m/s in air.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m005",
-                "text": "The Dead Sea is actually a lake",
-                "answer": true,
-                "category": "geography",
-                "explanation": "Despite its name, the Dead Sea is a salt lake bordered by Jordan and Israel.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m006",
-                "text": "Antarctica is owned by multiple countries",
-                "answer": false,
-                "category": "geography",
-                "explanation": "Antarctica is governed by the Antarctic Treaty System and is not owned by any single nation.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m007",
-                "text": "Octopuses have three hearts",
-                "answer": true,
-                "category": "science",
-                "explanation": "Octopuses have three hearts: two pump blood to the gills, one pumps blood to the body.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m008",
-                "text": "The Internet and World Wide Web are the same thing",
-                "answer": false,
-                "category": "technology",
-                "explanation": "The Internet is the infrastructure; the World Wide Web is a service that runs on the Internet.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m009",
-                "text": "Tomatoes are technically fruits, not vegetables",
-                "answer": true,
-                "category": "science",
-                "explanation": "Botanically, tomatoes are fruits because they develop from flowers and contain seeds.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m010",
-                "text": "The first computer programmer was a woman",
-                "answer": true,
-                "category": "technology",
-                "explanation": "Ada Lovelace is considered the first computer programmer for her work in the 1840s.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m011",
-                "text": "Humans only use 10% of their brain",
-                "answer": false,
-                "category": "science",
-                "explanation": "This is a myth. Humans use virtually all parts of the brain, and most of it is active most of the time.",
-                "difficulty": "medium"
-            },
-            {
-                "id": "m012",
-                "text": "The Statue of Liberty was a gift from France",
-                "answer": true,
-                "category": "history",
-                "explanation": "France gave the Statue of Liberty to the United States in 1886 as a gift of friendship.",
-                "difficulty": "medium"
-            }
-        ],
-        "hard": [
-            {
-                "id": "h001",
-                "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid",
-                "answer": true,
-                "category": "history",
-                "explanation": "The Great Pyramid was built around 2560 BC, Cleopatra lived around 30 BC, and the Moon landing was in 1969 AD.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h002",
-                "text": "Bananas are berries, but strawberries are not",
-                "answer": true,
-                "category": "science",
-                "explanation": "Botanically, berries are fruits from a single flower with one ovary. Bananas qualify, strawberries don't.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h003",
-                "text": "There are more possible iterations of a chess game than atoms in the observable universe",
-                "answer": true,
-                "category": "general",
-                "explanation": "The Shannon number estimates 10^120 possible chess games, while there are about 10^80 atoms in the universe.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h004",
-                "text": "Honey never spoils",
-                "answer": true,
-                "category": "science",
-                "explanation": "Due to its low moisture content and acidic pH, honey can last indefinitely. 3000-year-old honey has been found edible.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h005",
-                "text": "The human genome contains more genes than a grape",
-                "answer": false,
-                "category": "science",
-                "explanation": "Humans have about 20,000-25,000 genes, while grapes have about 30,000 genes.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h006",
-                "text": "Scotland's national animal is a unicorn",
-                "answer": true,
-                "category": "general",
-                "explanation": "The unicorn has been Scotland's national animal since the 12th century, symbolizing purity and strength.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h007",
-                "text": "A day on Venus is longer than a year on Venus",
-                "answer": true,
-                "category": "science",
-                "explanation": "Venus takes 243 Earth days to rotate once (a day) but only 225 Earth days to orbit the Sun (a year).",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h008",
-                "text": "The fingerprints of koalas are virtually indistinguishable from human fingerprints",
-                "answer": true,
-                "category": "science",
-                "explanation": "Koala fingerprints are so similar to human ones that they could theoretically contaminate crime scenes.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h009",
-                "text": "The Eiffel Tower can be 15 cm taller during summer",
-                "answer": true,
-                "category": "science",
-                "explanation": "Due to thermal expansion, the iron structure expands in heat, making the tower slightly taller.",
-                "difficulty": "hard"
-            },
-            {
-                "id": "h010",
-                "text": "Oxford University is older than the Aztec Empire",
-                "answer": true,
-                "category": "history",
-                "explanation": "Oxford University started teaching in 1096, while the Aztec Empire began in 1428.",
-                "difficulty": "hard"
-            }
-        ]
-    },
-    "daily_rotation": {
-        "enabled": true,
-        "refresh_hour": 0,
-        "timezone": "UTC"
-    },
-    "weekly_themes": [
-        {
-            "week": 1,
-            "theme": "Science Special",
-            "categories": [
-                "science"
-            ],
-            "bonus_multiplier": 1.5
-        },
-        {
-            "week": 2,
-            "theme": "History Week",
-            "categories": [
-                "history"
-            ],
-            "bonus_multiplier": 1.5
-        },
-        {
-            "week": 3,
-            "theme": "Geography Challenge",
-            "categories": [
-                "geography"
-            ],
-            "bonus_multiplier": 1.5
-        },
-        {
-            "week": 4,
-            "theme": "Mixed Knowledge",
-            "categories": [
-                "general",
-                "technology"
-            ],
-            "bonus_multiplier": 1.2
-        }
-    ],
-    "version": "1.0.0",
-    "last_updated": "2025-01-15"
+	"game_config": {
+		"questions_per_game": {
+			"easy": 5,
+			"medium": 8,
+			"hard": 10
+		},
+		"time_limits": {
+			"easy": 60,
+			"medium": 45,
+			"hard": 30
+		},
+		"points_per_correct": {
+			"easy": 10,
+			"medium": 15,
+			"hard": 20
+		},
+		"streak_bonus": {
+			"3_correct": 10,
+			"5_correct": 25,
+			"7_correct": 50
+		}
+	},
+	"categories": [
+		{
+			"id": "science",
+			"name": "Science & Nature",
+			"icon": "science",
+			"color": "blue"
+		},
+		{
+			"id": "history",
+			"name": "History",
+			"icon": "history_edu",
+			"color": "brown"
+		},
+		{
+			"id": "geography",
+			"name": "Geography",
+			"icon": "public",
+			"color": "green"
+		},
+		{
+			"id": "general",
+			"name": "General Knowledge",
+			"icon": "lightbulb",
+			"color": "orange"
+		},
+		{
+			"id": "technology",
+			"name": "Technology",
+			"icon": "computer",
+			"color": "purple"
+		}
+	],
+	"statements": {
+		"easy": [
+			{
+				"id": "e001",
+				"text": "Water boils at 100°C at sea level",
+				"answer": true,
+				"category": "science",
+				"explanation": "Water boils at 100°C (212°F) at sea level atmospheric pressure.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e002",
+				"text": "The Earth is flat",
+				"answer": false,
+				"category": "science",
+				"explanation": "The Earth is spherical (oblate spheroid), not flat. This has been proven by centuries of scientific observation.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e003",
+				"text": "There are 8 planets in our solar system",
+				"answer": true,
+				"category": "science",
+				"explanation": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e004",
+				"text": "The sun rises in the west",
+				"answer": false,
+				"category": "science",
+				"explanation": "The sun rises in the east and sets in the west due to Earth's rotation.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e005",
+				"text": "Ice is frozen water",
+				"answer": true,
+				"category": "science",
+				"explanation": "Ice is the solid state of water, formed when water freezes at 0°C (32°F).",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e006",
+				"text": "The moon orbits Earth",
+				"answer": true,
+				"category": "science",
+				"explanation": "The Moon is Earth's only natural satellite and orbits our planet approximately once every 27.3 days.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e007",
+				"text": "Spiders have 6 legs",
+				"answer": false,
+				"category": "science",
+				"explanation": "Spiders have 8 legs. Insects have 6 legs.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e008",
+				"text": "Humans can breathe underwater without equipment",
+				"answer": false,
+				"category": "science",
+				"explanation": "Humans need oxygen from air to breathe. We cannot extract oxygen from water like fish.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e009",
+				"text": "A week has 7 days",
+				"answer": true,
+				"category": "general",
+				"explanation": "A week consists of 7 days: Monday through Sunday.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e010",
+				"text": "The Great Wall of China is visible from space",
+				"answer": false,
+				"category": "general",
+				"explanation": "This is a common myth. The Great Wall is not visible from space with the naked eye.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e011",
+				"text": "Lightning is hotter than the sun's surface",
+				"answer": true,
+				"category": "science",
+				"explanation": "Lightning can reach temperatures of about 30,000°C, while the sun's surface is about 5,500°C.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e012",
+				"text": "Gold is heavier than iron",
+				"answer": true,
+				"category": "science",
+				"explanation": "Gold has a higher density (19.3 g/cm³) than iron (7.87 g/cm³).",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e013",
+				"text": "Bats are blind",
+				"answer": false,
+				"category": "science",
+				"explanation": "Bats can see, though many species use echolocation as their primary sense.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e014",
+				"text": "Mount Everest is the tallest mountain on Earth",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Mount Everest is 8,849 meters (29,032 feet) above sea level, making it the tallest mountain.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e015",
+				"text": "Penguins live at the North Pole",
+				"answer": false,
+				"category": "science",
+				"explanation": "Penguins live in the Southern Hemisphere, primarily Antarctica. Polar bears live at the North Pole.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e016",
+				"text": "The capital of France is Paris",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Paris has been the capital of France since the 10th century.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e017",
+				"text": "The Pacific Ocean is the largest ocean on Earth",
+				"answer": true,
+				"category": "geography",
+				"explanation": "The Pacific Ocean covers about 30% of Earth's surface.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e018",
+				"text": "Africa is a country",
+				"answer": false,
+				"category": "geography",
+				"explanation": "Africa is the second-largest continent, containing 54 countries.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e019",
+				"text": "The Amazon Rainforest is in South America",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Most of the Amazon Rainforest is located in Brazil, with parts in other South American countries.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e020",
+				"text": "Canada is the largest country in the world by land area",
+				"answer": false,
+				"category": "geography",
+				"explanation": "Russia is the largest country by land area; Canada is second.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e021",
+				"text": "Elephants are the largest land animals",
+				"answer": true,
+				"category": "science",
+				"explanation": "African bush elephants are the largest living land mammals.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e022",
+				"text": "Sharks are mammals",
+				"answer": false,
+				"category": "science",
+				"explanation": "Sharks are fish; they have gills and are cold-blooded.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e023",
+				"text": "The human heart has four chambers",
+				"answer": true,
+				"category": "science",
+				"explanation": "The heart has two atria and two ventricles.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e024",
+				"text": "Plants produce oxygen",
+				"answer": true,
+				"category": "science",
+				"explanation": "Plants release oxygen during photosynthesis.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e025",
+				"text": "Diamonds are made from coal",
+				"answer": false,
+				"category": "science",
+				"explanation": "Most diamonds form from carbon deep in the Earth's mantle, not from coal.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e026",
+				"text": "George Washington was the first President of the United States",
+				"answer": true,
+				"category": "history",
+				"explanation": "He served from 1789 to 1797.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e027",
+				"text": "The Statue of Liberty was a gift from France",
+				"answer": true,
+				"category": "history",
+				"explanation": "It was gifted in 1886 to celebrate friendship and democracy.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e028",
+				"text": "World War I ended in 1918",
+				"answer": true,
+				"category": "history",
+				"explanation": "The armistice was signed on November 11, 1918.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e029",
+				"text": "The Titanic sank in 1912",
+				"answer": true,
+				"category": "history",
+				"explanation": "It hit an iceberg and sank on its maiden voyage.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e030",
+				"text": "Christopher Columbus discovered America in 1492",
+				"answer": true,
+				"category": "history",
+				"explanation": "He landed in the Americas in 1492, though indigenous people were already there.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e031",
+				"text": "The Internet was invented in the 20th century",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Its foundations (like ARPANET) began in the 1960s.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e032",
+				"text": "Smartphones can take photos",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Most modern smartphones have built-in cameras.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e033",
+				"text": "The first iPhone was released by Apple",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It was launched in 2007.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e034",
+				"text": "Computers use electricity to work",
+				"answer": true,
+				"category": "technology",
+				"explanation": "All electronic devices require power, usually electricity.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e035",
+				"text": "Bluetooth is named after a Viking king",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Named after Harald Bluetooth, who united Danish tribes.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e036",
+				"text": "There are 12 months in a year",
+				"answer": true,
+				"category": "general",
+				"explanation": "The Gregorian calendar has 12 months.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e037",
+				"text": "A leap year has 366 days",
+				"answer": true,
+				"category": "general",
+				"explanation": "It occurs every 4 years to account for Earth's orbit.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e038",
+				"text": "The color of the sky is usually blue on a clear day",
+				"answer": true,
+				"category": "general",
+				"explanation": "Due to Rayleigh scattering of sunlight in the atmosphere.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e039",
+				"text": "Honey never spoils",
+				"answer": true,
+				"category": "general",
+				"explanation": "Its low moisture and acidity preserve it indefinitely.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e040",
+				"text": "There are 24 hours in a day",
+				"answer": true,
+				"category": "general",
+				"explanation": "A full Earth rotation takes approximately 24 hours.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e041",
+				"text": "The capital of the United States is Washington, D.C.",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It has been the capital since 1800.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e042",
+				"text": "Australia is both a country and a continent",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It is the smallest continent and a single nation.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e043",
+				"text": "The Sahara is the largest desert",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It is the largest hot desert in the world.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e044",
+				"text": "Japan is an island country",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It consists of over 6,000 islands.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e045",
+				"text": "The Nile is the longest river in the world",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It measures about 6,650 km long.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e046",
+				"text": "Birds are descendants of dinosaurs",
+				"answer": true,
+				"category": "science",
+				"explanation": "Modern birds evolved from theropod dinosaurs.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e047",
+				"text": "Ostriches can fly",
+				"answer": false,
+				"category": "science",
+				"explanation": "Ostriches are flightless birds but can run very fast.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e048",
+				"text": "The human body has 206 bones in adulthood",
+				"answer": true,
+				"category": "science",
+				"explanation": "Babies have more, but some fuse as they grow.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e049",
+				"text": "Volcanoes can be active, dormant, or extinct",
+				"answer": true,
+				"category": "science",
+				"explanation": "These are the three main classifications for volcanoes.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e050",
+				"text": "Rainbows have 7 colors",
+				"answer": true,
+				"category": "science",
+				"explanation": "Red, orange, yellow, green, blue, indigo, violet.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e051",
+				"text": "The American Civil War ended in 1865",
+				"answer": true,
+				"category": "history",
+				"explanation": "It concluded with the surrender at Appomattox.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e052",
+				"text": "Ancient Egyptians built the pyramids",
+				"answer": true,
+				"category": "history",
+				"explanation": "The Great Pyramids of Giza were built around 2600-2500 BC.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e053",
+				"text": "The Renaissance began in Italy",
+				"answer": true,
+				"category": "history",
+				"explanation": "It started in the 14th century in Florence and spread across Europe.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e054",
+				"text": "Julius Caesar was a Roman emperor",
+				"answer": false,
+				"category": "history",
+				"explanation": "He was a dictator but never an emperor; Augustus was the first Roman emperor.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e055",
+				"text": "The Wright brothers invented the airplane",
+				"answer": true,
+				"category": "history",
+				"explanation": "They achieved the first powered flight in 1903.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e056",
+				"text": "Wi-Fi uses radio waves",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It transmits data via wireless radio signals.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e057",
+				"text": "GPS stands for Global Positioning System",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It uses satellites to determine location.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e058",
+				"text": "The first video game was Pong",
+				"answer": false,
+				"category": "technology",
+				"explanation": "Pong (1972) was popular, but earlier games like Tennis for Two existed.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e059",
+				"text": "Emails can be sent instantly around the world",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Electronic mail travels via the internet almost instantly.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e060",
+				"text": "Robots are always human-shaped",
+				"answer": false,
+				"category": "technology",
+				"explanation": "Robots come in many shapes, including industrial arms and vacuums.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e061",
+				"text": "There are four seasons in a year",
+				"answer": true,
+				"category": "general",
+				"explanation": "Spring, summer, autumn, winter in most temperate regions.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e062",
+				"text": "The Olympic Games are held every 4 years",
+				"answer": true,
+				"category": "general",
+				"explanation": "The Summer and Winter Olympics alternate every 2 years, but each every 4.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e063",
+				"text": "Chocolate comes from cacao beans",
+				"answer": true,
+				"category": "general",
+				"explanation": "Cacao pods are processed to make chocolate.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e064",
+				"text": "Bananas grow on trees",
+				"answer": false,
+				"category": "general",
+				"explanation": "Bananas grow on large herbaceous plants, not trees.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e065",
+				"text": "The unicorn is the national animal of Scotland",
+				"answer": true,
+				"category": "general",
+				"explanation": "It has been a symbol of Scotland since the 12th century.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e066",
+				"text": "Brazil is in South America",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It is the largest country in South America.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e067",
+				"text": "The Eiffel Tower is in Paris",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It was built for the 1889 World's Fair.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e068",
+				"text": "Greenland is the largest island",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Australia is a continent, so Greenland is the largest island.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e069",
+				"text": "The equator passes through Africa",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It crosses several African countries like Kenya and Uganda.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e070",
+				"text": "Monaco is the smallest country in the world",
+				"answer": false,
+				"category": "geography",
+				"explanation": "Vatican City is the smallest by area.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e071",
+				"text": "Butterflies taste with their feet",
+				"answer": true,
+				"category": "science",
+				"explanation": "They have taste receptors on their legs to detect suitable plants.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e072",
+				"text": "The sun is a planet",
+				"answer": false,
+				"category": "science",
+				"explanation": "The sun is a star at the center of our solar system.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e073",
+				"text": "Sound travels faster than light",
+				"answer": false,
+				"category": "science",
+				"explanation": "Light travels much faster than sound.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e074",
+				"text": "Magnets attract all metals",
+				"answer": false,
+				"category": "science",
+				"explanation": "Magnets attract ferromagnetic metals like iron, not all metals.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e075",
+				"text": "A tomato is a vegetable",
+				"answer": false,
+				"category": "science",
+				"explanation": "Botanically, tomatoes are fruits.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e076",
+				"text": "Neil Armstrong was the first person on the moon",
+				"answer": true,
+				"category": "history",
+				"explanation": "He stepped on the moon in 1969 during Apollo 11.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e077",
+				"text": "The Berlin Wall fell in 1989",
+				"answer": true,
+				"category": "history",
+				"explanation": "It marked the end of the Cold War division of Germany.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e078",
+				"text": "Queen Elizabeth II was the longest-reigning British monarch",
+				"answer": true,
+				"category": "history",
+				"explanation": "She reigned for over 70 years until 2022.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e079",
+				"text": "The Declaration of Independence was signed in 1776",
+				"answer": true,
+				"category": "history",
+				"explanation": "It was adopted on July 4, 1776.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e080",
+				"text": "Alexander the Great was from Greece",
+				"answer": true,
+				"category": "history",
+				"explanation": "He was king of ancient Macedon, part of Greek culture.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e081",
+				"text": "Google is a search engine",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It is the most widely used web search engine.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e082",
+				"text": "Electric cars run on batteries",
+				"answer": true,
+				"category": "technology",
+				"explanation": "They use rechargeable batteries for power.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e083",
+				"text": "The World Wide Web was invented by Tim Berners-Lee",
+				"answer": true,
+				"category": "technology",
+				"explanation": "He proposed it in 1989.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e084",
+				"text": "Drones can fly without a pilot on board",
+				"answer": true,
+				"category": "technology",
+				"explanation": "They are unmanned aerial vehicles.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e085",
+				"text": "Virtual reality headsets create immersive experiences",
+				"answer": true,
+				"category": "technology",
+				"explanation": "They simulate 3D environments for users.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e086",
+				"text": "Pizza originated in Italy",
+				"answer": true,
+				"category": "general",
+				"explanation": "Modern pizza developed in Naples in the 18th-19th century.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e087",
+				"text": "The panda's main food is bamboo",
+				"answer": true,
+				"category": "general",
+				"explanation": "Giant pandas eat almost exclusively bamboo.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e088",
+				"text": "Goldfish have a memory span of only 3 seconds",
+				"answer": false,
+				"category": "general",
+				"explanation": "This is a myth; goldfish can remember things for months.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e089",
+				"text": "The tallest building in the world is the Burj Khalifa",
+				"answer": true,
+				"category": "general",
+				"explanation": "It stands in Dubai at over 828 meters.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e090",
+				"text": "Cricket is a popular sport in England",
+				"answer": true,
+				"category": "general",
+				"explanation": "It is one of the national sports of England.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e091",
+				"text": "Italy is shaped like a boot",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Its peninsula resembles a boot kicking Sicily.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e092",
+				"text": "The Dead Sea is the lowest point on Earth's surface",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It is about 430 meters below sea level.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e093",
+				"text": "India has the second-largest population",
+				"answer": true,
+				"category": "geography",
+				"explanation": "China is first, India second as of recent years.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e094",
+				"text": "Mount Kilimanjaro is in Asia",
+				"answer": false,
+				"category": "geography",
+				"explanation": "It is in Tanzania, Africa.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e095",
+				"text": "The Great Barrier Reef is visible from space",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It is the world's largest coral reef system and can be seen from orbit.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e096",
+				"text": "Octopuses have eight arms",
+				"answer": true,
+				"category": "science",
+				"explanation": "They are known for their eight flexible arms.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e097",
+				"text": "Humans have five senses",
+				"answer": true,
+				"category": "science",
+				"explanation": "Sight, hearing, taste, smell, and touch are the traditional five.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e098",
+				"text": "The Earth revolves around the moon",
+				"answer": false,
+				"category": "science",
+				"explanation": "Earth revolves around the sun; the moon orbits Earth.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e099",
+				"text": "Flamingos are born pink",
+				"answer": false,
+				"category": "science",
+				"explanation": "They get their pink color from their diet of shrimp and algae.",
+				"difficulty": "easy"
+			},
+			{
+				"id": "e100",
+				"text": "Gravity keeps us on the ground",
+				"answer": true,
+				"category": "science",
+				"explanation": "Earth's gravity pulls objects toward its center.",
+				"difficulty": "easy"
+			}
+		],
+		"medium": [
+			{
+				"id": "m001",
+				"text": "The human body has more than 200 bones at birth",
+				"answer": true,
+				"category": "science",
+				"explanation": "Babies are born with about 270 bones, which fuse together to form 206 bones in adults.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m002",
+				"text": "The Amazon River is longer than the Nile River",
+				"answer": false,
+				"category": "geography",
+				"explanation": "The Nile River (6,650 km) is slightly longer than the Amazon (6,400 km), though the Amazon carries more water.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m003",
+				"text": "Sharks are mammals",
+				"answer": false,
+				"category": "science",
+				"explanation": "Sharks are fish, not mammals. They have gills and are cold-blooded.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m004",
+				"text": "The speed of light is faster than the speed of sound",
+				"answer": true,
+				"category": "science",
+				"explanation": "Light travels at 299,792,458 m/s while sound travels at about 343 m/s in air.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m005",
+				"text": "The Dead Sea is actually a lake",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Despite its name, the Dead Sea is a salt lake bordered by Jordan and Israel.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m006",
+				"text": "Antarctica is owned by multiple countries",
+				"answer": false,
+				"category": "geography",
+				"explanation": "Antarctica is governed by the Antarctic Treaty System and is not owned by any single nation.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m007",
+				"text": "Octopuses have three hearts",
+				"answer": true,
+				"category": "science",
+				"explanation": "Octopuses have three hearts: two pump blood to the gills, one pumps blood to the body.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m008",
+				"text": "The Internet and World Wide Web are the same thing",
+				"answer": false,
+				"category": "technology",
+				"explanation": "The Internet is the infrastructure; the World Wide Web is a service that runs on the Internet.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m009",
+				"text": "Tomatoes are technically fruits, not vegetables",
+				"answer": true,
+				"category": "science",
+				"explanation": "Botanically, tomatoes are fruits because they develop from flowers and contain seeds.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m010",
+				"text": "The first computer programmer was a woman",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Ada Lovelace is considered the first computer programmer for her work in the 1840s.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m011",
+				"text": "Humans only use 10% of their brain",
+				"answer": false,
+				"category": "science",
+				"explanation": "This is a myth. Humans use virtually all parts of the brain, and most of it is active most of the time.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m012",
+				"text": "The Statue of Liberty was a gift from France",
+				"answer": true,
+				"category": "history",
+				"explanation": "France gave the Statue of Liberty to the United States in 1886 as a gift of friendship.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m013",
+				"text": "The chemical symbol for gold is Au",
+				"answer": true,
+				"category": "science",
+				"explanation": "Au comes from the Latin word 'aurum' meaning gold.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m014",
+				"text": "Venus is the hottest planet in our solar system",
+				"answer": true,
+				"category": "science",
+				"explanation": "Its thick atmosphere causes a runaway greenhouse effect, reaching temperatures over 460°C.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m015",
+				"text": "The Great Barrier Reef is the world's largest living structure",
+				"answer": true,
+				"category": "science",
+				"explanation": "It is composed of billions of tiny coral polyps and stretches over 2,300 km.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m016",
+				"text": "A group of flamingos is called a flock",
+				"answer": false,
+				"category": "science",
+				"explanation": "A group of flamingos is called a 'flamboyance'.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m017",
+				"text": "The human eye can distinguish more shades of green than any other color",
+				"answer": true,
+				"category": "science",
+				"explanation": "This is due to evolutionary adaptation for spotting food and predators in foliage.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m018",
+				"text": "Lake Baikal in Russia is the deepest lake in the world",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It reaches a depth of 1,642 meters and holds about 20% of the world's unfrozen freshwater.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m019",
+				"text": "The capital of Brazil was moved from Rio de Janeiro to Brasília in 1960",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Brasília was purpose-built as the new capital to promote inland development.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m020",
+				"text": "There are seven continents on Earth",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Asia, Africa, North America, South America, Antarctica, Europe, and Australia.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m021",
+				"text": "The Suez Canal connects the Mediterranean Sea to the Red Sea",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It provides a shortcut between Europe and Asia, avoiding the Cape of Good Hope.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m022",
+				"text": "Mount Kilimanjaro has three volcanic cones",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Kibo, Mawenzi, and Shira are the three cones, with Kibo being the highest and still dormant.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m023",
+				"text": "The Magna Carta was signed in 1215",
+				"answer": true,
+				"category": "history",
+				"explanation": "King John of England agreed to it, establishing principles of limited government.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m024",
+				"text": "The Industrial Revolution began in France",
+				"answer": false,
+				"category": "history",
+				"explanation": "It began in Great Britain in the late 18th century.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m025",
+				"text": "The Battle of Hastings took place in 1066",
+				"answer": true,
+				"category": "history",
+				"explanation": "William the Conqueror defeated Harold Godwinson, leading to the Norman conquest of England.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m026",
+				"text": "Joan of Arc was burned at the stake in 1431",
+				"answer": true,
+				"category": "history",
+				"explanation": "She was executed by the English during the Hundred Years' War.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m027",
+				"text": "The Rosetta Stone helped decipher Egyptian hieroglyphs",
+				"answer": true,
+				"category": "history",
+				"explanation": "It contained the same text in Greek, Demotic, and hieroglyphs, providing the key in 1822.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m028",
+				"text": "The first successful human heart transplant was performed by Christiaan Barnard",
+				"answer": true,
+				"category": "history",
+				"explanation": "It occurred in 1967 in South Africa.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m029",
+				"text": "The binary system used in computers consists of only 0s and 1s",
+				"answer": true,
+				"category": "technology",
+				"explanation": "All digital data is represented using binary code.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m030",
+				"text": "The first commercial web browser was Mosaic",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Released in 1993, it popularized the World Wide Web.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m031",
+				"text": "A byte consists of 8 bits",
+				"answer": true,
+				"category": "technology",
+				"explanation": "This is the standard unit for digital information storage.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m032",
+				"text": "The Turing Test evaluates a machine's ability to exhibit human-like intelligence",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Proposed by Alan Turing in 1950.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m033",
+				"text": "Cloud computing means storing data on physical hard drives",
+				"answer": false,
+				"category": "technology",
+				"explanation": "It refers to storing and accessing data over the internet on remote servers.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m034",
+				"text": "The first email was sent in 1971",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Ray Tomlinson sent the first networked email on ARPANET.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m035",
+				"text": "There are more stars in the universe than grains of sand on all Earth's beaches",
+				"answer": true,
+				"category": "general",
+				"explanation": "Estimates suggest 10^22 to 10^24 stars vs. about 10^21 grains of sand.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m036",
+				"text": "French was once the official language of England for over 300 years",
+				"answer": true,
+				"category": "general",
+				"explanation": "After the Norman Conquest, French was the language of the court until the 14th century.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m037",
+				"text": "The shortest war in history lasted 38 minutes",
+				"answer": true,
+				"category": "general",
+				"explanation": "The Anglo-Zanzibar War of 1896 ended after 38-45 minutes.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m038",
+				"text": "Wombat poop is cube-shaped",
+				"answer": true,
+				"category": "general",
+				"explanation": "This prevents it from rolling away, helping them mark territory.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m039",
+				"text": "The unicorn is the national animal of Scotland",
+				"answer": true,
+				"category": "general",
+				"explanation": "It has symbolized purity and strength since the 12th century.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m040",
+				"text": "Helium is the second most abundant element in the universe",
+				"answer": true,
+				"category": "science",
+				"explanation": "Hydrogen is first, helium second, formed during Big Bang nucleosynthesis.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m041",
+				"text": "A jellyfish is about 95% water",
+				"answer": true,
+				"category": "science",
+				"explanation": "Their bodies are mostly water with very little solid matter.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m042",
+				"text": "The speed of sound in water is faster than in air",
+				"answer": true,
+				"category": "science",
+				"explanation": "Sound travels about 4.3 times faster in water (~1,480 m/s) than in air (~343 m/s).",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m043",
+				"text": "DNA stands for Deoxyribonucleic Acid",
+				"answer": true,
+				"category": "science",
+				"explanation": "It is the molecule that carries genetic instructions in living organisms.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m044",
+				"text": "The only letter not appearing on the periodic table is J",
+				"answer": true,
+				"category": "science",
+				"explanation": "All other letters of the alphabet are used in element symbols.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m045",
+				"text": "The Panama Canal connects the Atlantic and Pacific Oceans",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It allows ships to avoid traveling around South America.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m046",
+				"text": "Iceland is covered mostly in ice",
+				"answer": false,
+				"category": "geography",
+				"explanation": "Only about 11% is covered by glaciers; Greenland is mostly ice-covered.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m047",
+				"text": "The longest river entirely within one country is the Yangtze in China",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It stretches over 6,300 km entirely within China.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m048",
+				"text": "Bhutan measures Gross National Happiness as an official indicator",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It prioritizes happiness and well-being over economic growth alone.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m049",
+				"text": "The currency of Turkey is the Euro",
+				"answer": false,
+				"category": "geography",
+				"explanation": "Turkey uses the Turkish Lira; it is not part of the Eurozone.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m050",
+				"text": "The Renaissance began in the 14th century in Italy",
+				"answer": true,
+				"category": "history",
+				"explanation": "It started in Florence and marked a rebirth of art, science, and learning.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m051",
+				"text": "The Cold War involved direct military combat between the USA and USSR",
+				"answer": false,
+				"category": "history",
+				"explanation": "It was a period of geopolitical tension with proxy wars but no direct conflict.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m052",
+				"text": "The Ottoman Empire lasted over 600 years",
+				"answer": true,
+				"category": "history",
+				"explanation": "From 1299 to 1922, it was one of the longest-lasting empires.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m053",
+				"text": "Marie Curie was the first person to win two Nobel Prizes",
+				"answer": true,
+				"category": "history",
+				"explanation": "She won in Physics (1903) and Chemistry (1911).",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m054",
+				"text": "The first Olympics in modern history were held in Athens in 1896",
+				"answer": true,
+				"category": "history",
+				"explanation": "Revived by Pierre de Coubertin, they featured 241 athletes from 14 nations.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m055",
+				"text": "JavaScript and Java are the same programming language",
+				"answer": false,
+				"category": "technology",
+				"explanation": "They are unrelated; JavaScript was created for web browsers, Java for general applications.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m056",
+				"text": "The first computer 'bug' was an actual insect",
+				"answer": true,
+				"category": "technology",
+				"explanation": "In 1947, Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m057",
+				"text": "Bitcoin was created by Satoshi Nakamoto",
+				"answer": true,
+				"category": "technology",
+				"explanation": "The pseudonym used in the 2008 whitepaper; the true identity remains unknown.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m058",
+				"text": "SSL certificates encrypt data transmitted over the internet",
+				"answer": true,
+				"category": "technology",
+				"explanation": "They secure connections, especially for HTTPS websites.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m059",
+				"text": "The Y2K bug caused widespread global chaos at the turn of the millennium",
+				"answer": false,
+				"category": "technology",
+				"explanation": "Extensive preparation prevented major issues.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m060",
+				"text": "An octopus can change color to blend into its surroundings",
+				"answer": true,
+				"category": "science",
+				"explanation": "They use specialized cells called chromatophores for camouflage.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m061",
+				"text": "The largest organ in the human body is the liver",
+				"answer": false,
+				"category": "science",
+				"explanation": "The skin is the largest organ by surface area and weight.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m062",
+				"text": "Photosynthesis primarily occurs in the leaves of plants",
+				"answer": true,
+				"category": "science",
+				"explanation": "Chloroplasts in leaf cells convert sunlight into energy.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m063",
+				"text": "Mercury is the closest planet to the Sun but not the hottest",
+				"answer": true,
+				"category": "science",
+				"explanation": "Venus is hotter due to its thick atmosphere.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m064",
+				"text": "A light-year measures time",
+				"answer": false,
+				"category": "science",
+				"explanation": "A light-year is a unit of distance, about 9.46 trillion kilometers.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m065",
+				"text": "The capital of Australia was originally Melbourne",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Melbourne was the temporary capital until Canberra was built in 1927.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m066",
+				"text": "Liechtenstein has no airport",
+				"answer": true,
+				"category": "geography",
+				"explanation": "The small country relies on nearby Swiss and Austrian airports.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m067",
+				"text": "The Danube River flows through Vienna, Budapest, Belgrade, and Bucharest",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It passes through four capital cities, more than any other river.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m068",
+				"text": "The country with the most time zones is France",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Due to its overseas territories, France spans 12 time zones.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m069",
+				"text": "The Taj Mahal was built by Emperor Shah Jahan as a mausoleum for his wife",
+				"answer": true,
+				"category": "history",
+				"explanation": "Completed in 1653, it is a masterpiece of Mughal architecture.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m070",
+				"text": "The Hundred Years' War actually lasted 116 years",
+				"answer": true,
+				"category": "history",
+				"explanation": "From 1337 to 1453, between England and France.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m071",
+				"text": "The Incas never developed a writing system",
+				"answer": true,
+				"category": "history",
+				"explanation": "They used quipus (knotted strings) for record-keeping.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m072",
+				"text": "The first successful printing press with movable type was invented by Gutenberg",
+				"answer": true,
+				"category": "history",
+				"explanation": "Around 1440 in Germany, revolutionizing book production.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m073",
+				"text": "Linux is an open-source operating system",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Created by Linus Torvalds in 1991, its source code is freely available.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m074",
+				"text": "The domain '.edu' is exclusively for educational institutions",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It is restricted to accredited post-secondary institutions, mostly in the US.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m075",
+				"text": "Augmented reality overlays digital information on the real world",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Unlike virtual reality, AR enhances rather than replaces the real environment.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m076",
+				"text": "The first smartphone was the IBM Simon in 1994",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It featured email, fax, and a touchscreen.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m077",
+				"text": "A group of crows is called a murder",
+				"answer": true,
+				"category": "general",
+				"explanation": "This collective noun dates back centuries.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m078",
+				"text": "The term 'byte' was coined by Werner Buchholz",
+				"answer": true,
+				"category": "general",
+				"explanation": "In 1956 while working on IBM's Stretch computer.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m079",
+				"text": "The only mammal capable of true flight is the bat",
+				"answer": true,
+				"category": "science",
+				"explanation": "Other mammals like flying squirrels only glide.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m080",
+				"text": "Neutrons have no electric charge",
+				"answer": true,
+				"category": "science",
+				"explanation": "Protons are positive, electrons negative, neutrons neutral.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m081",
+				"text": "The Amazon rainforest produces about 20% of the world's oxygen",
+				"answer": true,
+				"category": "science",
+				"explanation": "Often called the 'lungs of the Earth'.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m082",
+				"text": "There are 195 recognized sovereign countries in the world",
+				"answer": true,
+				"category": "geography",
+				"explanation": "193 UN member states plus Vatican City and Palestine (UN observer).",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m083",
+				"text": "The Silk Road was a single trade route",
+				"answer": false,
+				"category": "history",
+				"explanation": "It was a network of routes connecting East and West.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m084",
+				"text": "VPN stands for Virtual Private Network",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It creates a secure connection over the internet.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m085",
+				"text": "The human nose can distinguish over 1 trillion different scents",
+				"answer": true,
+				"category": "science",
+				"explanation": "A 2014 study significantly raised previous estimates.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m086",
+				"text": "The first person to circumnavigate the globe was Ferdinand Magellan",
+				"answer": false,
+				"category": "history",
+				"explanation": "Magellan died midway; his crew completed it under Juan Sebastián Elcano.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m087",
+				"text": "Crocodiles can live over 100 years",
+				"answer": true,
+				"category": "science",
+				"explanation": "Some species have been documented living beyond a century in captivity.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m088",
+				"text": "The first website went live in 1991",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Created by Tim Berners-Lee at CERN.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m089",
+				"text": "The Leaning Tower of Pisa was intentionally built to lean",
+				"answer": false,
+				"category": "general",
+				"explanation": "It began leaning during construction due to unstable foundation.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m090",
+				"text": "Ants can lift 50 times their body weight",
+				"answer": true,
+				"category": "science",
+				"explanation": "Their small size gives them exceptional strength relative to body mass.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m091",
+				"text": "The currency of Switzerland is the Euro",
+				"answer": false,
+				"category": "geography",
+				"explanation": "Switzerland uses the Swiss Franc.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m092",
+				"text": "The first successful cloning of a mammal was Dolly the sheep in 1996",
+				"answer": true,
+				"category": "science",
+				"explanation": "She was cloned from an adult somatic cell.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m093",
+				"text": "The Great Fire of London in 1666 helped end the plague",
+				"answer": true,
+				"category": "history",
+				"explanation": "It killed many disease-carrying rats and fleas.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m094",
+				"text": "OLED screens use organic compounds to emit light",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Unlike LCDs, they don't need a backlight.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m095",
+				"text": "The shortest complete English word with all five main vowels is 'facetious'",
+				"answer": true,
+				"category": "general",
+				"explanation": "It contains a, e, i, o, u in order.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m096",
+				"text": "The human tongue print is unique like a fingerprint",
+				"answer": true,
+				"category": "science",
+				"explanation": "No two tongue prints are identical.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m097",
+				"text": "The first space tourist was Dennis Tito in 2001",
+				"answer": true,
+				"category": "history",
+				"explanation": "He paid $20 million to visit the International Space Station.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m098",
+				"text": "Quantum computers use qubits instead of traditional bits",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Qubits can exist in superposition, enabling parallel computation.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m099",
+				"text": "The only country to border both the Caspian Sea and the Persian Gulf is Iran",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Its unique position gives it access to both bodies of water.",
+				"difficulty": "medium"
+			},
+			{
+				"id": "m100",
+				"text": "Octopuses have blue blood",
+				"answer": true,
+				"category": "science",
+				"explanation": "They use copper-based hemocyanin instead of iron-based hemoglobin.",
+				"difficulty": "medium"
+			}
+		],
+		"hard": [
+			{
+				"id": "h001",
+				"text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid",
+				"answer": true,
+				"category": "history",
+				"explanation": "The Great Pyramid was built around 2560 BC, Cleopatra lived around 30 BC, and the Moon landing was in 1969 AD.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h002",
+				"text": "Bananas are berries, but strawberries are not",
+				"answer": true,
+				"category": "science",
+				"explanation": "Botanically, berries are fruits from a single flower with one ovary. Bananas qualify, strawberries don't.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h003",
+				"text": "There are more possible iterations of a chess game than atoms in the observable universe",
+				"answer": true,
+				"category": "general",
+				"explanation": "The Shannon number estimates 10^120 possible chess games, while there are about 10^80 atoms in the universe.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h004",
+				"text": "Honey never spoils",
+				"answer": true,
+				"category": "science",
+				"explanation": "Due to its low moisture content and acidic pH, honey can last indefinitely. 3000-year-old honey has been found edible.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h005",
+				"text": "The human genome contains more genes than a grape",
+				"answer": false,
+				"category": "science",
+				"explanation": "Humans have about 20,000-25,000 genes, while grapes have about 30,000 genes.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h006",
+				"text": "Scotland's national animal is a unicorn",
+				"answer": true,
+				"category": "general",
+				"explanation": "The unicorn has been Scotland's national animal since the 12th century, symbolizing purity and strength.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h007",
+				"text": "A day on Venus is longer than a year on Venus",
+				"answer": true,
+				"category": "science",
+				"explanation": "Venus takes 243 Earth days to rotate once (a day) but only 225 Earth days to orbit the Sun (a year).",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h008",
+				"text": "The fingerprints of koalas are virtually indistinguishable from human fingerprints",
+				"answer": true,
+				"category": "science",
+				"explanation": "Koala fingerprints are so similar to human ones that they could theoretically contaminate crime scenes.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h009",
+				"text": "The Eiffel Tower can be 15 cm taller during summer",
+				"answer": true,
+				"category": "science",
+				"explanation": "Due to thermal expansion, the iron structure expands in heat, making the tower slightly taller.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h010",
+				"text": "Oxford University is older than the Aztec Empire",
+				"answer": true,
+				"category": "history",
+				"explanation": "Oxford University started teaching in 1096, while the Aztec Empire began in 1428.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h011",
+				"text": "There are more trees on Earth than there are stars in the Milky Way galaxy",
+				"answer": true,
+				"category": "science",
+				"explanation": "Estimates suggest about 3 trillion trees on Earth vs. 100-400 billion stars in the Milky Way.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h012",
+				"text": "A flock of crows is known as a murder, but a group of ravens is called an unkindness or a conspiracy",
+				"answer": true,
+				"category": "general",
+				"explanation": "These are the traditional collective nouns for ravens.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h013",
+				"text": "The only letter that does not appear in any U.S. state name is Q",
+				"answer": true,
+				"category": "geography",
+				"explanation": "No U.S. state name contains the letter Q.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h014",
+				"text": "France has more time zones than any other country",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Due to its overseas territories, France spans 12 time zones.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h015",
+				"text": "The unicorn became Scotland's national animal because King James VI believed it was the natural enemy of the lion (England's symbol)",
+				"answer": true,
+				"category": "history",
+				"explanation": "The mythical rivalry was used to symbolize opposition to England.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h016",
+				"text": "Octopuses have nine brains",
+				"answer": true,
+				"category": "science",
+				"explanation": "One central brain and one small brain in each of the eight arms.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h017",
+				"text": "The first oranges were not orange",
+				"answer": true,
+				"category": "general",
+				"explanation": "Original oranges from Southeast Asia were green; the orange color developed in cooler climates.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h018",
+				"text": "There is enough gold in Earth's core to cover the entire surface of the planet in a layer 4 meters thick",
+				"answer": false,
+				"category": "science",
+				"explanation": "Estimates suggest about 0.5 meters thick at most; the statement is exaggerated.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h019",
+				"text": "The shortest war in history was between Britain and Zanzibar and lasted 38 minutes",
+				"answer": true,
+				"category": "history",
+				"explanation": "On August 27, 1896, Zanzibar surrendered after 38-45 minutes of naval bombardment.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h020",
+				"text": "Nintendo was founded before the fall of the Ottoman Empire",
+				"answer": true,
+				"category": "general",
+				"explanation": "Nintendo was founded in 1889; the Ottoman Empire ended in 1922.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h021",
+				"text": "The first computer virus was created in 1983 and called Elk Cloner",
+				"answer": false,
+				"category": "technology",
+				"explanation": "Elk Cloner (1982) was early, but Creeper (1971) is considered the first virus.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h022",
+				"text": "A 'jiffy' is an actual unit of time: 1/100th of a second",
+				"answer": false,
+				"category": "science",
+				"explanation": "In computing, a jiffy varies; in physics, it's sometimes the time light takes to travel one centimeter (~33 ps).",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h023",
+				"text": "The Great Wall of China is the only man-made structure visible from the Moon",
+				"answer": false,
+				"category": "general",
+				"explanation": "No man-made structures are visible from the Moon with the naked eye; this is a persistent myth.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h024",
+				"text": "The Canary Islands are named after dogs, not birds",
+				"answer": true,
+				"category": "geography",
+				"explanation": "From Latin 'Insula Canaria' meaning 'Island of Dogs', referring to large dogs found there.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h025",
+				"text": "Harvard University was founded before calculus was invented",
+				"answer": true,
+				"category": "history",
+				"explanation": "Harvard founded in 1636; Newton and Leibniz developed calculus in the late 17th century.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h026",
+				"text": "The longest fence in the world is Australia's Dingo Fence",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It stretches over 5,600 km to keep dingoes away from fertile land.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h027",
+				"text": "Sharks have been around longer than trees",
+				"answer": true,
+				"category": "science",
+				"explanation": "Sharks appeared ~450 million years ago; trees ~385 million years ago.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h028",
+				"text": "The first emails were sent before the invention of the telephone",
+				"answer": false,
+				"category": "technology",
+				"explanation": "Telephone 1876; first networked email 1971.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h029",
+				"text": "More people have walked on the Moon than have been to the deepest point in the ocean",
+				"answer": true,
+				"category": "science",
+				"explanation": "12 moonwalkers vs. only 3 people (repeated visits) to Challenger Deep.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h030",
+				"text": "The Hundred Years' War lasted exactly 100 years",
+				"answer": false,
+				"category": "history",
+				"explanation": "It lasted 116 years (1337–1453).",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h031",
+				"text": "The only South American country to have English as an official language is Guyana",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Guyana's colonial history with Britain makes English its official language.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h032",
+				"text": "A 'pangram' is a sentence that uses every letter of the alphabet at least once",
+				"answer": true,
+				"category": "general",
+				"explanation": "Example: 'The quick brown fox jumps over the lazy dog'.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h033",
+				"text": "The first domain name ever registered was symbolics.com in 1985",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It was the first .com domain registered on March 15, 1985.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h034",
+				"text": "There are more public libraries in the U.S. than McDonald's restaurants",
+				"answer": true,
+				"category": "general",
+				"explanation": "~16,000 public libraries vs. ~14,000 McDonald's.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h035",
+				"text": "The first product with a barcode scanned at a checkout was a pack of Wrigley's gum",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Scanned on June 26, 1974, in Troy, Ohio.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h036",
+				"text": "The Amazon rainforest produces more oxygen than all other forests combined",
+				"answer": false,
+				"category": "science",
+				"explanation": "It produces ~20%; oceans and other forests contribute significantly more overall.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h037",
+				"text": "The country of Liberia was founded by freed American slaves",
+				"answer": true,
+				"category": "history",
+				"explanation": "Founded in 1822 by the American Colonization Society for freed slaves.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h038",
+				"text": "The first animated feature film was made in Argentina in 1917",
+				"answer": true,
+				"category": "general",
+				"explanation": "El Apóstol by Quirino Cristiani, predating Disney's Snow White.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h039",
+				"text": "The probability of a coin landing on its edge is approximately 1 in 6000",
+				"answer": true,
+				"category": "science",
+				"explanation": "Depends on thickness and spin, but studies show roughly that ratio.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h040",
+				"text": "Anne Frank's diary was first published in English before Dutch",
+				"answer": false,
+				"category": "history",
+				"explanation": "Published in Dutch in 1947 as 'Het Achterhuis', English in 1952.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h041",
+				"text": "The first country to grant women the right to vote was New Zealand in 1893",
+				"answer": true,
+				"category": "history",
+				"explanation": "New Zealand was the first self-governing country to grant all women the vote.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h042",
+				"text": "The longest river in the world by water volume is the Amazon",
+				"answer": true,
+				"category": "geography",
+				"explanation": "It discharges far more water than the Nile, though slightly shorter in length.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h043",
+				"text": "The first programmer in history wrote an algorithm for a machine that was never built",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Ada Lovelace wrote notes on Babbage's Analytical Engine in 1843.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h044",
+				"text": "The word 'robot' comes from a Czech word meaning 'forced labor'",
+				"answer": true,
+				"category": "general",
+				"explanation": "From Karel Čapek's 1920 play R.U.R., derived from 'robota'.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h045",
+				"text": "There are more atoms in a glass of water than glasses of water in all the oceans",
+				"answer": true,
+				"category": "science",
+				"explanation": "Avogadro's number (~10^23) vs. estimated ~10^21 glasses in oceans.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h046",
+				"text": "The first YouTube video was uploaded in 2005 and titled 'Me at the zoo'",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Uploaded by co-founder Jawed Karim on April 23, 2005.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h047",
+				"text": "The only planet named after a Greek god rather than a Roman one is Uranus",
+				"answer": true,
+				"category": "science",
+				"explanation": "Most planets use Roman names; Uranus uses the Greek Ouranos.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h048",
+				"text": "The first successful vaccine was for smallpox, developed by Edward Jenner in 1796",
+				"answer": true,
+				"category": "history",
+				"explanation": "He used cowpox material to create immunity.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h049",
+				"text": "The longest place name in the world is in New Zealand and has 85 letters",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h050",
+				"text": "The first person to reach the North Pole was Robert Peary in 1909",
+				"answer": false,
+				"category": "history",
+				"explanation": "His claim is disputed; many believe no one reached it until 1948 or later verified expeditions.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h051",
+				"text": "The human body contains enough iron to make a small nail",
+				"answer": true,
+				"category": "science",
+				"explanation": "~4 grams of iron, enough for a ~3-inch nail.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h052",
+				"text": "The first photograph of a person was taken in 1838 in Paris",
+				"answer": true,
+				"category": "history",
+				"explanation": "Louis Daguerre's boulevard photo with a man getting his shoes shined (long exposure).",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h053",
+				"text": "The only continent without reptiles is Antarctica",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Extreme cold prevents reptiles from surviving.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h054",
+				"text": "The first computer mouse was made of wood",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Douglas Engelbart's 1964 prototype was wooden.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h055",
+				"text": "The original name for Pac-Man was Puck-Man",
+				"answer": true,
+				"category": "general",
+				"explanation": "Changed for U.S. release to avoid vandalism altering 'P' to 'F'.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h056",
+				"text": "The first country to use postcards was Austria in 1869",
+				"answer": true,
+				"category": "history",
+				"explanation": "The 'Correspondenz-Karte' was introduced there.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h057",
+				"text": "The loudest animal relative to its size is the pistol shrimp",
+				"answer": true,
+				"category": "science",
+				"explanation": "Its claw snap creates a cavitation bubble reaching 218 dB.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h058",
+				"text": "The first novel ever written was 'The Tale of Genji' by Murasaki Shikibu around 1010 AD",
+				"answer": true,
+				"category": "history",
+				"explanation": "Considered the world's first novel, written in Japan.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h059",
+				"text": "The only letter not used in the periodic table element symbols is J",
+				"answer": true,
+				"category": "science",
+				"explanation": "All other letters appear at least once.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h060",
+				"text": "The first search engine was called Archie, created in 1990",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It indexed FTP archives before the web existed widely.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h061",
+				"text": "The shortest place name in the world is 'Å' in Norway and Sweden",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Several villages named Å exist.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h062",
+				"text": "The first alarm clock could only ring at 4 AM",
+				"answer": true,
+				"category": "general",
+				"explanation": "Invented by Levi Hutchins in 1787 for his own wake-up time.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h063",
+				"text": "The first recorded use of 'OMG' was in a 1917 letter to Winston Churchill",
+				"answer": true,
+				"category": "history",
+				"explanation": "Admiral John Fisher used it in correspondence.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h064",
+				"text": "The first known contraceptive was used in ancient Egypt around 1850 BC",
+				"answer": true,
+				"category": "history",
+				"explanation": "Crocodile dung mixed with honey as a pessary.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h065",
+				"text": "The only sea without a land boundary is the Sargasso Sea",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Defined by ocean currents in the Atlantic.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h066",
+				"text": "The first website was dedicated to explaining the World Wide Web project itself",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Tim Berners-Lee's site at info.cern.ch in 1991.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h067",
+				"text": "The longest time between two twins being born is 87 days",
+				"answer": true,
+				"category": "general",
+				"explanation": "Recorded in 2012 due to premature birth of one twin.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h068",
+				"text": "The first coins were minted in Lydia (modern Turkey) around 600 BC",
+				"answer": true,
+				"category": "history",
+				"explanation": "Made of electrum, a gold-silver alloy.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h069",
+				"text": "The only bird that can fly backwards is the hummingbird",
+				"answer": true,
+				"category": "science",
+				"explanation": "Its wing structure allows unique maneuverability.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h070",
+				"text": "The first book ever printed with movable type was the Gutenberg Bible in 1455",
+				"answer": true,
+				"category": "history",
+				"explanation": "Johannes Gutenberg's masterpiece.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h071",
+				"text": "The country with the most pyramids is Sudan, not Egypt",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Sudan has over 250 Nubian pyramids vs. Egypt's ~120.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h072",
+				"text": "The first floppy disk was 8 inches in diameter",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Introduced by IBM in 1971.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h073",
+				"text": "The only English word with five consecutive vowels is 'queueing'",
+				"answer": true,
+				"category": "general",
+				"explanation": "u-e-u-e-i-n-g has five vowels in a row.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h074",
+				"text": "The first canned food was developed for Napoleon's army",
+				"answer": true,
+				"category": "history",
+				"explanation": "Nicolas Appert won a prize in 1810 for preservation method.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h075",
+				"text": "The only element named after a living person at the time of naming is Seaborgium (Sg)",
+				"answer": true,
+				"category": "science",
+				"explanation": "Named after Glenn Seaborg while he was still alive.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h076",
+				"text": "The first recorded Olympic marathon winner was disqualified for cheating",
+				"answer": false,
+				"category": "history",
+				"explanation": "Spiridon Louis won fairly in 1896; Fred Lorz was disqualified in 1904.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h077",
+				"text": "The longest national anthem by lyrics is Greece's, with 158 stanzas",
+				"answer": true,
+				"category": "general",
+				"explanation": "Hymn to Liberty; only first two stanzas are usually sung.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h078",
+				"text": "The first person convicted by DNA evidence was in 1987 in the UK",
+				"answer": true,
+				"category": "history",
+				"explanation": "Colin Pitchfork was convicted of murder using DNA fingerprinting.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h079",
+				"text": "The only U.S. president to hold a patent was Abraham Lincoln",
+				"answer": true,
+				"category": "history",
+				"explanation": "Patent for a device to lift boats over shoals.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h080",
+				"text": "The first touchscreen phone was IBM's Simon in 1994",
+				"answer": true,
+				"category": "technology",
+				"explanation": "It included email and fax capabilities.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h081",
+				"text": "The only moon in the solar system with a thick atmosphere is Titan",
+				"answer": true,
+				"category": "science",
+				"explanation": "Thicker than Earth's, mostly nitrogen.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h082",
+				"text": "The first country to abolish slavery was Haiti in 1804",
+				"answer": true,
+				"category": "history",
+				"explanation": "Following its revolution against France.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h083",
+				"text": "The only number whose letters are in alphabetical order is 'forty'",
+				"answer": true,
+				"category": "general",
+				"explanation": "F-o-r-t-y is strictly alphabetical.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h084",
+				"text": "The first electric traffic light was installed in Cleveland in 1914",
+				"answer": true,
+				"category": "history",
+				"explanation": "Red and green lights with buzzers.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h085",
+				"text": "The only mammal that can truly fly is the bat",
+				"answer": true,
+				"category": "science",
+				"explanation": "Others like flying squirrels only glide.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h086",
+				"text": "The first human heart transplant patient survived for 18 days",
+				"answer": true,
+				"category": "history",
+				"explanation": "Louis Washkansky in 1967 by Christiaan Barnard.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h087",
+				"text": "The only African country never colonized is Ethiopia",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Resisted Italian attempts; Liberia was founded by freed slaves.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h088",
+				"text": "The first CD pressed in the U.S. was Bruce Springsteen's 'Born in the U.S.A.'",
+				"answer": true,
+				"category": "general",
+				"explanation": "At the first U.S. CD plant in 1984.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h089",
+				"text": "The only prime number that is even is 2",
+				"answer": true,
+				"category": "science",
+				"explanation": "All other even numbers are divisible by 2.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h090",
+				"text": "The first roller coaster was built in Russia in the 17th century",
+				"answer": true,
+				"category": "history",
+				"explanation": "Ice slides with wheeled sleds in St. Petersburg.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h091",
+				"text": "The only country to have a non-rectangular flag is Nepal",
+				"answer": true,
+				"category": "geography",
+				"explanation": "Two stacked pennants.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h092",
+				"text": "The first CAPTCHA was created to digitize books",
+				"answer": true,
+				"category": "technology",
+				"explanation": "Luis von Ahn's reCAPTCHA helped scan old texts.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h093",
+				"text": "The only word in English with three consecutive double letters is 'bookkeeper'",
+				"answer": true,
+				"category": "general",
+				"explanation": "oo-kk-ee.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h094",
+				"text": "The first nuclear-powered submarine was USS Nautilus in 1954",
+				"answer": true,
+				"category": "history",
+				"explanation": "It famously went 'under the North Pole' in 1958.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h095",
+				"text": "The only metal that is liquid at room temperature is mercury",
+				"answer": true,
+				"category": "science",
+				"explanation": "Others like gallium melt just above.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h096",
+				"text": "The first woman in space was Valentina Tereshkova in 1963",
+				"answer": true,
+				"category": "history",
+				"explanation": "She orbited Earth 48 times on Vostok 6.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h097",
+				"text": "The only U.S. state whose name is one syllable is Maine",
+				"answer": true,
+				"category": "geography",
+				"explanation": "All others have at least two syllables.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h098",
+				"text": "The first video uploaded to YouTube lasts 18 seconds",
+				"answer": true,
+				"category": "technology",
+				"explanation": "'Me at the zoo' shows Jawed Karim at San Diego Zoo.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h099",
+				"text": "The only number spelled with letters in alphabetical order is 'forty'",
+				"answer": true,
+				"category": "general",
+				"explanation": "No other number has letters strictly in order.",
+				"difficulty": "hard"
+			},
+			{
+				"id": "h100",
+				"text": "The first successful human-to-human blood transfusion was performed in 1818 by James Blundell",
+				"answer": true,
+				"category": "history",
+				"explanation": "He treated postpartum hemorrhage.",
+				"difficulty": "hard"
+			}
+		]
+	},
+	"daily_rotation": {
+		"enabled": true,
+		"refresh_hour": 0,
+		"timezone": "UTC"
+	},
+	"weekly_themes": [
+		{
+			"week": 1,
+			"theme": "Science Special",
+			"categories": [
+				"science"
+			],
+			"bonus_multiplier": 1.5
+		},
+		{
+			"week": 2,
+			"theme": "History Week",
+			"categories": [
+				"history"
+			],
+			"bonus_multiplier": 1.5
+		},
+		{
+			"week": 3,
+			"theme": "Geography Challenge",
+			"categories": [
+				"geography"
+			],
+			"bonus_multiplier": 1.5
+		},
+		{
+			"week": 4,
+			"theme": "Mixed Knowledge",
+			"categories": [
+				"general",
+				"technology"
+			],
+			"bonus_multiplier": 1.2
+		}
+	],
+	"version": "1.0.0",
+	"last_updated": "2025-01-15"
 }
