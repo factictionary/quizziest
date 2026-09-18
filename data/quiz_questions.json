@@ -1,1658 +1,2538 @@
 {
-    "version": "3.0.0",
-    "last_updated": "2025-11-08T10:00:00Z",
-    "categories": [
-        {
-            "id": "general",
-            "questions": [
-                {
-                    "id": "q_gen_004",
-                    "question": "Which country is known as the Land of the Rising Sun?",
-                    "options": ["Japan", "China", "Thailand", "South Korea"],
-                    "correct_index": 0,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "An island nation in East Asia",
-                    "explanation": "Japan is called the Land of the Rising Sun because it lies to the east of the Asian continent.",
-                    "source": "World Atlas",
-                    "tags": ["geography", "asia"]
-                },
-                {
-                    "id": "q_gen_005",
-                    "question": "Which language has the most native speakers worldwide?",
-                    "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "Spoken widely in China",
-                    "explanation": "Mandarin Chinese has more native speakers than any other language.",
-                    "source": "Ethnologue",
-                    "tags": ["language", "demographics"]
-                },
-                {
-                    "id": "q_gen_006",
-                    "question": "Which festival is known as the Festival of Lights in India?",
-                    "options": ["Holi", "Eid", "Diwali", "Navratri"],
-                    "correct_index": 2,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "Celebrated with lamps and sweets",
-                    "explanation": "Diwali, or Deepavali, is known as the Festival of Lights and celebrates the victory of light over darkness.",
-                    "source": "Cultural Encyclopedia",
-                    "tags": ["culture", "india"]
-                },
-                {
-                    "id": "q_gen_007",
-                    "question": "What is the tallest animal on Earth?",
-                    "options": ["Elephant", "Giraffe", "Kangaroo", "Camel"],
-                    "correct_index": 1,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "It has a very long neck",
-                    "explanation": "The giraffe is the tallest animal, reaching heights over 5.5 meters.",
-                    "source": "National Geographic",
-                    "tags": ["animals", "nature"]
-                },
-                {
-                    "id": "q_gen_008",
-                    "question": "Which day is celebrated as World Environment Day?",
-                    "options": ["June 5", "April 22", "May 1", "July 11"],
-                    "correct_index": 0,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 25,
-                    "hint": "Early June",
-                    "explanation": "World Environment Day is celebrated every year on June 5 to encourage awareness for the environment.",
-                    "source": "UN Environment Programme",
-                    "tags": ["environment", "awareness"]
-                },
+	"version": "3.0.0",
+	"last_updated": "2025-11-08T10:00:00Z",
+	"categories": [
+		{
+			"id": "general",
+			"questions": [
 				{
-                    "id": "q_gen_004",
-                    "question": "Which country is known as the Land of the Rising Sun?",
-                    "options": ["Japan", "China", "Thailand", "South Korea"],
-                    "correct_index": 0,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "An island nation in East Asia",
-                    "explanation": "Japan is called the Land of the Rising Sun because it lies to the east of the Asian continent.",
-                    "source": "World Atlas",
-                    "tags": ["geography", "asia"]
-                },
-                {
-                    "id": "q_gen_005",
-                    "question": "Which language has the most native speakers worldwide?",
-                    "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "Spoken widely in China",
-                    "explanation": "Mandarin Chinese has more native speakers than any other language.",
-                    "source": "Ethnologue",
-                    "tags": ["language", "demographics"]
-                },
-                {
-                    "id": "q_gen_006",
-                    "question": "Which festival is known as the Festival of Lights in India?",
-                    "options": ["Holi", "Eid", "Diwali", "Navratri"],
-                    "correct_index": 2,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "Celebrated with lamps and sweets",
-                    "explanation": "Diwali, or Deepavali, is known as the Festival of Lights and celebrates the victory of light over darkness.",
-                    "source": "Cultural Encyclopedia",
-                    "tags": ["culture", "india"]
-                },
-                {
-                    "id": "q_gen_007",
-                    "question": "Which day is celebrated as World Environment Day?",
-                    "options": ["June 5", "April 22", "May 1", "July 11"],
-                    "correct_index": 0,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 25,
-                    "hint": "Early June",
-                    "explanation": "World Environment Day is celebrated every year on June 5 to encourage awareness for the environment.",
-                    "source": "UN Environment Programme",
-                    "tags": ["environment", "awareness"]
-                },
-                {
-                    "id": "q_gen_008",
-                    "question": "Which ocean is the largest?",
-                    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-                    "correct_index": 3,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "Covers about 30% of Earth's surface",
-                    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth.",
-                    "source": "National Geographic",
-                    "tags": ["geography", "oceans"]
-                },
-                {
-                    "id": "q_gen_009",
-                    "question": "Which country gifted the Statue of Liberty to the United States?",
-                    "options": ["England", "France", "Italy", "Spain"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "A European ally during the American Revolution",
-                    "explanation": "France gifted the Statue of Liberty to the United States in 1886.",
-                    "source": "History Archives",
-                    "tags": ["history", "monuments"]
-                },
-				{
-				  "id": "q_gen_010",
-				  "question": "Which element has the chemical symbol 'O'?",
-				  "options": ["Gold", "Oxygen", "Osmium", "Oxide"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Essential for breathing",
-				  "explanation": "The symbol 'O' stands for Oxygen in the periodic table.",
-				  "source": "Periodic Table Manual",
-				  "tags": ["chemistry", "basic"]
+					"id": "q_gen_004",
+					"question": "Which country is known as the Land of the Rising Sun?",
+					"options": [
+						"Japan",
+						"China",
+						"Thailand",
+						"South Korea"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "An island nation in East Asia",
+					"explanation": "Japan is called the Land of the Rising Sun because it lies to the east of the Asian continent.",
+					"source": "World Atlas",
+					"tags": [
+						"geography",
+						"asia"
+					]
 				},
 				{
-				  "id": "q_gen_011",
-				  "question": "Which city is known as the Big Apple?",
-				  "options": ["Los Angeles", "New York City", "Chicago", "San Francisco"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 15,
-				  "hint": "Largest city in the USA",
-				  "explanation": "New York City is famously nicknamed the Big Apple.",
-				  "source": "Tourism NYC",
-				  "tags": ["cities", "nicknames"]
+					"id": "q_gen_005",
+					"question": "Which language has the most native speakers worldwide?",
+					"options": [
+						"English",
+						"Mandarin Chinese",
+						"Spanish",
+						"Hindi"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Spoken widely in China",
+					"explanation": "Mandarin Chinese has more native speakers than any other language.",
+					"source": "Ethnologue",
+					"tags": [
+						"language",
+						"demographics"
+					]
 				},
 				{
-				  "id": "q_gen_012",
-				  "question": "Which instrument measures atmospheric pressure?",
-				  "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Used in weather forecasting",
-				  "explanation": "A barometer measures atmospheric pressure, aiding weather prediction.",
-				  "source": "Meteorology Guide",
-				  "tags": ["weather", "science"]
+					"id": "q_gen_006",
+					"question": "Which festival is known as the Festival of Lights in India?",
+					"options": [
+						"Holi",
+						"Eid",
+						"Diwali",
+						"Navratri"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Celebrated with lamps and sweets",
+					"explanation": "Diwali, or Deepavali, is known as the Festival of Lights and celebrates the victory of light over darkness.",
+					"source": "Cultural Encyclopedia",
+					"tags": [
+						"culture",
+						"india"
+					]
 				},
 				{
-				  "id": "q_gen_013",
-				  "question": "Which planet is famous for its rings?",
-				  "options": ["Mars", "Venus", "Saturn", "Jupiter"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Second-largest planet",
-				  "explanation": "Saturn’s ice and rock rings make it unique in the solar system.",
-				  "source": "NASA",
-				  "tags": ["space", "planets"]
+					"id": "q_gen_007",
+					"question": "What is the tallest animal on Earth?",
+					"options": [
+						"Elephant",
+						"Giraffe",
+						"Kangaroo",
+						"Camel"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "It has a very long neck",
+					"explanation": "The giraffe is the tallest animal, reaching heights over 5.5 meters.",
+					"source": "National Geographic",
+					"tags": [
+						"animals",
+						"nature"
+					]
 				},
 				{
-				  "id": "q_gen_014",
-				  "question": "Which is the smallest country in the world?",
-				  "options": ["Monaco", "Vatican City", "Liechtenstein", "Malta"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Headquarters of the Catholic Church",
-				  "explanation": "Vatican City covers about 0.49 km², the world’s smallest nation.",
-				  "source": "CIA World Factbook",
-				  "tags": ["geography", "countries"]
+					"id": "q_gen_008",
+					"question": "Which day is celebrated as World Environment Day?",
+					"options": [
+						"June 5",
+						"April 22",
+						"May 1",
+						"July 11"
+					],
+					"correct_index": 0,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Early June",
+					"explanation": "World Environment Day is celebrated every year on June 5 to encourage awareness for the environment.",
+					"source": "UN Environment Programme",
+					"tags": [
+						"environment",
+						"awareness"
+					]
 				},
 				{
-				  "id": "q_gen_015",
-				  "question": "Which continent has the most countries?",
-				  "options": ["Asia", "Europe", "Africa", "South America"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "More than 50 nations",
-				  "explanation": "Africa has 54 recognized countries, the highest of any continent.",
-				  "source": "UN Statistics",
-				  "tags": ["geography", "continents"]
+					"id": "q_gen_004",
+					"question": "Which country is known as the Land of the Rising Sun?",
+					"options": [
+						"Japan",
+						"China",
+						"Thailand",
+						"South Korea"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "An island nation in East Asia",
+					"explanation": "Japan is called the Land of the Rising Sun because it lies to the east of the Asian continent.",
+					"source": "World Atlas",
+					"tags": [
+						"geography",
+						"asia"
+					]
 				},
 				{
-				  "id": "q_gen_016",
-				  "question": "In which year did the Titanic sink?",
-				  "options": ["1905", "1912", "1920", "1935"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 25,
-				  "hint": "Early 20th century tragedy",
-				  "explanation": "RMS Titanic sank on April 15, 1912 after hitting an iceberg.",
-				  "source": "Maritime Records",
-				  "tags": ["history", "disasters"]
+					"id": "q_gen_005",
+					"question": "Which language has the most native speakers worldwide?",
+					"options": [
+						"English",
+						"Mandarin Chinese",
+						"Spanish",
+						"Hindi"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Spoken widely in China",
+					"explanation": "Mandarin Chinese has more native speakers than any other language.",
+					"source": "Ethnologue",
+					"tags": [
+						"language",
+						"demographics"
+					]
 				},
 				{
-				  "id": "q_gen_017",
-				  "question": "Which is the hardest natural substance on Earth?",
-				  "options": ["Gold", "Iron", "Diamond", "Quartz"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Used in jewelry and drilling",
-				  "explanation": "Diamond is the hardest natural material, rating 10 on Mohs scale.",
-				  "source": "Mineralogy Textbook",
-				  "tags": ["materials", "science"]
+					"id": "q_gen_006",
+					"question": "Which festival is known as the Festival of Lights in India?",
+					"options": [
+						"Holi",
+						"Eid",
+						"Diwali",
+						"Navratri"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Celebrated with lamps and sweets",
+					"explanation": "Diwali, or Deepavali, is known as the Festival of Lights and celebrates the victory of light over darkness.",
+					"source": "Cultural Encyclopedia",
+					"tags": [
+						"culture",
+						"india"
+					]
 				},
 				{
-				  "id": "q_gen_018",
-				  "question": "What is the capital city of Australia?",
-				  "options": ["Sydney", "Canberra", "Melbourne", "Perth"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "It’s not Sydney or Melbourne",
-				  "explanation": "Canberra is the capital city of Australia, chosen as a compromise between Sydney and Melbourne.",
-				  "source": "Australian Government Archives",
-				  "tags": ["geography", "countries"]
+					"id": "q_gen_007",
+					"question": "Which day is celebrated as World Environment Day?",
+					"options": [
+						"June 5",
+						"April 22",
+						"May 1",
+						"July 11"
+					],
+					"correct_index": 0,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Early June",
+					"explanation": "World Environment Day is celebrated every year on June 5 to encourage awareness for the environment.",
+					"source": "UN Environment Programme",
+					"tags": [
+						"environment",
+						"awareness"
+					]
 				},
 				{
-				  "id": "q_gen_019",
-				  "question": "What is the world’s longest river?",
-				  "options": ["Amazon", "Yangtze", "Nile", "Mississippi"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 25,
-				  "hint": "Flows through Egypt",
-				  "explanation": "The Nile River, at over 6,600 km, is often regarded as the longest river in the world.",
-				  "source": "World Geography Atlas",
-				  "tags": ["rivers", "earth"]
+					"id": "q_gen_008",
+					"question": "Which ocean is the largest?",
+					"options": [
+						"Atlantic Ocean",
+						"Indian Ocean",
+						"Arctic Ocean",
+						"Pacific Ocean"
+					],
+					"correct_index": 3,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Covers about 30% of Earth's surface",
+					"explanation": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+					"source": "National Geographic",
+					"tags": [
+						"geography",
+						"oceans"
+					]
 				},
 				{
-				  "id": "q_gen_020",
-				  "question": "Which planet is known for having a Great Red Spot?",
-				  "options": ["Mars", "Jupiter", "Venus", "Neptune"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 15,
-				  "hint": "Largest planet",
-				  "explanation": "Jupiter’s Great Red Spot is a giant storm larger than Earth that has persisted for centuries.",
-				  "source": "NASA",
-				  "tags": ["space", "planets"]
+					"id": "q_gen_009",
+					"question": "Which country gifted the Statue of Liberty to the United States?",
+					"options": [
+						"England",
+						"France",
+						"Italy",
+						"Spain"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "A European ally during the American Revolution",
+					"explanation": "France gifted the Statue of Liberty to the United States in 1886.",
+					"source": "History Archives",
+					"tags": [
+						"history",
+						"monuments"
+					]
 				},
 				{
-				  "id": "q_gen_021",
-				  "question": "Who wrote 'The Adventures of Tom Sawyer'?",
-				  "options": ["Mark Twain", "Charles Dickens", "Ernest Hemingway", "F. Scott Fitzgerald"],
-				  "correct_index": 0,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "American humorist",
-				  "explanation": "Mark Twain wrote this classic in 1876, set along the Mississippi River.",
-				  "source": "Literary Archives",
-				  "tags": ["literature", "authors"]
+					"id": "q_gen_010",
+					"question": "Which element has the chemical symbol 'O'?",
+					"options": [
+						"Gold",
+						"Oxygen",
+						"Osmium",
+						"Oxide"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Essential for breathing",
+					"explanation": "The symbol 'O' stands for Oxygen in the periodic table.",
+					"source": "Periodic Table Manual",
+					"tags": [
+						"chemistry",
+						"basic"
+					]
 				},
 				{
-				  "id": "q_gen_022",
-				  "question": "What is the largest mammal on Earth?",
-				  "options": ["Elephant", "Blue Whale", "Hippopotamus", "Giraffe"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Lives in the ocean",
-				  "explanation": "The Blue Whale can reach up to 30 meters in length and 180 metric tons.",
-				  "source": "Marine Biology Journal",
-				  "tags": ["animals", "nature"]
+					"id": "q_gen_011",
+					"question": "Which city is known as the Big Apple?",
+					"options": [
+						"Los Angeles",
+						"New York City",
+						"Chicago",
+						"San Francisco"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Largest city in the USA",
+					"explanation": "New York City is famously nicknamed the Big Apple.",
+					"source": "Tourism NYC",
+					"tags": [
+						"cities",
+						"nicknames"
+					]
 				},
 				{
-				  "id": "q_gen_023",
-				  "question": "Which organ in the human body is responsible for pumping blood?",
-				  "options": ["Liver", "Lungs", "Heart", "Kidneys"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Beats continuously",
-				  "explanation": "The heart pumps oxygenated blood throughout the body.",
-				  "source": "Anatomy Handbook",
-				  "tags": ["biology", "human-body"]
+					"id": "q_gen_012",
+					"question": "Which instrument measures atmospheric pressure?",
+					"options": [
+						"Thermometer",
+						"Barometer",
+						"Hygrometer",
+						"Anemometer"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Used in weather forecasting",
+					"explanation": "A barometer measures atmospheric pressure, aiding weather prediction.",
+					"source": "Meteorology Guide",
+					"tags": [
+						"weather",
+						"science"
+					]
 				},
 				{
-				  "id": "q_gen_024",
-				  "question": "Which country invented paper?",
-				  "options": ["Greece", "China", "Egypt", "India"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 25,
-				  "hint": "Eastern civilization",
-				  "explanation": "Paper was invented in ancient China during the Han Dynasty around 100 BC.",
-				  "source": "History of Civilization",
-				  "tags": ["inventions", "history"]
+					"id": "q_gen_013",
+					"question": "Which planet is famous for its rings?",
+					"options": [
+						"Mars",
+						"Venus",
+						"Saturn",
+						"Jupiter"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Second-largest planet",
+					"explanation": "Saturn’s ice and rock rings make it unique in the solar system.",
+					"source": "NASA",
+					"tags": [
+						"space",
+						"planets"
+					]
 				},
 				{
-				  "id": "q_gen_025",
-				  "question": "What gas do humans exhale when they breathe out?",
-				  "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Plants absorb it",
-				  "explanation": "Humans exhale carbon dioxide, a byproduct of respiration.",
-				  "source": "Human Physiology Guide",
-				  "tags": ["biology", "respiration"]
+					"id": "q_gen_014",
+					"question": "Which is the smallest country in the world?",
+					"options": [
+						"Monaco",
+						"Vatican City",
+						"Liechtenstein",
+						"Malta"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Headquarters of the Catholic Church",
+					"explanation": "Vatican City covers about 0.49 km², the world’s smallest nation.",
+					"source": "CIA World Factbook",
+					"tags": [
+						"geography",
+						"countries"
+					]
 				},
 				{
-				  "id": "q_gen_026",
-				  "question": "Which famous scientist developed the theory of relativity?",
-				  "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 25,
-				  "hint": "E = mc²",
-				  "explanation": "Albert Einstein’s theory of relativity revolutionized physics in the early 20th century.",
-				  "source": "Physics Textbook",
-				  "tags": ["science", "physics"]
+					"id": "q_gen_015",
+					"question": "Which continent has the most countries?",
+					"options": [
+						"Asia",
+						"Europe",
+						"Africa",
+						"South America"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "More than 50 nations",
+					"explanation": "Africa has 54 recognized countries, the highest of any continent.",
+					"source": "UN Statistics",
+					"tags": [
+						"geography",
+						"continents"
+					]
 				},
 				{
-				  "id": "q_gen_027",
-				  "question": "What is the main ingredient in guacamole?",
-				  "options": ["Avocado", "Tomato", "Onion", "Cucumber"],
-				  "correct_index": 0,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Green and creamy",
-				  "explanation": "Guacamole is made primarily from mashed avocados, seasoned with lime and salt.",
-				  "source": "Food Encyclopedia",
-				  "tags": ["food", "world-cuisine"]
+					"id": "q_gen_016",
+					"question": "In which year did the Titanic sink?",
+					"options": [
+						"1905",
+						"1912",
+						"1920",
+						"1935"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Early 20th century tragedy",
+					"explanation": "RMS Titanic sank on April 15, 1912 after hitting an iceberg.",
+					"source": "Maritime Records",
+					"tags": [
+						"history",
+						"disasters"
+					]
 				},
 				{
-				  "id": "q_gen_028",
-				  "question": "Which continent is home to the Sahara Desert?",
-				  "options": ["Asia", "Africa", "Australia", "South America"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Largest desert in the world",
-				  "explanation": "The Sahara Desert is located in North Africa, spanning 11 countries.",
-				  "source": "National Geographic",
-				  "tags": ["geography", "deserts"]
+					"id": "q_gen_017",
+					"question": "Which is the hardest natural substance on Earth?",
+					"options": [
+						"Gold",
+						"Iron",
+						"Diamond",
+						"Quartz"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Used in jewelry and drilling",
+					"explanation": "Diamond is the hardest natural material, rating 10 on Mohs scale.",
+					"source": "Mineralogy Textbook",
+					"tags": [
+						"materials",
+						"science"
+					]
 				},
 				{
-				  "id": "q_gen_029",
-				  "question": "Who painted 'The Starry Night'?",
-				  "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Claude Monet"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Dutch post-impressionist",
-				  "explanation": "Vincent van Gogh painted 'The Starry Night' in 1889 while at a mental asylum in France.",
-				  "source": "Art Museum Records",
-				  "tags": ["art", "culture"]
+					"id": "q_gen_018",
+					"question": "What is the capital city of Australia?",
+					"options": [
+						"Sydney",
+						"Canberra",
+						"Melbourne",
+						"Perth"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "It’s not Sydney or Melbourne",
+					"explanation": "Canberra is the capital city of Australia, chosen as a compromise between Sydney and Melbourne.",
+					"source": "Australian Government Archives",
+					"tags": [
+						"geography",
+						"countries"
+					]
 				},
 				{
-				  "id": "q_gen_030",
-				  "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
-				  "options": ["Mars", "Venus", "Jupiter", "Mercury"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 15,
-				  "hint": "Brightest planet visible from Earth",
-				  "explanation": "Venus is called both the Morning and Evening Star due to its brightness and orbit.",
-				  "source": "Astronomy Digest",
-				  "tags": ["space", "planets"]
+					"id": "q_gen_019",
+					"question": "What is the world’s longest river?",
+					"options": [
+						"Amazon",
+						"Yangtze",
+						"Nile",
+						"Mississippi"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Flows through Egypt",
+					"explanation": "The Nile River, at over 6,600 km, is often regarded as the longest river in the world.",
+					"source": "World Geography Atlas",
+					"tags": [
+						"rivers",
+						"earth"
+					]
 				},
 				{
-				  "id": "q_gen_031",
-				  "question": "What is the national currency of Japan?",
-				  "options": ["Won", "Yen", "Baht", "Ringgit"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Symbol ¥",
-				  "explanation": "The Japanese Yen (JPY) is the official currency of Japan.",
-				  "source": "IMF Data",
-				  "tags": ["finance", "asia"]
+					"id": "q_gen_020",
+					"question": "Which planet is known for having a Great Red Spot?",
+					"options": [
+						"Mars",
+						"Jupiter",
+						"Venus",
+						"Neptune"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Largest planet",
+					"explanation": "Jupiter’s Great Red Spot is a giant storm larger than Earth that has persisted for centuries.",
+					"source": "NASA",
+					"tags": [
+						"space",
+						"planets"
+					]
 				},
 				{
-				  "id": "q_gen_032",
-				  "question": "Which blood type is known as the universal donor?",
-				  "options": ["A", "B", "AB", "O negative"],
-				  "correct_index": 3,
-				  "difficulty": "hard",
-				  "points": 40,
-				  "negative_points": 10,
-				  "bonus_for_streak": 15,
-				  "time_limit": 35,
-				  "hint": "Lacks A and B antigens",
-				  "explanation": "O-negative blood can be safely transfused to patients of any blood group.",
-				  "source": "Red Cross Manual",
-				  "tags": ["biology", "health"]
+					"id": "q_gen_021",
+					"question": "Who wrote 'The Adventures of Tom Sawyer'?",
+					"options": [
+						"Mark Twain",
+						"Charles Dickens",
+						"Ernest Hemingway",
+						"F. Scott Fitzgerald"
+					],
+					"correct_index": 0,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "American humorist",
+					"explanation": "Mark Twain wrote this classic in 1876, set along the Mississippi River.",
+					"source": "Literary Archives",
+					"tags": [
+						"literature",
+						"authors"
+					]
 				},
 				{
-				  "id": "q_gen_033",
-				  "question": "Which element has the atomic number 1?",
-				  "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
-				  "correct_index": 0,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Lightest element",
-				  "explanation": "Hydrogen, with one proton, is the first element on the periodic table.",
-				  "source": "Periodic Table",
-				  "tags": ["chemistry", "science"]
+					"id": "q_gen_022",
+					"question": "What is the largest mammal on Earth?",
+					"options": [
+						"Elephant",
+						"Blue Whale",
+						"Hippopotamus",
+						"Giraffe"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Lives in the ocean",
+					"explanation": "The Blue Whale can reach up to 30 meters in length and 180 metric tons.",
+					"source": "Marine Biology Journal",
+					"tags": [
+						"animals",
+						"nature"
+					]
 				},
 				{
-				  "id": "q_gen_034",
-				  "question": "Who invented the telephone?",
-				  "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Canadian-born inventor",
-				  "explanation": "Alexander Graham Bell patented the telephone in 1876.",
-				  "source": "Innovation Archives",
-				  "tags": ["inventions", "technology"]
+					"id": "q_gen_023",
+					"question": "Which organ in the human body is responsible for pumping blood?",
+					"options": [
+						"Liver",
+						"Lungs",
+						"Heart",
+						"Kidneys"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Beats continuously",
+					"explanation": "The heart pumps oxygenated blood throughout the body.",
+					"source": "Anatomy Handbook",
+					"tags": [
+						"biology",
+						"human-body"
+					]
 				},
 				{
-				  "id": "q_gen_035",
-				  "question": "What is the national animal of India?",
-				  "options": ["Elephant", "Lion", "Tiger", "Peacock"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Striped predator",
-				  "explanation": "The Bengal Tiger is India’s national animal.",
-				  "source": "Government of India",
-				  "tags": ["india", "wildlife"]
+					"id": "q_gen_024",
+					"question": "Which country invented paper?",
+					"options": [
+						"Greece",
+						"China",
+						"Egypt",
+						"India"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Eastern civilization",
+					"explanation": "Paper was invented in ancient China during the Han Dynasty around 100 BC.",
+					"source": "History of Civilization",
+					"tags": [
+						"inventions",
+						"history"
+					]
 				},
 				{
-				  "id": "q_gen_036",
-				  "question": "Which planet is known as the Blue Planet?",
-				  "options": ["Venus", "Earth", "Neptune", "Uranus"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Our home planet",
-				  "explanation": "Earth appears blue from space because of its oceans.",
-				  "source": "NASA",
-				  "tags": ["space", "earth"]
+					"id": "q_gen_025",
+					"question": "What gas do humans exhale when they breathe out?",
+					"options": [
+						"Oxygen",
+						"Nitrogen",
+						"Carbon Dioxide",
+						"Hydrogen"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Plants absorb it",
+					"explanation": "Humans exhale carbon dioxide, a byproduct of respiration.",
+					"source": "Human Physiology Guide",
+					"tags": [
+						"biology",
+						"respiration"
+					]
 				},
 				{
-				  "id": "q_gen_037",
-				  "question": "Which is the largest island in the world?",
-				  "options": ["Madagascar", "Borneo", "Greenland", "New Guinea"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Located near the Arctic",
-				  "explanation": "Greenland is the world’s largest island, covering over 2 million km².",
-				  "source": "World Atlas",
-				  "tags": ["geography", "earth"]
+					"id": "q_gen_026",
+					"question": "Which famous scientist developed the theory of relativity?",
+					"options": [
+						"Isaac Newton",
+						"Albert Einstein",
+						"Stephen Hawking",
+						"Galileo Galilei"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "E = mc²",
+					"explanation": "Albert Einstein’s theory of relativity revolutionized physics in the early 20th century.",
+					"source": "Physics Textbook",
+					"tags": [
+						"science",
+						"physics"
+					]
 				},
 				{
-				  "id": "q_gen_038",
-				  "question": "Which metal is liquid at room temperature?",
-				  "options": ["Mercury", "Iron", "Lead", "Zinc"],
-				  "correct_index": 0,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Used in thermometers",
-				  "explanation": "Mercury is the only metal that remains liquid at room temperature.",
-				  "source": "Chemistry Handbook",
-				  "tags": ["chemistry", "elements"]
+					"id": "q_gen_027",
+					"question": "What is the main ingredient in guacamole?",
+					"options": [
+						"Avocado",
+						"Tomato",
+						"Onion",
+						"Cucumber"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Green and creamy",
+					"explanation": "Guacamole is made primarily from mashed avocados, seasoned with lime and salt.",
+					"source": "Food Encyclopedia",
+					"tags": [
+						"food",
+						"world-cuisine"
+					]
 				},
 				{
-				  "id": "q_gen_039",
-				  "question": "What is the smallest prime number?",
-				  "options": ["0", "1", "2", "3"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Only even prime",
-				  "explanation": "2 is the smallest and the only even prime number.",
-				  "source": "Mathematics Basics",
-				  "tags": ["math", "numbers"]
+					"id": "q_gen_028",
+					"question": "Which continent is home to the Sahara Desert?",
+					"options": [
+						"Asia",
+						"Africa",
+						"Australia",
+						"South America"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Largest desert in the world",
+					"explanation": "The Sahara Desert is located in North Africa, spanning 11 countries.",
+					"source": "National Geographic",
+					"tags": [
+						"geography",
+						"deserts"
+					]
 				},
 				{
-				  "id": "q_gen_040",
-				  "question": "Which ocean lies between Africa and Australia?",
-				  "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Named after a subcontinent",
-				  "explanation": "The Indian Ocean is located between Africa, Asia, and Australia.",
-				  "source": "World Geography Guide",
-				  "tags": ["oceans", "geography"]
+					"id": "q_gen_029",
+					"question": "Who painted 'The Starry Night'?",
+					"options": [
+						"Pablo Picasso",
+						"Leonardo da Vinci",
+						"Vincent van Gogh",
+						"Claude Monet"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Dutch post-impressionist",
+					"explanation": "Vincent van Gogh painted 'The Starry Night' in 1889 while at a mental asylum in France.",
+					"source": "Art Museum Records",
+					"tags": [
+						"art",
+						"culture"
+					]
 				},
 				{
-				  "id": "q_gen_041",
-				  "question": "Which organ purifies blood in the human body?",
-				  "options": ["Heart", "Kidneys", "Liver", "Lungs"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Bean-shaped organs",
-				  "explanation": "The kidneys filter waste and excess water from the blood.",
-				  "source": "Anatomy Manual",
-				  "tags": ["biology", "organs"]
+					"id": "q_gen_030",
+					"question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+					"options": [
+						"Mars",
+						"Venus",
+						"Jupiter",
+						"Mercury"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 15,
+					"hint": "Brightest planet visible from Earth",
+					"explanation": "Venus is called both the Morning and Evening Star due to its brightness and orbit.",
+					"source": "Astronomy Digest",
+					"tags": [
+						"space",
+						"planets"
+					]
 				},
 				{
-				  "id": "q_gen_042",
-				  "question": "What is the capital of Canada?",
-				  "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Located in Ontario province",
-				  "explanation": "Ottawa is the capital of Canada and home to Parliament Hill.",
-				  "source": "CIA World Factbook",
-				  "tags": ["geography", "countries"]
+					"id": "q_gen_031",
+					"question": "What is the national currency of Japan?",
+					"options": [
+						"Won",
+						"Yen",
+						"Baht",
+						"Ringgit"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Symbol ¥",
+					"explanation": "The Japanese Yen (JPY) is the official currency of Japan.",
+					"source": "IMF Data",
+					"tags": [
+						"finance",
+						"asia"
+					]
 				},
 				{
-				  "id": "q_gen_043",
-				  "question": "Which vitamin is also known as ascorbic acid?",
-				  "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Found in citrus fruits",
-				  "explanation": "Vitamin C, or ascorbic acid, helps repair tissues and boosts immunity.",
-				  "source": "Health Reference",
-				  "tags": ["health", "vitamins"]
+					"id": "q_gen_032",
+					"question": "Which blood type is known as the universal donor?",
+					"options": [
+						"A",
+						"B",
+						"AB",
+						"O negative"
+					],
+					"correct_index": 3,
+					"difficulty": "hard",
+					"points": 40,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 35,
+					"hint": "Lacks A and B antigens",
+					"explanation": "O-negative blood can be safely transfused to patients of any blood group.",
+					"source": "Red Cross Manual",
+					"tags": [
+						"biology",
+						"health"
+					]
 				},
 				{
-				  "id": "q_gen_044",
-				  "question": "In which country is the Great Barrier Reef located?",
-				  "options": ["Australia", "New Zealand", "Indonesia", "Philippines"],
-				  "correct_index": 0,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 25,
-				  "hint": "Southern Hemisphere",
-				  "explanation": "The Great Barrier Reef is the world’s largest coral reef system, located off Australia’s coast.",
-				  "source": "Marine Geography",
-				  "tags": ["nature", "oceans"]
+					"id": "q_gen_033",
+					"question": "Which element has the atomic number 1?",
+					"options": [
+						"Hydrogen",
+						"Helium",
+						"Oxygen",
+						"Carbon"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Lightest element",
+					"explanation": "Hydrogen, with one proton, is the first element on the periodic table.",
+					"source": "Periodic Table",
+					"tags": [
+						"chemistry",
+						"science"
+					]
 				},
 				{
-				  "id": "q_gen_045",
-				  "question": "Who discovered gravity?",
-				  "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Johannes Kepler"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Apple tree story",
-				  "explanation": "Isaac Newton formulated the law of universal gravitation in the 17th century.",
-				  "source": "Physics Textbook",
-				  "tags": ["science", "discoveries"]
+					"id": "q_gen_034",
+					"question": "Who invented the telephone?",
+					"options": [
+						"Thomas Edison",
+						"Nikola Tesla",
+						"Alexander Graham Bell",
+						"Guglielmo Marconi"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Canadian-born inventor",
+					"explanation": "Alexander Graham Bell patented the telephone in 1876.",
+					"source": "Innovation Archives",
+					"tags": [
+						"inventions",
+						"technology"
+					]
 				},
 				{
-				  "id": "q_gen_046",
-				  "question": "Which country has the most population in the world as of 2025?",
-				  "options": ["China", "India", "USA", "Indonesia"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "South Asian giant",
-				  "explanation": "India surpassed China as the most populous country in 2023.",
-				  "source": "UN Population Report",
-				  "tags": ["demographics", "asia"]
+					"id": "q_gen_035",
+					"question": "What is the national animal of India?",
+					"options": [
+						"Elephant",
+						"Lion",
+						"Tiger",
+						"Peacock"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Striped predator",
+					"explanation": "The Bengal Tiger is India’s national animal.",
+					"source": "Government of India",
+					"tags": [
+						"india",
+						"wildlife"
+					]
 				},
 				{
-				  "id": "q_gen_047",
-				  "question": "Which city hosted the first modern Olympic Games?",
-				  "options": ["London", "Athens", "Paris", "Rome"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Cradle of Western civilization",
-				  "explanation": "The first modern Olympic Games were held in Athens, Greece in 1896.",
-				  "source": "Olympic.org",
-				  "tags": ["sports", "history"]
+					"id": "q_gen_036",
+					"question": "Which planet is known as the Blue Planet?",
+					"options": [
+						"Venus",
+						"Earth",
+						"Neptune",
+						"Uranus"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Our home planet",
+					"explanation": "Earth appears blue from space because of its oceans.",
+					"source": "NASA",
+					"tags": [
+						"space",
+						"earth"
+					]
 				},
 				{
-				  "id": "q_gen_048",
-				  "question": "Which continent is the driest on Earth?",
-				  "options": ["Africa", "Asia", "Antarctica", "Australia"],
-				  "correct_index": 2,
-				  "difficulty": "hard",
-				  "points": 40,
-				  "negative_points": 10,
-				  "bonus_for_streak": 15,
-				  "time_limit": 35,
-				  "hint": "Coldest as well",
-				  "explanation": "Antarctica receives less precipitation than any other continent.",
-				  "source": "Climate Science Data",
-				  "tags": ["geography", "earth"]
+					"id": "q_gen_037",
+					"question": "Which is the largest island in the world?",
+					"options": [
+						"Madagascar",
+						"Borneo",
+						"Greenland",
+						"New Guinea"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Located near the Arctic",
+					"explanation": "Greenland is the world’s largest island, covering over 2 million km².",
+					"source": "World Atlas",
+					"tags": [
+						"geography",
+						"earth"
+					]
 				},
 				{
-				  "id": "q_gen_049",
-				  "question": "Which famous scientist proposed the three laws of motion?",
-				  "options": ["Einstein", "Galileo", "Newton", "Tesla"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Classical mechanics pioneer",
-				  "explanation": "Sir Isaac Newton introduced the three laws of motion in his book Principia Mathematica.",
-				  "source": "Science Encyclopedia",
-				  "tags": ["physics", "science"]
+					"id": "q_gen_038",
+					"question": "Which metal is liquid at room temperature?",
+					"options": [
+						"Mercury",
+						"Iron",
+						"Lead",
+						"Zinc"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Used in thermometers",
+					"explanation": "Mercury is the only metal that remains liquid at room temperature.",
+					"source": "Chemistry Handbook",
+					"tags": [
+						"chemistry",
+						"elements"
+					]
 				},
 				{
-				  "id": "q_gen_050",
-				  "question": "What is the largest internal organ in the human body?",
-				  "options": ["Liver", "Lungs", "Heart", "Intestines"],
-				  "correct_index": 0,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Produces bile",
-				  "explanation": "The liver is the largest internal organ, vital for detoxification and metabolism.",
-				  "source": "Medical Reference",
-				  "tags": ["biology", "anatomy"]
+					"id": "q_gen_039",
+					"question": "What is the smallest prime number?",
+					"options": [
+						"0",
+						"1",
+						"2",
+						"3"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Only even prime",
+					"explanation": "2 is the smallest and the only even prime number.",
+					"source": "Mathematics Basics",
+					"tags": [
+						"math",
+						"numbers"
+					]
 				},
 				{
-				  "id": "q_gen_051",
-				  "question": "Which city is known as the City of Canals?",
-				  "options": ["Amsterdam", "Venice", "Copenhagen", "Bruges"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Italian lagoon city",
-				  "explanation": "Venice, Italy, is built on 118 small islands connected by canals and bridges.",
-				  "source": "Travel Almanac",
-				  "tags": ["cities", "tourism"]
+					"id": "q_gen_040",
+					"question": "Which ocean lies between Africa and Australia?",
+					"options": [
+						"Pacific Ocean",
+						"Atlantic Ocean",
+						"Indian Ocean",
+						"Arctic Ocean"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Named after a subcontinent",
+					"explanation": "The Indian Ocean is located between Africa, Asia, and Australia.",
+					"source": "World Geography Guide",
+					"tags": [
+						"oceans",
+						"geography"
+					]
 				},
 				{
-				  "id": "q_gen_052",
-				  "question": "Which instrument measures earthquakes?",
-				  "options": ["Thermometer", "Seismograph", "Barometer", "Altimeter"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 25,
-				  "hint": "Records seismic waves",
-				  "explanation": "A seismograph detects and records the strength and duration of earthquakes.",
-				  "source": "Geology Guide",
-				  "tags": ["earth", "science"]
+					"id": "q_gen_041",
+					"question": "Which organ purifies blood in the human body?",
+					"options": [
+						"Heart",
+						"Kidneys",
+						"Liver",
+						"Lungs"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Bean-shaped organs",
+					"explanation": "The kidneys filter waste and excess water from the blood.",
+					"source": "Anatomy Manual",
+					"tags": [
+						"biology",
+						"organs"
+					]
 				},
 				{
-				  "id": "q_gen_053",
-				  "question": "What is the smallest bone in the human body?",
-				  "options": ["Stapes", "Femur", "Ulna", "Tibia"],
-				  "correct_index": 0,
-				  "difficulty": "hard",
-				  "points": 40,
-				  "negative_points": 10,
-				  "bonus_for_streak": 15,
-				  "time_limit": 30,
-				  "hint": "Located in the ear",
-				  "explanation": "The stapes bone in the middle ear is the smallest bone, just 3mm long.",
-				  "source": "Anatomy Textbook",
-				  "tags": ["biology", "anatomy"]
+					"id": "q_gen_042",
+					"question": "What is the capital of Canada?",
+					"options": [
+						"Toronto",
+						"Vancouver",
+						"Ottawa",
+						"Montreal"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Located in Ontario province",
+					"explanation": "Ottawa is the capital of Canada and home to Parliament Hill.",
+					"source": "CIA World Factbook",
+					"tags": [
+						"geography",
+						"countries"
+					]
 				},
 				{
-				  "id": "q_gen_054",
-				  "question": "Which continent has no permanent human population?",
-				  "options": ["Africa", "Antarctica", "Australia", "Asia"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Covered in ice",
-				  "explanation": "Antarctica has no permanent residents, only research stations.",
-				  "source": "World Geography",
-				  "tags": ["geography", "earth"]
+					"id": "q_gen_043",
+					"question": "Which vitamin is also known as ascorbic acid?",
+					"options": [
+						"Vitamin A",
+						"Vitamin C",
+						"Vitamin D",
+						"Vitamin B12"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Found in citrus fruits",
+					"explanation": "Vitamin C, or ascorbic acid, helps repair tissues and boosts immunity.",
+					"source": "Health Reference",
+					"tags": [
+						"health",
+						"vitamins"
+					]
 				},
 				{
-				  "id": "q_gen_055",
-				  "question": "Who invented the light bulb?",
-				  "options": ["Nikola Tesla", "Thomas Edison", "Benjamin Franklin", "Alexander Graham Bell"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "American inventor",
-				  "explanation": "Thomas Edison patented the first practical light bulb in 1879.",
-				  "source": "Innovation Archives",
-				  "tags": ["inventions", "history"]
+					"id": "q_gen_044",
+					"question": "In which country is the Great Barrier Reef located?",
+					"options": [
+						"Australia",
+						"New Zealand",
+						"Indonesia",
+						"Philippines"
+					],
+					"correct_index": 0,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Southern Hemisphere",
+					"explanation": "The Great Barrier Reef is the world’s largest coral reef system, located off Australia’s coast.",
+					"source": "Marine Geography",
+					"tags": [
+						"nature",
+						"oceans"
+					]
 				},
 				{
-				  "id": "q_gen_056",
-				  "question": "Which continent is the largest by area?",
-				  "options": ["Africa", "Asia", "North America", "Europe"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Includes China and India",
-				  "explanation": "Asia is the largest continent, covering about 30% of Earth’s land area.",
-				  "source": "Geography Textbook",
-				  "tags": ["continents", "earth"]
+					"id": "q_gen_045",
+					"question": "Who discovered gravity?",
+					"options": [
+						"Albert Einstein",
+						"Isaac Newton",
+						"Galileo Galilei",
+						"Johannes Kepler"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Apple tree story",
+					"explanation": "Isaac Newton formulated the law of universal gravitation in the 17th century.",
+					"source": "Physics Textbook",
+					"tags": [
+						"science",
+						"discoveries"
+					]
 				},
 				{
-				  "id": "q_gen_057",
-				  "question": "Which city is called the Silicon Valley of India?",
-				  "options": ["Delhi", "Bengaluru", "Mumbai", "Hyderabad"],
-				  "correct_index": 1,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Tech capital of India",
-				  "explanation": "Bengaluru is known as the Silicon Valley of India due to its thriving IT industry.",
-				  "source": "India Knowledge Base",
-				  "tags": ["india", "technology"]
+					"id": "q_gen_046",
+					"question": "Which country has the most population in the world as of 2025?",
+					"options": [
+						"China",
+						"India",
+						"USA",
+						"Indonesia"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "South Asian giant",
+					"explanation": "India surpassed China as the most populous country in 2023.",
+					"source": "UN Population Report",
+					"tags": [
+						"demographics",
+						"asia"
+					]
 				},
 				{
-				  "id": "q_gen_058",
-				  "question": "What is the largest desert in the world?",
-				  "options": ["Sahara", "Arctic", "Antarctic", "Gobi"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 25,
-				  "hint": "It’s icy, not sandy",
-				  "explanation": "The Antarctic desert is the world’s largest desert by area.",
-				  "source": "National Geographic",
-				  "tags": ["geography", "earth"]
+					"id": "q_gen_047",
+					"question": "Which city hosted the first modern Olympic Games?",
+					"options": [
+						"London",
+						"Athens",
+						"Paris",
+						"Rome"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Cradle of Western civilization",
+					"explanation": "The first modern Olympic Games were held in Athens, Greece in 1896.",
+					"source": "Olympic.org",
+					"tags": [
+						"sports",
+						"history"
+					]
 				},
 				{
-				  "id": "q_gen_059",
-				  "question": "Which chemical element is represented by 'Fe'?",
-				  "options": ["Fluorine", "Iron", "Francium", "Fermium"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Used in steel",
-				  "explanation": "Fe is the chemical symbol for Iron.",
-				  "source": "Periodic Table",
-				  "tags": ["chemistry", "elements"]
+					"id": "q_gen_048",
+					"question": "Which continent is the driest on Earth?",
+					"options": [
+						"Africa",
+						"Asia",
+						"Antarctica",
+						"Australia"
+					],
+					"correct_index": 2,
+					"difficulty": "hard",
+					"points": 40,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 35,
+					"hint": "Coldest as well",
+					"explanation": "Antarctica receives less precipitation than any other continent.",
+					"source": "Climate Science Data",
+					"tags": [
+						"geography",
+						"earth"
+					]
 				},
 				{
-				  "id": "q_gen_060",
-				  "question": "What is the largest planet in our solar system?",
-				  "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
-				  "correct_index": 2,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Gas giant",
-				  "explanation": "Jupiter is the largest planet with a mass over 300 times Earth’s.",
-				  "source": "NASA Data",
-				  "tags": ["space", "planets"]
+					"id": "q_gen_049",
+					"question": "Which famous scientist proposed the three laws of motion?",
+					"options": [
+						"Einstein",
+						"Galileo",
+						"Newton",
+						"Tesla"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Classical mechanics pioneer",
+					"explanation": "Sir Isaac Newton introduced the three laws of motion in his book Principia Mathematica.",
+					"source": "Science Encyclopedia",
+					"tags": [
+						"physics",
+						"science"
+					]
 				},
 				{
-				  "id": "q_gen_061",
-				  "question": "Who was the first woman to win a Nobel Prize?",
-				  "options": ["Mother Teresa", "Marie Curie", "Rosalind Franklin", "Ada Lovelace"],
-				  "correct_index": 1,
-				  "difficulty": "hard",
-				  "points": 40,
-				  "negative_points": 10,
-				  "bonus_for_streak": 15,
-				  "time_limit": 35,
-				  "hint": "Won in Physics and Chemistry",
-				  "explanation": "Marie Curie was the first woman Nobel laureate, winning in 1903 and 1911.",
-				  "source": "Nobel Prize Archives",
-				  "tags": ["history", "science"]
+					"id": "q_gen_050",
+					"question": "What is the largest internal organ in the human body?",
+					"options": [
+						"Liver",
+						"Lungs",
+						"Heart",
+						"Intestines"
+					],
+					"correct_index": 0,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Produces bile",
+					"explanation": "The liver is the largest internal organ, vital for detoxification and metabolism.",
+					"source": "Medical Reference",
+					"tags": [
+						"biology",
+						"anatomy"
+					]
 				},
 				{
-				  "id": "q_gen_062",
-				  "question": "Which country is famous for inventing pizza?",
-				  "options": ["France", "Italy", "USA", "Spain"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "European cuisine",
-				  "explanation": "Pizza originated in Naples, Italy.",
-				  "source": "Culinary History Journal",
-				  "tags": ["food", "culture"]
+					"id": "q_gen_051",
+					"question": "Which city is known as the City of Canals?",
+					"options": [
+						"Amsterdam",
+						"Venice",
+						"Copenhagen",
+						"Bruges"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Italian lagoon city",
+					"explanation": "Venice, Italy, is built on 118 small islands connected by canals and bridges.",
+					"source": "Travel Almanac",
+					"tags": [
+						"cities",
+						"tourism"
+					]
 				},
 				{
-				  "id": "q_gen_063",
-				  "question": "What is the freezing point of water in Fahrenheit?",
-				  "options": ["0°F", "32°F", "100°F", "212°F"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Equivalent to 0°C",
-				  "explanation": "Water freezes at 32°F or 0°C.",
-				  "source": "Physics Reference",
-				  "tags": ["science", "temperature"]
+					"id": "q_gen_052",
+					"question": "Which instrument measures earthquakes?",
+					"options": [
+						"Thermometer",
+						"Seismograph",
+						"Barometer",
+						"Altimeter"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Records seismic waves",
+					"explanation": "A seismograph detects and records the strength and duration of earthquakes.",
+					"source": "Geology Guide",
+					"tags": [
+						"earth",
+						"science"
+					]
 				},
 				{
-				  "id": "q_gen_064",
-				  "question": "Which is the fastest land animal?",
-				  "options": ["Lion", "Cheetah", "Leopard", "Horse"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Spotted predator",
-				  "explanation": "The cheetah can sprint at speeds over 100 km/h.",
-				  "source": "Wildlife Encyclopedia",
-				  "tags": ["animals", "speed"]
+					"id": "q_gen_053",
+					"question": "What is the smallest bone in the human body?",
+					"options": [
+						"Stapes",
+						"Femur",
+						"Ulna",
+						"Tibia"
+					],
+					"correct_index": 0,
+					"difficulty": "hard",
+					"points": 40,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 30,
+					"hint": "Located in the ear",
+					"explanation": "The stapes bone in the middle ear is the smallest bone, just 3mm long.",
+					"source": "Anatomy Textbook",
+					"tags": [
+						"biology",
+						"anatomy"
+					]
 				},
 				{
-				  "id": "q_gen_065",
-				  "question": "What is the largest ocean on Earth?",
-				  "options": ["Indian", "Pacific", "Atlantic", "Arctic"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Covers one-third of the planet",
-				  "explanation": "The Pacific Ocean is the largest ocean on Earth.",
-				  "source": "World Atlas",
-				  "tags": ["oceans", "geography"]
+					"id": "q_gen_054",
+					"question": "Which continent has no permanent human population?",
+					"options": [
+						"Africa",
+						"Antarctica",
+						"Australia",
+						"Asia"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Covered in ice",
+					"explanation": "Antarctica has no permanent residents, only research stations.",
+					"source": "World Geography",
+					"tags": [
+						"geography",
+						"earth"
+					]
 				},
 				{
-				  "id": "q_gen_066",
-				  "question": "What is the main language spoken in Brazil?",
-				  "options": ["Spanish", "Portuguese", "English", "French"],
-				  "correct_index": 1,
-				  "difficulty": "easy",
-				  "points": 10,
-				  "negative_points": 0,
-				  "bonus_for_streak": 5,
-				  "time_limit": 10,
-				  "hint": "Colonial influence",
-				  "explanation": "Portuguese is the official language of Brazil.",
-				  "source": "Ethnologue",
-				  "tags": ["language", "south-america"]
+					"id": "q_gen_055",
+					"question": "Who invented the light bulb?",
+					"options": [
+						"Nikola Tesla",
+						"Thomas Edison",
+						"Benjamin Franklin",
+						"Alexander Graham Bell"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "American inventor",
+					"explanation": "Thomas Edison patented the first practical light bulb in 1879.",
+					"source": "Innovation Archives",
+					"tags": [
+						"inventions",
+						"history"
+					]
 				},
 				{
-				  "id": "q_gen_067",
-				  "question": "Which gas is essential for photosynthesis?",
-				  "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
-				  "correct_index": 2,
-				  "difficulty": "medium",
-				  "points": 20,
-				  "negative_points": 5,
-				  "bonus_for_streak": 10,
-				  "time_limit": 20,
-				  "hint": "Absorbed by plants during the day",
-				  "explanation": "Plants use carbon dioxide to produce glucose during photosynthesis.",
-				  "source": "Botany Reference",
-				  "tags": ["biology", "plants"]
+					"id": "q_gen_056",
+					"question": "Which continent is the largest by area?",
+					"options": [
+						"Africa",
+						"Asia",
+						"North America",
+						"Europe"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Includes China and India",
+					"explanation": "Asia is the largest continent, covering about 30% of Earth’s land area.",
+					"source": "Geography Textbook",
+					"tags": [
+						"continents",
+						"earth"
+					]
+				},
+				{
+					"id": "q_gen_057",
+					"question": "Which city is called the Silicon Valley of India?",
+					"options": [
+						"Delhi",
+						"Bengaluru",
+						"Mumbai",
+						"Hyderabad"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Tech capital of India",
+					"explanation": "Bengaluru is known as the Silicon Valley of India due to its thriving IT industry.",
+					"source": "India Knowledge Base",
+					"tags": [
+						"india",
+						"technology"
+					]
+				},
+				{
+					"id": "q_gen_058",
+					"question": "What is the largest desert in the world?",
+					"options": [
+						"Sahara",
+						"Arctic",
+						"Antarctic",
+						"Gobi"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "It’s icy, not sandy",
+					"explanation": "The Antarctic desert is the world’s largest desert by area.",
+					"source": "National Geographic",
+					"tags": [
+						"geography",
+						"earth"
+					]
+				},
+				{
+					"id": "q_gen_059",
+					"question": "Which chemical element is represented by 'Fe'?",
+					"options": [
+						"Fluorine",
+						"Iron",
+						"Francium",
+						"Fermium"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Used in steel",
+					"explanation": "Fe is the chemical symbol for Iron.",
+					"source": "Periodic Table",
+					"tags": [
+						"chemistry",
+						"elements"
+					]
+				},
+				{
+					"id": "q_gen_060",
+					"question": "What is the largest planet in our solar system?",
+					"options": [
+						"Earth",
+						"Saturn",
+						"Jupiter",
+						"Neptune"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Gas giant",
+					"explanation": "Jupiter is the largest planet with a mass over 300 times Earth’s.",
+					"source": "NASA Data",
+					"tags": [
+						"space",
+						"planets"
+					]
+				},
+				{
+					"id": "q_gen_061",
+					"question": "Who was the first woman to win a Nobel Prize?",
+					"options": [
+						"Mother Teresa",
+						"Marie Curie",
+						"Rosalind Franklin",
+						"Ada Lovelace"
+					],
+					"correct_index": 1,
+					"difficulty": "hard",
+					"points": 40,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 35,
+					"hint": "Won in Physics and Chemistry",
+					"explanation": "Marie Curie was the first woman Nobel laureate, winning in 1903 and 1911.",
+					"source": "Nobel Prize Archives",
+					"tags": [
+						"history",
+						"science"
+					]
+				},
+				{
+					"id": "q_gen_062",
+					"question": "Which country is famous for inventing pizza?",
+					"options": [
+						"France",
+						"Italy",
+						"USA",
+						"Spain"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "European cuisine",
+					"explanation": "Pizza originated in Naples, Italy.",
+					"source": "Culinary History Journal",
+					"tags": [
+						"food",
+						"culture"
+					]
+				},
+				{
+					"id": "q_gen_063",
+					"question": "What is the freezing point of water in Fahrenheit?",
+					"options": [
+						"0°F",
+						"32°F",
+						"100°F",
+						"212°F"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Equivalent to 0°C",
+					"explanation": "Water freezes at 32°F or 0°C.",
+					"source": "Physics Reference",
+					"tags": [
+						"science",
+						"temperature"
+					]
+				},
+				{
+					"id": "q_gen_064",
+					"question": "Which is the fastest land animal?",
+					"options": [
+						"Lion",
+						"Cheetah",
+						"Leopard",
+						"Horse"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Spotted predator",
+					"explanation": "The cheetah can sprint at speeds over 100 km/h.",
+					"source": "Wildlife Encyclopedia",
+					"tags": [
+						"animals",
+						"speed"
+					]
+				},
+				{
+					"id": "q_gen_065",
+					"question": "What is the largest ocean on Earth?",
+					"options": [
+						"Indian",
+						"Pacific",
+						"Atlantic",
+						"Arctic"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Covers one-third of the planet",
+					"explanation": "The Pacific Ocean is the largest ocean on Earth.",
+					"source": "World Atlas",
+					"tags": [
+						"oceans",
+						"geography"
+					]
+				},
+				{
+					"id": "q_gen_066",
+					"question": "What is the main language spoken in Brazil?",
+					"options": [
+						"Spanish",
+						"Portuguese",
+						"English",
+						"French"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Colonial influence",
+					"explanation": "Portuguese is the official language of Brazil.",
+					"source": "Ethnologue",
+					"tags": [
+						"language",
+						"south-america"
+					]
+				},
+				{
+					"id": "q_gen_067",
+					"question": "Which gas is essential for photosynthesis?",
+					"options": [
+						"Oxygen",
+						"Nitrogen",
+						"Carbon Dioxide",
+						"Hydrogen"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Absorbed by plants during the day",
+					"explanation": "Plants use carbon dioxide to produce glucose during photosynthesis.",
+					"source": "Botany Reference",
+					"tags": [
+						"biology",
+						"plants"
+					]
 				}
-            ]
-        },
-        {
-            "id": "science",
-            "questions": [
-                {
-                    "id": "q_sci_003",
-                    "question": "What planet is closest to the Sun?",
-                    "options": ["Venus", "Mercury", "Earth", "Mars"],
-                    "correct_index": 1,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Smallest planet",
-                    "explanation": "Mercury is the closest planet to the Sun.",
-                    "source": "NASA",
-                    "tags": ["astronomy", "planets"]
-                },
-                {
-                    "id": "q_sci_004",
-                    "question": "What part of the cell contains genetic material?",
-                    "options": ["Cytoplasm", "Nucleus", "Ribosome", "Cell membrane"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "The brain of the cell",
-                    "explanation": "The nucleus stores DNA, which contains genetic material.",
-                    "source": "Biology Textbook",
-                    "tags": ["cell", "genetics"]
-                },
-                {
-                    "id": "q_sci_005",
-                    "question": "What is the powerhouse of the cell?",
-                    "options": ["Nucleus", "Mitochondria", "Chloroplast", "Golgi body"],
-                    "correct_index": 1,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Produces energy",
-                    "explanation": "Mitochondria generate energy in the form of ATP for cellular functions.",
-                    "source": "Cell Biology Reference",
-                    "tags": ["biology", "cells"]
-                },
-                {
-                    "id": "q_sci_006",
-                    "question": "Which vitamin is produced when the human body is exposed to sunlight?",
-                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
-                    "correct_index": 2,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "Bone health",
-                    "explanation": "Sunlight triggers Vitamin D synthesis in the skin, essential for bone health.",
-                    "source": "Medical Encyclopedia",
-                    "tags": ["health", "vitamins"]
-                },
+			]
+		},
+		{
+			"id": "science",
+			"questions": [
 				{
-                    "id": "q_sci_003",
-                    "question": "What planet is closest to the Sun?",
-                    "options": ["Venus", "Mercury", "Earth", "Mars"],
-                    "correct_index": 1,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Smallest planet",
-                    "explanation": "Mercury is the closest planet to the Sun.",
-                    "source": "NASA",
-                    "tags": ["astronomy", "planets"]
-                },
-                {
-                    "id": "q_sci_004",
-                    "question": "Which part of the cell contains genetic material?",
-                    "options": ["Cytoplasm", "Nucleus", "Ribosome", "Cell membrane"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "The brain of the cell",
-                    "explanation": "The nucleus stores DNA, which contains genetic material.",
-                    "source": "Biology Textbook",
-                    "tags": ["cell", "genetics"]
-                },
-                {
-                    "id": "q_sci_005",
-                    "question": "What is the powerhouse of the cell?",
-                    "options": ["Nucleus", "Mitochondria", "Chloroplast", "Golgi body"],
-                    "correct_index": 1,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Produces energy",
-                    "explanation": "Mitochondria generate energy in the form of ATP for cellular functions.",
-                    "source": "Cell Biology Reference",
-                    "tags": ["biology", "cells"]
-                },
-                {
-                    "id": "q_sci_006",
-                    "question": "Which vitamin is produced when the human body is exposed to sunlight?",
-                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
-                    "correct_index": 2,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "Bone health",
-                    "explanation": "Sunlight triggers Vitamin D synthesis in the skin, essential for bone health.",
-                    "source": "Medical Encyclopedia",
-                    "tags": ["health", "vitamins"]
-                },
-                {
-                    "id": "q_sci_007",
-                    "question": "What gas do plants absorb from the atmosphere?",
-                    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-                    "correct_index": 1,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Used in photosynthesis",
-                    "explanation": "Plants absorb carbon dioxide and release oxygen during photosynthesis.",
-                    "source": "Botany Manual",
-                    "tags": ["plants", "photosynthesis"]
-                },
-                {
-                    "id": "q_sci_008",
-                    "question": "What is the boiling point of water at sea level?",
-                    "options": ["90°C", "95°C", "100°C", "110°C"],
-                    "correct_index": 2,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Three digits",
-                    "explanation": "At standard atmospheric pressure, water boils at 100°C.",
-                    "source": "Physics Reference",
-                    "tags": ["chemistry", "physics"]
-                },
+					"id": "q_sci_003",
+					"question": "What planet is closest to the Sun?",
+					"options": [
+						"Venus",
+						"Mercury",
+						"Earth",
+						"Mars"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Smallest planet",
+					"explanation": "Mercury is the closest planet to the Sun.",
+					"source": "NASA",
+					"tags": [
+						"astronomy",
+						"planets"
+					]
+				},
 				{
-          "id": "q_sci_009",
-          "question": "Which part of the human brain controls balance?",
-          "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
-          "correct_index": 1,
-          "difficulty": "medium",
-          "points": 20,
-          "negative_points": 5,
-          "bonus_for_streak": 10,
-          "time_limit": 20,
-          "hint": "Located at the back of the brain",
-          "explanation": "The cerebellum regulates posture and coordination.",
-          "source": "Neuroscience Basics",
-          "tags": ["biology", "anatomy"]
-        },
-        {
-          "id": "q_sci_010",
-          "question": "What phenomenon causes the sky to appear blue?",
-          "options": ["Reflection", "Refraction", "Scattering", "Absorption"],
-          "correct_index": 2,
-          "difficulty": "medium",
-          "points": 20,
-          "negative_points": 5,
-          "bonus_for_streak": 10,
-          "time_limit": 20,
-          "hint": "Rayleigh ____",
-          "explanation": "Rayleigh scattering of sunlight makes the sky look blue.",
-          "source": "Atmospheric Physics",
-          "tags": ["physics", "light"]
-        },
-        {
-          "id": "q_sci_011",
-          "question": "Which organ in the human body filters blood?",
-          "options": ["Heart", "Lungs", "Kidneys", "Liver"],
-          "correct_index": 2,
-          "difficulty": "easy",
-          "points": 10,
-          "negative_points": 0,
-          "bonus_for_streak": 5,
-          "time_limit": 10,
-          "hint": "Paired bean-shaped organs",
-          "explanation": "Kidneys remove waste and regulate fluid balance.",
-          "source": "Human Physiology",
-          "tags": ["biology", "organs"]
-        },
-        {
-          "id": "q_sci_012",
-          "question": "What force keeps planets in orbit around the Sun?",
-          "options": ["Magnetism", "Centrifugal force", "Gravity", "Friction"],
-          "correct_index": 2,
-          "difficulty": "easy",
-          "points": 10,
-          "negative_points": 0,
-          "bonus_for_streak": 5,
-          "time_limit": 10,
-          "hint": "Discovered by Newton",
-          "explanation": "Gravity holds planets in elliptical orbits around the Sun.",
-          "source": "Astronomy 101",
-          "tags": ["physics", "astronomy"]
-        }
-            ]
-        },
-        {
-            "id": "history",
-            "questions": [
-                {
-                    "id": "q_his_003",
-                    "question": "Who discovered penicillin?",
-                    "options": ["Marie Curie", "Alexander Fleming", "Isaac Newton", "Louis Pasteur"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "A Scottish bacteriologist",
-                    "explanation": "Alexander Fleming discovered penicillin in 1928, leading to antibiotics.",
-                    "source": "Medical History Journal",
-                    "tags": ["medicine", "discoveries"]
-                },
-                {
-                    "id": "q_his_004",
-                    "question": "Who was the first man to step on the Moon?",
-                    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
-                    "correct_index": 0,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Apollo 11 mission",
-                    "explanation": "Neil Armstrong became the first human to walk on the Moon in 1969.",
-                    "source": "NASA Archives",
-                    "tags": ["space", "modern-history"]
-                },
+					"id": "q_sci_004",
+					"question": "What part of the cell contains genetic material?",
+					"options": [
+						"Cytoplasm",
+						"Nucleus",
+						"Ribosome",
+						"Cell membrane"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "The brain of the cell",
+					"explanation": "The nucleus stores DNA, which contains genetic material.",
+					"source": "Biology Textbook",
+					"tags": [
+						"cell",
+						"genetics"
+					]
+				},
 				{
-                    "id": "q_his_003",
-                    "question": "Who discovered penicillin?",
-                    "options": ["Marie Curie", "Alexander Fleming", "Isaac Newton", "Louis Pasteur"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "A Scottish bacteriologist",
-                    "explanation": "Alexander Fleming discovered penicillin in 1928, leading to antibiotics.",
-                    "source": "Medical History Journal",
-                    "tags": ["medicine", "discoveries"]
-                },
-                {
-                    "id": "q_his_004",
-                    "question": "Who was the first man to step on the Moon?",
-                    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
-                    "correct_index": 0,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 10,
-                    "hint": "Apollo 11 mission",
-                    "explanation": "Neil Armstrong became the first human to walk on the Moon in 1969.",
-                    "source": "NASA Archives",
-                    "tags": ["space", "modern-history"]
-                },
+					"id": "q_sci_005",
+					"question": "What is the powerhouse of the cell?",
+					"options": [
+						"Nucleus",
+						"Mitochondria",
+						"Chloroplast",
+						"Golgi body"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Produces energy",
+					"explanation": "Mitochondria generate energy in the form of ATP for cellular functions.",
+					"source": "Cell Biology Reference",
+					"tags": [
+						"biology",
+						"cells"
+					]
+				},
 				{
-          "id": "q_his_005",
-          "question": "Who painted the Mona Lisa?",
-          "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
-          "correct_index": 2,
-          "difficulty": "easy",
-          "points": 10,
-          "negative_points": 0,
-          "bonus_for_streak": 5,
-          "time_limit": 15,
-          "hint": "Italian Renaissance genius",
-          "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 1500s.",
-          "source": "Louvre Museum",
-          "tags": ["art", "renaissance"]
-        },
-        {
-          "id": "q_his_006",
-          "question": "Who was the British Prime Minister during WWII?",
-          "options": ["Neville Chamberlain", "Winston Churchill", "Margaret Thatcher", "Clement Attlee"],
-          "correct_index": 1,
-          "difficulty": "medium",
-          "points": 20,
-          "negative_points": 5,
-          "bonus_for_streak": 10,
-          "time_limit": 25,
-          "hint": "Known for 'We shall fight on the beaches' speech",
-          "explanation": "Winston Churchill led Britain to victory in WWII.",
-          "source": "WWII Chronicles",
-          "tags": ["war", "leaders"]
-        },
-        {
-          "id": "q_his_007",
-          "question": "In which year did India gain independence?",
-          "options": ["1945", "1946", "1947", "1948"],
-          "correct_index": 2,
-          "difficulty": "easy",
-          "points": 10,
-          "negative_points": 0,
-          "bonus_for_streak": 5,
-          "time_limit": 10,
-          "hint": "August 15",
-          "explanation": "India gained independence from Britain on August 15, 1947.",
-          "source": "Indian Constitution Archive",
-          "tags": ["india", "freedom"]
-        }
-            ]
-        },
-        {
-            "id": "technology",
-            "questions": [
-                {
-                    "id": "q_tech_003",
-                    "question": "What does 'AI' stand for in computing?",
-                    "options": ["Artificial Intelligence", "Automated Interface", "Analog Input", "Advanced Integration"],
-                    "correct_index": 0,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "Machines that learn",
-                    "explanation": "AI stands for Artificial Intelligence, enabling machines to mimic human intelligence.",
-                    "source": "Tech Glossary",
-                    "tags": ["ai", "computing"]
-                },
-                {
-                    "id": "q_tech_004",
-                    "question": "Which programming language is primarily used for Android app development?",
-                    "options": ["Swift", "Kotlin", "Python", "C#"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "Developed by JetBrains",
-                    "explanation": "Kotlin is officially supported by Google for Android development.",
-                    "source": "Android Developers",
-                    "tags": ["programming", "mobile"]
-                },
+					"id": "q_sci_006",
+					"question": "Which vitamin is produced when the human body is exposed to sunlight?",
+					"options": [
+						"Vitamin A",
+						"Vitamin C",
+						"Vitamin D",
+						"Vitamin K"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Bone health",
+					"explanation": "Sunlight triggers Vitamin D synthesis in the skin, essential for bone health.",
+					"source": "Medical Encyclopedia",
+					"tags": [
+						"health",
+						"vitamins"
+					]
+				},
 				{
-                    "id": "q_tech_003",
-                    "question": "What does 'AI' stand for in computing?",
-                    "options": ["Artificial Intelligence", "Automated Interface", "Analog Input", "Advanced Integration"],
-                    "correct_index": 0,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "negative_points": 0,
-                    "bonus_for_streak": 5,
-                    "time_limit": 15,
-                    "hint": "Machines that learn",
-                    "explanation": "AI stands for Artificial Intelligence, enabling machines to mimic human intelligence.",
-                    "source": "Tech Glossary",
-                    "tags": ["ai", "computing"]
-                },
-                {
-                    "id": "q_tech_004",
-                    "question": "Which programming language is primarily used for Android app development?",
-                    "options": ["Swift", "Kotlin", "Python", "C#"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "negative_points": 5,
-                    "bonus_for_streak": 10,
-                    "time_limit": 20,
-                    "hint": "Developed by JetBrains",
-                    "explanation": "Kotlin is officially supported by Google for Android development.",
-                    "source": "Android Developers",
-                    "tags": ["programming", "mobile"]
-                },
+					"id": "q_sci_003",
+					"question": "What planet is closest to the Sun?",
+					"options": [
+						"Venus",
+						"Mercury",
+						"Earth",
+						"Mars"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Smallest planet",
+					"explanation": "Mercury is the closest planet to the Sun.",
+					"source": "NASA",
+					"tags": [
+						"astronomy",
+						"planets"
+					]
+				},
 				{
-          "id": "q_tech_005",
-          "question": "What does 'HTTP' stand for?",
-          "options": ["HyperText Transfer Protocol", "High Tech Transmission Program", "HyperTool Transfer Process", "Hardware Transmission Protocol"],
-          "correct_index": 0,
-          "difficulty": "medium",
-          "points": 20,
-          "negative_points": 5,
-          "bonus_for_streak": 10,
-          "time_limit": 20,
-          "hint": "Used in web addresses",
-          "explanation": "HTTP is the foundation of data communication on the Web.",
-          "source": "Web Standards Consortium",
-          "tags": ["internet", "protocols"]
-        },
-        {
-          "id": "q_tech_006",
-          "question": "Which company developed Windows OS?",
-          "options": ["Apple", "IBM", "Microsoft", "Intel"],
-          "correct_index": 2,
-          "difficulty": "easy",
-          "points": 10,
-          "negative_points": 0,
-          "bonus_for_streak": 5,
-          "time_limit": 10,
-          "hint": "Founded by Bill Gates",
-          "explanation": "Microsoft created Windows in 1985 as its flagship operating system.",
-          "source": "Tech History Museum",
-          "tags": ["software", "companies"]
-        },
-        {
-          "id": "q_tech_007",
-          "question": "What does 'GPU' stand for?",
-          "options": ["Graphical Processing Unit", "General Performance Utility", "Global Processor Unit", "Graphics Processing Unit"],
-          "correct_index": 3,
-          "difficulty": "easy",
-          "points": 10,
-          "negative_points": 0,
-          "bonus_for_streak": 5,
-          "time_limit": 10,
-          "hint": "Used for rendering graphics",
-          "explanation": "GPU stands for Graphics Processing Unit, handling image rendering tasks.",
-          "source": "Computer Architecture Guide",
-          "tags": ["hardware", "graphics"]
-        }
-            ]
-        },
-        {
-            "id": "sports",
-            "questions": [
-                {
-                    "id": "q_spt_003",
-                    "question": "Which country has won the most FIFA World Cups?",
-                    "options": ["Germany", "Brazil", "Argentina", "Italy"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "time_limit": 20,
-                    "explanation": "Brazil has won 5 FIFA World Cups, the most of any nation.",
-                    "tags": ["football", "records"]
-                },
-                {
-                    "id": "q_spt_004",
-                    "question": "In which sport is the term 'birdie' used?",
-                    "options": ["Tennis", "Badminton", "Golf", "Cricket"],
-                    "correct_index": 2,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "time_limit": 10,
-                    "explanation": "In golf, a 'birdie' means completing a hole one stroke under par.",
-                    "tags": ["sports", "golf"]
-                },
+					"id": "q_sci_004",
+					"question": "Which part of the cell contains genetic material?",
+					"options": [
+						"Cytoplasm",
+						"Nucleus",
+						"Ribosome",
+						"Cell membrane"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "The brain of the cell",
+					"explanation": "The nucleus stores DNA, which contains genetic material.",
+					"source": "Biology Textbook",
+					"tags": [
+						"cell",
+						"genetics"
+					]
+				},
 				{
-                    "id": "q_spt_003",
-                    "question": "Which country has won the most FIFA World Cups?",
-                    "options": ["Germany", "Brazil", "Argentina", "Italy"],
-                    "correct_index": 1,
-                    "difficulty": "medium",
-                    "points": 20,
-                    "time_limit": 20,
-                    "explanation": "Brazil has won 5 FIFA World Cups, the most of any nation.",
-                    "tags": ["football", "records"]
-                },
-                {
-                    "id": "q_spt_004",
-                    "question": "In which sport is the term 'birdie' used?",
-                    "options": ["Tennis", "Badminton", "Golf", "Cricket"],
-                    "correct_index": 2,
-                    "difficulty": "easy",
-                    "points": 10,
-                    "time_limit": 10,
-                    "explanation": "In golf, a 'birdie' means completing a hole one stroke under par.",
-                    "tags": ["sports", "golf"]
-                },
+					"id": "q_sci_005",
+					"question": "What is the powerhouse of the cell?",
+					"options": [
+						"Nucleus",
+						"Mitochondria",
+						"Chloroplast",
+						"Golgi body"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Produces energy",
+					"explanation": "Mitochondria generate energy in the form of ATP for cellular functions.",
+					"source": "Cell Biology Reference",
+					"tags": [
+						"biology",
+						"cells"
+					]
+				},
 				{
-          "id": "q_spt_005",
-          "question": "In tennis, what term means a score of zero?",
-          "options": ["Nil", "Duck", "Love", "Blank"],
-          "correct_index": 2,
-          "difficulty": "easy",
-          "points": 10,
-          "time_limit": 10,
-          "explanation": "'Love' is used for zero points in tennis scoring.",
-          "tags": ["tennis", "terminology"]
-        },
-        {
-          "id": "q_spt_006",
-          "question": "Which sport uses a puck?",
-          "options": ["Cricket", "Ice Hockey", "Baseball", "Table Tennis"],
-          "correct_index": 1,
-          "difficulty": "easy",
-          "points": 10,
-          "time_limit": 10,
-          "explanation": "Ice Hockey is played with a rubber puck on ice.",
-          "tags": ["sports", "equipment"]
-        },
-        {
-          "id": "q_spt_007",
-          "question": "Who has won the most Olympic gold medals ever?",
-          "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Mark Spitz"],
-          "correct_index": 1,
-          "difficulty": "hard",
-          "points": 40,
-          "time_limit": 35,
-          "explanation": "Swimmer Michael Phelps has won 23 Olympic gold medals.",
-          "tags": ["olympics", "records"]
-        }
-            ]
-        },
-        {
-            "id": "premium_advanced",
-            "questions": [
-                {
-                    "id": "q_adv_003",
-                    "question": "What does 'NP' stand for in computer science?",
-                    "options": ["Non-Polynomial", "Nondeterministic Polynomial time", "New Problem", "Network Protocol"],
-                    "correct_index": 1,
-                    "difficulty": "hard",
-                    "points": 50,
-                    "negative_points": 10,
-                    "bonus_for_streak": 15,
-                    "time_limit": 45,
-                    "hint": "Relates to computational complexity",
-                    "explanation": "NP refers to problems verifiable in polynomial time by a nondeterministic Turing machine.",
-                    "source": "Algorithm Handbook",
-                    "tags": ["algorithms", "complexity"]
-                },
-                {
-                    "id": "q_adv_004",
-                    "question": "What is Schrödinger’s cat thought experiment meant to illustrate?",
-                    "options": ["Quantum superposition", "Relativity", "String theory", "Uncertainty principle"],
-                    "correct_index": 0,
-                    "difficulty": "hard",
-                    "points": 50,
-                    "negative_points": 10,
-                    "bonus_for_streak": 15,
-                    "time_limit": 40,
-                    "hint": "Involves a cat that is both alive and dead",
-                    "explanation": "It demonstrates the paradox of quantum superposition applied to macroscopic systems.",
-                    "source": "Quantum Physics Textbook",
-                    "tags": ["physics", "thought-experiment"]
-                },
+					"id": "q_sci_006",
+					"question": "Which vitamin is produced when the human body is exposed to sunlight?",
+					"options": [
+						"Vitamin A",
+						"Vitamin C",
+						"Vitamin D",
+						"Vitamin K"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Bone health",
+					"explanation": "Sunlight triggers Vitamin D synthesis in the skin, essential for bone health.",
+					"source": "Medical Encyclopedia",
+					"tags": [
+						"health",
+						"vitamins"
+					]
+				},
 				{
-                    "id": "q_adv_003",
-                    "question": "What does 'NP' stand for in computer science?",
-                    "options": ["Non-Polynomial", "Nondeterministic Polynomial time", "New Problem", "Network Protocol"],
-                    "correct_index": 1,
-                    "difficulty": "hard",
-                    "points": 50,
-                    "negative_points": 10,
-                    "bonus_for_streak": 15,
-                    "time_limit": 45,
-                    "hint": "Relates to computational complexity",
-                    "explanation": "NP refers to problems verifiable in polynomial time by a nondeterministic Turing machine.",
-                    "source": "Algorithm Handbook",
-                    "tags": ["algorithms", "complexity"]
-                },
-                {
-                    "id": "q_adv_004",
-                    "question": "What is Schrödinger’s cat thought experiment meant to illustrate?",
-                    "options": ["Quantum superposition", "Relativity", "String theory", "Uncertainty principle"],
-                    "correct_index": 0,
-                    "difficulty": "hard",
-                    "points": 50,
-                    "negative_points": 10,
-                    "bonus_for_streak": 15,
-                    "time_limit": 40,
-                    "hint": "Involves a cat that is both alive and dead",
-                    "explanation": "It demonstrates the paradox of quantum superposition applied to macroscopic systems.",
-                    "source": "Quantum Physics Textbook",
-                    "tags": ["physics", "thought-experiment"]
-                },
+					"id": "q_sci_007",
+					"question": "What gas do plants absorb from the atmosphere?",
+					"options": [
+						"Oxygen",
+						"Carbon Dioxide",
+						"Nitrogen",
+						"Hydrogen"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Used in photosynthesis",
+					"explanation": "Plants absorb carbon dioxide and release oxygen during photosynthesis.",
+					"source": "Botany Manual",
+					"tags": [
+						"plants",
+						"photosynthesis"
+					]
+				},
 				{
-          "id": "q_adv_005",
-          "question": "What is the Big O notation for binary search?",
-          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
-          "correct_index": 1,
-          "difficulty": "hard",
-          "points": 50,
-          "negative_points": 10,
-          "bonus_for_streak": 15,
-          "time_limit": 45,
-          "hint": "Halves the problem each iteration",
-          "explanation": "Binary search has O(log n) time complexity in average and worst cases.",
-          "source": "Algorithm Design Handbook",
-          "tags": ["algorithms", "complexity"]
-        },
-        {
-          "id": "q_adv_006",
-          "question": "What fundamental particle mediates the electromagnetic force?",
-          "options": ["Proton", "Electron", "Photon", "Neutron"],
-          "correct_index": 2,
-          "difficulty": "hard",
-          "points": 50,
-          "negative_points": 10,
-          "bonus_for_streak": 15,
-          "time_limit": 40,
-          "hint": "Particle of light",
-          "explanation": "The photon is the quantum of the electromagnetic field.",
-          "source": "Particle Physics Review",
-          "tags": ["physics", "quantum"]
-        }
-            ]
-        }
-    ]
+					"id": "q_sci_008",
+					"question": "What is the boiling point of water at sea level?",
+					"options": [
+						"90°C",
+						"95°C",
+						"100°C",
+						"110°C"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Three digits",
+					"explanation": "At standard atmospheric pressure, water boils at 100°C.",
+					"source": "Physics Reference",
+					"tags": [
+						"chemistry",
+						"physics"
+					]
+				},
+				{
+					"id": "q_sci_009",
+					"question": "Which part of the human brain controls balance?",
+					"options": [
+						"Cerebrum",
+						"Cerebellum",
+						"Medulla",
+						"Hypothalamus"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Located at the back of the brain",
+					"explanation": "The cerebellum regulates posture and coordination.",
+					"source": "Neuroscience Basics",
+					"tags": [
+						"biology",
+						"anatomy"
+					]
+				},
+				{
+					"id": "q_sci_010",
+					"question": "What phenomenon causes the sky to appear blue?",
+					"options": [
+						"Reflection",
+						"Refraction",
+						"Scattering",
+						"Absorption"
+					],
+					"correct_index": 2,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Rayleigh ____",
+					"explanation": "Rayleigh scattering of sunlight makes the sky look blue.",
+					"source": "Atmospheric Physics",
+					"tags": [
+						"physics",
+						"light"
+					]
+				},
+				{
+					"id": "q_sci_011",
+					"question": "Which organ in the human body filters blood?",
+					"options": [
+						"Heart",
+						"Lungs",
+						"Kidneys",
+						"Liver"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Paired bean-shaped organs",
+					"explanation": "Kidneys remove waste and regulate fluid balance.",
+					"source": "Human Physiology",
+					"tags": [
+						"biology",
+						"organs"
+					]
+				},
+				{
+					"id": "q_sci_012",
+					"question": "What force keeps planets in orbit around the Sun?",
+					"options": [
+						"Magnetism",
+						"Centrifugal force",
+						"Gravity",
+						"Friction"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Discovered by Newton",
+					"explanation": "Gravity holds planets in elliptical orbits around the Sun.",
+					"source": "Astronomy 101",
+					"tags": [
+						"physics",
+						"astronomy"
+					]
+				}
+			]
+		},
+		{
+			"id": "history",
+			"questions": [
+				{
+					"id": "q_his_003",
+					"question": "Who discovered penicillin?",
+					"options": [
+						"Marie Curie",
+						"Alexander Fleming",
+						"Isaac Newton",
+						"Louis Pasteur"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "A Scottish bacteriologist",
+					"explanation": "Alexander Fleming discovered penicillin in 1928, leading to antibiotics.",
+					"source": "Medical History Journal",
+					"tags": [
+						"medicine",
+						"discoveries"
+					]
+				},
+				{
+					"id": "q_his_004",
+					"question": "Who was the first man to step on the Moon?",
+					"options": [
+						"Neil Armstrong",
+						"Buzz Aldrin",
+						"Yuri Gagarin",
+						"John Glenn"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Apollo 11 mission",
+					"explanation": "Neil Armstrong became the first human to walk on the Moon in 1969.",
+					"source": "NASA Archives",
+					"tags": [
+						"space",
+						"modern-history"
+					]
+				},
+				{
+					"id": "q_his_003",
+					"question": "Who discovered penicillin?",
+					"options": [
+						"Marie Curie",
+						"Alexander Fleming",
+						"Isaac Newton",
+						"Louis Pasteur"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "A Scottish bacteriologist",
+					"explanation": "Alexander Fleming discovered penicillin in 1928, leading to antibiotics.",
+					"source": "Medical History Journal",
+					"tags": [
+						"medicine",
+						"discoveries"
+					]
+				},
+				{
+					"id": "q_his_004",
+					"question": "Who was the first man to step on the Moon?",
+					"options": [
+						"Neil Armstrong",
+						"Buzz Aldrin",
+						"Yuri Gagarin",
+						"John Glenn"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Apollo 11 mission",
+					"explanation": "Neil Armstrong became the first human to walk on the Moon in 1969.",
+					"source": "NASA Archives",
+					"tags": [
+						"space",
+						"modern-history"
+					]
+				},
+				{
+					"id": "q_his_005",
+					"question": "Who painted the Mona Lisa?",
+					"options": [
+						"Vincent van Gogh",
+						"Pablo Picasso",
+						"Leonardo da Vinci",
+						"Michelangelo"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Italian Renaissance genius",
+					"explanation": "Leonardo da Vinci painted the Mona Lisa in the early 1500s.",
+					"source": "Louvre Museum",
+					"tags": [
+						"art",
+						"renaissance"
+					]
+				},
+				{
+					"id": "q_his_006",
+					"question": "Who was the British Prime Minister during WWII?",
+					"options": [
+						"Neville Chamberlain",
+						"Winston Churchill",
+						"Margaret Thatcher",
+						"Clement Attlee"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 25,
+					"hint": "Known for 'We shall fight on the beaches' speech",
+					"explanation": "Winston Churchill led Britain to victory in WWII.",
+					"source": "WWII Chronicles",
+					"tags": [
+						"war",
+						"leaders"
+					]
+				},
+				{
+					"id": "q_his_007",
+					"question": "In which year did India gain independence?",
+					"options": [
+						"1945",
+						"1946",
+						"1947",
+						"1948"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "August 15",
+					"explanation": "India gained independence from Britain on August 15, 1947.",
+					"source": "Indian Constitution Archive",
+					"tags": [
+						"india",
+						"freedom"
+					]
+				}
+			]
+		},
+		{
+			"id": "technology",
+			"questions": [
+				{
+					"id": "q_tech_003",
+					"question": "What does 'AI' stand for in computing?",
+					"options": [
+						"Artificial Intelligence",
+						"Automated Interface",
+						"Analog Input",
+						"Advanced Integration"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Machines that learn",
+					"explanation": "AI stands for Artificial Intelligence, enabling machines to mimic human intelligence.",
+					"source": "Tech Glossary",
+					"tags": [
+						"ai",
+						"computing"
+					]
+				},
+				{
+					"id": "q_tech_004",
+					"question": "Which programming language is primarily used for Android app development?",
+					"options": [
+						"Swift",
+						"Kotlin",
+						"Python",
+						"C#"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Developed by JetBrains",
+					"explanation": "Kotlin is officially supported by Google for Android development.",
+					"source": "Android Developers",
+					"tags": [
+						"programming",
+						"mobile"
+					]
+				},
+				{
+					"id": "q_tech_003",
+					"question": "What does 'AI' stand for in computing?",
+					"options": [
+						"Artificial Intelligence",
+						"Automated Interface",
+						"Analog Input",
+						"Advanced Integration"
+					],
+					"correct_index": 0,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 15,
+					"hint": "Machines that learn",
+					"explanation": "AI stands for Artificial Intelligence, enabling machines to mimic human intelligence.",
+					"source": "Tech Glossary",
+					"tags": [
+						"ai",
+						"computing"
+					]
+				},
+				{
+					"id": "q_tech_004",
+					"question": "Which programming language is primarily used for Android app development?",
+					"options": [
+						"Swift",
+						"Kotlin",
+						"Python",
+						"C#"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Developed by JetBrains",
+					"explanation": "Kotlin is officially supported by Google for Android development.",
+					"source": "Android Developers",
+					"tags": [
+						"programming",
+						"mobile"
+					]
+				},
+				{
+					"id": "q_tech_005",
+					"question": "What does 'HTTP' stand for?",
+					"options": [
+						"HyperText Transfer Protocol",
+						"High Tech Transmission Program",
+						"HyperTool Transfer Process",
+						"Hardware Transmission Protocol"
+					],
+					"correct_index": 0,
+					"difficulty": "medium",
+					"points": 20,
+					"negative_points": 5,
+					"bonus_for_streak": 10,
+					"time_limit": 20,
+					"hint": "Used in web addresses",
+					"explanation": "HTTP is the foundation of data communication on the Web.",
+					"source": "Web Standards Consortium",
+					"tags": [
+						"internet",
+						"protocols"
+					]
+				},
+				{
+					"id": "q_tech_006",
+					"question": "Which company developed Windows OS?",
+					"options": [
+						"Apple",
+						"IBM",
+						"Microsoft",
+						"Intel"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Founded by Bill Gates",
+					"explanation": "Microsoft created Windows in 1985 as its flagship operating system.",
+					"source": "Tech History Museum",
+					"tags": [
+						"software",
+						"companies"
+					]
+				},
+				{
+					"id": "q_tech_007",
+					"question": "What does 'GPU' stand for?",
+					"options": [
+						"Graphical Processing Unit",
+						"General Performance Utility",
+						"Global Processor Unit",
+						"Graphics Processing Unit"
+					],
+					"correct_index": 3,
+					"difficulty": "easy",
+					"points": 10,
+					"negative_points": 0,
+					"bonus_for_streak": 5,
+					"time_limit": 10,
+					"hint": "Used for rendering graphics",
+					"explanation": "GPU stands for Graphics Processing Unit, handling image rendering tasks.",
+					"source": "Computer Architecture Guide",
+					"tags": [
+						"hardware",
+						"graphics"
+					]
+				}
+			]
+		},
+		{
+			"id": "sports",
+			"questions": [
+				{
+					"id": "q_spt_003",
+					"question": "Which country has won the most FIFA World Cups?",
+					"options": [
+						"Germany",
+						"Brazil",
+						"Argentina",
+						"Italy"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"time_limit": 20,
+					"explanation": "Brazil has won 5 FIFA World Cups, the most of any nation.",
+					"tags": [
+						"football",
+						"records"
+					]
+				},
+				{
+					"id": "q_spt_004",
+					"question": "In which sport is the term 'birdie' used?",
+					"options": [
+						"Tennis",
+						"Badminton",
+						"Golf",
+						"Cricket"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"time_limit": 10,
+					"explanation": "In golf, a 'birdie' means completing a hole one stroke under par.",
+					"tags": [
+						"sports",
+						"golf"
+					]
+				},
+				{
+					"id": "q_spt_003",
+					"question": "Which country has won the most FIFA World Cups?",
+					"options": [
+						"Germany",
+						"Brazil",
+						"Argentina",
+						"Italy"
+					],
+					"correct_index": 1,
+					"difficulty": "medium",
+					"points": 20,
+					"time_limit": 20,
+					"explanation": "Brazil has won 5 FIFA World Cups, the most of any nation.",
+					"tags": [
+						"football",
+						"records"
+					]
+				},
+				{
+					"id": "q_spt_004",
+					"question": "In which sport is the term 'birdie' used?",
+					"options": [
+						"Tennis",
+						"Badminton",
+						"Golf",
+						"Cricket"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"time_limit": 10,
+					"explanation": "In golf, a 'birdie' means completing a hole one stroke under par.",
+					"tags": [
+						"sports",
+						"golf"
+					]
+				},
+				{
+					"id": "q_spt_005",
+					"question": "In tennis, what term means a score of zero?",
+					"options": [
+						"Nil",
+						"Duck",
+						"Love",
+						"Blank"
+					],
+					"correct_index": 2,
+					"difficulty": "easy",
+					"points": 10,
+					"time_limit": 10,
+					"explanation": "'Love' is used for zero points in tennis scoring.",
+					"tags": [
+						"tennis",
+						"terminology"
+					]
+				},
+				{
+					"id": "q_spt_006",
+					"question": "Which sport uses a puck?",
+					"options": [
+						"Cricket",
+						"Ice Hockey",
+						"Baseball",
+						"Table Tennis"
+					],
+					"correct_index": 1,
+					"difficulty": "easy",
+					"points": 10,
+					"time_limit": 10,
+					"explanation": "Ice Hockey is played with a rubber puck on ice.",
+					"tags": [
+						"sports",
+						"equipment"
+					]
+				},
+				{
+					"id": "q_spt_007",
+					"question": "Who has won the most Olympic gold medals ever?",
+					"options": [
+						"Usain Bolt",
+						"Michael Phelps",
+						"Carl Lewis",
+						"Mark Spitz"
+					],
+					"correct_index": 1,
+					"difficulty": "hard",
+					"points": 40,
+					"time_limit": 35,
+					"explanation": "Swimmer Michael Phelps has won 23 Olympic gold medals.",
+					"tags": [
+						"olympics",
+						"records"
+					]
+				}
+			]
+		},
+		{
+			"id": "premium_advanced",
+			"questions": [
+				{
+					"id": "q_adv_003",
+					"question": "What does 'NP' stand for in computer science?",
+					"options": [
+						"Non-Polynomial",
+						"Nondeterministic Polynomial time",
+						"New Problem",
+						"Network Protocol"
+					],
+					"correct_index": 1,
+					"difficulty": "hard",
+					"points": 50,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 45,
+					"hint": "Relates to computational complexity",
+					"explanation": "NP refers to problems verifiable in polynomial time by a nondeterministic Turing machine.",
+					"source": "Algorithm Handbook",
+					"tags": [
+						"algorithms",
+						"complexity"
+					]
+				},
+				{
+					"id": "q_adv_004",
+					"question": "What is Schrödinger’s cat thought experiment meant to illustrate?",
+					"options": [
+						"Quantum superposition",
+						"Relativity",
+						"String theory",
+						"Uncertainty principle"
+					],
+					"correct_index": 0,
+					"difficulty": "hard",
+					"points": 50,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 40,
+					"hint": "Involves a cat that is both alive and dead",
+					"explanation": "It demonstrates the paradox of quantum superposition applied to macroscopic systems.",
+					"source": "Quantum Physics Textbook",
+					"tags": [
+						"physics",
+						"thought-experiment"
+					]
+				},
+				{
+					"id": "q_adv_003",
+					"question": "What does 'NP' stand for in computer science?",
+					"options": [
+						"Non-Polynomial",
+						"Nondeterministic Polynomial time",
+						"New Problem",
+						"Network Protocol"
+					],
+					"correct_index": 1,
+					"difficulty": "hard",
+					"points": 50,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 45,
+					"hint": "Relates to computational complexity",
+					"explanation": "NP refers to problems verifiable in polynomial time by a nondeterministic Turing machine.",
+					"source": "Algorithm Handbook",
+					"tags": [
+						"algorithms",
+						"complexity"
+					]
+				},
+				{
+					"id": "q_adv_004",
+					"question": "What is Schrödinger’s cat thought experiment meant to illustrate?",
+					"options": [
+						"Quantum superposition",
+						"Relativity",
+						"String theory",
+						"Uncertainty principle"
+					],
+					"correct_index": 0,
+					"difficulty": "hard",
+					"points": 50,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 40,
+					"hint": "Involves a cat that is both alive and dead",
+					"explanation": "It demonstrates the paradox of quantum superposition applied to macroscopic systems.",
+					"source": "Quantum Physics Textbook",
+					"tags": [
+						"physics",
+						"thought-experiment"
+					]
+				},
+				{
+					"id": "q_adv_005",
+					"question": "What is the Big O notation for binary search?",
+					"options": [
+						"O(n)",
+						"O(log n)",
+						"O(n log n)",
+						"O(1)"
+					],
+					"correct_index": 1,
+					"difficulty": "hard",
+					"points": 50,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 45,
+					"hint": "Halves the problem each iteration",
+					"explanation": "Binary search has O(log n) time complexity in average and worst cases.",
+					"source": "Algorithm Design Handbook",
+					"tags": [
+						"algorithms",
+						"complexity"
+					]
+				},
+				{
+					"id": "q_adv_006",
+					"question": "What fundamental particle mediates the electromagnetic force?",
+					"options": [
+						"Proton",
+						"Electron",
+						"Photon",
+						"Neutron"
+					],
+					"correct_index": 2,
+					"difficulty": "hard",
+					"points": 50,
+					"negative_points": 10,
+					"bonus_for_streak": 15,
+					"time_limit": 40,
+					"hint": "Particle of light",
+					"explanation": "The photon is the quantum of the electromagnetic field.",
+					"source": "Particle Physics Review",
+					"tags": [
+						"physics",
+						"quantum"
+					]
+				}
+			]
+		}
+	]
 }
