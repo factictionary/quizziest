@@ -1,0 +1,20 @@
+{
+  "id": "case_5",
+  "caseNumber": 5,
+  "title": "The Museum Painting Switch",
+  "category": "Museum & Art Forgery",
+  "difficulty": "Hard",
+  "story": "A famous 17th-century Renaissance oil painting worth $10 Million was replaced with a forgery during a 3-minute power blackout at the National Gallery. Curator Raymond claims: 'When the lights went out at 10:00 PM, I bumped into the wall, waited for backup power, and immediately smelled fresh oil paint from the frame.'\n\nDetective Vance inspects the painting under UV light and immediately detains Raymond.",
+  "victim": "National Art Gallery",
+  "crimeScene": "Masterpiece wing of museum",
+  "forensicClue": "Think about the drying time of oil paintings versus acrylic copies.",
+  "question": "Why did Raymond's claim expose him as an accomplice in the switch?",
+  "options": [
+    "A genuine 17th-century masterpiece has been dry for 300 years; only the newly forged replacement would smell like fresh oil paint, proving Raymond knew the forgery was in place.",
+    "Raymond was wearing night-vision goggles when the police arrived.",
+    "The museum had emergency backup lighting that never actually went out.",
+    "UV lights showed Raymond's fingerprints on the glass frame."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "Raymond claimed he smelled fresh paint in the pitch black immediately after the lights went out. A 300-year-old Renaissance painting has zero paint odor. Only someone who knew the wet forgery had just been hung on the wall would invent smelling fresh paint!"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "case_3",
+  "caseNumber": 3,
+  "title": "The Soundproof Recording Studio Heist",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "Pop star Luna was rehearsing alone inside a state-of-the-art soundproof recording studio booth. Through the heavy triple-pane soundproof window, her sound engineer Greg saw her suddenly clutching her ears, collapsing, and dropping a $500,000 diamond necklace which vanished from the locked studio floor.\n\nGreg testifies: 'I was adjusting the mixer when I heard Luna scream in sheer terror from inside the booth, so I hit the emergency unlock button and ran in to help her, finding the necklace gone.'",
+  "victim": "Luna (Pop Star)",
+  "crimeScene": "High-end soundproof vocal booth",
+  "forensicClue": "Consider the physical properties of the soundproof booth.",
+  "question": "How did Detective Vance know Greg was the thief who faked the break-in?",
+  "options": [
+    "The recording booth was 100% soundproof with triple-pane glass; Greg could not have heard her scream from the outside control room without active monitors.",
+    "The microphone inside the booth was muted on the mixing console.",
+    "Luna's diamond necklace was found hidden inside Greg's audio headphone case.",
+    "Security cameras showed Greg entering the booth before Luna collapsed."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The booth was soundproof with heavy triple-pane acoustic glass. It is physically impossible to hear a human voice from inside the booth without an active monitor channel. Greg claiming he 'heard her scream' gave away that he staged the panic to rush in and swipe the dropped necklace!"
+}

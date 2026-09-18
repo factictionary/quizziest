@@ -1,0 +1,39 @@
+{
+  "categoryId": "crazy_facts",
+  "title": "Believe It Or Not!",
+  "badge": "VIRAL ⚡",
+  "totalQuestions": 2,
+  "lastUpdated": "2026-09-18T21:29:53.332035Z",
+  "questions": [
+    {
+      "id": "cf1",
+      "category": "crazy_facts",
+      "question": "How many hearts does an octopus possess?",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Octopuses have 3 hearts: two pump blue copper-rich blood to the gills, while the central systemic heart pumps blood through the rest of the body.",
+      "difficulty": "easy",
+      "funFact": "When an octopus swims, its main systemic heart actually stops beating, which is why they prefer crawling on the seafloor!"
+    },
+    {
+      "id": "cf2",
+      "category": "crazy_facts",
+      "question": "Which food item never spoils and has been found edible inside 3,000-year-old ancient Egyptian tombs?",
+      "options": [
+        "Honey",
+        "Olive Oil",
+        "Salted Pork",
+        "Dried Rice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pure honey has low moisture, high acidity, and hydrogen peroxide produced by bees, making it completely impossible for bacteria to grow.",
+      "difficulty": "easy",
+      "funFact": "Archaeologists exploring Egyptian pyramids have tasted 3,000-year-old honey and confirmed it was still delicious!"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "categoryId": "gaming_anime",
+  "title": "Gaming & Anime Realm",
+  "badge": "NEW 🎮",
+  "totalQuestions": 2,
+  "lastUpdated": "2026-09-18T21:29:53.314462Z",
+  "questions": [
+    {
+      "id": "g1",
+      "category": "gaming_anime",
+      "question": "What is the best-selling video game of all time with over 300 million copies sold?",
+      "options": [
+        "Minecraft",
+        "Grand Theft Auto V",
+        "Tetris",
+        "Wii Sports"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mojang's sandbox phenomenon Minecraft has sold over 300 Million units across all platforms worldwide.",
+      "difficulty": "easy",
+      "funFact": "Markus 'Notch' Persson created the first playable version of Minecraft in just a single weekend in May 2009!"
+    },
+    {
+      "id": "g2",
+      "category": "gaming_anime",
+      "question": "In the anime 'Dragon Ball Z', what iconic power level number does Vegeta famously scream over his scouter?",
+      "options": [
+        "Over 9,000!",
+        "Over 5,000!",
+        "Over 100,000!",
+        "Over 10,000!"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the famous English dub, Vegeta crushes his scouter and yells 'It's over 9,000!' when measuring Goku's raw power.",
+      "difficulty": "easy",
+      "funFact": "In the original Japanese manga and anime, Vegeta actually said 'Over 8,000!' (Hassen) — the English voice actors altered it for lip sync!"
+    }
+  ]
+}

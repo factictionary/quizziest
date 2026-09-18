@@ -1,0 +1,24 @@
+{
+  "categoryId": "billionaires_brands",
+  "title": "Logos, Brands & Billionaires",
+  "badge": "VIP 💎",
+  "totalQuestions": 1,
+  "lastUpdated": "2026-09-18T21:29:53.316482Z",
+  "questions": [
+    {
+      "id": "b1",
+      "category": "billionaires_brands",
+      "question": "What was the very first item ever sold on Amazon in 1995?",
+      "options": [
+        "A Book ('Fluid Concepts & Creative Analogies')",
+        "A CD",
+        "A Computer Mouse",
+        "A Coffee Mug"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeff Bezos founded Amazon as an online bookstore; the first book sold was Douglas Hofstadter's 'Fluid Concepts and Creative Analogies'.",
+      "difficulty": "medium",
+      "funFact": "Amazon was originally called 'Cadabra' (as in Abracadabra), but Bezos changed it after a lawyer misheard it as 'Cadaver'!"
+    }
+  ]
+}

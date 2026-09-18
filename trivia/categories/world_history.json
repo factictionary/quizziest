@@ -1,0 +1,39 @@
+{
+  "categoryId": "world_history",
+  "title": "World Mysteries & Empires",
+  "badge": "EPIC 🏛️",
+  "totalQuestions": 2,
+  "lastUpdated": "2026-09-18T21:29:53.311995Z",
+  "questions": [
+    {
+      "id": "h1",
+      "category": "world_history",
+      "question": "Which ancient Wonder of the World is the only one that still largely stands intact today?",
+      "options": [
+        "Great Pyramid of Giza",
+        "Hanging Gardens of Babylon",
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria"
+      ],
+      "correctIndex": 0,
+      "explanation": "Built circa 2560 BC for Pharaoh Khufu, the Great Pyramid of Giza is the oldest and only surviving Wonder of the Ancient World.",
+      "difficulty": "easy",
+      "funFact": "The Great Pyramid was the tallest man-made structure on Earth for over 3,800 years!"
+    },
+    {
+      "id": "h2",
+      "category": "world_history",
+      "question": "Which Roman Emperor famously made his beloved horse Incitatus a Roman senator (or promised to)?",
+      "options": [
+        "Caligula",
+        "Nero",
+        "Commodus",
+        "Julius Caesar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Emperor Caligula pampered his horse with an ivory stable, purple blankets, and threatened to appoint him consul to mock the Senate.",
+      "difficulty": "medium",
+      "funFact": "Caligula's real name was Gaius Julius Caesar Augustus Germanicus; 'Caligula' means 'Little Boot'!"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "case_1",
+    "caseNumber": 1,
+    "title": "The Frozen Lake Cabin Murder",
+    "category": "Alibi Buster",
+    "difficulty": "Medium",
+    "story": "Billionaire Arthur Sterling was found shot dead inside his secluded lakeside cabin in the middle of a heavy snowstorm. The police arrive at 8:00 AM. Detective Vance notes that fresh snow started falling at midnight and stopped at 6:00 AM.\n\nThere is only one set of boot footprints leading TO the cabin door, but NO footprints leading away. The suspect, Arthur's business partner Mark, claims: 'I arrived on foot at 11:30 PM last night to deliver files, we talked, and then I walked back to my hotel around 1:00 AM before going to sleep.'",
+    "victim": "Arthur Sterling (Billionaire)",
+    "crimeScene": "Secluded snowbound lake cabin",
+    "forensicClue": "Look closely at the snowfall timeline versus Mark's claimed departure time.",
+    "question": "Why did Detective Vance immediately arrest Mark for lying about his alibi?",
+    "options": [
+      "If Mark arrived at 11:30 PM before the snow started, his footprints would have been covered by 6 hours of fresh snow. Clear visible tracks at 8:00 AM prove he arrived AFTER 6:00 AM.",
+      "The footprints leading to the cabin had snow inside them, proving he never arrived at 11:30 PM.",
+      "Mark was wearing sneakers instead of boots.",
+      "The cabin door was locked from the outside with a master key found in Mark's pocket."
+    ],
+    "correctIndex": 0,
+    "deductionExplanation": "Fresh snow fell continuously from midnight to 6:00 AM. If Mark arrived at 11:30 PM (before the snow started), his arrival footprints would have been completely buried under 6 hours of snow. The fact that clear arrival footprints were visible at 8:00 AM proves they were made AFTER the snow stopped at 6:00 AM. The killer walked into the cabin after 6:00 AM, committed the murder, and wore Arthur's oversized snowshoes or stepped backwards to fake the scene!"
+  },
+  {
+    "id": "case_2",
+    "caseNumber": 2,
+    "title": "The Poisoned Toast at High Noon",
+    "category": "Poison & Toxic Mystery",
+    "difficulty": "Hard",
+    "story": "At a prestigious banquet, Lord Harrington and his heir Charles both drink from the exact same pitcher of freshly squeezed iced lemonade poured into identical glasses. Lord Harrington drinks his glass down in 5 rapid gulps within 30 seconds. Charles sips his drink slowly over the next 45 minutes.\n\nTwo hours later, Charles collapses and dies from severe cyanide poisoning, while Lord Harrington experiences zero symptoms and remains completely healthy.",
+    "victim": "Charles Harrington (Heir)",
+    "crimeScene": "Grand banquet dining hall",
+    "forensicClue": "Pay attention to the state of the ice cubes in the glasses and how fast each man drank.",
+    "question": "How was Charles poisoned while Lord Harrington was unharmed if the lemonade came from the same pitcher?",
+    "options": [
+      "The cyanide poison was frozen inside the ice cubes; Lord Harrington drank quickly before the ice melted, while Charles drank slowly as the poison melted into his drink.",
+      "The rim of Charles's glass was coated with odorless contact poison by the waiter.",
+      "Lord Harrington had built up a biological immunity to cyanide over several years.",
+      "The poison was secretly injected into Charles's napkin."
+    ],
+    "correctIndex": 0,
+    "deductionExplanation": "The poison was encased inside the ice cubes. Because Lord Harrington finished his entire drink within 30 seconds, the ice cubes remained solid and he ingested pure lemonade. Charles sipped his drink slowly over 45 minutes, allowing the poisoned ice cubes to melt and release lethal cyanide directly into his beverage."
+  },
+  {
+    "id": "case_3",
+    "caseNumber": 3,
+    "title": "The Soundproof Recording Studio Heist",
+    "category": "Locked Room Mystery",
+    "difficulty": "Easy",
+    "story": "Pop star Luna was rehearsing alone inside a state-of-the-art soundproof recording studio booth. Through the heavy triple-pane soundproof window, her sound engineer Greg saw her suddenly clutching her ears, collapsing, and dropping a $500,000 diamond necklace which vanished from the locked studio floor.\n\nGreg testifies: 'I was adjusting the mixer when I heard Luna scream in sheer terror from inside the booth, so I hit the emergency unlock button and ran in to help her, finding the necklace gone.'",
+    "victim": "Luna (Pop Star)",
+    "crimeScene": "High-end soundproof vocal booth",
+    "forensicClue": "Consider the physical properties of the soundproof booth.",
+    "question": "How did Detective Vance know Greg was the thief who faked the break-in?",
+    "options": [
+      "The recording booth was 100% soundproof with triple-pane glass; Greg could not have heard her scream from the outside control room without active monitors.",
+      "The microphone inside the booth was muted on the mixing console.",
+      "Luna's diamond necklace was found hidden inside Greg's audio headphone case.",
+      "Security cameras showed Greg entering the booth before Luna collapsed."
+    ],
+    "correctIndex": 0,
+    "deductionExplanation": "The booth was soundproof with heavy triple-pane acoustic glass. It is physically impossible to hear a human voice from inside the booth without an active monitor channel. Greg claiming he 'heard her scream' gave away that he staged the panic to rush in and swipe the dropped necklace!"
+  },
+  {
+    "id": "case_4",
+    "caseNumber": 4,
+    "title": "The Fake Kidnapping Ransom Call",
+    "category": "Cyber & Tech Crime",
+    "difficulty": "Medium",
+    "story": "A wealthy merchant named Samuel reported that his son was kidnapped. At 3:15 PM on a blazing hot July summer afternoon in Los Angeles, Samuel receives a ransom call. The caller plays a live recording of his son saying: 'Dad, please pay them, it's freezing cold and dark in this mountain cave.'\n\nDuring the call, Detective Vance listens to the background audio and hears the distinct clinking of ceramic coffee cups, a barista shouting 'Iced Caramel Macchiato for David!', and an air conditioner humming.",
+    "victim": "David (Merchant's son)",
+    "crimeScene": "Downtown Los Angeles merchant office",
+    "forensicClue": "Listen closely to the background environmental soundscape of the call.",
+    "question": "What did Detective Vance deduce from the ransom phone call?",
+    "options": [
+      "David was never in a mountain cave; he was sitting in a public coffee shop faking his own kidnapping to extort money from his father.",
+      "The kidnappers had set up an elaborate acoustic recording studio inside a cave.",
+      "The call was generated by an AI deepfake voice model.",
+      "The ransom call came from Samuel's own business office basement."
+    ],
+    "correctIndex": 0,
+    "deductionExplanation": "The ambient audio of a barista calling out David's exact drink order and coffee shop chatter conclusively proved that David was not in a freezing mountain cave, but was sitting in a local cafe orchestrating a fake kidnapping scam against his father."
+  },
+  {
+    "id": "case_5",
+    "caseNumber": 5,
+    "title": "The Museum Painting Switch",
+    "category": "Museum & Art Forgery",
+    "difficulty": "Hard",
+    "story": "A famous 17th-century Renaissance oil painting worth $10 Million was replaced with a forgery during a 3-minute power blackout at the National Gallery. Curator Raymond claims: 'When the lights went out at 10:00 PM, I bumped into the wall, waited for backup power, and immediately smelled fresh oil paint from the frame.'\n\nDetective Vance inspects the painting under UV light and immediately detains Raymond.",
+    "victim": "National Art Gallery",
+    "crimeScene": "Masterpiece wing of museum",
+    "forensicClue": "Think about the drying time of oil paintings versus acrylic copies.",
+    "question": "Why did Raymond's claim expose him as an accomplice in the switch?",
+    "options": [
+      "A genuine 17th-century masterpiece has been dry for 300 years; only the newly forged replacement would smell like fresh oil paint, proving Raymond knew the forgery was in place.",
+      "Raymond was wearing night-vision goggles when the police arrived.",
+      "The museum had emergency backup lighting that never actually went out.",
+      "UV lights showed Raymond's fingerprints on the glass frame."
+    ],
+    "correctIndex": 0,
+    "deductionExplanation": "Raymond claimed he smelled fresh paint in the pitch black immediately after the lights went out. A 300-year-old Renaissance painting has zero paint odor. Only someone who knew the wet forgery had just been hung on the wall would invent smelling fresh paint!"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "case_2",
+  "caseNumber": 2,
+  "title": "The Poisoned Toast at High Noon",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "At a prestigious banquet, Lord Harrington and his heir Charles both drink from the exact same pitcher of freshly squeezed iced lemonade poured into identical glasses. Lord Harrington drinks his glass down in 5 rapid gulps within 30 seconds. Charles sips his drink slowly over the next 45 minutes.\n\nTwo hours later, Charles collapses and dies from severe cyanide poisoning, while Lord Harrington experiences zero symptoms and remains completely healthy.",
+  "victim": "Charles Harrington (Heir)",
+  "crimeScene": "Grand banquet dining hall",
+  "forensicClue": "Pay attention to the state of the ice cubes in the glasses and how fast each man drank.",
+  "question": "How was Charles poisoned while Lord Harrington was unharmed if the lemonade came from the same pitcher?",
+  "options": [
+    "The cyanide poison was frozen inside the ice cubes; Lord Harrington drank quickly before the ice melted, while Charles drank slowly as the poison melted into his drink.",
+    "The rim of Charles's glass was coated with odorless contact poison by the waiter.",
+    "Lord Harrington had built up a biological immunity to cyanide over several years.",
+    "The poison was secretly injected into Charles's napkin."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The poison was encased inside the ice cubes. Because Lord Harrington finished his entire drink within 30 seconds, the ice cubes remained solid and he ingested pure lemonade. Charles sipped his drink slowly over 45 minutes, allowing the poisoned ice cubes to melt and release lethal cyanide directly into his beverage."
+}

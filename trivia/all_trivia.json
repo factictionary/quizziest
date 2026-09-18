@@ -1,0 +1,257 @@
+[
+  {
+    "id": "t1",
+    "category": "tech_ai",
+    "question": "Which company originally created the Android operating system before Google acquired it in 2005?",
+    "options": [
+      "Android Inc.",
+      "Motorola",
+      "Symbian",
+      "Palm Inc."
+    ],
+    "correctIndex": 0,
+    "explanation": "Android Inc. was founded in Palo Alto, California in 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White before Google bought it.",
+    "difficulty": "medium",
+    "funFact": "Andy Rubin originally developed Android as an OS for digital cameras, not smartphones!"
+  },
+  {
+    "id": "t2",
+    "category": "tech_ai",
+    "question": "What does the 'GPT' in ChatGPT stand for?",
+    "options": [
+      "Generative Pre-trained Transformer",
+      "General Programmed Technology",
+      "Guided Predictive Transmitter",
+      "Global Processing Tensor"
+    ],
+    "correctIndex": 0,
+    "explanation": "GPT stands for Generative Pre-trained Transformer, based on the Transformer architecture introduced by Google researchers in 2017.",
+    "difficulty": "easy",
+    "funFact": "The breakthrough 'Attention Is All You Need' paper revolutionized modern AI in just 11 pages!"
+  },
+  {
+    "id": "t3",
+    "category": "tech_ai",
+    "question": "What was the very first video ever uploaded to YouTube in April 2005?",
+    "options": [
+      "Me at the zoo",
+      "Hello World",
+      "Guitar Solo in Studio",
+      "First Vlog Test"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Me at the zoo' was uploaded by YouTube co-founder Jawed Karim at the San Diego Zoo on April 23, 2005.",
+    "difficulty": "easy",
+    "funFact": "The video is only 19 seconds long and shows elephants in the background!"
+  },
+  {
+    "id": "t4",
+    "category": "tech_ai",
+    "question": "Which programming language was originally called 'Oak' before being renamed?",
+    "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "C++"
+    ],
+    "correctIndex": 0,
+    "explanation": "James Gosling named Java 'Oak' after an oak tree outside his office window at Sun Microsystems.",
+    "difficulty": "medium",
+    "funFact": "It was renamed to Java after the popular Indonesian coffee consumed by the development team!"
+  },
+  {
+    "id": "t5",
+    "category": "tech_ai",
+    "question": "In what year did the legendary chess AI 'Deep Blue' defeat World Champion Garry Kasparov?",
+    "options": [
+      "1997",
+      "1991",
+      "2001",
+      "1989"
+    ],
+    "correctIndex": 0,
+    "explanation": "IBM's Deep Blue defeated Garry Kasparov in a 6-game match in May 1997, marking a milestone in artificial intelligence history.",
+    "difficulty": "hard",
+    "funFact": "Kasparov initially accused IBM of cheating by having a human grandmaster secretly intervene!"
+  },
+  {
+    "id": "p1",
+    "category": "pop_culture",
+    "question": "What is the highest-grossing film of all time globally (unadjusted for inflation)?",
+    "options": [
+      "Avatar",
+      "Avengers: Endgame",
+      "Titanic",
+      "Star Wars: The Force Awakens"
+    ],
+    "correctIndex": 0,
+    "explanation": "James Cameron's 2009 sci-fi epic Avatar has grossed over $2.92 Billion worldwide across multiple re-releases.",
+    "difficulty": "easy",
+    "funFact": "James Cameron waited over 10 years to film Avatar until 3D camera technology caught up with his vision!"
+  },
+  {
+    "id": "p2",
+    "category": "pop_culture",
+    "question": "Which superhero movie won Heath Ledger a posthumous Academy Award for Best Supporting Actor?",
+    "options": [
+      "The Dark Knight",
+      "Batman Begins",
+      "Joker",
+      "The Dark Knight Rises"
+    ],
+    "correctIndex": 0,
+    "explanation": "Heath Ledger won the Oscar for his iconic performance as the Joker in Christopher Nolan's 2008 masterpiece The Dark Knight.",
+    "difficulty": "easy",
+    "funFact": "Heath Ledger spent a month locked alone in a London hotel room developing the Joker's eerie voice, mannerisms, and diary!"
+  },
+  {
+    "id": "p3",
+    "category": "pop_culture",
+    "question": "In the Netflix smash-hit 'Stranger Things', what is the name of the parallel dark dimension?",
+    "options": [
+      "The Upside Down",
+      "The Nether",
+      "The Underworld",
+      "The Shadow Realm"
+    ],
+    "correctIndex": 0,
+    "explanation": "The dark alternate reflection of Hawkins, Indiana is known throughout the series as The Upside Down.",
+    "difficulty": "easy",
+    "funFact": "The Duffer Brothers initially pitched the show under the working title 'Montauk'!"
+  },
+  {
+    "id": "c1",
+    "category": "cosmos_science",
+    "question": "What is the boundary around a black hole beyond which nothing—not even light—can escape?",
+    "options": [
+      "Event Horizon",
+      "Photon Sphere",
+      "Singularity Zone",
+      "Accretion Rim"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Event Horizon is the threshold where gravitational pull becomes infinite and escape velocity exceeds the speed of light.",
+    "difficulty": "medium",
+    "funFact": "If you fell into a stellar-mass black hole, gravitational stretching would turn you into cosmic spaghetti ('Spaghettification')!"
+  },
+  {
+    "id": "c2",
+    "category": "cosmos_science",
+    "question": "How long does light from the Sun take to travel across space and reach Earth?",
+    "options": [
+      "8 minutes 20 seconds",
+      "1 second",
+      "4 minutes 12 seconds",
+      "1 hour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Traveling at 300,000 km/s across 149.6 Million km, sunlight takes roughly 8 minutes and 20 seconds to reach our eyes.",
+    "difficulty": "easy",
+    "funFact": "If the Sun vanished right this second, Earth would stay lit and in orbit for another 8 minutes and 20 seconds!"
+  },
+  {
+    "id": "h1",
+    "category": "world_history",
+    "question": "Which ancient Wonder of the World is the only one that still largely stands intact today?",
+    "options": [
+      "Great Pyramid of Giza",
+      "Hanging Gardens of Babylon",
+      "Colossus of Rhodes",
+      "Lighthouse of Alexandria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Built circa 2560 BC for Pharaoh Khufu, the Great Pyramid of Giza is the oldest and only surviving Wonder of the Ancient World.",
+    "difficulty": "easy",
+    "funFact": "The Great Pyramid was the tallest man-made structure on Earth for over 3,800 years!"
+  },
+  {
+    "id": "h2",
+    "category": "world_history",
+    "question": "Which Roman Emperor famously made his beloved horse Incitatus a Roman senator (or promised to)?",
+    "options": [
+      "Caligula",
+      "Nero",
+      "Commodus",
+      "Julius Caesar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emperor Caligula pampered his horse with an ivory stable, purple blankets, and threatened to appoint him consul to mock the Senate.",
+    "difficulty": "medium",
+    "funFact": "Caligula's real name was Gaius Julius Caesar Augustus Germanicus; 'Caligula' means 'Little Boot'!"
+  },
+  {
+    "id": "g1",
+    "category": "gaming_anime",
+    "question": "What is the best-selling video game of all time with over 300 million copies sold?",
+    "options": [
+      "Minecraft",
+      "Grand Theft Auto V",
+      "Tetris",
+      "Wii Sports"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mojang's sandbox phenomenon Minecraft has sold over 300 Million units across all platforms worldwide.",
+    "difficulty": "easy",
+    "funFact": "Markus 'Notch' Persson created the first playable version of Minecraft in just a single weekend in May 2009!"
+  },
+  {
+    "id": "g2",
+    "category": "gaming_anime",
+    "question": "In the anime 'Dragon Ball Z', what iconic power level number does Vegeta famously scream over his scouter?",
+    "options": [
+      "Over 9,000!",
+      "Over 5,000!",
+      "Over 100,000!",
+      "Over 10,000!"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the famous English dub, Vegeta crushes his scouter and yells 'It's over 9,000!' when measuring Goku's raw power.",
+    "difficulty": "easy",
+    "funFact": "In the original Japanese manga and anime, Vegeta actually said 'Over 8,000!' (Hassen) — the English voice actors altered it for lip sync!"
+  },
+  {
+    "id": "b1",
+    "category": "billionaires_brands",
+    "question": "What was the very first item ever sold on Amazon in 1995?",
+    "options": [
+      "A Book ('Fluid Concepts & Creative Analogies')",
+      "A CD",
+      "A Computer Mouse",
+      "A Coffee Mug"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jeff Bezos founded Amazon as an online bookstore; the first book sold was Douglas Hofstadter's 'Fluid Concepts and Creative Analogies'.",
+    "difficulty": "medium",
+    "funFact": "Amazon was originally called 'Cadabra' (as in Abracadabra), but Bezos changed it after a lawyer misheard it as 'Cadaver'!"
+  },
+  {
+    "id": "cf1",
+    "category": "crazy_facts",
+    "question": "How many hearts does an octopus possess?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Octopuses have 3 hearts: two pump blue copper-rich blood to the gills, while the central systemic heart pumps blood through the rest of the body.",
+    "difficulty": "easy",
+    "funFact": "When an octopus swims, its main systemic heart actually stops beating, which is why they prefer crawling on the seafloor!"
+  },
+  {
+    "id": "cf2",
+    "category": "crazy_facts",
+    "question": "Which food item never spoils and has been found edible inside 3,000-year-old ancient Egyptian tombs?",
+    "options": [
+      "Honey",
+      "Olive Oil",
+      "Salted Pork",
+      "Dried Rice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pure honey has low moisture, high acidity, and hydrogen peroxide produced by bees, making it completely impossible for bacteria to grow.",
+    "difficulty": "easy",
+    "funFact": "Archaeologists exploring Egyptian pyramids have tasted 3,000-year-old honey and confirmed it was still delicious!"
+  }
+]

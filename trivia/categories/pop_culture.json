@@ -1,0 +1,54 @@
+{
+  "categoryId": "pop_culture",
+  "title": "Cinema & Pop Culture",
+  "badge": "POPULAR ⭐",
+  "totalQuestions": 3,
+  "lastUpdated": "2026-09-18T21:29:53.293818Z",
+  "questions": [
+    {
+      "id": "p1",
+      "category": "pop_culture",
+      "question": "What is the highest-grossing film of all time globally (unadjusted for inflation)?",
+      "options": [
+        "Avatar",
+        "Avengers: Endgame",
+        "Titanic",
+        "Star Wars: The Force Awakens"
+      ],
+      "correctIndex": 0,
+      "explanation": "James Cameron's 2009 sci-fi epic Avatar has grossed over $2.92 Billion worldwide across multiple re-releases.",
+      "difficulty": "easy",
+      "funFact": "James Cameron waited over 10 years to film Avatar until 3D camera technology caught up with his vision!"
+    },
+    {
+      "id": "p2",
+      "category": "pop_culture",
+      "question": "Which superhero movie won Heath Ledger a posthumous Academy Award for Best Supporting Actor?",
+      "options": [
+        "The Dark Knight",
+        "Batman Begins",
+        "Joker",
+        "The Dark Knight Rises"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heath Ledger won the Oscar for his iconic performance as the Joker in Christopher Nolan's 2008 masterpiece The Dark Knight.",
+      "difficulty": "easy",
+      "funFact": "Heath Ledger spent a month locked alone in a London hotel room developing the Joker's eerie voice, mannerisms, and diary!"
+    },
+    {
+      "id": "p3",
+      "category": "pop_culture",
+      "question": "In the Netflix smash-hit 'Stranger Things', what is the name of the parallel dark dimension?",
+      "options": [
+        "The Upside Down",
+        "The Nether",
+        "The Underworld",
+        "The Shadow Realm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The dark alternate reflection of Hawkins, Indiana is known throughout the series as The Upside Down.",
+      "difficulty": "easy",
+      "funFact": "The Duffer Brothers initially pitched the show under the working title 'Montauk'!"
+    }
+  ]
+}

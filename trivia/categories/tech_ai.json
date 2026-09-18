@@ -1,0 +1,84 @@
+{
+  "categoryId": "tech_ai",
+  "title": "Tech & AI Legends",
+  "badge": "TRENDING 🔥",
+  "totalQuestions": 5,
+  "lastUpdated": "2026-09-18T21:29:53.291500Z",
+  "questions": [
+    {
+      "id": "t1",
+      "category": "tech_ai",
+      "question": "Which company originally created the Android operating system before Google acquired it in 2005?",
+      "options": [
+        "Android Inc.",
+        "Motorola",
+        "Symbian",
+        "Palm Inc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Android Inc. was founded in Palo Alto, California in 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White before Google bought it.",
+      "difficulty": "medium",
+      "funFact": "Andy Rubin originally developed Android as an OS for digital cameras, not smartphones!"
+    },
+    {
+      "id": "t2",
+      "category": "tech_ai",
+      "question": "What does the 'GPT' in ChatGPT stand for?",
+      "options": [
+        "Generative Pre-trained Transformer",
+        "General Programmed Technology",
+        "Guided Predictive Transmitter",
+        "Global Processing Tensor"
+      ],
+      "correctIndex": 0,
+      "explanation": "GPT stands for Generative Pre-trained Transformer, based on the Transformer architecture introduced by Google researchers in 2017.",
+      "difficulty": "easy",
+      "funFact": "The breakthrough 'Attention Is All You Need' paper revolutionized modern AI in just 11 pages!"
+    },
+    {
+      "id": "t3",
+      "category": "tech_ai",
+      "question": "What was the very first video ever uploaded to YouTube in April 2005?",
+      "options": [
+        "Me at the zoo",
+        "Hello World",
+        "Guitar Solo in Studio",
+        "First Vlog Test"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Me at the zoo' was uploaded by YouTube co-founder Jawed Karim at the San Diego Zoo on April 23, 2005.",
+      "difficulty": "easy",
+      "funFact": "The video is only 19 seconds long and shows elephants in the background!"
+    },
+    {
+      "id": "t4",
+      "category": "tech_ai",
+      "question": "Which programming language was originally called 'Oak' before being renamed?",
+      "options": [
+        "Java",
+        "Python",
+        "Ruby",
+        "C++"
+      ],
+      "correctIndex": 0,
+      "explanation": "James Gosling named Java 'Oak' after an oak tree outside his office window at Sun Microsystems.",
+      "difficulty": "medium",
+      "funFact": "It was renamed to Java after the popular Indonesian coffee consumed by the development team!"
+    },
+    {
+      "id": "t5",
+      "category": "tech_ai",
+      "question": "In what year did the legendary chess AI 'Deep Blue' defeat World Champion Garry Kasparov?",
+      "options": [
+        "1997",
+        "1991",
+        "2001",
+        "1989"
+      ],
+      "correctIndex": 0,
+      "explanation": "IBM's Deep Blue defeated Garry Kasparov in a 6-game match in May 1997, marking a milestone in artificial intelligence history.",
+      "difficulty": "hard",
+      "funFact": "Kasparov initially accused IBM of cheating by having a human grandmaster secretly intervene!"
+    }
+  ]
+}

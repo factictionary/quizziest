@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "totalQuestions": 17,
+  "lastUpdated": "2026-09-18T21:29:53.334034Z",
+  "categories": [
+    {
+      "categoryId": "tech_ai",
+      "title": "Tech & AI Legends",
+      "badge": "TRENDING 🔥",
+      "totalQuestions": 5,
+      "file": "categories/tech_ai.json"
+    },
+    {
+      "categoryId": "pop_culture",
+      "title": "Cinema & Pop Culture",
+      "badge": "POPULAR ⭐",
+      "totalQuestions": 3,
+      "file": "categories/pop_culture.json"
+    },
+    {
+      "categoryId": "cosmos_science",
+      "title": "Cosmos & Weird Science",
+      "badge": "MIND-BLOWN 🤯",
+      "totalQuestions": 2,
+      "file": "categories/cosmos_science.json"
+    },
+    {
+      "categoryId": "world_history",
+      "title": "World Mysteries & Empires",
+      "badge": "EPIC 🏛️",
+      "totalQuestions": 2,
+      "file": "categories/world_history.json"
+    },
+    {
+      "categoryId": "gaming_anime",
+      "title": "Gaming & Anime Realm",
+      "badge": "NEW 🎮",
+      "totalQuestions": 2,
+      "file": "categories/gaming_anime.json"
+    },
+    {
+      "categoryId": "billionaires_brands",
+      "title": "Logos, Brands & Billionaires",
+      "badge": "VIP 💎",
+      "totalQuestions": 1,
+      "file": "categories/billionaires_brands.json"
+    },
+    {
+      "categoryId": "crazy_facts",
+      "title": "Believe It Or Not!",
+      "badge": "VIRAL ⚡",
+      "totalQuestions": 2,
+      "file": "categories/crazy_facts.json"
+    }
+  ]
+}

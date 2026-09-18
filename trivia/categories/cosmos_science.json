@@ -1,0 +1,39 @@
+{
+  "categoryId": "cosmos_science",
+  "title": "Cosmos & Weird Science",
+  "badge": "MIND-BLOWN 🤯",
+  "totalQuestions": 2,
+  "lastUpdated": "2026-09-18T21:29:53.295816Z",
+  "questions": [
+    {
+      "id": "c1",
+      "category": "cosmos_science",
+      "question": "What is the boundary around a black hole beyond which nothing—not even light—can escape?",
+      "options": [
+        "Event Horizon",
+        "Photon Sphere",
+        "Singularity Zone",
+        "Accretion Rim"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Event Horizon is the threshold where gravitational pull becomes infinite and escape velocity exceeds the speed of light.",
+      "difficulty": "medium",
+      "funFact": "If you fell into a stellar-mass black hole, gravitational stretching would turn you into cosmic spaghetti ('Spaghettification')!"
+    },
+    {
+      "id": "c2",
+      "category": "cosmos_science",
+      "question": "How long does light from the Sun take to travel across space and reach Earth?",
+      "options": [
+        "8 minutes 20 seconds",
+        "1 second",
+        "4 minutes 12 seconds",
+        "1 hour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traveling at 300,000 km/s across 149.6 Million km, sunlight takes roughly 8 minutes and 20 seconds to reach our eyes.",
+      "difficulty": "easy",
+      "funFact": "If the Sun vanished right this second, Earth would stay lit and in orbit for another 8 minutes and 20 seconds!"
+    }
+  ]
+}

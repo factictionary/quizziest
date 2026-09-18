@@ -1,0 +1,20 @@
+{
+  "id": "case_1",
+  "caseNumber": 1,
+  "title": "The Frozen Lake Cabin Murder",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "Billionaire Arthur Sterling was found shot dead inside his secluded lakeside cabin in the middle of a heavy snowstorm. The police arrive at 8:00 AM. Detective Vance notes that fresh snow started falling at midnight and stopped at 6:00 AM.\n\nThere is only one set of boot footprints leading TO the cabin door, but NO footprints leading away. The suspect, Arthur's business partner Mark, claims: 'I arrived on foot at 11:30 PM last night to deliver files, we talked, and then I walked back to my hotel around 1:00 AM before going to sleep.'",
+  "victim": "Arthur Sterling (Billionaire)",
+  "crimeScene": "Secluded snowbound lake cabin",
+  "forensicClue": "Look closely at the snowfall timeline versus Mark's claimed departure time.",
+  "question": "Why did Detective Vance immediately arrest Mark for lying about his alibi?",
+  "options": [
+    "If Mark arrived at 11:30 PM before the snow started, his footprints would have been covered by 6 hours of fresh snow. Clear visible tracks at 8:00 AM prove he arrived AFTER 6:00 AM.",
+    "The footprints leading to the cabin had snow inside them, proving he never arrived at 11:30 PM.",
+    "Mark was wearing sneakers instead of boots.",
+    "The cabin door was locked from the outside with a master key found in Mark's pocket."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "Fresh snow fell continuously from midnight to 6:00 AM. If Mark arrived at 11:30 PM (before the snow started), his arrival footprints would have been completely buried under 6 hours of snow. The fact that clear arrival footprints were visible at 8:00 AM proves they were made AFTER the snow stopped at 6:00 AM. The killer walked into the cabin after 6:00 AM, committed the murder, and wore Arthur's oversized snowshoes or stepped backwards to fake the scene!"
+}

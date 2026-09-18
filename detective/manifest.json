@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "totalCases": 5,
+  "lastUpdated": "2026-09-18T21:29:53.260536Z",
+  "categories": [
+    "Locked Room Mystery",
+    "Alibi Buster",
+    "Forensic Clue & Autopsy",
+    "Heist & Diamond Theft",
+    "Classic Whodunit Murder",
+    "Cyber Crime & Tech Riddle",
+    "Museum & Art Gallery Forgery",
+    "Poison & Toxic Mystery"
+  ],
+  "cases": [
+    {
+      "id": "case_1",
+      "caseNumber": 1,
+      "title": "The Frozen Lake Cabin Murder",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Arthur Sterling (Billionaire)",
+      "file": "cases/case_0001.json"
+    },
+    {
+      "id": "case_2",
+      "caseNumber": 2,
+      "title": "The Poisoned Toast at High Noon",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Charles Harrington (Heir)",
+      "file": "cases/case_0002.json"
+    },
+    {
+      "id": "case_3",
+      "caseNumber": 3,
+      "title": "The Soundproof Recording Studio Heist",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Luna (Pop Star)",
+      "file": "cases/case_0003.json"
+    },
+    {
+      "id": "case_4",
+      "caseNumber": 4,
+      "title": "The Fake Kidnapping Ransom Call",
+      "category": "Cyber & Tech Crime",
+      "difficulty": "Medium",
+      "victim": "David (Merchant's son)",
+      "file": "cases/case_0004.json"
+    },
+    {
+      "id": "case_5",
+      "caseNumber": 5,
+      "title": "The Museum Painting Switch",
+      "category": "Museum & Art Forgery",
+      "difficulty": "Hard",
+      "victim": "National Art Gallery",
+      "file": "cases/case_0005.json"
+    }
+  ]
+}
