@@ -1,0 +1,19 @@
+{
+  "title": "Whodunnit on the Moonlit Mansion Path",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "On a moonlit night, five guests were invited to a mansion party by the wealthy businessman, Mr. Blackwood. Among them were the art dealer Mr. Artisan, the fashion designer Miss Couture, the botanist Dr. Green, the journalist Mr. Newsman, and the opera singer Ms. Soprano. Alas, Mr. Blackwood was found dead in the garden with a fatal stabbing. The front door was locked from the inside, indicating suicide by mistake. As the guests gathered in the drawing room, only one window was found open. The room was quite calm, except for the faint whispering of opera arias.",
+  "victim": "Mr. Blackwood",
+  "crimeScene": "In the drawing room, the door was locked from the inside, with a single open window.",
+  "forensicClue": "The murder weapon, a stolen antique dagger, was found just outside the open window.",
+  "question": "Who committed the murder and how did they get in? Please provide a plausible explanation for the stolen murder weapon.",
+  "options": [
+    "Option A: Mr. Newsman entered through the open window and borrowed the dagger from the antique room.",
+    "Option B: Miss Couture entered through the open window and concealed the dagger in her opera costume.",
+    "Option C: Dr. Green used a key to silently enter the mansion and left the dagger in the antique room.",
+    "Option D: Mr. Artisan snuck in through the back door and hid the dagger in his diplomatic suit."
+  ],
+  "correctIndex": 2,
+  "caseNumber": 282,
+  "id": "case_282"
+}

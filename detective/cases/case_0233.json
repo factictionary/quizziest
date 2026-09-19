@@ -1,0 +1,21 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Hard",
+  "story": "In a dimly lit, old mansion on the outskirts of town, an exclusive diamond exhibition was taking place. The exhibition hall was guarded by highly trained security personnel and monitored by state-of-the-art surveillance cameras. The largest diamond on display was the 'Star of Hope', valued at over $100 million. The owner of the mansion, millionaire businessman Mr. Patel, was away on a business trip abroad.",
+  "victim": "Mr. Patel, Millionaire Businessman",
+  "crimeScene": "The mansion's opulent exhibition hall.",
+  "forensicClue": "An unusual electrical signature in the CCTV footage near the Star of Hope exhibit.",
+  "question": "Who stole the Star of Hope diamond and how did they manipulate the evidence?",
+  "options": [
+    "Suspect 4 tampered with the security systems, concealed evidence and destroyed the security footage.",
+    "Suspect 1 bypassed the security system but didn't manipulate the evidence.",
+    "Suspect 2 used a fake identity to enter the premises and stole the diamond.",
+    "Suspect 3 disabled the surveillance cameras and stole the diamond."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The Star of Hope diamond is stolen, and the crime scene displays indications of tampering. Let's analyze the evidence:\n\n1. Tampered Security System: The security system was altered, allowing the culprit to bypass the access control. However, this doesn't unveil who stole the diamond.\n\n2. Hidden Theft Evidence: Surprisingly, the crime scene reveals that someone covered up the absence of the stolen diamond and manipulated the evidence to mislead the investigation. Additionally, an unusual electrical signature was found in the CCTV footage near the Star of Hope exhibit, suggesting an intruder with knowledge about the security systems.\n\nThe culprit was likely one of the following suspects:\n\n- Suspect 1 tampered with the security system, making it easy for others to enter the premises undetected.\n- Suspect 2 used a deceptive identity to bypass the security system and take the diamond.\n- Suspect 3 disabled the surveillance cameras, allowing an unseen theft and altering the crime scene to mislead the investigation.\n- Suspect 4 hid the absence of the diamond and manipulated the crime scene evidence, along with covering their tracks by tampering with the security system to prevent alarms from going off during the heist.\n\n3. The Star of Hope diamond is missing, and the crime scene bears signs of someone who knew about the security systems, manipulated evidence, and concealed their presence. The electrical signature in the CCTV footage points to a recent intruder.\n\nThe logical deduction points towards Suspect 4, who was involved in both the manipulation of the security system and the altering of evidence. By covering their tracks, they prevented alarms from going off during the heist and concealed their presence. Meanwhile, they destroyed the security footage tampering with the systems, hiding their identity and leaving an electrical signature on the CCTV footage, indicating an experienced thief who knew about the security systems.",
+  "reason": "Suspect 3 disabled the surveillance cameras and stole the diamond. Meanwhile, Suspect 3 tampered with the security systems, removing their identity from footage.",
+  "caseNumber": 233,
+  "id": "case_233"
+}

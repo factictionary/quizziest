@@ -1,0 +1,19 @@
+{
+  "title": "The Enigmatic Art Exhibit Murder",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In the glitzy city of Gilded Haven, an art world sensation unfolded at the opulent 'Whispers of Brushstroke' exhibition. Late at night, the wealthy gallery owner, Mr. Galloway, was found stabbed to death in his prized art exhibit. Guests were in awe of the captivating 'The Eternal Embrace' painting.",
+  "victim": "Mr. Galloway, the gallery owner",
+  "crimeScene": "The luxurious 'Whispers of Brushstroke' exhibition",
+  "forensicClue": "The art palette found near the body.",
+  "question": "Who committed the crime and left a cryptic clue? Find the hidden art palette near the victim and decipher the mystery.",
+  "options": [
+    "Option A: Miss Amber Paintbrush (found at the back of the painting 'The Eternal Embrace')",
+    "Option B: Mr. Cipher Critique (was arguing with the victim beforehand)",
+    "Option C: Mrs. Eccentrico Galleria (obsessed with stealing rare art)",
+    "Option D: Masterpiece Masquerade (arrived masked, creating suspicion)"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 197,
+  "id": "case_197"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Shadows of St. James Alley",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "In the dimly lit St. James Alley, a cold-blooded murder took place. Late at night, the owner of the local jewelry store, Emily Stone, was found stabbed with her own exquisite necklace. The alley was deserted that fateful night, save for four individuals - Mr. Thomas Ames, Miss Lily Blackwood, Mr. Edward Walker, and Mr. Samuel Lee.",
+  "victim": "Emily Stone (Jewelry Store Owner)",
+  "crimeScene": "St. James Alley, a narrow, dimly lit cul-de-sac.",
+  "forensicClue": "The necklace used in the crime bears a curious inscription: 'A friend in need is a friend indeed'.",
+  "question": "Who is the killer and what was their motive?",
+  "options": [
+    "Option A (Thomas Ames and motive).",
+    "Option B (Lily Blackwood and motive).",
+    "Option C (Edward Walker and motive).",
+    "Option D (Samuel Lee and motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The players' task is to unravel the twisted tale of deception in St. James Alley.",
+  "caseNumber": 99,
+  "id": "case_99"
+}

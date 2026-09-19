@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Lab Conspiracy",
+  "category": "Locked Room Mystery",
+  "difficulty": "Hard",
+  "story": "Richard Langley, the reclusive founder of a biotech empire, was discovered dead inside his private research lab on the 42nd floor. The steel door was bolted from the inside, the biometric lock logged a single entry at 21:45 and an exit at 22:05, and the alarm sounded at 22:00. Four people were present in the building that night. Emily, Langley's personal assistant, says, \"I was in the lobby reviewing schedules when the alarm blared; I never entered the lab.\" Dr. Lee, the lead scientist, claims, \"I was calibrating equipment in the adjacent chamber and heard a thump, but I stayed put to finish the run.\" James, a rival entrepreneur, insists, \"I was in a conference on the 41st floor until the police arrived; I never left the room.\" Sarah, a lab technician, states, \"I was on my lunch break outside; I saw Emily walk toward the lab entrance about ten minutes before the alarm.\" A security camera captured a figure in a lab coat entering at 21:45 and exiting at 22:05. A torn strip of fabric snagged in the airlock matches the distinctive teal lining of Emily's jacket, a detail only she knows.",
+  "victim": "Richard Langley",
+  "crimeScene": "A high‑security biotech laboratory on the 42nd floor of Langley's skyscraper, sealed from the inside.",
+  "forensicClue": "A torn piece of teal‑lined fabric caught in the airlock matches Emily's jacket.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Dr. Lee (because he was supposedly busy with equipment)",
+    "Sarah (she saw Emily near the lab)",
+    "Emily (fabric evidence and timeline conflict)",
+    "James (he had a business motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The camera logs show the only person who entered and left the lab between 21:45 and 22:05. Emily claimed she never entered, yet the torn teal fabric—unique to her jacket—was found in the airlock, directly linking her to the entry. Sarah's testimony actually places Emily near the lab, not herself. Dr. Lee and James have alibis that place them elsewhere, and no physical evidence ties them to the scene. Therefore, Emily is indisputably the murderer.",
+  "caseNumber": 91,
+  "id": "case_91"
+}

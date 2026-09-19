@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Murmur in the Manor Library",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "The storm‑raked night at Finch Manor ended in tragedy when the wealthy art dealer Harold Finch was found dead in his private library, a heavy bronze bust shattered beside him. The clock on the mantelpiece had stopped at 9:13 PM, the time the coroner later confirmed as the moment of death. Four people were present: Butler James, who claimed he was polishing the silverware in the pantry until 9:00; Chef Maria, who swore she was preparing a late‑night stew in the kitchen and heard nothing until the scream; Gardener Leo, who said he was trimming the hedges in the garden until the rain forced him inside at 8:45; and Guest Evelyn, a distant cousin, who insisted she was in the lounge reading and only stepped into the hallway at 9:20. A single strand of silky gray hair, identified by the forensic team as belonging to a rare Persian cat, was found clutched in Finch's hand. Only Butler James owns such a cat, which he keeps hidden in the pantry.",
+  "victim": "Harold Finch",
+  "crimeScene": "Finch Manor private library during a thunderstorm",
+  "forensicClue": "A single gray Persian‑cat hair on the victim’s hand, matching the only cat owned by Butler James.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Chef Maria – she was the only one handling a knife in the kitchen)",
+    "Option B (Gardener Leo – his muddy boots were found near the library door)",
+    "Option C (Butler James – the cat hair matches his pet and he had the only key to the locked study)",
+    "Option D (Guest Evelyn – her lipstick was found on a glass near the body)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The forensic analysis revealed a gray Persian‑cat hair on the victim, and only Butler James owns such a cat. Additionally, the locked study could only be opened with the master key that James kept in his pocket, which explains how the murderer entered the library unnoticed. The clock stopped at 9:13, matching James's claim that he was still in the pantry at 9:00, giving him the window to commit the crime before returning. All other suspects have alibis or lack the unique cat‑hair evidence, making James the indisputable culprit.",
+  "caseNumber": 27,
+  "id": "case_27"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Deceptive Dose",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In the middle of a moonlit night, the tranquil town of Willowbrook was shaken by a bizarre case. The local bakery owner, Mrs. Butterfield, unexpectedly passed away due to poisoning. Upon investigation, it was revealed that she had consumed a homemade fruit pie from our town's annual fruit festival.",
+  "victim": "Mrs. Butterfield - the owner of a local bakery",
+  "crimeScene": "The Butterfield Bakery",
+  "forensicClue": "An unknown plant found mixed into the pie.",
+  "question": "Who poisoned Mrs. Butterfield and why? ",
+  "options": [
+    "Option A (Fred - jealous of Mrs. Butterfield's success)",
+    "Option B (Maggie - upset over a disagreement)",
+    "Option C (Jake - angry due to a business rivalry)",
+    "Option D (Sophie - frustrated with Mrs. Butterfield's freshly baked pies)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "During the investigation, it was discovered that a rare plant called 'Whisperslip' was found within the pie. Although the plant is endemic to the area, no one had reported finding it in the festival's baked goods. Suspect Sophie, a passionate botanist, had handled the Whisperslip plants for her research. Upon questioning, she revealed her frustration with Mrs. Butterfield's pies becoming too popular. The Whisperslip was accidentally mixed into the pie dough, which directly correlates to Sophie's motive and opportunity. The correct answer is Option D (Sophie).",
+  "caseNumber": 162,
+  "id": "case_162"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the glittering world of high-class jewelry stores, a heist of unparalleled magnitude was committed. Lady Luck, a renowned gemstone emporium, was brutally hit. The robbery occurred during the grand reopening of the store, which was a lavish affair attended by the rich and famous. Upon investigation, it's discovered that priceless diamonds were stolen.",
+  "victim": "Lady Luck's proprietor: Mr. Amir Khan",
+  "crimeScene": "Lady Luck is an opulent gemstone emporium, filled with sparkling treasures. It's a multi-level building, adorned with exquisite artworks and a luxurious ambiance. The crime scene is on the top floor, where high-security display cases hold the stolen diamonds.",
+  "forensicClue": "The security footage seems to show a fifth person at the event who wasn't recorded on the entrance log. This unaccounted guest could have been the getaway driver or provided inside information.",
+  "question": "Who is the culprit and how did they pull it off? Unravel the mystery by examining the suspects and their alibis.",
+  "options": [
+    "Option A (Suspect 1: Eva Diamond, alibi in a poker game, CCTV footage of a mysterious fifth guest).",
+    "Option B (Suspect 2: Dr. Gemstone, alibi at a diamond symposium, gemstone knowledge).",
+    "Option C (Suspect 3: Sir Ruby, alibi at a charity gala, expertise in forgery).",
+    "Option D (Suspect 4: Miss Jade, alibi at a fashion show, close acquaintance with the victim)."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "After examining the suspects and their alibis, Detective AI discovers that Miss Jade, who was at the fashion show and close to the victim, coincidentally had access to crucial insider information about the store's security measures. Furthermore, the mysterious fifth guest in the CCTV footage matches Miss Jade's description. Miss Jade masterminded the heist and provided Lady Luck with information on security, allowing the thief to navigate the store effortlessly, and the fifth guest was Miss Jade herself to cover her tracks.",
+  "solution": "Miss Jade executed a meticulously planned heist with her inside knowledge of the store's security measures. The CCTV footage shows a mysterious fifth person attending the event, which turns out to be Miss Jade wearing a disguise. The stolen diamonds vanished during the charity gala that Miss Jade attended. Furthermore, she had a motive: Lady Luck refused to invest in her fashion line's sample display.",
+  "caseNumber": 105,
+  "id": "case_105"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The Corpse in the Mansion",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "In the mansion of the wealthy industrialist, Mr. Blackwood, a gruesome sight awaited the police. They discovered a lifeless body with a peculiar symbol etched onto their chest - a pentagram.\n\nThe victim, Amelia Blackwood - the industrialist's estranged daughter, was found lying in the grand entry hall. Her demise seemed to be caused by a single gunshot wound to the chest.\n\nSetting: The opulent Blackwood Mansion - a sprawling estate with intricate artwork, rich tapestries, and a chilling history of family secrets.\n\nTestimonies:\n1. Mr. Blackwood: 'My dear wife, Emily, was with me in the study when the horror occurred. She heard the shot and rushed to Amelia's side.' An obvious alibi but conceals the motive.\n2. Emily Blackwood: 'I found Amelia's body. Her father was in the study, as I've just testified.' The motive remains hidden in the mansion's dark corridors.\n3. Sir Reginald Whitmore: 'I was in the library, engrossed in a rare book collection, when the commotion unfolded.' He might know something about the pentagram.\n4. Lila Sinclair: 'I arrived at the mansion for our family gathering, and chaos erupted. I haven't a clue who did this horror.' The pentagram clue points to a sinister motive.\n\nCrime Scene: A pentagram symbol etched into the marble floor before the body, witnessing the chaos.\n\nForensic Clue: The gunshot was fired from a distance, with no signs of a struggle.\n\nQuestion: Who has the motive, means, and opportunity?\n\nOptions:\n1. Mr. Blackwood (motive: protecting family honor; means: owning the gun; opportunity: witnessing the pentagram)\n2. Emily Blackwood (motive: revenge; means: access to the gun; opportunity: being with Amelia when the crime occurred)\n3. Sir Reginald Whitmore (motive: hidden family secrets; means: knowledge of rare books; opportunity: being in the library)\n4. Lila Sinclair (motive: family rivalry; means: access to a gun; opportunity: family gathering)\n\nCorrect Answer: Identify the true culprit and their motive, means, and opportunity.\n\nCorrect Answer Index: 2\n\nThe pentagram, the gunshot, and the family gathering create the perfect storm for a family feud-driven crime.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 193,
+  "id": "case_193"
+}

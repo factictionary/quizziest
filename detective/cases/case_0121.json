@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit at the Gallery Gallows",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the dimly lit Art Museum, a dead body hangs from a prominent artwork exhibit: 'The Guilty Plea'. Amazed visitors gasp, while the passionate docent, Mr. Baudelaire, leads a tour. Meanwhile, a notorious art forger, Ms. Van Gogh, skillfully blends with the bustling crowd.",
+  "victim": "Leonardo da Vinci - 'The Last Supper'",
+  "crimeScene": "The grand entrance leads to an opulent gallery featuring 'The Last Supper', a famous Da Vinci painting. A small plaque reveals it's a replica, believed to be forged by Ms. Van Gogh.",
+  "forensicClue": "A microscopic fragment of a brushstroke - unique to Ms. Van Gogh's style.",
+  "question": "Who is the mastermind behind the devious deed, and how did they swindle the famous artwork? ",
+  "options": [
+    "Option A - Mr. Van Gogh (Suspect 1) and the shared motive for revenge against the Museum Board",
+    "Option B - The Museum Director (Suspect 2) and the opportunity to pass off a fake artwork as genuine",
+    "Option C - Ms. Van Gogh (Suspect 3), the renowned forger with the unique brushstroke evidence",
+    "Option D - Mr. Baudelaire (Suspect 4) and the alibi of being on the tour at the time of the crime"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The microscopic examination of the unique brushstroke found at the crime scene points unequivocally to Ms. Van Gogh as the forger. However, we must also consider the alibi of Mr. Baudelaire, who was leading the tour when the crime occurred. The shared motive of revenge between Mr. Van Gogh and Mr. Baudelaire lends credibility to both suspects 1 and 4. By cross-referencing the evidence and alibi, the detective deduces that: Ms. Van Gogh, renowned forger, is the primary suspect. But, Mr. Baudelaire, the tour guide, had an alibi and could not have committed the crime. Therefore, the culprit must be Mr. Van Gogh, who, besides being the forger, holds a motive with the shared conspiracy of Mr. Baudelaire. The Museum Director (Suspect 2) has the opportunity to tamper with the artwork, yet lacks the motive and unique brushstroke evidence.",
+  "caseNumber": 121,
+  "id": "case_121"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Deadly Cocktail",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "Richard Langley, a wealthy businessman, was found dead in the study of his mansion during a charity gala, a half‑filled glass of whiskey clutched in his hand. The autopsy revealed a rare neurotoxin that acts within minutes. Four people were quickly identified as suspects:\n\n- James Parker, the business partner, said he was in the kitchen fetching a drink at the time.\n- Emily Langley, the victim’s wife, claimed she was in the garden taking a phone call.\n- Marcus Thompson, a rival entrepreneur, asserted he was in the study discussing a deal, then stepped out for a drink.\n- Samantha Lee, a former employee, insisted she was at home watching TV.\n\nA security camera captured a flash of a silver watch with a broken strap in the study at 10:05 PM, and phone records show Emily’s call lasted from 9:45 PM to 10:15 PM, contradicting her garden alibi.",
+  "victim": "Richard Langley",
+  "crimeScene": "Langley's mansion study during a charity gala",
+  "forensicClue": "Silver watch with a broken strap seen on camera at 10:05 PM in the study",
+  "question": "Who poisoned Richard Langley?",
+  "options": [
+    "James Parker, because his kitchen alibi is unverified at the exact time",
+    "Emily Langley, because her phone call overlaps the poisoning window, disproving her garden claim",
+    "Marcus Thompson, because he was the only one seen near the study",
+    "Samantha Lee, because she held a grudge after being fired"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The toxicant was administered between 10:00 PM and 10:15 PM. The only clue that directly contradicts an alibi is Emily’s phone record, which shows she was on a call from 9:45 PM to 10:15 PM, meaning she could not have been in the garden. The silver watch links the murderer to the study at 10:05 PM, and only Emily could have been there despite her claim. Therefore, Emily Langley is the indisputable culprit.",
+  "caseNumber": 49,
+  "id": "case_49"
+}

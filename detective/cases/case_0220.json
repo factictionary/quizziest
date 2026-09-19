@@ -1,0 +1,22 @@
+{
+  "title": "Tech Thief: The Phantom Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In a bustling tech company office, the Assistant Manager John was found with a smashed computer monitor, claiming that his desk drawer was forced open. The office printer, which was connected to the company's network, had an inexplicable surge of printing at 2:00 AM. Let's crack the case of The Phantom Heist.\n\nVictim: Assistant Manager John (Job position and motive)\nCrime Scene: A modern tech company office (Location and setting)\n\nTestimonies:\n1. Sarah, the receptionist: ‘I heard a loud crash at night and quickly reported it to the security team.’\n2. Tim, the IT technician: ‘I noticed unusual printing activity on the company network at midnight, suspecting a potential data breach.’\n3. Alice, the office cleaner: ‘I found a broken monitor this morning and reported it to the management.’\n4. Mark, the night watchman: ‘I arrived at the office around 5 AM to start my shift and found the door unlocked, but everything seemed to be intact.’",
+  "crimeScene": {
+    "companyOffice": "A modern tech company office",
+    "nightTime": "at night (2:00 AM)"
+  },
+  "forensicClue": "Unusual printing activity on the company network",
+  "question": "Who is the thief and how did they enter the office?",
+  "options": [
+    "Option A (Mark: The night watchman with a key)",
+    "Option B (Alice: Cleaner with access to the premises)",
+    "Option C (Sarah: Receptionist alerting the management for a forced entry)",
+    "Option D (Tim: IT technician with network insights)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The tech company's printer surge at 2:00 AM indicates a coordinated heist. Mark, the night watchman with a key, was the last person to leave the building late at night (2:00 AM). The other witnesses noticed the broken monitor and forced entry. Tim, the IT technician, can deduce that the culprit had network access, Alice has access to the premise, and Sarah noticed a forced entry. However, only Mark had the opportunity to be the last person in the building at night, leading to Option A (Mark: The night watchman with a key) being the correct answer.",
+  "caseNumber": 220,
+  "id": "case_220"
+}

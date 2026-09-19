@@ -1,0 +1,20 @@
+{
+  "title": "Crime of the Golden Touch",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the glittering city of Las Vegas, the night was meant to be big for casino owner 'Vegas Vic'. His opulent diamond-studded casino, 'The Royale Royale', hosted an extravagant charity event featuring the most secure and rare diamonds in town as a silent auction prize. The diamonds, worth more than $100 million, were kept in an impenetrable vault under the watchful eyes of veteran security guard 'Lt. Lucky' and casino matron 'Madam Magnolia'. The night was a flurry of laughter, alliances, and secrets. Did fortune just smile on the wrong people?",
+  "victim": "Victim's name or role (omitted for mystery)",
+  "crimeScene": "The grand casino 'The Royale Royale'",
+  "forensicClue": "A peculiar scratch on the vault door (unlockable clue for players)",
+  "question": "Who stole the diamonds and how were they acquired? ",
+  "options": [
+    "Option A: The diamond tainted former auctioneer 'Hank Hazard' and his mysterious partner in crime; a man who vanished in thin air - 'Zephyr'.",
+    "Option B: The notorious diamond smuggler 'Diamond Dave', who had a grudge against Vic for refusing to launder his illicit diamonds.",
+    "Option C: The disgraced private detective 'Breezy Bob', who once worked for Vic and had insider knowledge.",
+    "Option D: The enigmatic stage magician 'Wizard Will', who had a rare key to the vault, obtained legally, but never used before."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "Upon inspection, the scratch on the vault door reveals a pattern matching the design of Wizard Will's magic wand (the rare legal key). Furthermore, Will confessed to Vic that he was intrigued by the diamonds.\nWitnesses confirm Will's presence during the theft, whilst Hank, Dave, and Bob had alibis.\nThe stage was set for a grand magic show, where Will performed a disappearing act similar to Zephyr (missing culprit).\n\nThe diamonds are found in Wizard Will's abandoned black van, alongside a note signed 'Zephyr.'",
+  "caseNumber": 231,
+  "id": "case_231"
+}

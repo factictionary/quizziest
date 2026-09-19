@@ -1,0 +1,16 @@
+{
+  "title": "The Shadowy Shadows Murder",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Expert",
+  "story": "In the dimly lit streets of Rainbow Row, a tragic event unfolded.\n\nThe body of renowned art critic, Lady Amelia Blackwood, was found in the early hours of the morning in her lavish townhouse.\nAmelia's elaborate collection of rare paintings graced the walls, serving as a stage for this twisted tragedy.\n\nThe crime scene: Upon entering, one is met with a beautifully staged study, its mahogany bookshelves filled with first edition art books.\n\nSuspect Statements:\n1. Mr. Thornton, the tenant below Lady Amelia, claims she had a heated argument the night before and heard a violent noise around midnight.\n2. Sparky, Amelia's loyal dog, refuses to leave her side and appears distraught ever since she adopted him from an animal shelter months ago.\n3. Art dealer, Miss Waverly, claims Amelia abruptly cancelled a highly profitable exhibition under her guidance.\n4. Lord Melrose, jealous of Amelia's critical acclaim, admits to confronting her about her harsh reviews but denies any motive to commit murder.\n\n\nCrime Scene Description:\nA tall velvet curtain conceals the study door, cautiously left ajar, suggesting the murderer entered as Amelia was closing it behind him.\n\nCorpse: Lady Amelia Blackwood, aged 58, a thick scarf wrapped tightly around her neck, leaving no room for doubt - murder.",
+  "Correct Solution": "0\n\nForensic Clue: A smudge of black paint found on the doorknob leads to the possible motive.\n\nExplanation:\nThe murderer had a connection to the world of art.\n\nOptions:\n1. Option A: Lord Melrose (motive: harsh reviews)\n2. Option B: Miss Waverly (forensic clue: black paint connection)\n3. Option C: Mr. Thornton (motive: argument and noise)\n4. Option D: Sparky (forensic clue: scarf smudge on the doorknob)",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 278,
+  "id": "case_278"
+}

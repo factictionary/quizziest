@@ -1,0 +1,21 @@
+{
+  "title": "The Venomous Vendetta",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the shadows of the opulent Greenwood Estate, the body of renowned botanist Dr. Amelia Everton was discovered in the poisonous garden she had dedicated her life to. Doctor Everton, 55, was found slumped over in a pool of crimson-tinged sap from the deadly heartsease plant. The room reeked of cyanide, and a single, poised syringe was found beside her, ready to inject poison into unsuspecting guests at tonight's garden party.",
+  "victim": "Dr. Amelia Everton",
+  "crimeScene": "A secluded corner of the poison garden at Greenwood Estate, soon to be the centerpiece of tonight's garden party.",
+  "forensicClue": "The absence of cyanide traces on the syringe's rubber bulb.",
+  "question": "Who committed the crime and how did they do it? Options:",
+  "options": [
+    "Option A: Lord Vincent, as the only one with the expertise to handle the syringe and the motive to sabotage the botanical symposium.",
+    "Option B: Lady Adela, known for her envy towards Amelia's fame and the opportunity to tamper with the garden.",
+    "Option C: Master Gardener Samuel, having the knowledge to cultivate the heartsease plant and the motive to cover up a mistake.",
+    "Option D: Dr. Amelia's assistant, Emily, seeking to inherit her venerable position and the alibi of assisting Amelia in the greenhouses."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The syringe's rubber bulb lacked cyanide traces. Here's the logical reveal: Lady Adela, the owner of the estate, hired Dr. Amelia Everton to redesign the poison garden. Consequently, Dr. Everton would consistently handle the syringe for pruning tasks, rendering her options (C) and (D) irrelevant. Moreover, after a tense argument that escalated during the garden party, Lady Adela (B) holds the motive to create an alibi by framing Dr. Amelia for sabotaging her own garden.",
+  "alibi": "Emily (D), who was assisting Dr. Everton in the greenhouses before the incident, can't have been at the crime scene when it occurred. However, the crime couldn't have been committed by Dr. Amelia Everton (A), who was meticulously pruning plants when the crime happened. Lastly, Master Gardener Samuel (C) has a solid alibi: he was overseeing a poison ivy eradication project in the east garden during the murder.",
+  "caseNumber": 280,
+  "id": "case_280"
+}

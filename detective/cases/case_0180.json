@@ -1,0 +1,15 @@
+{
+  "title": "The Silent Shadows",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "In the dimly lit world of Noir, Detective Jackson found himself investigating a chilling case. The crime occurred at 'The Shadows Club,' an enigmatic, shuttered establishment located amidst the labyrinthine alleys of the Black Market. The owner, Mr. Thompson, made headlines when he mysteriously vanished without a trace.\n\nVictim: Mr. Thompson, the enigmatic owner of 'The Shadows Club' - A mysterious man, rarely seen.\nCrime Scene: The deserted club, filled with shadows and whispers, bore witness to a chilling sight: Mr. Thompson's corpse, suspended from the rafters, a satchel near him containing the digits '38269547'. The club's peculiar logo - a single winking eye, seemed to mock the detective.\n\nTestimonies:\n1. Mrs. Gomez (Landlady of the adjoining building): I heard a commotion around midnight, as if someone was desperately searching the alley.\n2. Emilia (Local Whisperer): I overheard a heated conversation between Mr. Thompson and an unfamiliar voice late last night. They planned something unsettling and cryptic.\n3. Juan (Shadowed Night Porter): A figure wearing a hooded cloak entered hurriedly, just before the disturbance was heard by the landlady.\n4. Carlos (Shadows Club's Maitre d'): An unidentified man paid for a month's worth of service in cash, leaving without a single word said.\n\nForensic Clue: The satchel's digits '38269547' seems unrelated to the case until we discover the last digits are the same as the year Mr. Thompson founded the club.\n\nCorrect Index: 4 (Carlos)\n\nOptions:\n1. Mrs. Gomez (0)\n2. Emilia (1)\n3. Juan (2)\n4. Carlos (3)\n\nDeduction Explanation:\nThe yearly clue connects Carlos who received the suspicious payment from a mysterious figure just hours before the disturbance and victim's disappearance. Carlos is the only one who had access to Mr. Thompson's personal matters - the club's founding year.\n\nThe satchel's digits hints towards Mr. Thompson's backstory, revealing his year of establishment, which could have been shared by Carlos during their interaction.\n\nThe enigmatic figure didn't have to enter or leave through the main entrance, given Carlos' duties as the Maitre d' would provide a hidden entrance or exit for them.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 180,
+  "id": "case_180"
+}

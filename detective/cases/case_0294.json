@@ -1,0 +1,19 @@
+{
+  "title": "Deadly Venom Vendetta",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the glitzy world of high-stakes cocktail parties, a wealthy industrialist was found lifeless at the grand entrance of their lavish mansion. The victim, Ezra Stone, was a notorious figure in the connoisseur society, renowned for his extravagant taste in rare wines and exotic spices. This ebony-skinned billionaire was renowned for his enigmatic persona.",
+  "victim": "Ezra Stone - Wealthy Industrialist",
+  "crimeScene": "The grand entrance of Ezra Stone's opulent mansion.",
+  "forensicClue": "An unexpected residue of unknown green substance on the doorknob.",
+  "question": "Who murdered Ezra Stone and how? Please provide motives.",
+  "options": [
+    "Option A (Victim's Business Partner - Reason: Stolen trade secrets and disputed partnership)",
+    "Option B (Victim's Ex-wife - Reason: Hidden assets and emotional torture)",
+    "Option C (Greedy Neighbor - Reason: Disputed land inheritance)",
+    "Option D (Enigmatic Carpet Vender - Reason: Unsold valuable antique carpet)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 294,
+  "id": "case_294"
+}

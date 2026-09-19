@@ -1,0 +1,20 @@
+{
+  "title": "Sapphire Scam",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the opulent city of Vivintown, a dazzling event was about to take place at the illustrious Diamond Palace – an exclusive diamond showcase featuring the world's most valuable Sapphire of Oceans' worth, estimated at 300 million dollars.",
+  "victim": "Mayor's Daughter",
+  "crimeScene": "The Diamond Palace, an extravagant hall filled with the finest jewelery and a floor polished to a mirror finish, showcasing the Sapphire of Oceans, guarded by a team of heavily armed security.",
+  "forensicClue": "A faint but distinct smell of freshly polished steel",
+  "question": "Who stole the Sapphire of Oceans and how were they able to get away undetected?",
+  "options": [
+    "Option A (The Glimmer Gang - Suspect 1 reason)",
+    "Option B (The Shimmer Syndicate - Suspect 2 reason)",
+    "Option C (The Glistening Gang - Suspect 3 reason)",
+    "Option D (The Radiance Raiders - Suspect 4 reason)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "During the investigation, a distinct smell of freshly polished steel was discovered, which couldn't have come from the Diamond Palace itself. The forensic evidence points to a team of jewel thieves known as The Shimmer Syndicate. The smell hints at the use of a gleaming, recently polished getaway vehicle. The Shimmer Syndicate's modus operandi involves planning meticulous heists and utilizing pristine, custom-polished getaway cars. They left behind a telltale clue. As the heist went off without a hitch, their identity is bound to be revealed during gameplay.",
+  "caseNumber": 265,
+  "id": "case_265"
+}

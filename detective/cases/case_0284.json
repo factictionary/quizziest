@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit: The Phantom Heist",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "On a moonlit night in the seedy back alleys of Sin City, our tale unfolds. A notorious racketeer named Duke Harding was found lifeless after a sophisticated heist left the city in shock. The gangster's penthouse, riddled with security cameras, was robbed of an infamous black diamond necklace worth a million dollars.",
+  "victim": "Duke Harding (Racketeer)",
+  "crimeScene": "The crime scene is located in Duke Harding's lavish penthouse.",
+  "forensicClue": "A peculiar pattern traced on the floor near the robbed vault.",
+  "question": "Who stole the black diamond necklace from Duke Harding's penthouse and left a peculiar pattern on the floor? ",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "Discover the footprints matching the unique pattern and the alibi inconsistencies of each suspect to unveil the mastermind behind the heist.",
+  "caseNumber": 284,
+  "id": "case_284"
+}

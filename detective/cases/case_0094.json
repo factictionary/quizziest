@@ -1,0 +1,16 @@
+{
+  "title": "Whodunit at the Masquerade Ball",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "On a moonlit night at the opulent Masquerade Ball, wealthy businessman, Lionel Blackwood, was found murdered. The lavish mansion was filled with suspects hiding behind mysterious masks. Let's parse their alibis.\n\nVictim: Lionel Blackwood - Found dead in the library with a bullet wound to the chest.\n\nCrime Scene: The dimly lit library, filled with antique books and a single candle showing signs of struggle.\n\nForensic Clue: A torn scrap of paper with a phone number found near the body. The number matches the personal contact of a police inspector. \n\nQuestion: Who killed Lionel Blackwood and doctored the evidence? \n\nOptions: \n1. Lady Amara (She was seen arguing with Lionel just before the shot was fired and found with a torn piece of paper near her mask.) \n2. Detective Inspector Darrow (The torn paper implicates him, though he was recorded by security as entering the library after the crime.) \n3. Earl Grey (He had a solid alibi with friends witnessing him in the card room during the crime.) \n4. Sir Tobias (Found near the crime scene with a smoking gun and a sudden motive due to a lost investment deal.) \n\nCorrectIndex: 4",
+  "deductionExplanation": "The torn scrap of paper with a phone number implicates Inspector Darrow. However, security footage shows him entering the library after the crime. Sir Tobias had a solid alibi in the card room, found near the crime scene with a smoking gun and a motive due to a lost investment deal. The correct answer is Sir Tobias.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 94,
+  "id": "case_94"
+}

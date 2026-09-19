@@ -1,0 +1,18 @@
+{
+  "title": "The Deadly Green Vial",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the secluded mansion 'Shadows of Elysium', a renowned philanthropist and botanist, Dr. Ada Wilder, was found lifeless in the grand conservatory. The victim, Dr. Wilder, had been poisoned by a rare plant extract, and the only item found near his body was a lab glass vial containing a toxic green liquid. All four doors to the room were secured from the inside, leaving no exit or entrance other than the one they took.",
+  "victim": "Dr. Ada Wilder",
+  "crimeScene": "The conservatory at 'Shadows of Elysium', a lavishly designed room filled with exotic, toxic plants.",
+  "forensicClue": "The toxic green liquid in the vial has a distinct fingerprint revealing its laboratory origins.",
+  "question": "Who is the murderer and how did they commit the crime?",
+  "options": [
+    "Option A: Ms. Isadora Bloom (Found the toxic plant and mixed it with the liquid.), \n    \"Option B: Mr. Cyrus Darkwood (Knew of Dr. Wilder's research, possibly an old rival.)",
+    "Option C: Miss Jasper Skylar (Was seen arguing with Dr. Wilder over a disputed botanical research.),\n    \"Option D: Professor Felix Venom (Designed the conservatory, might have access to the toxic plant and a grudge against Dr. Wilder for dismissing his theories.)",
+    "Option E: None of the above (A hidden motive remains undiscovered.)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 296,
+  "id": "case_296"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit in the Enigmatic Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "In the late hours of the night, Detective John discovered the locked room mystery at the opulent mansion of the eccentric millionaire, Lord Reginald. The door to Lord Reginald's study had locked from the inside, leaving no outward signs of forced entry. Upon investigation, Detective John found the victim, Sir Edmund, Lord Reginald's trusted right-hand man, lifeless on the floor, a murder weapon (a poker) next to him.",
+  "victim": "Sir Edmund, Lord Reginald's right-hand man",
+  "crimeScene": "The study was adorned with antique furniture, a grand mahogany desk, and a fireplace.",
+  "forensicClue": "An unusual paw-shaped scratch found on the door's lock.",
+  "question": "Who committed the crime and how did they do it?",
+  "options": [
+    "Option A: Miss Amelia (and the paw-shaped scratch clue)",
+    "Option B: Lord Reginald (the only one with a key)",
+    "Option C: Mr. Charles (the butler and no paw print evidence)",
+    "Option D: Miss Lydia (no alibi and access through the secret wall panel)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Upon further examination, Detective John discovered Miss Lydia's paw-shaped scratch on the door's lock, implying she accessed the room via the secret wall panel. The absence of paw prints around the entryway eliminates Lord Reginald and Miss Amelia. Mr. Charles, the butler, has no evidence of entering the room and doesn't possess a key, ruling him out. Thus, the murderer is none other than Miss Lydia.",
+  "caseNumber": 150,
+  "id": "case_150"
+}

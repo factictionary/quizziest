@@ -1,0 +1,32 @@
+{
+  "title": "Deceptive Venom",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "In the quiet, picturesque town of Ashville, something sinister unfolded at the renowned Ashville Pharmaceuticals. On a solemn night, the CEO of the company, Professor Jasper Blackwood, was found lifeless in his office after attending a meeting with key staff members.\n\nThe meeting occurred in the grand, dimly lit boardroom. Present were: Althea الكيميائي, Arthur the IT specialist, Boris the security guard, and Cecile the administrative assistant.\n\nAlthea mentioned that she observed subtle signs of tension during the meeting but denied any involvement.\nArthur mentioned leaving the room briefly for a phone call, which left him with an alibi.\nBoris, the security guard, noted odd activity on the CCTV footage: a mysterious figure briefly entered the room through the unlocked east entrance before the supposed time of death.\nCecile claimed to have noticed unusual bulges in Professor Blackwood's coat pocket.\n\nCrime scene: The professor's dark brown coat, found discarded near the east entrance.\n\nForensic discovery: A single microscopic crystalline structure found on the victim's coat and the east entrance doorknob.\n\nThe crystalline structure analysis reveals it to be a rare and deadly type of poison.",
+  "victim": "Professor Jasper Blackwood",
+  "crimeScene": "Ashville Pharmaceuticals, Professor Jasper Blackwood's office",
+  "forensicClue": "A single microscopic crystalline structure found on the victim's coat and the east entrance doorknob.",
+  "question": "Who is responsible for the professor's demise and how did they do it? What is the motive? What is the poison and how can it be used to solve the case?",
+  "options": [
+    {
+      "option": "Althea",
+      "reason": "She had access, motive (rivalry due to denied promotion), and could have tampered with the coat."
+    },
+    {
+      "option": "Arthur",
+      "reason": "His phone call during the supposed time of death indicates manipulation of timeline. He may have poisoned the coat before or after the meeting."
+    },
+    {
+      "option": "Boris",
+      "reason": "The mysterious figure seen on the CCTV could be Boris disguised to cover their tracks. He has a motive (unpaid overtime hours) and could have poisoned the coat after the meeting."
+    },
+    {
+      "option": "Cecile",
+      "reason": "Cecile found the poisoned coat. She knew about the rare poison and could have replaced the crystalline structure on the doorknob with the deadly one.",
+      "motive": "Professor Blackwood's refusal to involve Ashville Pharmaceuticals in a prestigious research project."
+    }
+  ],
+  "correctIndex": 2,
+  "caseNumber": 188,
+  "id": "case_188"
+}

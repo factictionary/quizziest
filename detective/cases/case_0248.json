@@ -1,0 +1,37 @@
+{
+  "title": "The Silent Snake",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In a quiet little town named Twilight Valley, a gruesome event unfolded. The town's quaint bakery 'Tasty Treats' saw a tragedy. Owner and beloved resident, Mrs. Fiona Bakehouse, was found stabbed multiple times, lying lifeless in her kitchen. The door to the bakery was locked from the inside, suggesting the murderer was someone inner sanctum.",
+  "victim": "Mrs. Fiona Bakehouse",
+  "crimeScene": "The kitchen of Tasty Treats bakery was in disarray. A vintage tea set lay broken on the floor, along with a note that read 'You can't bake happiness, Fiona.', implying a rivalry within the town's cake-loving community.",
+  "forensicClue": "A peculiar scratch on the murder weapon - the antique tea set.",
+  "question": "Who committed the crime and why? How did the detective solve it?",
+  "options": [
+    {
+      "option": "The disgruntled employee (Suspect 2) who had access to a spare key, reason: The locked door clue."
+    },
+    {
+      "option": "The jealous neighbor (Suspect 4) who had a motive to cause mischief, reason: The motive behind the crime.",
+      "subOption1": "Testified against Fiona at the town council meeting.",
+      "subOption2": "Had a personal grudge due to a cooking competition loss"
+    },
+    {
+      "option": "The rival baker (Suspect 1) who had a motive to sabotage Fiona's success, reason: The motive behind the crime.",
+      "subOption1": "Regularly competed with Fiona in cake-making contests",
+      "subOption2": "Had a grudge due to a failed partnership attempt with Fiona"
+    },
+    {
+      "option": "The bitter customer (Suspect 3)",
+      "subOption1": "Confronted Fiona regarding her latest cake design",
+      "subOption2": "Had a motive to destroy Fiona due to a disagreement over a return policy"
+    }
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "",
+  "\n  The detective concluded the crime by piecing together the clues and testimonies. Upon questioning, the disgruntled employee revealed they had access to a spare key to the bakery due to a minor workplace conflict. The motive behind the crime was uncovered when the detective heard about the bitter rivalry between Mrs. Fiona Bakehouse and a jealous neighbor, who often competed for attention in Twilight Valley's social events. The locked door suggested the killer was someone with a key. The tea set scratch revealed the employee as the culprit, as their key allowed them entry, and the motive showed a strong grudge against their employer.\n  ": "",
+  "answer": "The disgruntled employee (Suspect 2)",
+  "reason": "The locked door clue and the motive mentioned in their statements",
+  "caseNumber": 248,
+  "id": "case_248"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Diamond Diva's Dilemma",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "Renowned jewelry designer Madame LeRoux reported that her signature diamond necklace vanished from her boutique in the Diamond District during a charity gala. The boutique was packed with guests, but only four staff members were on duty: manager James, sales associate Emma, security guard Mark, and intern Sophia. James claims he was at the bar restocking drinks at 9:10 PM, Emma says she was on a conference call with a client until 9:30 PM, Mark insists he was patrolling the hallway from 9:00 PM to 10:00 PM, and Sophia maintains she was in the back office filing inventory until she left for a quick snack at 9:15 PM. The necklace was last seen on display at 9:00 PM and the theft was discovered at 10:00 PM. Security footage shows Mark entering the back office at 9:05 PM, a room Sophia says she occupied the whole time, yet she later testifies she never saw Mark there when she exited at 9:15 PM.",
+  "victim": "Madame LeRoux",
+  "crimeScene": "Madame LeRoux's boutique in the Diamond District",
+  "forensicClue": "Security footage captures Mark stepping into the back office at 9:05 PM, contradicting his claim of patrolling the hallway.",
+  "question": "Who stole the diamond necklace?",
+  "options": [
+    "James (No corroborating evidence)",
+    "Emma (No corroborating evidence)",
+    "Mark (Security footage places him in the back office, breaking his alibi)",
+    "Sophia (Claims to have been alone, but her timeline allows the thief to leave unnoticed)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The theft window is between 9:00 PM (last seen) and 10:00 PM (discovered). 2. Mark says he was patrolling the hallway the whole time, but the security camera records him entering the back office at 9:05 PM. 3. Sophia says she was in the back office the entire time, yet she admits she left at 9:15 PM for a snack and did not see Mark, meaning she could not have been the one who locked the door on him. 4. James and Emma have alibis that place them elsewhere with no contradictory evidence. 5. The only suspect whose statement directly conflicts with objective footage is Mark, making him the indisputable culprit.",
+  "caseNumber": 84,
+  "id": "case_84"
+}

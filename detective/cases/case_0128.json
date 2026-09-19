@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit in the Cigar Lounge",
+  "category": "Locked Room Mystery",
+  "difficulty": "Expert",
+  "story": "In a dimly lit, plush cigar lounge, the enigmatic owner, Mr. Montego, met a sudden and brutal end. As the police entered the room, they noticed a locked French door, a smashed vase, and an empty whiskey decanter. The only entry and exit were two side doors, each with a doorman on duty. All guests reported no suspicious behavior.",
+  "victim": "Mr. Montego, the cigar lounge owner",
+  "crimeScene": "The locked French door, smashed vase, and empty whiskey decanter",
+  "forensicClue": "A peculiar scent of vanilla lingered in the air, distinct from the usual cigar smoke",
+  "question": "Who committed the crime and how did they do it? ",
+  "options": [
+    "Option A (The Guest with the mysterious vanilla scent and reason)",
+    "Option B (The Doorman with alibi and reason)",
+    "Option C (The Cigar Company Owner and reason)",
+    "Option D (The Chef and reason)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The player must examine the vanilla scent clue and consider the alibi of the doorman and motives of all suspects to solve the case.",
+  "caseNumber": 128,
+  "id": "case_128"
+}

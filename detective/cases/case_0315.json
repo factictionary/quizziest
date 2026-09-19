@@ -1,0 +1,21 @@
+{
+  "title": "The Enigmatic Study Soliloquy",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "In the late hours of a moonlit night, wealthy socialite and successful novelist, Emily Grayson, was found dead in her study. The room appeared to have locked from the inside, but no trace of a key was found. This locked room mystery had the town buzzing with curiosity.",
+  "victim": "Emily Grayson",
+  "crimeScene": "A lavish study filled with antique furniture, shelves of Emily's celebrated books, and an opulent fireplace.",
+  "forensicClue": "An overturned wingback chair near the door with a peculiar scratch on the door.",
+  "question": "Who is the culprit? How did the detective solve it?",
+  "options": [
+    "Option A (Suspect 1 and motive)",
+    "Option B (Suspect 2 and motive)",
+    "Option C (Suspect 3 and motive)",
+    "Option D (Suspect 4 and motive)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Upon closer inspection, Detective Jones discovered a hidden keyhole in the study door's secret compartment, which was left unlocked. Furthermore, a torn scrap of parchment was found nearby, hinting at a coded message that read 'A craftsman's touch'.",
+  "correctAnswer": "Emily herself.",
+  "caseNumber": 315,
+  "id": "case_315"
+}

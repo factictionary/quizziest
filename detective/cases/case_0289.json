@@ -1,0 +1,19 @@
+{
+  "title": "Whispers of Vanished Masterpiece",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Expert",
+  "story": "In the dimly lit halls of the Virtuoso Gallery, a rich tapestry of art and intrigue unfolds. Our enigmatic victim is Emilia Arras, esteemed curator of ancient artifacts. The crime scene transpires within the Egyptian Art Wing, where an ancient Egyptian tapestry, 'The Sands of Time', is on display valued at $10 million. The tapestry vanishes without a trace.",
+  "victim": "Emilia Arras, curator",
+  "crimeScene": "Egyptian Art Wing",
+  "forensicClue": "A peculiar set of footprints marked near the tapestry's pedestal.",
+  "question": "Who stole 'The Sands of Time' and how did they escape? ",
+  "options": [
+    "Option A (A seasoned art forger named Aiden Blackwood and a possible escape via concealed passage)",
+    "Option B (A disgruntled former employee, Luna Rossa, and an escape via a hidden ventilation),\n    \"Option C (A cunning art collector, Luciano Novara, and an escape via a concealed door)",
+    "Option D (A secretive art restorer, Gabriel Ravenwood, and an escape via a secret tunnel)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The concealed passage in the Egyptian exhibit served as Luciano Novara's escape route. As an art collector, he had motive and knowledge to pull off such a heist. The footprints near the tapestry hint at a person with thin-soled shoes, matching Luciano's description. His alibi checks out, covering the crucial escape window between 10 PM and 11 PM when the gallery was closed to the public for maintenance.",
+  "caseNumber": 289,
+  "id": "case_289"
+}

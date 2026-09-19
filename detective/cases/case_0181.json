@@ -1,0 +1,21 @@
+{
+  "title": "Whodunit: The Vanishing Vault Heist",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "In the dimly lit backrooms of 'Silver Moon Jewelry Company', a heinous crime occurred. The night shift foreman, James Whitney, discovered the safe containing millions in precious gems wide open when he arrived for work at 7 AM. The victim, Mr. Whitney, is known for his unparalleled security expertise.",
+  "victim": "Mr. James Whitney",
+  "crimeScene": "The dimly lit backrooms of 'Silver Moon Jewelry Company'",
+  "forensicClue": "A distinct shoe print near the safe.",
+  "question": "Who stole the jewels and left this telltale clue? Identify the thief and provide an alibi for the time of the crime.",
+  "options": [
+    "Option A: Maria, HR manager, was in the break room at 6:45 PM.",
+    "Option B: Simon, the night security guard, was patrolling the factory entrance at 11 PM.",
+    "Option C: Amelia, the cleaner, was in the storage room at 12:30 AM.",
+    "Option D: Victor, the head of production, was in the workshop at 10 PM."
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "At 11 PM, Options B and C are ruled out as Simon the security guard and Amelia the cleaner couldn't have committed the crime. The distinct shoe print found near the safe corresponds to the unique shoe size of Victor, the head of production, who was observed by a night watchman near his workshop at 10 PM. This narrows the suspect to Victor. Furthermore, Option A doesn't have a telling alibi despite Maria, the HR manager, knowing about the valuable jewels due to her dealings with company employees' contracts.",
+  "alibi": "Victor's alibi: A phone call from a client at 9:30 PM, discussing urgent last-minute revisions to the contract. Mr. Whitney confirmed the call.",
+  "caseNumber": 181,
+  "id": "case_181"
+}

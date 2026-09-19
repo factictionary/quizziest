@@ -1,0 +1,20 @@
+{
+  "title": "Poisoned Deception",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "In the serene town of Willowbrook, the enigmatic inventor Dr. Ezra Blackwood and his astounding automaton creation, \"The Mechanical Muse,\" attracted nationwide attention. Gathering at the exclusive Blackwood Manor was a mix of science elite and aristocracy for a symposium. Among them was the wealthy industrialist, Sir Reginald Thorne, and the cunning scientist Dr. Maya Patel. Also present were Lady Adelaide Blackwood, Ezra's long-lost sister; and the charming connoisseur, Lord Harcourt Rivers.",
+  "victim": "Dr. Ezra Blackwood",
+  "crimeScene": "The symposium was in full swing when the black-tie crowd noticed sudden distress. Dr. Blackwood, the mastermind behind the creation, lay unconscious on the grand entrance floor. A potion bottle named 'The Serpent's Sigh' had been left untouched at the scientist's station.",
+  "forensicClue": "The 'Serpent's Sigh' potion bottle displayed an engraving of a cunning serpent.",
+  "question": "Who is the culprit and how did they execute the crime? ",
+  "options": [
+    "Option A (Lord Harcourt Rivers and motive)",
+    "Option B (Dr. Maya Patel and method)",
+    "Option C (Sir Reginald Thorne and opportunity)",
+    "Option D (Lady Adelaide Blackwood and connection)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The 'Serpent's Sigh' potion tampering points to Lord Harcourt Rivers. The motive behind his rivalry with Dr. Blackwood provides the motive, while the tampered potion symbolizes the opportunity. Link the clues together for the solution.",
+  "caseNumber": 253,
+  "id": "case_253"
+}

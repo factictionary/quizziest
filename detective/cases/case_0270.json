@@ -1,0 +1,15 @@
+{
+  "title": "The Phantom Pharmaceutical Killer",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In a cramped apartment in the heart of the city, Detective Simon was commissioned to solve the peculiar case of a series of seemingly unrelated poisonings. A disturbing pattern emerged as several individuals, all sharing a connection to a local pharmaceutical manufacturer, began suffering from a common, fatal illness.\n\nVictim: Dr. Amelia Thompson, Chief Scientist at the PharmaZone Corporation.\nCrime Scene: A dimly lit, cluttered laboratory space within Dr. Thompson's apartment.\nForensic Clue: A hidden pipe with a red residue found, concealed behind a damaged wall calendar.\n\nQuestion: Who is the culprit and how did they commit the crime?\nOptions:\n1. Dr. Alexander Rossi (Suspect 1 and reason): Dr. Rossi, a disgruntled ex-employee, had a motive for revenge.\n2. Dr. Rachel Kim (Suspect 2 and reason): Dr. Kim discovered a corrupt project involving dangerous drugs.\n3. Dr. Luis Hernandez (Suspect 3 and reason): Dr. Hernandez was under investigation for insider trading involving PharmaZone stocks.\n4. Dr. Sarah Lee (Suspect 4 and reason): Dr. Lee had access to the lab and expressed concerns over the company's practices.\n\nCorrectIndex: 3\nDeduction Explanation: Dr. Luis Hernandez (Option 3) was the PharmaZone insider trading culprit who carried out the crime. The hidden pipe with red residue found behind the damaged wall calendar at the crime scene led Detective Simon and his team to the lab, where they discovered the PharmaZone stock data on Dr. Hernandez's computer, indicating his motive for revenge against the company. Meanwhile, Dr. Rachel Kim discovered a critical flaw in a drug trial, but she had no motive for revenge or opportunity to commit the crime; Dr. Alexander Rossi owned the damaged wall calendar, but he left the company one year prior and had no connection to the lethal drug; Dr. Sarah Lee also had no motive, connection to the deadly drug, or opportunity to tamper with the lab; and the hidden pipe belonged to Dr. Hernandez, found along with PharmaZone insider trading information on his computer.\n\nThe correct answer is Dr. Luis Hernandez as he had both the motive and opportunity to perpetrate the crime, leading Detective Simon to discover the hidden pipe with the red residue and PharmaZone insider trading data on his computer.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 270,
+  "id": "case_270"
+}

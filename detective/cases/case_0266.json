@@ -1,0 +1,20 @@
+{
+  "title": "Whose Lies Will Crack?",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "In the dimly lit alley behind the jazz club \"Bebop Boogie\", the body of pianist, Mr. Miles \"Milesight\" Mitchell, lay sprawled. His iconic red fedora was missing, suggesting a personal connection.",
+  "victim": "Mr. Miles Mitchell, Iconic Jazz Pianist",
+  "crimeScene": "The alley behind Bebop Boogie Jazz Club",
+  "forensicClue": "A torn piece of fabric from a bluish-green jacket found on the victim's body.",
+  "question": "Who stole Milesight's hat and committed the crime? How did the detective solve it? ",
+  "options": [
+    "Option A: Marvin 'The Maestro' Montague (Stole hat, rivalry)",
+    "Option B: Lana 'The Lady' Luna (Found him drunk, jealousy)",
+    "Option C: Harold 'The Hound' Hunter (Was investigating a noise complaint, alibi)",
+    "Option D: Rosalind 'The Rose' Russell (Stealing for a bet, motive)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The detective discovered Marvin 'The Maestro' Montague had a grudge against Milesight and stealthily stole his hat. The torn piece of fabric matches Montague's jacket. Rosalind 'The Rose' Russell confessed as she lost a bet, providing an alibi for Harold 'The Hound' Hunter who was handling a noise complaint nearby at the time. Lana 'The Lady' Luna's claim of finding Milesight drunk lacks concrete evidence, and jealousy doesn't serve as a motive.",
+  "caseNumber": 266,
+  "id": "case_266"
+}

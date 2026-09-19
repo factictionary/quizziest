@@ -1,0 +1,21 @@
+{
+  "title": "The Phantom Phantom",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Expert",
+  "story": "In the dimly lit streets of Noirville, a tragedy unfolded at the notorious Phantom Club. The grand entrance was flanked by towering shadows, and the dimly lit interior was filled with shadows of the city's elite. The hushed room was shattered by the sound of a single gunshot, leaving the detectives baffled and bewildered.",
+  "victim": "Victim is the owner of Phantom Club - Mr. Bernard Blackwood",
+  "crimeScene": "The crime scene was located in a dimly lit room of the Phantom Club, with a single bullet hole in the rear wall and a lifeless body of Mr. Bernard Blackwood lying on the plush velvet carpet.",
+  "forensicClue": "The murder weapon was identified as a .38-caliber revolver with an untraceable serial number.",
+  "question": "Who is the Phantom's true identity? How did the detective solve it?",
+  "options": [
+    "Option A (Suspect 1 - The Bandit, and their motive)",
+    "Option B (Suspect 2 - The Silent Investor, and their motive)",
+    "Option C (Suspect 3 - The Shadow Editor, and their motive)",
+    "Option D (Suspect 4 - The Whispering Actor, and their motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The Phantom's identity was discovered when detective John discovered an encrypted message left behind by the Shadow Editor. The note referenced a secret agreement regarding the club's success and hinted at a shocking event that took place before the night of the crime. Detective John carefully analyzed the motive of each suspect and timeline discrepancies until the shocking revelation of the Shadow Editor's true identity. The Phantom's untraceable weapon was indeed used, but the true deduction came from the hidden message left by the enigmatic editor.",
+  "correctOption": "Option C (Suspect 3 - The Shadow Editor, and their motive): The dimly lit club provided the perfect setting for The Shadow Editor, a reclusive writer who sought to expose the club's shady dealings, shattering its facade of success.",
+  "caseNumber": 179,
+  "id": "case_179"
+}

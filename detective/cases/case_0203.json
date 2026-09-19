@@ -1,0 +1,21 @@
+{
+  "title": "Shimmering Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In an opulent mansion near the Côte d'Azur, a dazzling event was being held for the elite. The centerpiece of the night was a massive, unparalleled diamond called 'The Radiance'. The hefty gemstone gleamed with an unmatched intensity, making it the talk of the town.",
+  "victim": "A wealthy gemologist named Mrs. Amara Quartz.",
+  "crimeScene": "The enigmatic mansion where the party took place.",
+  "forensicClue": "A mysterious fingerprint on The Radiance diamond.",
+  "question": "Who took The Radiance diamond and how was it done?",
+  "options": [
+    "Option A: Anna, a cunning jewelry designer with a grudge against Mrs. Quartz.",
+    "Option B: Lord Astor, a renowned connoisseur who recently acquired a rival gem-cutting business.",
+    "Option C: Mr. Jade, the event's emcee with a history of insider information leaks.",
+    "Option D: The Radiance's owner, Mr. Moonstone, who paid for the lavish party but had no motive."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The culprit must have had insider knowledge about the security setup, the event, and the diamond itself. Lord Astor, the connoisseur, has recently acquired a rival gem-cutting business, indicating his expertise regarding The Radiance. Wealthy owner Mr. Moonstone's motive is lacking. Mr. Jade, the emcee, had a motive but lacks the expertise required to pull off such a heist without leaving traces. Anna, though grudged against Mrs. Quartz, wouldn't have insider knowledge about the diamond's security.",
+  "correctAnswer": "Option B: Lord Astor",
+  "caseNumber": 203,
+  "id": "case_203"
+}

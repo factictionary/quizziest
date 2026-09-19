@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Spark at the Sapphire Gala",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "During the glittering Sapphire Gala at the opulent Whitmore Estate, the priceless Sapphire‑cut diamond necklace vanished from its locked display case between 9:45 PM and 10:00 PM. The victim, socialite Evelyn Whitmore, discovered the empty case when the clock struck ten and called the police. Four people were present in the house at the crucial hour:\n\n- **Lena, the head caterer**: “I was in the kitchen prepping the dessert station from 9:30 PM until I left for the restroom at 9:55 PM. I never entered the ballroom.”\n- **Derek, Evelyn’s longtime friend**: “I was in the lounge chatting with guests from 9:40 PM to 10:05 PM. I didn’t step outside the room.”\n- **Nadia, a jewelry appraiser**: “I was in the study reviewing the auction catalogue from 9:35 PM until I heard the alarm at 9:58 PM. I never went near the ballroom.”\n- **Victor, the estate’s butler**: “I was polishing the silverware in the library from 9:20 PM to 9:50 PM. I only entered the ballroom after 10:00 PM to serve the nightcaps.”\n\nA forensic sweep of the display case revealed a single, half‑melted champagne glass with a tiny ice shard still intact. The ice could not have survived past 9:45 PM, meaning the necklace was taken after that time. The house’s security log shows the back‑door vault key was used at 9:48 PM, and the only person with a duplicate of that key is Victor, the butler.",
+  "victim": "Evelyn Whitmore",
+  "crimeScene": "The ballroom of the Whitmore Estate during the Sapphire Gala",
+  "forensicClue": "A half‑melted champagne glass with an ice shard proves the theft occurred after 9:45 PM, contradicting Victor’s alibi.",
+  "question": "Who stole the diamond necklace?",
+  "options": [
+    "Lena (head caterer – claims to be in the kitchen the whole time)",
+    "Derek (friend – stayed in the lounge the entire period)",
+    "Nadia (jewelry appraiser – was in the study until the alarm)",
+    "Victor (butler – timeline impossibility and only one with the vault key)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "1. The ice shard in the champagne glass shows the theft happened after 9:45 PM. 2. Victor says he was polishing silverware in the library until 9:50 PM and only entered the ballroom after 10:00 PM, which is impossible if the necklace was taken after 9:45 PM. 3. The security log records the vault key being used at 9:48 PM, and Victor is the only person known to possess a duplicate of that key. 4. Lena, Derek, and Nadia all have solid alibis placing them away from the display case during the critical window. 5. Therefore, Victor’s timeline conflict and exclusive key access indisputably point to him as the culprit.",
+  "caseNumber": 75,
+  "id": "case_75"
+}

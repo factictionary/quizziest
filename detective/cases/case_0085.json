@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Malware at NovaTech",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "At 02:13 AM on a rain‑slick Thursday, NovaTech’s flagship data center was breached. Emily Chen, the firm’s head of cybersecurity, was found slumped over her console, the main server farm’s logs overwritten and a ransomware payload humming in the background. The crime scene was the ultra‑secure server room, its biometric doors sealed and its internal cameras disabled by the attacker.\n\nFour employees become suspects. Alex, a recently terminated network admin, insists he was at a downtown bar until 03:00, his bar receipt timestamped at 02:45. Ben, a rival startup founder, claims he was on a three‑hour conference call with investors, the call log showing a continuous connection from 01:30 to 04:30. Charlie, a senior cybersecurity researcher, says she was attending a locked‑door seminar on quantum cryptography at the campus auditorium, with badge‑in data confirming entry at 02:55. David, a junior programmer, maintains he was debugging code from his home office, his home router logs showing activity from 01:00 onward.\n\nA forensic sweep of the malware reveals a tiny, custom‑crafted encryption routine that matches a code fragment published in Charlie’s recent paper on lattice‑based ciphers. Moreover, the attacker’s login originated from IP 203.0.113.42, a coffee‑shop Wi‑Fi that only Charlie’s corporate laptop had ever connected to, according to the company’s device‑usage registry. The timestamp on that login is 02:17, five minutes before Charlie’s badge‑in at the auditorium, making her claimed alibi impossible.",
+  "victim": "Emily Chen, Head of Cybersecurity at NovaTech",
+  "crimeScene": "NovaTech’s high‑security server room",
+  "forensicClue": "The ransomware’s encryption routine matches a code snippet from Charlie’s published research, and the login IP belongs to a coffee‑shop only Charlie’s laptop ever used.",
+  "question": "Who is the culprit and how was the deception uncovered?",
+  "options": [
+    "Alex – he had motive after being fired and claimed to be at a bar.",
+    "Ben – his rival startup gave him a reason, and he said he was on a call.",
+    "Charlie – her seminar alibi conflicts with the login timestamp and the code fingerprint.",
+    "David – he was the only junior programmer, supposedly working from home."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The malware contains a unique encryption routine that appears verbatim in Charlie’s recent academic paper, linking the code to her. The attacker’s login was recorded at 02:17 from a coffee‑shop Wi‑Fi that only Charlie’s corporate laptop had ever accessed. Charlie’s badge‑in log shows she entered the locked auditorium at 02:55, five minutes after the login, making it impossible for her to have been at the coffee shop at that time. Alex’s bar receipt, Ben’s call log, and David’s home router logs all align with their statements, leaving Charlie as the only suspect whose alibi is disproved and whose code matches the malware. Hence, Charlie is indisputably the culprit.",
+  "caseNumber": 85,
+  "id": "case_85"
+}

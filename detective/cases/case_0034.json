@@ -1,0 +1,20 @@
+{
+  "title": "The Ice-Cold Dose",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "Victor Sterling, a ruthless pharmaceutical magnate, was found dead in his private study at 2:00 AM, slumped over his desk. A half-empty glass of brandy sat beside him. The coroner confirmed death by a rapid-acting cardiac toxin, with an estimated time of death between 1:45 AM and 1:55 AM. Four suspects were present in the mansion that evening. Suspect 1, the butler, Jenkins, stated he served the brandy at 1:30 AM and left the room immediately. Suspect 2, Sterling's business partner, Elias Thorne, claimed he was in the library reading until 2:00 AM, hearing nothing. Suspect 3, Sterling's wife, Clara, said she was in the bedroom taking a sedative and was asleep by 1:35 AM. Suspect 4, the family doctor, Dr. Aris, admitted to visiting the study at 1:50 AM to check on Sterling, noting the doctor was already looking distressed but alive. The only other item in the room was a large, ornate ice bucket containing several large, hollowed-out ice spheres, which had been used to chill the brandy earlier in the evening.",
+  "victim": "Victor Sterling",
+  "crimeScene": "Private study with a half-empty brandy glass, a bottle of brandy, and an ornate ice bucket with hollowed ice spheres.",
+  "forensicClue": "Toxicology revealed the toxin was in the ice, not the liquid. The brandy itself was clean. The ice spheres were large, meant to last a long time, and the toxin was encapsulated in the center of the ice.",
+  "question": "Who killed Victor Sterling and how did they bypass the timeline?",
+  "options": [
+    "Jenkins, the butler: He poisoned the brandy bottle before pouring it, and Sterling drank it slowly over the hour.",
+    "Elias Thorne: He slipped a pill into the glass when he entered the room, though he claimed to be in the library.",
+    "Clara Sterling: She poisoned the ice bucket earlier in the evening, knowing her husband would use the ice to chill his late-night drink.",
+    "Dr. Aris: He injected the toxin into Sterling's arm during his 1:50 AM visit, faking the time of death."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The key is the timeline and the physical state of the evidence. The time of death is 1:45-1:55 AM. Jenkins poured the drink at 1:30 AM. If Jenkins poisoned the liquid, the toxin would have been introduced 15-25 minutes before death. However, the forensic clue states the brandy liquid itself was clean, and the toxin was found in the ice. Dr. Aris visited at 1:50 AM, which is *during* the estimated time of death window. If Aris had injected him, the time of death would likely be pinpointed closer to 1:50 AM or later, but more importantly, the ice would have been melting significantly by 1:50 AM if it had been placed in the glass at 1:30 AM (20 minutes of melting). The large, hollowed ice spheres are designed to melt slowly. Clara, who was asleep by 1:35 AM, had the opportunity to prepare the ice bucket earlier in the evening (e.g., at dinner or shortly after). She placed the toxin inside the center of the ice spheres. When Jenkins poured the brandy at 1:30 AM, the ice was intact and the toxin was sealed. It took about 15-25 minutes for the ice to melt enough to release the toxin into the drink, leading to death at 1:45-1:55 AM. This aligns perfectly with Clara's alibi (she was asleep, but the poison was set in motion hours prior) and explains why the liquid was clean and why Dr. Aris found Sterling 'distressed but alive' at 1:50 AM (the toxin was just reaching lethal concentration). Jenkins' statement is consistent with serving a clean drink. Thorne's alibi is irrelevant because he didn't touch the drink. Aris's visit is a red herring; he was a witness to the dying moments, not the perpetrator.",
+  "caseNumber": 34,
+  "id": "case_34"
+}

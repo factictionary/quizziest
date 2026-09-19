@@ -1,0 +1,16 @@
+{
+  "title": "Digital Deception",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "In a bustling tech hub, the investigation centers around Empire Tech, a cutting-edge software company. The CEO, Cynthia Blackwood, couldn't be reachable after her unique encrypted phone call was intercepted and wiped clean – a work email revealing classified information was also tampered with.\n\nVictim: Cynthia Blackwood, CEO of Empire Tech\nCrime Scene: Empire Tech's conference room\nForensic Clue: A unique pattern of pixelated footprints near the encrypted phone\nQuestion: Who tampered with Cynthia's phone and email?\nOptions:",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The pixelated footprints near the encrypted phone suggests an inside job. Let's investigate the suspects' connections to Empire Tech and motives.",
+  "caseNumber": 303,
+  "id": "case_303"
+}

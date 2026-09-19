@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Masque Murder",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "At the opulent Whitmore Estate, philanthropist Elena Voss was found dead in the west wing library, a glass of poisoned champagne shattered on the floor. The gala was in full swing when the clock struck ten, and the body was discovered at 10:12 AM by the housekeeper. Four guests give their statements:\n\n• Marissa Whitmore, the host’s sister, insists she was in the ballroom rehearsing a speech from 9:45 AM until the police arrived, never leaving the dance floor.\n• Detective Luis Ortega, who was invited as a guest, claims he was on the terrace photographing the fireworks between 9:30 AM and 10:00 AM.\n• Chef Anton Delgado says he was in the kitchen preparing the dessert buffet, stepping out only for a five‑minute call to his supplier at 10:05 AM.\n• Socialite Priya Nair maintains she was in the garden lounge, reading, from 9:00 AM until she heard the scream at 10:15 AM.\n\nA fragment of silk, matching the unique hand‑stitched cuff of Marissa’s midnight‑blue silk gown, was found caught on the library’s inner door latch. The forensic lab also timed the poison’s onset to about five minutes after the champagne was poured, placing the murder at roughly 10:07 AM.",
+  "victim": "Elena Voss, philanthropist",
+  "crimeScene": "West wing library of Whitmore Estate during a gala",
+  "forensicClue": "Silk cuff fragment from Marissa’s custom gown caught on the library door latch",
+  "question": "Who is the culprit?",
+  "options": [
+    "Detective Luis Ortega (Terrace photographer, no physical link)",
+    "Chef Anton Delgado (Short phone call, but no access to library)",
+    "Marissa Whitmore (Alibi impossible; silk cuff fragment ties her to scene)",
+    "Priya Nair (Garden lounge, no evidence linking her)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Marissa claimed she never left the ballroom, yet the silk cuff fragment from her custom gown was found on the library door, proving she entered the room. The poison’s onset time (≈10:07 AM) fits within the window when Marissa could have slipped into the library before returning to the ballroom. All other suspects have alibis that place them elsewhere and lack physical evidence. Therefore, Marissa Whitmore is indisputably the murderer.",
+  "caseNumber": 83,
+  "id": "case_83"
+}

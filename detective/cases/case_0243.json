@@ -1,0 +1,19 @@
+{
+  "title": "Whodunnit in the Enigmatic Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "In the opulent mansion of eccentric billionaire, Mr. Wilberforce, a dark and stormy night. As the storm raged outside, a deafening thud echoed through the mansion, followed by the muffled cries of Mr. Wilberforce, who had been found slumped over in his study with a bullet wound to the chest.",
+  "victim": "The wealthy and reclusive Mr. Wilberforce",
+  "crimeScene": "The study was locked from the inside with no signs of forced entry. A handwritten note on the desk read: 'I'm afraid you won't find me guilty, Mr. Detective.'",
+  "forensicClue": "The murder weapon was a .32 caliber revolver with Mr. Wilberforce's fingerprints on it.",
+  "question": "Who pulled the trigger and how did they gain entry? Please select one suspect.",
+  "options": [
+    "Option A: Miss Lydia (Maid and reason)",
+    "Option B: Mr. Charles (Head Gardener and reason)",
+    "Option C: Mrs. Regina (Rooms Manager and reason)",
+    "Option D: Mr. Theodore (Private Investigator and reason)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 243,
+  "id": "case_243"
+}

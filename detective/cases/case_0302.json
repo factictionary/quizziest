@@ -1,0 +1,25 @@
+{
+  "title": "Whispers of the Forged Brush",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit galleries of the Museo de Arte Moderno, the enigmatic art theft ignited a city-wide mystery. Our esteemed protagonist, Detective Williams, received a cryptic clue: the signature on the stolen painting, 'The Midnight Symphony', seemed to shift in the moonlight.\n\nThe victim is Mr. Julian Stone, the esteemed Curator of the museum. The crime scene is the Prado Gallery, where the painting was displayed.\n\nThe suspects gathered for interrogation, each with a motive:\n1. Dr. Emilia Montez (art historian and author), motivated by rivalry over a recent publication.\n2. Roland Blackwood (art thief, seeking a rare piece for his collection).\n3. Lady Selene (wealthy patron, enamored with the painting and desperate to own it).\n4. Mr. Augustus Ash (museum employee, resentful of Stone's perceived favoritism towards his rival exhibit).\n\nCrime Timeline:\n- 23:00: Museum staff lock up (no alarms triggered)\n- 23:15: Curator Stone discovers the crime\n- 23:30: The city is alerted\n\nVictim Statement:\n'The painting disappeared from its pedestal during the lockup, though the doors and windows remained intact. The alarm is silent.'",
+  "crimeScene": "The Prado Gallery",
+  "forensicClue": "The signature on the stolen painting seems to shift in the moonlight.",
+  "question": "How did Detective Williams solve the mystery of the stolen 'The Midnight Symphony'?",
+  "options": [
+    "Option A (Lady Selene's alibi is checked and verified)",
+    "Option B (The forged provenance)",
+    "Option C (Witness confirms Lady Selene's last known location)",
+    "Option D (Detective Williams questions the legitimacy of the painting's authenticity)"
+  ],
+  "correctIndex": 2,
+  "solution": "Option B (Detective Williams questions the legitimacy of the painting's authenticity)",
+  "crimeTimeline": [
+    "23:00 - Museum staff locks up",
+    "23:15 - The crime is discovered",
+    "23:30 - Detective Williams examines the provenance",
+    "00:00 - Lady Selene's alibi is checked"
+  ],
+  "caseNumber": 302,
+  "id": "case_302"
+}

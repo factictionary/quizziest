@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Spark Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "Victor Marlowe, the charismatic owner of Marlowe Diamonds, discovered that his vault's centerpiece— the 112‑carat 'Midnight Spark'—had vanished from the high‑security chamber on Friday night. The vault’s biometric lock recorded a single entry at 10:03 PM, and the alarm was silenced within seconds. Four people were immediately questioned.\n\nLeo, the night‑shift guard, said, “I was doing my routine walk‑around at 9:55 PM when I heard a click. I ran to the control panel, saw the vault door ajar, and hit the panic button.” Maya, a rival jeweler, insisted, “I was at the Grand Charity Gala all evening; the program shows I was on stage delivering a speech at 9:45 PM.” Theo, a former employee who was fired two months earlier, claimed, “I was live on TV for a home‑renovation interview from 9:30 PM to 10:15 PM; the broadcast was recorded from the studio in Chicago.” Nina, an art collector, answered, “I was at the downtown modern‑art exhibition; I even have the ticket stub stamped 9:00 PM.”\n\nForensic analysis uncovered two decisive clues: a partial fingerprint on the inner vault latch that matches Theo Marquez’s prints, and a speck of rare Orchidaceae ‘Midnight Star’ pollen embedded in the dust on the latch— a species Theo cultivates exclusively in his private greenhouse. Moreover, the televised interview aired from Chicago (Central Time), meaning it ended at 9:15 PM CST (10:15 PM EST), making Theo’s claim of being on‑air at the exact moment of the breach impossible.",
+  "victim": "Victor Marlowe",
+  "crimeScene": "Marlowe Diamonds’ underground vault, downtown skyscraper",
+  "forensicClue": "Fingerprint and rare orchid pollen on the vault latch",
+  "question": "Who stole the 'Midnight Spark' diamonds?",
+  "options": [
+    "Option A (Leo, the night guard, whose shift log shows he was off‑duty at the time)",
+    "Option B (Maya, the rival jeweler, whose gala program proves she was on stage at 9:45 PM)",
+    "Option C (Theo, the former employee, fingerprint and orchid pollen tie him to the scene, and his TV alibi is impossible)",
+    "Option D (Nina, the art collector, whose ticket stub only proves she arrived after 9:00 PM)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The vault latch bore a partial fingerprint that matches Theo’s prints—no other suspect has his prints on record. 2. The orchid pollen is a species only grown in Theo’s private greenhouse, linking him physically to the latch. 3. Theo’s alibi collapses because the live interview aired from Chicago (CST); it ended at 9:15 PM CST, which is 10:15 PM EST, after the vault was already breached at 10:03 PM EST, meaning he could not have been on‑air while committing the theft. 4. Leo’s off‑duty status and Maya’s documented stage appearance eliminate them, and Nina’s ticket only confirms her later arrival. The combination of forensic evidence and the impossible timeline makes Theo the indisputable culprit.",
+  "caseNumber": 61,
+  "id": "case_61"
+}

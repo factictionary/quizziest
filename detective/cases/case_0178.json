@@ -1,0 +1,27 @@
+{
+  "title": "Toxic Twist at Blackwood Manor",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "At the opulent Blackwood Manor, rich businessman and philanthropist, Charles Blackwood, lay lifeless in his study. His body displayed the telltale signs of a deadly poison - blue lips and frothy vomit. The manor was set on a secluded island, where only five invited guests could have been the last ones to see him alive:",
+  "victim": "Charles Blackwood, a wealthy businessman",
+  "crimeScene": "Charles Blackwood's study, with signs of a deadly poison",
+  "forensicClue": "A peculiar handwritten note found in the study - 'Payback for charity scam'",
+  "question": "Who poisoned Charles Blackwood and why? Please explain your reasoning.",
+  "options": [
+    "Option A (Anna and revenge for charity event)",
+    "Option B (Baron and feud over business)",
+    "Option C (Frank and rivalry within the art community)",
+    "Option D (Samuel and a forged artwork dispute)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The poison note found in the crime scene hints at a motive. Analyzing the relationships among the guests reveals the culprit. First, consider Anna who organized the charity event Blackwood scammed. The poison note hints at revenge. Next, Baron and Samuel's business feud. However, Frank and Blackwood had a rivalry within the art community due to Blackwood's museum exhibition decision. Only CANDLE #3 left Anna out of the feud list. Hence, Frank is the likely suspect because he had a motive (art rivalry) and was the guest who stayed the longest with Blackwood in the study, allowing time for the crime to be committed. In the morning, Frank confessed to having a bitter argument with Blackwood regarding his museum exhibition decisions, which led to Charles Blackwood's death. The note's cryptic reference to 'charity' was an anagram for 'Frank's art'. All guests left traces of the poison at the crime scene, making it necessary to consider the motive when eliminating suspects. Frank's motive, CANDLE #3, and the fact that only Frank stayed with Blackwood the longest lead to him being the poisoner.",
+  "correctOption": "Option C (Frank and rivalry within the art community)",
+  "candles": [
+    "Option A (Anna and revenge for charity event) - CANDLE #1",
+    "Option B (Baron and feud over business) - CANDLE #2",
+    "Option C (Frank and rivalry within the art community) - CANDLE #3",
+    "Option D (Samuel and forged artwork dispute) - CANDLE #4"
+  ],
+  "caseNumber": 178,
+  "id": "case_178"
+}

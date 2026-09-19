@@ -1,0 +1,20 @@
+{
+  "title": "Midnight at Whitmore Manor",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Expert",
+  "story": "On a storm‑laden night, Eleanor Whitmore was found dead in the manor's library, a single bullet to the head and a shattered crystal decanter of brandy at her feet. The rain hammered the open window, and a half‑eaten almond cake lay on a side table. A single left‑handed leather glove, embroidered with the initials \"P.G.\", was discovered near the fireplace, and a faint scent of a rare perfume—Eau de Marlowe—hung in the air. \n\nHarold Finch, the butler, swore he was polishing the silver in the dining hall from 10:00 to 11:30. Dr. Lydia Marlowe, the family physician, insisted she was at her clinic until 10:45, then retired to her study. Victor Hale, the estranged son, claimed he was at the exclusive Oak Club, smoking his usual cigar, until 11:15. Penelope \"Penny\" Graves, the maid, said she was in the servants' quarters, folding linens, and only stepped into the library at 11:20 to fetch a lamp. The housekeeper’s log shows the clinic door locked at 9:55, and the Oak Club’s security footage records Victor leaving at 10:30. A forensic swab from Eleanor’s collar tested positive for the Marlowe perfume, a scent only Dr. Marlowe wears.",
+  "victim": "Eleanor Whitmore",
+  "crimeScene": "Library of Whitmore Manor, stormy night, open window, shattered decanter, almond cake, left‑hand glove.",
+  "forensicClue": "Eau de Marlowe perfume on the victim's collar, matching only Dr. Lydia Marlowe's signature scent.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Harold Finch – the butler, claimed to be polishing silver but no evidence places him near the library)",
+    "Option B (Dr. Lydia Marlowe – the family physician, perfume on victim and impossible clinic alibi)",
+    "Option C (Victor Hale – the estranged son, cigar ash found but his club exit time disproves his claim)",
+    "Option D (Penelope Graves – the maid, glove found but it is a left‑hand glove while she is right‑handed)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The decisive clue is the rare Eau de Marlowe perfume found on Eleanor's collar; only Dr. Lydia Marlowe wears this scent. Her alibi collapses because the clinic log shows the door locked at 9:55, meaning she left well before she claimed. All other suspects have either mismatched physical evidence (the left‑hand glove belongs to a left‑handed person, not Penny) or alibis confirmed by external records (Victor's departure at 10:30, Harold's presence in the dining hall verified by the housekeeper). Therefore, Dr. Lydia Marlowe is indisputably the murderer.",
+  "caseNumber": 8,
+  "id": "case_8"
+}

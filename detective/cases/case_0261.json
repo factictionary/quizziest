@@ -1,0 +1,20 @@
+{
+  "title": "The Venomous Masquerade",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In a lavish ballroom, masked guests mingled amidst a display of exotic flora. Among them was wealthy businessman, Mr. Thornton, who arrived with his mysterious partner, Miss Sable. The party was suddenly interrupted when host, Baron Von Dust, was found slumped in a corner, clutching a poisonous bouquet. Time is of the essence as the poisoned guests must be identified.",
+  "victim": "Baron Von Dust",
+  "crimeScene": "The opulent ballroom decorated with deadly flora",
+  "forensicClue": "An unidentifiable toxin residue on the Baron's fingertip",
+  "question": "Who poisoned the Baron and why? ",
+  "options": [
+    "Option A (Miss Sable's motive and connection).",
+    "Option B (Mr. Thornton's connection and alibi).",
+    "Option C (A mysterious guest's motives and alibi).",
+    "Option D (The event florist's alibi and surprising connection)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Upon examination, the forensic evidence reveals Miss Sable's connection to the crime and a surprising alibi for the other suspects.",
+  "caseNumber": 261,
+  "id": "case_261"
+}

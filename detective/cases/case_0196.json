@@ -1,0 +1,20 @@
+{
+  "title": "The Enigmatic Drawer Mystery",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit penthouse of the luxurious Wisteria Mansion, a gruesome crime unfolded. Entering the room, one could notice a cluttered study filled with antique furniture, an ornate mahogany desk, and a locked door at the far end. The victim, esteemed art dealer, Mr. Benjamin Blackwood, lay dead in the center of the room, slumped over an open drawer with an expression of shock on his face.",
+  "crimeScene": "The study's layout: A locked door at the far end, a mahogany desk with an open drawer.",
+  "victim": "Mr. Benjamin Blackwood - Esteemed Art Dealer",
+  "forensicClue": "The key to the locked door was discovered on the victim's body.",
+  "question": "Who committed the crime and how did they enter the room? ",
+  "options": [
+    "Option A: Suspect A - An ex-employee (Reason: The key on Mr. Blackwood's body indicates an inside job; the lock on the door appears unforced, suggesting an acquainted perpetrator).",
+    "Option B: Suspect B - A disgruntled client (Reason: The locked door and forced appearance of the drawer hint at a hidden entry point; the key discovery might lead to a surprise suspect)",
+    "Option C: Suspect C - A rival art dealer (Reason: The shock on Mr. Blackwood's face implies a sudden attack; the key on him indicates an unexpected visitor)",
+    "Option D: Suspect D - The butler (Reason: The impeccable order of the study and the key discovery suggest a familiar hand; the locked door could conceal a secret passage)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Upon closer examination, we discover a hidden passage behind a secret wall panel by the mahogany desk, leading to a concealed study within the study. This secret passage, carefully concealed, explains the locked door, forced drawer, and the unexpected visitor. The key, found on Mr. Blackwood, likely belonged to the butler who, unbeknownst to all, had an axe-murder motive. Mr. Blackwood arrived home late, interrupting an assassination attempt on the butler's life. The butler, in a panic, slips the murder weapon (axe) into Mr. Blackwood's hand, framing him for his own murder.",
+  "caseNumber": 196,
+  "id": "case_196"
+}

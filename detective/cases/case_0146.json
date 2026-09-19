@@ -1,0 +1,20 @@
+{
+  "title": "Twisted Heist at the Black Hat Ball",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "On the night of the exclusive Black Hat Ball, renowned art collector Mr. E.J. Pharaoh was brutally murdered inside his gilded dance hall. Each guest bore a mask to conceal their identity, leaving little to no physical evidence behind.",
+  "victim": "Mr. E.J. Pharaoh, a wealthy art collector and host of the event.",
+  "crimeScene": "The Black Hat Ball, a lavishly decorated mansion turned dance hall for the night.",
+  "forensicClue": "A cryptic clue etched on the mirrored ball in the middle of the dance floor: 'The thief is known, but not caught'",
+  "question": "Who committed the crime and how were they caught?",
+  "options": [
+    "Option A (Suspect 1 reason)",
+    "Option B (Suspect 2 reason)",
+    "Option C (Suspect 3 reason)",
+    "Option D (Suspect 4 reason)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "At the heart of the enigma lies the cryptic motto etched on the mirrored ball - suggesting a known culprit but no concrete evidence. Analyzing the dance floor's layout and questioning each suspect reveals the identity of the thief, which ultimately leads to the revealed mastermind behind the crime.",
+  "caseNumber": 146,
+  "id": "case_146"
+}

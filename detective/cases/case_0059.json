@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Study of Dr. Finch",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Renowned chemist Dr. Eleanor Finch was discovered dead inside her top‑floor study at the Whitmore Manor. The heavy oak door was bolted from the inside, the single window was sealed shut, and the only other exit—a narrow balcony—was locked with a padlock that required a key. The room showed no sign of forced entry, and a rainstorm had begun at 10:00 PM, making any outside approach implausible. Dr. Finch's notebook lay open on the desk, its last entry stamped at 9:55 PM, and a faint smear of violet ink coated the victim's fingertips.\n\nFour people were present in the house that evening. Mara, the housekeeper, said, \"I was polishing the silverware in the kitchen until 9:50, then I heard a thud and found the door locked from the inside.\" Victor, Dr. Finch's research partner, claimed, \"I was in the lab downstairs reviewing data and left at 9:45 to get coffee; I never entered the study after that.\" Lena, the estranged sister, asserted, \"I was in the garden reading and didn’t hear anything.\" Greg, the neighbor who was helping with a roof repair, stated, \"I was on my ladder on the roof until the storm hit at 10:00, then I went inside to check the lights.\"",
+  "victim": "Dr. Eleanor Finch",
+  "crimeScene": "Top‑floor study at Whitmore Manor, locked from the inside, rainstorm outside",
+  "forensicClue": "A smear of violet fountain‑pen ink on the victim's fingertips matches the exclusive ink Victor uses in his signature pen.",
+  "question": "Who killed Dr. Eleanor Finch?",
+  "options": [
+    "Mara, the housekeeper – she was the first to find the body.",
+    "Victor, the research partner – his unique violet ink was found on the victim.",
+    "Lena, the estranged sister – she claims to have been in the garden.",
+    "Greg, the neighbor – he was on the roof during the storm."
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "1. The notebook was open to a page stamped 9:55 PM, indicating the victim was alive at that moment. 2. The only ink on the victim's fingers is violet, a color used exclusively by Victor's custom fountain pen, which he never shares. 3. The locked door required a key; only Victor possessed a duplicate of the study's inner key for his late‑night research visits. 4. Greg's alibi places him on the roof until after the storm began, making it impossible for him to have entered the sealed study. 5. Mara and Lena have no physical evidence linking them to the victim. The violet ink and the unique key together point unequivocally to Victor as the murderer.",
+  "caseNumber": 59,
+  "id": "case_59"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Poison Plot",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "In the eerie town of Bellwood, a wealthy socialite named Lady Eliza Ashwood was found dead in her lavish mansion. The scene was that of a gala night hosted by her, where the guests were eagerly awaiting her renowned concoctions. Lady Eliza was known for her mischievous nature and her penchant for playing deadly pranks.\n\nAt the gala, there were four suspects: Dr. Felix Fenris, the infamous herbalist; Sarah Blackwood, the enigmatic art historian; Charles Devonshire, the eccentric botanist; and Countess Olivia Dragomir, the elusive countess. The evening seemed to take a sinister turn when Detective Jackson found a peculiar note left at the crime scene: 'My toxic masterpiece, Lady Eliza, will be unveiled soon.' The note appeared to originate from one of the guests.",
+  "crimeScene": "Eliza's opulent mansion",
+  "victim": "Lady Eliza Ashwood",
+  "forensicClue": "An unusual residue found on Lady Eliza's utensil",
+  "question": "Who is the mastermind behind the sinister note and the deadly poisoning? ",
+  "options": [
+    "The enigmatic art historian, Sarah Blackwood (Likely due to her passion for dark secrets and knowledge about poisonous plants)",
+    "The eccentric botanist, Charles Devonshire (Considering his expertise in toxic concoctions and the residue found on Lady Eliza's utensil)",
+    "The infamous herbalist, Dr. Felix Fenris (Possible motive due to Lady Eliza's rivalry in herbal knowledge)",
+    "The elusive countess, Countess Olivia Dragomir (Related to the ominous note and her desire for Lady Eliza's downfall)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Upon further investigation, Detective Jackson uncovers that Lady Eliza had a bitter rivalry with Dr. Felix Fenris, the infamous herbalist. Additionally, Dr. Fenris had a motive by claiming the utensil with the toxic residue used by Lady Eliza to serve her poisoned concoctions. Finally, the countess left town abruptly, leaving behind a cryptic note: 'My deadly revenge.' The key culprit is Dr. Felix Fenris.",
+  "caseNumber": 321,
+  "id": "case_321"
+}

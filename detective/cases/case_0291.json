@@ -1,0 +1,19 @@
+{
+  "title": "The Shadows of Secrecy",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Medium",
+  "story": "In the dimly lit streets of the old town district, a chilling event unfolded. Residents of 'Whisperside Alley' recount tales of mysterious shadows darting between the mosaic-tiled houses. On a chilly night, the unmistakable scent of sulfur permeated the air, and a screech echoed through the alley - the body of a notorious gang leader, Mr. Ezra Blackwood, found lifeless. The alley stood still as the moonlight illuminated the scene.",
+  "victim": "Mr. Ezra Blackwood (Notorious Gang Leader)",
+  "crimeScene": "Whisperside Alley, surrounded by mosaic-tiled houses.",
+  "forensicClue": "The distinct odor of sulfur at the crime scene.",
+  "question": "Who is the culprit and how was Mr. Blackwood killed? (Answer: Suspect 3, Reason: The broken bottle found beside the body.)",
+  "options": [
+    "Option A (Suspect 1 and reason: No motive, no alibi, and a history of animosity with Mr. Blackwood's right-hand man)",
+    "Option B (Suspect 2 and reason: Had been seen arguing with Mr. Blackwood just hours before the crime, but witnesses place them at a charity event during the alleged murder time)",
+    "Option C (Suspect 3 and reason: Found with a broken bottle beside Mr. Blackwood's lifeless body, suggesting foul play)",
+    "Option D (Suspect 4 and reason: Closely associated with Mr. Blackwood, having business dealings the night before at Blackwood's office)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 291,
+  "id": "case_291"
+}

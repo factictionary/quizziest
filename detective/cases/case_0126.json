@@ -1,0 +1,20 @@
+{
+  "title": "Shimmering Swindle",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the heart of sleek downtown metropolis, 'The Ruby Racket' jewelry store gleamed under the neon lights. On a stormy night, a daring heist took place inside this lavish emporium, leaving authorities in a tizzy.",
+  "victim": "Mr. Martin Stone, the shop owner",
+  "crimeScene": "The dimly lit store featured an exquisite display of sparkling diamonds, including a colossal, priceless Crimson Star diamond.",
+  "forensicClue": "A peculiar fingerprint on the heist's crime scene - a single left-handed print among the right-handed crowd.",
+  "question": "Who stole the Crimson Star diamond and how were they able to get away? ",
+  "options": [
+    "Option A (The Diamond Darling and a master plan)",
+    "Option B (The Streetwise Swindler and a clever disguise)",
+    "Option C (The Glamorous Thief and a daring escape)",
+    "Option D (The Enigmatic Artist and a hidden motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "During the investigation, Detective Jim's attention was caught by the single left-handed fingerprint. Surprisingly, all suspects were right-handed. The enigmatic Artist, Option D, was revealed to have a grudge against the shop owner as they shared a bitter art exhibition rivalry. The Artist hired the agile and cunning Streetwise Swindler, Option B, to execute the daring crime. The Swindler, in turn, conspired with the expert diamond thief, the Diamond Darling, Option A. The Darling, an old acquaintance of the shop owner, had a unique key to the store. The Darling lured Mr. Stone into a seemingly harmless discussion while the Swindler made off with the Crimson Star diamond. The Swindler quickly switched the real diamond with a flawless replica and the trio made their daring escape via a disguised getaway car. The Artist conveniently arranged the alibi for the accomplices.",
+  "caseNumber": 126,
+  "id": "case_126"
+}

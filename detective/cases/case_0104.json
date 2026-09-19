@@ -1,0 +1,15 @@
+{
+  "title": "Whodunnit at the Masquerade Ball? ",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "On the night of the lavish Masquerade Ball at the opulent Grand Elysée Hotel, esteemed art collector Edward Whitmore was brutally murdered. As the crowd danced and masked revelers mingled, four suspects were found near the crime scene.\n\nVictim: Edward Whitmore, 65, art enthusiast and collector\nCrime Scene: Grand Elysée Hotel, opulent dance hall\n\nSuspect 1: Lady Amelia Blackwood, 42, dressed as a mysterious shadow figure\nSuspect 2: Mr. Sebastian Grey, 32, dressed as a wise owl\nSuspect 3: Master of Ceremonies, Mr. Gideon Fletcher, 50, dressed as a majestic pharaoh\nSuspect 4: Chef Auguste DuBois, 48, dressed as a voluptuous red pepper\n\nTestimonies:\n- Lady Amelia: \"I was entranced by the enigmatic Whitmore, discussing the intricacies of Rembrandt paintings at the time of the murder.\"\n- Mr. Sebastian Grey: \"I observed Whitmore conversing with the mysterious pharaoh, discussing the illustrious history of Egyptian art.\"\n- Master of Ceremonies, Mr. Gideon Fletcher: \"I watched Whitmore conversing closely with the seductive pepper, discussing the allure of rare art treasures.\"\n- Chef Auguste DuBois: \"Whitmore was captivated by my exquisite culinary offerings, deep in conversation about rare gastronomic delights.\"\n\nForensic findings:\n- Lack of defensive wounds on Whitmore's body suggests no confrontation.\n- A mysterious, unidentified residue on Whitmore's glove hints at a poisonous touch.\n\nUncover the truth.\nWhodunnit?\n\nOptions:\n- Lady Amelia (Option A)\n- Mr. Sebastian Grey (Option B)\n- Mr. Gideon Fletcher (Option C)\n- Chef Auguste DuBois (Option D)\n\nThe true culprit's alibi is shattered due to a hidden clue.\n\nThe suspect with the invalid alibi will be revealed in the deduction process.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 104,
+  "id": "case_104"
+}

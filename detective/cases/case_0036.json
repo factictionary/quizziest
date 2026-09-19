@@ -1,0 +1,20 @@
+{
+  "title": "The Chilled Alibi",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "Elias Thorne, a renowned perfumer, was found dead in his locked atelier at 11:00 PM, coughing up a blue-violet foam. The air was thick with the scent of lilies. Four suspects were present in the building when the doors were secured at 10:30 PM. \n\nClara, the apprentice, stated she was grinding ingredients at the back workbench until 10:45, then retired to the balcony. Marcus, the business partner, claimed he was in the private office reviewing ledgers and did not leave until 11:15. Julian, the estranged nephew, said he was listening to jazz in the conservatory and only entered the workshop at 11:05 to check on Elias. Sylvia, the delivery driver, admitted she arrived at 9:50 PM, dropped off a crate of rare botanicals at 9:55, and immediately left, never re-entering. \n\nThe coroner's autopsy revealed a lethal dose of synthetic lily-of-the-valley extract, a substance with a distinct, sharp odor that lingers on the skin for 48 hours. However, the forensic trace analysis of the victim's lungs indicated the toxin was absorbed via a specifically chilled aerosol mist, not a standard spray. Furthermore, the victim's skin was found to be in a state of mild hypothermia, with a core temperature of 35.2°C, despite the room being a sweltering 85°F. The only cooling source in the building was a walk-in refrigeration unit located exclusively behind the delivery loading dock, accessible only by the cargo lift.",
+  "victim": "Elias Thorne, Perfumer",
+  "crimeScene": "A locked, sweltering (85°F) atelier with a heavy scent of lilies. The victim died of synthetic lily-of-the-valley poisoning delivered via a chilled aerosol mist.",
+  "forensicClue": "The victim's core temperature (35.2°C) indicates exposure to a cold source, but the room was 85°F. The only cold source was the refrigeration unit accessible only via the delivery cargo lift. The mist was also specifically chilled.",
+  "question": "Who is the culprit and what logical discrepancy exposes them?",
+  "options": [
+    "Clara: She was grinding ingredients, which may have generated heat, but she couldn't access the cold mist source.",
+    "Marcus: He was in the office, but the temperature discrepancy suggests he was lying about his location to be near the cold source.",
+    "Julian: He entered at 11:05, but the victim was already in hypothermia, suggesting the attack happened earlier.",
+    "Sylvia: She is the only one with verified access to the cargo lift and the refrigeration unit, and her alibi of 'never re-entering' is contradicted by the need to stage the chilled mist attack from that specific location."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The key is the forensic clue of hypothermia in a hot room. The victim's body temperature dropped to 35.2°C, which is impossible in an 85°F room without direct exposure to a significant cold source. The only such source is the walk-in refrigeration unit behind the delivery dock. This unit is only accessible via the cargo lift. The autopsy also confirms the toxin was delivered as a 'chilled aerosol mist.' Sylvia is the only suspect with direct, verified access to the cargo lift and the refrigeration unit. Her alibi of arriving at 9:50 and leaving immediately is a lie; she must have re-entered via the cargo lift to access the refrigeration unit, prepare the chilled mist, and administer it to Elias, who was likely vulnerable in the workshop. The 'locked' nature of the atelier is a misdirection; the attack was facilitated from the delivery side. Clara, Marcus, and Julian had no plausible access to the specific cold source required to create the conditions found at the scene.",
+  "caseNumber": 36,
+  "id": "case_36"
+}

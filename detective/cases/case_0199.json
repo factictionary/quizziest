@@ -1,0 +1,19 @@
+{
+  "title": "The Venomous Supper Club",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "On a chilly evening, four esteemed guests were invited to attend a dinner party at the lavish mansion of the enigmatic Professor Poison. The esteemed guests were Dr. Venom, Sir Nox, Miss Poisonous, and Master Toxin. As they gathered to enjoy a sumptuous meal prepared by the culinary maestro, Master Toxin, an unfortunate event occurred that would change the course of the night. The professor disappeared without a trace, leaving the guests to find him before it was too late.",
+  "victim": "Professor Poison",
+  "crimeScene": "A luxurious mansion with an opulent dining room.",
+  "forensicClue": "A peculiar label on the poisoned dish reads 'Precious Poisonous Mushroom - Do Not Disturb', a phrase that seems to suggest the culprit wanted to prevent interference.",
+  "question": "Who is the culprit and how did they poison the dish? ",
+  "options": [
+    "Option A (Dr. Venom and motive)",
+    "Option B (Sir Nox and opportunity)",
+    "Option C (Miss Poisonous and alibi)",
+    "Option D (Master Toxin and incriminating clue)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 199,
+  "id": "case_199"
+}

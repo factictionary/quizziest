@@ -1,0 +1,20 @@
+{
+  "title": "Canvas of Lies",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Hard",
+  "story": "The Metropolitan Heritage Museum unveiled a newly acquired portrait, \"Lady of the Dawn,\" purportedly painted by the 19th‑century master Elise Moreau. The museum’s chief curator, Mara Delgado, celebrated the acquisition—until a routine conservation check revealed the canvas contained a synthetic pigment that was not invented until the 1960s. The revelation sparked a scandal, and Mara, whose reputation hinged on the museum’s credibility, was found dead in her office, an apparent heart attack triggered by the shock.\n\nFour people fall under suspicion. Gallery owner Victor Ramos insists he hired a reputable authentication service and never touched the painting. Auctioneer Lena Wu says the work arrived from a private collector in Paris, and she never saw the pigment analysis report. Art historian Dr. Paolo Ricci claims he was in Paris the day the painting was shipped, but his flight manifest shows a two‑hour layover in New York that would have made the trans‑Atlantic journey impossible. Former conservator Sofia Alvarez admits she once consulted on a restoration of a Moreau piece and knows the exact formula for the forbidden synthetic pigment, which she kept in a sealed vial for a private commission that never materialized.",
+  "victim": "Mara Delgado, Chief Curator of the Metropolitan Heritage Museum",
+  "crimeScene": "Mara Delgado’s office, Metropolitan Heritage Museum, downtown",
+  "forensicClue": "The presence of a 1960s synthetic pigment in a supposedly 19th‑century painting, and Sofia Alvarez’s documented access to that pigment’s formula.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Victor Ramos (Gallery owner who hired the authentication service)",
+    "Lena Wu (Auctioneer who handled the shipment)",
+    "Dr. Paolo Ricci (Art historian with an impossible travel timeline)",
+    "Sofia Alvarez (Former conservator with access to the synthetic pigment)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The forensic analysis proves the painting contains a synthetic pigment unavailable before the 1960s, meaning the work is a forgery. Only Sofia Alvarez is known to possess the exact formula for that pigment, as she kept a sealed vial for a private commission. Dr. Ricci’s timeline is suspicious but does not link him to the pigment. Victor and Lena had no direct contact with the paint itself. Therefore, the only person with both motive (financial gain from a forged sale) and means (access to the pigment) is Sofia Alvarez, making her the indisputable culprit.",
+  "caseNumber": 60,
+  "id": "case_60"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Enigmatic Escapologist",
+  "category": "Locked Room Mystery",
+  "difficulty": "Hard",
+  "story": "In the depths of night, the city's elite gathered at the opulent penthouse of illustrious con-artist, Professor Ezra Thornton. The eccentric genius had invited them to witness his latest illusion, which promised to leave them baffled. As the sumptuous party reached its peak, the front door secured and locked from the inside, a gasp of astonishment echoed through the room. The highly decorated safe within the study, with its priceless contents, had vanished mystifying everyone. The party quickly descended into chaos as the room's sole exit, a floor-to-ceiling stained glass window, was covered in a thick layer of frost, rendering it impassable.",
+  "victim": "Victim: The enigmatic Professor Ezra Thornton",
+  "crimeScene": "Setting: A lavish penthouse with a study containing a locked safe.",
+  "forensicClue": "The frost on the stained glass window's design matches the night sky.",
+  "question": "Who is the culprit and how did they escape? ",
+  "options": [
+    "Option A: Suspect 1 - The witty musician, Henrietta James (and reason)",
+    "Option B: Suspect 2 - The acrobatic gymnast, Marco Rossi (and reason)",
+    "Option C: Suspect 3 - The enigmatic opera singer, Elektra Blackwood (and reason)",
+    "Option D: Suspect 4 - The cunning illusionist, Isaac Stone (and reason)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 167,
+  "id": "case_167"
+}

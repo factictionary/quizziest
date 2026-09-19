@@ -1,0 +1,20 @@
+{
+  "title": "Data Heist at the Silicon Summit",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "During the keynote at the Silicon Summit in San Francisco, TechCorp CEO Rachel Lee's encrypted laptop vanished from the podium. The device held a prototype AI dataset worth millions. Four people were near the stage: Alex Chen, a rival startup founder; Samantha Taylor, Rachel's senior engineer; Jack Harris, the venue's head of security; and Emily Patel, a tech journalist. \n\nAlex swears he stayed in his seat the whole time and only noticed a commotion when the presenter paused. Samantha claims she was glued to the slides and never left her chair. Jack says he was making rounds, checking fire exits, and never entered the main hall during the talk. Emily insists she left the stage area to grab a coffee at 10:40 am and returned after the speech ended. A security camera timestamp shows the laptop was lifted at 10:45 am, exactly when the hall’s lights dimmed for a video interlude.",
+  "victim": "Rachel Lee, CEO of TechCorp",
+  "crimeScene": "Main auditorium of the Silicon Summit, San Francisco",
+  "forensicClue": "The hall’s entry log shows Alex's RFID badge was scanned at 10:30 am, but his smartwatch GPS records him exiting the building at 10:44 am, a minute before the theft.",
+  "question": "Who stole the laptop?",
+  "options": [
+    "Samantha Taylor (She was seated next to Rachel and could have slipped the laptop away)",
+    "Jack Harris (As security chief, he had unrestricted access to the stage)",
+    "Alex Chen (His badge entry and GPS data create an impossible timeline)",
+    "Emily Patel (She was the only one who left the auditorium during the interlude)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The camera timestamps the theft at 10:45 am. Alex's badge shows he entered the venue at 10:30 am, yet his smartwatch GPS places him outside the building at 10:44 am, meaning he could not have been inside to steal the laptop. Samantha and Jack were both confirmed by multiple witnesses to have stayed seated or on patrol, and Emily was documented leaving the hall at 10:40 am and returning after the speech. The only suspect whose alibi collapses under the forensic clue is Alex Chen, making him the undeniable culprit.",
+  "caseNumber": 45,
+  "id": "case_45"
+}

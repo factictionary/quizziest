@@ -1,0 +1,19 @@
+{
+  "title": "The Hacktivist Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "In the bustling tech metropolis of Silicon City, a high-profile tech firm, ByteCore, had recently unveiled its innovative virtual reality platform, Nebula VR. The company's success, however, attracted the attention of a notorious hacker group, known as the Nebula Nights Brigade. On a moonless night, their latest act of sabotage exposed the firm's intellectual property and customer data to the public, causing an outrage. The Nebula Nights Brigade claimed responsibility, stating their mission to expose the hypocrisy of tech giants.",
+  "victim": "ByteCore CEO Dylan Johnson",
+  "crimeScene": "The crime scene is the headquarters of ByteCore. The company's mainframe computer, used to store confidential data, exhibits signs of forced entry. A hasty attempt to erase evidence is evident, along with a cryptic note left behind: 'The battle of power has just begun.'",
+  "forensicClue": "An unusual pattern of data breaches from the Nebula Nights Brigade's archived hacking attempts.",
+  "question": "Who is the culprit, and how did the detective solve it?",
+  "options": [
+    "Option A: Dylan Johnson (ByteCore CEO, as the data breach seems to be a personal attack)",
+    "Option B: Luca Rossi (ByteCore's IT director, for his knowledge with cybersecurity)",
+    "Option C: Nadia Martinez (ByteCore's HR manager, for having the passcodes)",
+    "Option D: Riley Kim (a Nebula Nights Brigade member, as the cryptic note hints at insider knowledge)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 116,
+  "id": "case_116"
+}

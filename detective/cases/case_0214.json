@@ -1,0 +1,19 @@
+{
+  "title": "Shimmering Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the glamorous city of Cascade, a dazzling gemstone event catered by the renowned Crystal Gala was set to take place at the opulent Diamond Palace. The night was supposed to highlight the world's most precious diamonds, in particular, the 'Radiance of Royalty', a 1000-carat masterpiece that would shatter the auction records.",
+  "victim": "Victim: Crystal Gala's CEO, Mr. Verity.",
+  "crimeScene": "The crime scene was the opulent Diamond Palace, a sprawling mansion which looked more like a fairy-tale palace with its sparkling facade and lavish interior. The dimly lit hallways echoed with anticipation as the event unfolded in the grand ballroom on the second floor.",
+  "forensicClue": "A peculiar coded message etched on the 'Radiance of Royalty' diamond: 'Radiance ignites, but at what cost?'",
+  "question": "Who stole the 'Radiance of Royalty' diamond and what was their motive?",
+  "options": [
+    "Option A: Cynthia, the event planner, sought to prove her worth after a rival's success.",
+    "Option B: Prince Alistair, seeking to reclaim his family's legacy.",
+    "Option C: Gavin, the tech genius, aimed to expose the Diamond Palace's flaws.",
+    "Option D: Princess Elara, wishing to prevent a dangerous deal involving the diamond."
+  ],
+  "correctIndex": 3,
+  "caseNumber": 214,
+  "id": "case_214"
+}

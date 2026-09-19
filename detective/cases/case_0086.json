@@ -1,0 +1,20 @@
+{
+  "title": "Canvas of Lies",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "During the gala opening of the Whitmore Museum, the centerpiece—'Midnight Reverie' by the long‑dead master Elise Marlowe—was discovered to be a flawless forgery. The museum director, Elena Whitmore, collapsed in the gallery after the revelation, her heart attack blamed on the shock. Four people were questioned. \n\nSophie Lang, the chief curator, insisted she spent the entire evening in the climate‑control lab calibrating humidity levels, a task that, according to the log, began at 6 pm and ended at 9 pm. Marco Vela, a freelance restorer hired for the night, claimed he was in the restoration workshop polishing a 19th‑century portrait until 8:30 pm, then left for a dinner reservation across town. Lydia Hart, an art critic, said she was in the museum’s lounge sipping wine at 9 pm, watching the crowd admire the painting. Finally, security guard Tomas Reed reported his patrol route took him past the storage vault at 7:45 pm, but he noted the vault’s motion sensor was offline for maintenance.\n\nA forensic analyst later found that the pigment used in the fake was a synthetic ultramarine that the museum had purchased in a sealed batch on the Tuesday before the gala—only the curator and the restorer had access to the delivery manifest. Moreover, a hidden timestamp on the museum’s security system showed the climate‑control lab door opened at 7:10 pm, exactly when the original painting was swapped for the counterfeit.",
+  "victim": "Elena Whitmore, Museum Director",
+  "crimeScene": "Whitmore Museum gala hall and adjacent climate‑control lab",
+  "forensicClue": "The synthetic ultramarine pigment was only in the sealed batch delivered to the museum two days earlier, and the lab door’s hidden timestamp proves it was opened at 7:10 pm.",
+  "question": "Who forged the painting?",
+  "options": [
+    "Option A (Sophie Lang, the curator, because she had access to the pigment batch and the lab was opened at the time of the swap)",
+    "Option B (Marco Vela, the restorer, because he handled pigments regularly)",
+    "Option C (Lydia Hart, the critic, because she could profit from the scandal)",
+    "Option D (Tomas Reed, the security guard, because the motion sensor was offline)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The forensic clue ties the unique synthetic ultramarine pigment to the sealed delivery that only Sophie and Marco could access. The hidden timestamp shows the climate‑control lab door—under Sophie’s jurisdiction—opened at 7:10 pm, precisely when the original was swapped. Marco’s alibi places him away after 8:30 pm, and Lydia and Tomas have no connection to the pigment. Therefore, Sophie Lang is the only suspect who could both obtain the pigment and be present at the exact moment of the switch, making her the indisputable culprit.",
+  "caseNumber": 86,
+  "id": "case_86"
+}

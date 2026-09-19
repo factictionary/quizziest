@@ -1,0 +1,20 @@
+{
+  "title": "Crime of the Sparkling Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the opulent city of Glitzville, a dazzling event was about to take place at the prestigious Diamond Royale Ballroom. Guests were eagerly anticipating the grand unveiling of two priceless diamond gems: the Star of Dazzle and the Radiance Royal. \n\nAs the night unfolded, the Director of Diamond Affairs, Mr. Brighton, approached the city's Chief Inspector, informed of a mysterious disappearance of the priceless diamonds. Suddenly, the event manager, Miss Sapphire, announced, 'Something is amiss! Our security cameras recorded a break-in, but the thief left no trace behind.' The Star of Dazzle and Radiance Royal are nowhere to be found.",
+  "victim": "Director of Diamond Affairs, Mr. Brighton",
+  "crimeScene": "The Diamond Royale Ballroom",
+  "forensicClue": "An oddly shaped stone found near the crime scene",
+  "question": "Which guest is the thief? How did the detective solve it?",
+  "options": [
+    "Option A: Lady Opal (found wearing an oddly shaped stone pendant)",
+    "Option B: Lord Topaz (left the event abruptly before the theft)",
+    "Option C: Countيسة Emerald (was arguing with Miss Sapphire before the heist)",
+    "Option D: Mr. Amethyst (was seen discussing a secret buyer with an unknown party)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The detailed investigation reveals that Countيسة Emerald had a heated argument with event manager Miss Sapphire just before the theft. The diamond-rich Countيسة Emerald was privy to the diamonds' security and might have found a secret buyer via the mysterious phone call during the argument. Notably, Lord Topaz left the event abruptly, providing an alibi for the crime, while Lady Opal wore an oddly shaped stone pendant that resembles the missing diamonds' unique design. Mr. Amethyst's discussion with an unknown buyer could have led to the diamonds' whereabouts. However, the crucial clue pointing to Countîsse Emerald is the strange, diamond-shaped stone pendant found near the crime scene, matching the design of the missing diamonds.",
+  "caseNumber": 325,
+  "id": "case_325"
+}

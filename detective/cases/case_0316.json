@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Poisoning Affair",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In the serene town of Middleton, a peculiar incident occurred at the annual Fruit Fiesta. The town's beloved Mayor, Richard Thompson, was found unnervingly dead in his office after the festivities. The room was filled with a mix of exotic fruits and jars of unusual extracts. The door was locked from the inside, leaving no apparent escape route.",
+  "victim": "Mayor Richard Thompson",
+  "crimeScene": "The Mayor's office at the Fruit Fiesta",
+  "forensicClue": "An unusual smell of toxic gases in the room.",
+  "question": "Who poisoned Mayor Thompson and how did they gain access to the room?",
+  "options": [
+    "Option A (Suspect 1's motive and method)",
+    "Option B (Suspect 2's motive and method)",
+    "Option C (Suspect 3's motive and method)",
+    "Option D (Suspect 4's motive and method)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "During the investigation, it was discovered that the mayor's office had a hidden vent leading to the festival grounds. The mysterious smell of toxic gases originated from an opened vent, which conveniently hid the entrance way. This confirms suspect 3's motive and method of entering undetected while everyone was occupied with the festivities.",
+  "caseNumber": 316,
+  "id": "case_316"
+}

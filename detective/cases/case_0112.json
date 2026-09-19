@@ -1,0 +1,19 @@
+{
+  "title": "The Tainted Dinner Party",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "On a cold evening, the elite and wealthy gathered at the opulent mansion of Mrs. Blackwood for a dinner party to discuss the latest philanthropic endeavor. Among the guests were: Mr. Whitewood, a successful businessman; Ms. Ashwood, a renowned archaeologist; Dr. Greystone, a prominent surgeon; and Sir Stonybridge, a renowned explorer.",
+  "victim": "Mrs. Blackwood",
+  "crimeScene": "The lavish mansion was decorated with exotic flora, and the dining table displayed an exquisite feast prepared by the finest chef in town.",
+  "forensicClue": "A small vial found near the scene contains an unknown poison.",
+  "question": "Who is the mastermind behind the plot and how did they infiltrate the dinner party? ",
+  "options": [
+    "Option A (Mrs. Blackwood and the motive)",
+    "Option B (Mr. Whitewood and the alibi)",
+    "Option C (Ms. Ashwood and the hidden motive)",
+    "Option D (Dr. Greystone and the inconsistency)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 112,
+  "id": "case_112"
+}

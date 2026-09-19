@@ -1,0 +1,20 @@
+{
+  "title": "The Enigmatic Study Solution",
+  "category": "Locked Room Mystery",
+  "difficulty": "Expert",
+  "story": "In the sprawling mansion of Victorian-era socialite, Miss Adelaide Blackwood, a horrifying crime unfolded. Upon morning, a body was discovered in her study locked room. Miss Blackwood, an eccentric artist, was known for her fascinating collection of ancient artifacts. The room housed a rare, cursed Egyptian artifact – the Eye of Ra – believed to render any murderer invisible.",
+  "victim": "Mr. Alexander Drake, the personal butler",
+  "crimeScene": "The study is a dimly lit room adorned with ancient Egyptian relics. The heavy wooden door is locked from the inside, with no signs of forced entry. A gruesome crime scene reveals the poor Mr. Drake, strangled to death.",
+  "forensicClue": "The distinctive Egyptian styled dagger found near the victim.",
+  "question": "Who is the invisible culprit and how did they escape unnoticed? ",
+  "options": [
+    "Option A: Suspect 1 (Butler Helena Wickham and her motive)",
+    "Option B: Suspect 2 (Art Collector Charles Blackwood and his motive)",
+    "Option C: Suspect 3 (Art Therapist Dr. Amelia Nightshade and her motive)",
+    "Option D: Suspect 4 (Auction House Owner Mr. Ronald Scott and his motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Amongst the suspects, only Dr. Amelia Nightshade had a motive - she was fired by Miss Blackwood for inefficient art therapy sessions. The Eye of Ra curse casts a unique challenge: no one can be seen committing the crime. The forensic clue, a distinctive Egyptian dagger, points to Dr. Nightshade's distinctive artwork. Yet, she couldn't have entered the locked room because… Miss Blackwood's diary entry revealed she locked the door herself after a heated argument with Dr. Nightshade just hours before the murder. Uncovering this alibi strengthens the case against Dr. Nightshade.",
+  "caseNumber": 171,
+  "id": "case_171"
+}

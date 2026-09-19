@@ -1,0 +1,20 @@
+{
+  "title": "Shimmering Heist: The Diamond Catcher",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Hard",
+  "story": "In the glittering city of Glimmerstone, renowned diamond merchant, Mr. Zephyr Kline, was robbed during his annual gala charity event. His extravagant mansion, filled with priceless gems, was targeted. A valuable diamond named 'Unmatched Glow' went missing - a gem of unparalleled rarity and worth. The crime scene revealed an impeccably planned break-in that left no visible traces behind.",
+  "victim": "Mr. Zephyr Kline, Diamond Merchant",
+  "crimeScene": "The lavish mansion, adorned with priceless gems.",
+  "forensicClue": "An enigmatic message scrawled on a hidden wall, reading 'The Glow shall return.'",
+  "question": "Who stole the 'Unmatched Glow' diamond and left this cryptic message? How did they escape undetected?",
+  "options": [
+    "Option A: Lady Viper (Suspect 1), 'The Cat Burglar', for her expertise with gemstones and stealth, finding a secret entrance, but the motive unclear.",
+    "Option B: Mastermind (Suspect 2), the conniving art collector, for orchestrating the heist and leaving the cryptic message, but lacks theft experience.",
+    "Option C: Shadow Fox (Suspect 3), the elusive thief, for their past connection to Mr. Kline and potential motive, but lack of evidence indicates they acted alone.",
+    "Option D: Voltage Vixen (Suspect 4), the high-tech hacker, for remotely accessing the mansion's security system and leaving no physical traces, suggesting they knew the mansion well."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "A close examination reveals that Shadow Fox, the elusive thief (Option C), has a hidden motive as Mr. Kline's former employee and could have insider knowledge of the mansion layout and security systems. However, the lack of physical evidence or clear connection between the crime and their past connection with Mr. Kline led us to suspect they acted alone. Hence, the Voltage Vixen (Option D) is the most likely culprit. Their capability to remotely hack the mansion's security system, leaving no physical traces, demonstrates their expertise and intimate familiarity with the premises. Moreover, their cryptic message 'The Glow shall return' aligns with their motto, 'Resurrecting stolen treasures.' This connects to their past as a thief specializing in retrieving stolen valuables.",
+  "caseNumber": 245,
+  "id": "case_245"
+}

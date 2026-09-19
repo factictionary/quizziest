@@ -1,0 +1,19 @@
+{
+  "title": "Deadly Serpentine Scandal",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the opulent world of high society, the Bellingham Ball was the talk of the town. A lavish gathering took place at the exquisite estate of the Vanderbilt family, where the air was thick with intrigue and enchantment. The host, Sir Reginald Vanderbilt, had invited numerous high-profile figures under one roof. The night was envisioned to be a success, but a chilling twist would reveal itself in the morning.",
+  "victim": "The victim, Leonora Dupont, a renowned botanist.",
+  "crimeScene": "The opulent ballroom of the Vanderbilt estate, where the late night revelry was in full swing.",
+  "forensicClue": "An unexpected cyanide residue was discovered on the late victim's reticule.",
+  "question": "Who is the culprit and how did the detective solve it? ",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 269,
+  "id": "case_269"
+}

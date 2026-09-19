@@ -1,0 +1,24 @@
+{
+  "title": "The Enigmatic Study Murder",
+  "category": "Locked Room Mystery",
+  "difficulty": "Expert",
+  "story": "In the misty nights of Crow's Cove, a peculiar event unfolds within the mysterious mansion. Our tale begins in the dimly lit study, where the well-respected Professor Alexander Strand is found brutally murdered with a candlestick. The room, adorned with valuable antiques and locked from the inside, presents a daunting challenge for detectives. The sole window is heavily barred and bears no signs of forced entry.",
+  "victim": "Professor Alexander Strand - renowned cryptographer",
+  "crimeScene": "The locked study, filled with priceless artifacts and an antique safe.",
+  "forensicClue": "A cryptic clue etched on the safe: 'The key to the past lies within.'",
+  "question": "Who committed the murder? How was the room locked from the inside? ",
+  "options": [
+    "Option A (Alexander's rival, Frederick and the disappearing doorknob)",
+    "Option B (The housekeeper, Martha and the locked door from the outside)",
+    "Option C (The cryptographer's apprentice, Emily and the coded lock)",
+    "Option D (The reclusive inventor, Henry and the secret passage)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The correct answer to this locked room mystery lies within the cryptic clue found on the safe: 'The key to the past lies within.' This hint suggests that the key to unlocking the enigma lies within the room itself. Investigating further, we discover Henry the reclusive inventor had a secret passage leading from his workshop to the study. This discovery leads us to suspect Option D.\n\nIn the workshop, a partially worn doorknob is found, implicating Alexander's rival, Frederick (Option A). The doorknob's disappearance suggests someone opened the door from the outside, hence locking the study door afterwards, making it appear that the murder took place within the locked room. Lastly, the cryptographer's apprentice, Emily (Option C), was known for her expertise in coded locks, which led to the study's lock being tampered with, creating the locked room illusion.",
+  "The inventor": "s secret passage allows for a convenient escape route",
+  "while the missing doorknob and tampered lock hint at the murderer": "s motives and the methods they used to create the locked room illusion. The cryptographer",
+  "s apprentice": "s association with coded locks gives a plausible motive for the locked room ruse",
+  "and the inventor": "s workshop provides the escape route for the murderer.\"",
+  "caseNumber": 230,
+  "id": "case_230"
+}

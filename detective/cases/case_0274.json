@@ -1,0 +1,15 @@
+{
+  "title": "Whose Alibi Falls Apart? ",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "On a dark and stormy night, the peaceful small town of Maplewood witnessed a shocking murder. Our victim, esteemed florist and philanthropist, Mrs. Ada Blossom.\n\nAt the time of the crime, the town's four inhabitants gathered at the annual charity art exhibition at the community center. Each suspect had an alibi to prove their whereabouts at the time of the murder.\n\nThe guests included the town mayor, Mr. Harold Schemmer, whose wife was exhibiting her paintings.\nThe ambitious reporter, Mr. Maxwell Blossom, who hoped to write the story of the crime for the town's newspaper.\nThe reserved art collector, Mr. Sebastian Tulip,\nAnd the gossiping baker, Miss Lily Dandelion, whose delectable desserts were being auctioned.\n\nThe murder occurred at 9:15 PM, when the exhibition closed, leaving no one to witness the crime.\n\nAlibi Scrutiny:\n1. Mayor Harold was at the art exhibition, holding a conversation with Mrs. Schemmer.\n2. Maxwell was chasing rumors around town, proving his absence at the exhibition.\n3. Sebastian claimed he was studying a rare art piece in the museum.\n4. Lily lied about baking a cake for a distant relative's wedding, which took place in a different town at 7 PM.\n\n",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 274,
+  "id": "case_274"
+}

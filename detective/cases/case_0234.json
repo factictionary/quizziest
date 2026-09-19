@@ -1,0 +1,15 @@
+{
+  "title": "Ruby Royale Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the opulent city of Diamondville, a dazzling event was about to take place - the massive Ruby Royale diamond auction. The esteemed auction house, Azurite & Sapphire, invited a few suspects to handle the security amidst the luxurious affair.\n\nThe main suspect was ex-convict and diamond smuggler, Hugo Blackthorn, who harbored an unexplained motive. Next was Dr. Lyra Quartz, a brilliant gemologist rumored to have stolen precious gems in the past. Then, there was dashing yet enigmatic Lord Topaz, known for his charismatic charm and shady dealings, and finally, elegant Ms. Amethyst Emerald, a renowned gemologist with a mysterious past.\n\nOn the night of the auction, Azurite & Sapphire's CEO, Mr. Aquamarine announced an audacious plan unfolding in real-time on a holographic display. Suddenly, the showcase for the 10,000 carat Ruby Royale diamond vanished! The crime scene is a lavish, dimly lit room with plush velvet curtains, adorned with priceless gemstones worth millions.\n\nSuspects: Hugo Blackthorn, Dr. Lyra Quartz, Lord Topaz, Ms. Amethyst Emerald\n\nTestimonies:\n1. Hugo Blackthorn: \"I had to leave abruptly to settle a dispute. Anyone could have accessed the room!\"\"\n2. Dr. Lyra Quartz: \"I examined the Ruby Royale diamond closely; my attention was entirely on the gem.\"\n3. Lord Topaz: \"I charmed my way past the doorman and entered the room, but I assure you, I left no trace.\"\n4. Ms. Amethyst Emerald: \"I studied theSecurity System logs and noticed a glitchy red flag during Hugo Blackthorn's time of absence.\"\n\nCrime Timeline:\n- Hugo Blackthorn entered at 8:00 PM\n- Dr. Lyra Quartz examined the diamond at 8:15 PM\n- Lord Topaz entered at 8:30 PM\n- Ms. Amethyst Emerald detected the security glitch at 8:45 PM.\n\nRaw Evidence:\n1. Missing: 10,000 carat Ruby Royale diamond\n2. Security Glitch Log: Shows unusual access during Hugo Blackthorn's time.\n3. Hugo Blackthorn's alibi: Confirmed his presence elsewhere during the crime.\n4. Lord Topaz's charm: Enables him to pass security without leaving traces.\n5. Dr. Lyra Quartz's expertise: Enables her to closely examine the diamond.\n6. Ms. Amethyst Emerald's observation: Spotting the security glitch during Hugo Blackthorn's absence.\n",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 234,
+  "id": "case_234"
+}

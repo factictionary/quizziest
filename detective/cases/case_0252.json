@@ -1,0 +1,20 @@
+{
+  "title": "The Enigma of the Coded Door",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit mansion corridors, Detective John found himself in front of a locked door. Upon closer inspection, he discovered a cryptic clue: a handwritten note saying 'Open me, but only if you know the secret code.' Inside the room, the body of heiress, Miss Amelia, lay in a pool of blood. Hurriedly, Detective John interviewed the suspects.",
+  "victim": "Miss Amelia, heiress",
+  "crimeScene": "The locked room with a note on the door and a dead Amelia.",
+  "forensicClue": "The note's cryptic nature and the absence of a forced entry.",
+  "question": "Who among the suspects committed the crime? How was the door locked from the inside? ",
+  "options": [
+    "Option A (Suspect 1: Mr. James and Lock Picking skill)",
+    "Option B (Suspect 2: Miss Emily and Key that matches the room's keyhole)",
+    "Option C (Suspect 3: Professor Harold and Algorithmic solution)",
+    "Option D (Suspect 4: Mr. William and Forced Entry)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "After analyzing the forensic details, Detective John learned that the door's hinges showed no signs of forced entry, implying the murderer used a key. Among the suspects, only Miss Emily held the matching key. Furthermore, considering the cryptic nature of the note, Professor Harold proposed an algorithmic solution that unlocked the door. Thus, the culprit is none other than Miss Emily.",
+  "caseNumber": 252,
+  "id": "case_252"
+}

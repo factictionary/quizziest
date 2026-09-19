@@ -1,0 +1,20 @@
+{
+  "title": "Ruby's Ruby Riddle",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "In the dimly lit alleyways of the seedy side of town, a shiny gem known as 'Ruby's Ruby' disappeared from its showcase at 'Tony's Treasuries'. Last seen, it was guarded by the store's night watchman, Victor, in a small and poorly lit display cabinet in the shop's back room.",
+  "victim": "Victor the Night Watchman",
+  "crimeScene": "The back room of Tony's Treasuries where the gemstone was kept.",
+  "forensicClue": "A single shoe print left at the crime scene, not matching any of Tony's or Victor's footwear.",
+  "question": "Who stole Ruby's Ruby and how was the shoe print there? ",
+  "options": [
+    "Option A (Victor and alibi).",
+    "Option B (Tony and motive).",
+    "Option C (A secret employee).",
+    "Option D (An unknown visitor)."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "During the investigation, it was discovered that Tony had a grudge against Ruby's Ruby due to his unfinished business with a previous lover. The alibi provided by Victor revealed he was with Tony during the crime. Further examination of Tony's shoe size matches the single shoe print discovered at the crime scene. The secretive employee, Sarah, had the motive and opportunity to steal the gemstone, leaving a distinctive shoe print in her size behind. Sarah is therefore the one who stole Ruby's Ruby.",
+  "caseNumber": 185,
+  "id": "case_185"
+}

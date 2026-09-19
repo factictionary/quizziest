@@ -1,0 +1,15 @@
+{
+  "title": "Whodunit in the Grim Mansion",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In the eerie mansion located on the outskirts of town, a shocking murder occurred. The body of wealthy businessman, Mr. Raymond Thornton, was found in the opulent study. A cold gust blew through the room, making the candles flicker wildly.\nVictim: Mr. Raymond Thornton - wealthy business magnate\nCrime Scene: Study - luxurious yet foreboding room, with a large mahogany desk and a window overlooking a moonlit garden.\nForensic Clue: A distinctive scratch on the study door's lock.\nQuestion: Who committed the murder? How did the detective solve it?\nOptions: \n1. Lady Lavender (Suspect 1 and reason)\n2. Captain Blackwood (Suspect 2 and reason)\n3. Reverend Twilight (Suspect 3 and reason)\n4. Countess Midnight (Suspect 4 and reason)\nRandom correctIndex: 2\n\nDeduction Explanation:\nThe distinctive scratch on the study door's lock stands out as a potential motive link to the suspects. Captain Blackwood has a history of feuds with Mr. Thornton due to business rivalries. On the night of the murder, Captain Blackwood was caught on security footage arguing with Mr. Thornton before the incident occurred. As Captain Blackwood was the last person to see Mr. Thornton alive, and the scratch on the door indicates a forced entry, Detective X deduced that Captain Blackwood had entered the study, killed Mr. Thornton, and left the room via the window after the scratch was made on the door's lock.\n\nInvestigating further, Detective X discovered that Captain Blackwood had been seen stealing a rare manuscript from the study earlier that day, which Mr. Thornton had also been after due to its immense value. This connection between Captain Blackwood and the coveted manuscript fuels the suspicion that he killed Mr. Thornetton to prevent a confrontation over the valuable item.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 144,
+  "id": "case_144"
+}

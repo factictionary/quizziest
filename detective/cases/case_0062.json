@@ -1,0 +1,20 @@
+{
+  "title": "The Toxic Inheritance",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "Richard Langley, a reclusive billionaire, was found dead in his study the morning after a lavish garden party. A half‑filled cup of coffee sat on his desk, and the autopsy revealed a lethal dose of cyanide in his bloodstream. The four people closest to him each gave a statement: Emma, his estranged wife, claimed she stayed in her bedroom all night, avoiding the party entirely. James, his longtime business partner, said he talked with Richard about a merger until exactly 10 p.m., after which he left for the balcony. Sarah, the personal assistant, explained she was behind the bar until 11 p.m., noting that Richard’s coffee cup was already on the desk when she arrived to clear the tables. Michael, his ambitious nephew, asserted he arrived at 9 p.m., spent an hour in the garden on a phone call, and left at 10 p.m. before the murder.\n\nThe forensic team discovered that the coffee served at 10 p.m. was chemically clean; however, the cyanide concentration in Richard’s blood indicated ingestion around 11 p.m., well after the initial service. The only person who had access to the study and the coffee after it was placed, yet before the victim could drink, was Sarah, who was still on duty until 11 p.m. and admitted seeing the cup already on the desk, giving her the perfect window to slip the poison in.",
+  "victim": "Richard Langley",
+  "crimeScene": "Richard's mansion study, adjacent to the garden party venue",
+  "forensicClue": "Toxicology shows cyanide entered the system around 11 p.m., but the coffee was clean when first served at 10 p.m.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Emma - She had a motive but no access to the coffee after it was set.",
+    "James - He left the study at 10 p.m., before the poison could have been added.",
+    "Sarah - She was the only one with opportunity to poison the coffee between 10 p.m. and 11 p.m.",
+    "Michael - He left the premises at 10 p.m. and never entered the study."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The autopsy timestamps the cyanide ingestion to about 11 p.m., yet the coffee was uncontaminated when first served at 10 p.m. Only Sarah remained on duty after the coffee was placed and before the victim could have drunk it. Emma, James, and Michael all left the study before the window when the poison could have been introduced. Therefore, Sarah is indisputably the murderer.",
+  "caseNumber": 62,
+  "id": "case_62"
+}

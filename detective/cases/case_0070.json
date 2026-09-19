@@ -1,0 +1,20 @@
+{
+  "title": "Poisoned at the Penthouse",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "At 12:15 p.m. on a rainy Thursday, the body of tech magnate Victor Hale was discovered slumped over his desk in the penthouse suite of the Skyline Hotel. A glass of water, a half‑eaten croissant, and a faint smell of almond lingered on the mahogany table. The autopsy later confirmed cyanide poisoning, a toxin that can be dissolved in a single sip. Four people were present in the hotel that morning and each gave a detailed statement.\n\nEmily Hart, Victor’s personal assistant, said she was in the executive lounge from 9:00 a.m. to 10:45 a.m. reviewing contracts, then walked past Victor’s suite at 11:00 a.m. and saw him arguing on the phone. \"I didn’t enter his room,\" she insisted. James Ortega, Victor’s business partner, claimed he met Victor in the suite from 10:00 a.m. to 11:30 a.m. to finalize a merger, then left for a coffee at the hotel café at 11:45 a.m. Samantha Liu, the night‑shift receptionist, reported that a staff‑uniformed figure entered Victor’s suite at 11:15 a.m., lingered briefly, and left. Michael Reyes, the hotel’s head chef, swore he was in the kitchen from 8:00 a.m. straight through his shift, but he recalled seeing James Ortega exiting the kitchen at exactly 10:45 a.m. to retrieve a notebook.",
+  "victim": "Victor Hale",
+  "crimeScene": "Penthouse suite, Skyline Hotel, downtown cityscape",
+  "forensicClue": "A single, pristine stainless‑steel coffee stirrer with Victor’s initials engraved was found clutched in his hand, matching the stirrers used only in the hotel’s executive lounge.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Emily Hart (Claims to have seen Victor arguing, but no link to the poison)",
+    "James Ortega (Alibi conflict: cannot be in the suite and the kitchen at 10:45 a.m.)",
+    "Samantha Liu (Saw a uniformed figure, but cannot identify the wearer)",
+    "Michael Reyes (Was in the kitchen all day, no direct contact with Victor)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "James Ortega’s timeline is impossible. He says he was meeting Victor in the suite from 10:00 a.m. to 11:30 a.m., yet Michael Reyes saw James leaving the kitchen at 10:45 a.m. The kitchen is on a different floor and requires at least five minutes to reach the suite, making it impossible for James to be in both places simultaneously. The engraved stirrer, a staple of the executive lounge where James was known to prepare his own coffee, was found in Victor’s hand, indicating the poison was administered there. Therefore, James Ortega’s alibi collapses, pointing unequivocally to him as the murderer.",
+  "caseNumber": 70,
+  "id": "case_70"
+}

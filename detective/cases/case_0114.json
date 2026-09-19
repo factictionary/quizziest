@@ -1,0 +1,20 @@
+{
+  "title": "Deadly Venom Vigil",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the dimly lit mansion of eccentric millionaire, Sebastian de Villain, the assembled guests were to witness the revelation of their benefactor's will. Among them were Dr. Phineas Phleps, a toxicology expert; Reginald Ratchet, a cunning conman; Angelique de Sable, a stealthy thief; and Sir Percival Plot, a bygone adventurer. Suddenly, a chilling wave of poisonous gas engulfed the room, leaving five poisoned guests. Distraught, Sebastian's butler, Alfred, found the master's will torn and the chilling gas nozzle nearby.",
+  "victim": "Victim Information",
+  "crimeScene": "Mansion Description",
+  "forensicClue": "The torn will has a distinct handwriting - different from Sebastian's",
+  "question": "Who tampered with the will and used the gas nozzle? How did the detective solve it?",
+  "options": [
+    "Option A (Sebastian's handwriting on the torn will)",
+    "Option B (Alfred's mysterious entry)",
+    "Option C (Angelique's stealthy prowess)",
+    "Option D (Percival's connection to the gas nozzle)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The detective deduced that the torn will bears a distinct handwriting, different from Sebastian de Villain's. Among the gathered suspects, only Sebastian could have created the torn will. The torn will leads to suspect Option A. Additionally, despite Alfred's mysterious entry, it doesn't directly implicate a suspect; thus, it is Option B. The gas nozzle's connection to suspect Percival, Option D, and Angelique's stealthy prowess doesn't directly associate her with tampering with the will or using the gas nozzle, making Options A, B, and D the primary suspects. However, the detective's keen eye noticed that all three suspects had motive, means, and opportunity, except for one. By analyzing the timeline, it becomes evident that Angelique sneaked into the room after the poisonous gas saturated the mansion – rendering her presence and motive suspicious. The investigation points indisputably to suspect Option C: Angelique de Sable.",
+  "caseNumber": 114,
+  "id": "case_114"
+}

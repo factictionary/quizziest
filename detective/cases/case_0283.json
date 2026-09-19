@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit in the Enigma Mansion",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the late hours of a moonlit night, a murder took place within the enigmatic Enigma Mansion. The door to the drawing room was shut tight, and the only key found was in the dead body of Sir Edgar Blackwood. A riddle once written by Sir Edgar himself, 'Where am I now, what was I not?', remains unanswered as the room was locked and the murder weapon still in position.",
+  "victim": "Sir Edgar Blackwood, the eccentric owner of Enigma Mansion.",
+  "crimeScene": "The locked drawing room with Sir Edgar Blackwood, a man in a top hat and tails, lying motionless in the corner.",
+  "forensicClue": "The riddle left by Sir Edgar with a cryptic message: 'Where am I now, what was I not?', hinting at an object or location within the mansion.",
+  "question": "Who committed the murder and how was the room locked from the inside? Please solve the cryptic riddle.",
+  "options": [
+    "Option A: Butler John, discovered in the kitchen with a motive and opportunity.",
+    "Option B: Madam Delphine, found in the conservatory with no apparent motive.",
+    "Option C: Professor Thornton, found in the library studying the mansion's history, with an alibi.",
+    "Option D: Keeper of the Enigma, known for their expertise in solving puzzles, found in the secret passage with a motive."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The riddle hints at a location or object within the mansion that was not Sir Edgar. The secret passage was his expertise, making 'Keeper of the Enigma, known for their expertise in solving puzzles' the most likely suspect.\n\nUpon further investigation, the secret passage was discovered with the cryptic clue 'Notebook of Enigmas', which matches the riddle left by Sir Edgar. It is evident that 'Keeper of the Enigma' was the one who committed the murder while exploring the secret passage, leaving the knob turned in the locked drawing room, indicating they knew the mansion well enough to hide the murder weapon, the master key, amongst the enigmas in the secret passage's 'Notebook of Enigmas'. This leads to the true culprit: 'Keeper of the Enigma'.",
+  "caseNumber": 283,
+  "id": "case_283"
+}

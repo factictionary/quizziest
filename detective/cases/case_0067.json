@@ -1,0 +1,20 @@
+{
+  "title": "Canvas of Lies",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "The Bellwether Art Gallery opened its new exhibition of 19th‑century impressionist works on a crisp Tuesday morning. By noon, owner Mara Whitfield discovered that the centerpiece—a supposedly rare Monet—had been swapped for a flawless forgery. The gallery was locked, the security footage showed only one person entering the exhibition hall after the morning cleaning crew left at 9:30 AM. Four staff members gave their accounts.\n\nAlex Rivera, the head curator, said she was in the archives cataloguing provenance records from 8 AM to 11 AM. Jamal Ortiz, a junior conservator, claimed he was in the climate‑control room calibrating humidity sensors between 9 AM and 12 PM. Lena Kaur, the resident art historian, insisted she was delivering a lecture at the city university from 9 AM to 2 PM. Finally, Victor Hale, the senior security guard, testified that he patrolled the west wing from 10 AM to 1 PM and never left his post.\n\nWhen the forensic team examined the forged Monet, they found a faint layer of modern acrylic polymer beneath the oil paint—a material not used before the 1970s. The gallery’s maintenance log recorded that only Victor Hale had accessed the storage closet containing that polymer on Tuesday at 10:15 AM, a time that conflicts with his claim of staying on the west wing.",
+  "victim": "Mara Whitfield, gallery owner",
+  "crimeScene": "Bellwether Art Gallery, main exhibition hall",
+  "forensicClue": "The forgery contains a modern acrylic polymer layer, and only Victor Hale logged access to that material at the time of the crime.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Alex Rivera – she had motive to protect the exhibition’s reputation.",
+    "Jamal Ortiz – he knew the conservation chemicals.",
+    "Lena Kaur – she could have used her academic connections.",
+    "Victor Hale – his access log contradicts his alibi."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The forensic analysis reveals a modern acrylic polymer under the paint, a material stored in a locked closet. The only staff member who logged entry to that closet at 10:15 AM was Victor Hale. His alibi claims he was patrolling the west wing the entire time, which the log disproves. No other suspect had both the means and the documented opportunity, making Victor Hale the indisputable culprit.",
+  "caseNumber": 67,
+  "id": "case_67"
+}

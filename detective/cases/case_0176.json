@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit in the Enigmatic Apartment",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the heart of the city, Detective Johnson investigated a peculiar locked room mystery at the illustrious 'Empire Towers'. On entering the lavish apartment, he noticed the door was locked from the inside - a stark contrast to the shattered windowpanes leading to the balcony. Detective Johnson met with renowned author, Ms. Blackwood, who lived in the apartment. She declared, 'I was typing my novel in the study, and heard a loud crash. I rushed to the scene, only to find this terrifying sight.' Her assistant, Mr. Chen, confirmed, 'She requested me to order caviar for dinner and left me alone in the living room.' The doorman, Mr. Patel, stated, 'At exactly 9 PM, I received an urgent text from Ms. Blackwood: 'Help! I'm trapped in the study!' Then, the power suddenly went out. I arrived shortly after and forced open the door to find her screaming.' Meanwhile, Ms. Thompson, a neighbor, heard frantic footsteps around 8:45 PM, claiming they belonged to Ms. Blackwood. 'It couldn't have happened!' she exclaimed.",
+  "victim": "Ms. Blackwood - The renowned author",
+  "crimeScene": "Empire Towers, apartment 2014",
+  "forensicClue": "A peculiar blackened area on the study door - a telltale sign of a controlled explosion",
+  "question": "How did the author get trapped in the study, and who is the guilty party? Please provide reasons.",
+  "options": [
+    "Option A - Ms. Thompson (Ms. Blackwood's footsteps, lack of forced entry)",
+    "Option B - Mr. Chen (Caviar delivery, power outage)",
+    "Option C - Detective Johnson (Control over the explosion, motive for revenge)",
+    "Option D - Mr. Patel (Urgent text, lack of forced entry)",
+    "Option E - Miss Blackwood (Controlled explosion, staged event)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 176,
+  "id": "case_176"
+}

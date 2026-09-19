@@ -1,0 +1,20 @@
+{
+  "title": "The Phantom Drawer",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "In the dark and dusty old mansion, the wealthy philanthropist, Mrs. Amelia Blackwood, was found dead in her bedroom. The room was locked from the inside, with no signs of forced entry. A locked safe stood in the corner, containing her will and its mysterious new beneficiary, Mr. Albert Grey. The clock ticked relentlessly as Inspector John Brown scrutinized the scene. The suspects gathered outside the door, each with their motives.",
+  "victim": "Mrs. Amelia Blackwood",
+  "crimeScene": "A dimly lit bedroom with a four-poster bed, an opulent dressing table, and a locked oak safe. The window, although open, was too high to have been climbed through.",
+  "forensicClue": "The fingerprints on the doorknob belonged to Mr. Albert Grey.",
+  "question": "Who is the culprit and how did they commit the crime? Find the hidden clue that points to the murderer.",
+  "options": [
+    "Option A (The envious wife - Mrs. Ivy Blackwood and the motive for theft)",
+    "Option B (The disgruntled butler - Mr. Samuel and the motive for revenge)",
+    "Option C (The cunning heir - Mr. Albert and the motive for deception)",
+    "Option D (The shifty lawyer - Mr. Jackson and the motive for altering the will)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "[optionC description]",
+  "caseNumber": 229,
+  "id": "case_229"
+}

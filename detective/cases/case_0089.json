@@ -1,0 +1,20 @@
+{
+  "title": "The Isolated Inheritance",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Richard Langley, a wealthy businessman, was found dead in his isolated mansion during a storm. The mansion was locked from the inside, and the only window was closed. The victim was discovered with a letter opener in his chest. Four suspects were identified: Emma, Richard's wife, who stood to gain a large inheritance; James, Richard's business partner, who had been in a heated argument with Richard earlier that day; Sarah, the maid, who had been acting nervously; and Alex, Richard's nephew, who had a history of disputes with Richard.\n\nEmma claimed she was in her room, asleep, and didn't hear anything. James stated he was in the garden, taking a walk, and didn't see anyone suspicious. Sarah said she was in the kitchen, preparing dinner, and saw nothing unusual. Alex claimed he was in the library, reading a book, and didn't leave until he heard the police sirens.\n\nHowever, upon closer inspection, it was found that the maid's uniform had a small tear, and there was a piece of fabric caught in the door of the room where the victim was found.",
+  "victim": "Richard Langley",
+  "crimeScene": "An isolated mansion during a storm",
+  "forensicClue": "A piece of fabric caught in the door of the room where the victim was found matched the tear on Sarah's uniform.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Emma, the wife, due to her inheritance motive",
+    "James, the business partner, due to his argument with the victim",
+    "Sarah, the maid, due to the fabric evidence",
+    "Alex, the nephew, due to his history of disputes"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The forensic clue revealed that the piece of fabric caught in the door matched the tear on Sarah's uniform. This indicates that Sarah was in the room where the victim was found, and her presence at the scene, combined with the physical evidence, points to her as the culprit.",
+  "caseNumber": 89,
+  "id": "case_89"
+}

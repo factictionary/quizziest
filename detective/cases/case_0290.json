@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit at the Dark Web Summit",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "At the Dark Web Summit, a bombshell announcement rocked the tech world. The CEO of a renowned cybersecurity firm, Robert Johnson, had been murdered in his luxurious suite. Beside him, a cryptic message scrawled on a notepad read: 'Victim knew too much.' The suite had been searched, leading to stolen blueprints and encrypted files.",
+  "victim": "Robert Johnson, CEO of a cybersecurity firm",
+  "crimeScene": "Dark Web Summit's luxurious suite 4521",
+  "forensicClue": "The cryptic message on the notepad",
+  "question": "Who had the motive and alibi to commit the crime? ",
+  "options": [
+    "Jane Doe (Suspect 1 and alibi)",
+    "Adam Smith (Suspect 2 and motive)",
+    "Emily Wu (Suspect 3 and alibi)",
+    "David Lee (Suspect 4 and motive)."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "At the summit, Jane Doe had a perfect alibi - she was seen by multiple witnesses attending a secret hacker conference nearby. However, a cryptic message left at the crime scene, written in Jane's distinctive handwriting, reads: 'The CEO's secrets are mine now.' It seems Jane had a personal motive. Meanwhile, Adam Smith's fingerprints were discovered on the search bar of the room's computer, suggesting active searching. Emily Wu's alibi checks out as she was seen with a colleague at the summit's keynote speech at the time of crime. The culprit, David Lee, left cryptic footprints alongside the blueprints' evidence. His motive: Robert Johnson's blueprints could reveal his father's cybercrime empire's secrets.",
+  "caseNumber": 290,
+  "id": "case_290"
+}

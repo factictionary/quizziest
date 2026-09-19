@@ -1,0 +1,19 @@
+{
+  "title": "The Drowned Formula",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "In a secluded, old mansion on the outskirts of town, Dr. Ada Stone, a brilliant chemist specializing in rare toxins, was found drowned in her bathtub. Strange engravings were etched on the walls, depicting a mysterious formula. Surprisingly, the autopsy revealed no physical evidence of drowning, only traces of an extremely potent venom, 'Phantom Venom', in Dr. Stone's system.",
+  "victim": "Dr. Ada Stone, a renowned Poisonologist",
+  "crimeScene": "The lavish yet eerie mansion of Dr. Stone.",
+  "forensicClue": "The Phantom Venom",
+  "question": "How did Dr. Ada Stone meet her demise, and who left those peculiar engravings on the walls?",
+  "options": [
+    "Option A: The Phantom Venom (Suspicious lab accident and enigmatic notes)",
+    "Option B: The Illuminatus Society (Eerie engravings and a mysterious note)",
+    "Option C: The Rival Chemist (Angry rivalry and a cryptic message)",
+    "Option D: The Mansion's Enigmatic Tenant (Hidden motives and a code to decipher)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 141,
+  "id": "case_141"
+}

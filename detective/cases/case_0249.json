@@ -1,0 +1,20 @@
+{
+  "title": "Whispers of the Masterforger",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Hard",
+  "story": "In the dimly lit corners of the prestigious Art Gallery, an unsavory secret has been unfolding for years. The once-treasured art pieces now bear suspicious resemblance to other renowned pieces, leading to the unsettling truth: these are counterfeit masterpieces. Our unsuspecting victim, esteemed curator Dr. Amelia Blake, discovered the art fraud upon a routine inspection. The crime scene is the opulent Museum Gallery, where the enigmatic paintings of renowned artists have been inexplicably replaced with bogus copies.",
+  "victim": "Dr. Amelia Blake, esteemed curator",
+  "crimeScene": "The Museum Gallery - a room dedicated to celebrated artists and their authentic masterpieces",
+  "forensicClue": "The distinct odor of acidic varnish emanates from the counterfeit artworks.",
+  "question": "Who is the imposter behind this art forgery scheme? How did the detective solve the mystery? ",
+  "options": [
+    "A. Mr. Charles Whitmore (Curator of Fakes), reason: His expertise in creating convincing counterfeits.",
+    "B. Ms. Isabella Montez (Collector), reason: Her motive for replacements to boost her collection's value.",
+    "C. Monsieur Andreas Raffael (Restorer), reason: His access to the Museum Gallery and familiarity with the original varnish scent.",
+    "D. Professor Edwardo Santos (Art Historian), reason: The unusual varnish odor only he would notice.",
+    "E. Mr. Benjamin Franklin (Security Guard), reason: His connection to the forgeries' origin."
+  ],
+  "correctIndex": 3,
+  "caseNumber": 249,
+  "id": "case_249"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Diamond Dilemma: The Heist of Diamonds",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the sleek and glossy city of Gems, a dazzling heist caught the attention of detectives worldwide. The opulent Gemstone Gallery was robbed last night, leaving a trail of questions in its wake. The owner, Mr. Gavin Emerald, was a well-respected businessman and philanthropist in town. His prized possession, the Ruby Regalia, a stunning, flawless 450-carat ruby, was stolen during last night's gala event.",
+  "victim": "Mr. Gavin Emerald, the owner of Gemstone Gallery",
+  "crimeScene": "Last night, the Gemstone Gallery's opulent halls revealed evidence of a meticulously planned heist. The security footage showed a group of four individuals entering the premises.",
+  "forensicClue": "A peculiar handprint near the Ruby Regalia's display.",
+  "question": "Who is the culprit and how did they leave that mysterious handprint?",
+  "options": [
+    "Option A: Suspect 1 (A well-respected philanthropist with a grudge, Method).",
+    "Option B: Suspect 2 (A disgruntled employee, Evidence).",
+    "Option C: Suspect 3 (A rival jewelery designer, Motive).",
+    "Option D: Suspect 4 (A seasoned con artist, Alibi)."
+  ],
+  "correctIndex": 2,
+  "caseNumber": 194,
+  "id": "case_194"
+}

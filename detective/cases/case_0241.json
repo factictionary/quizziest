@@ -1,0 +1,19 @@
+{
+  "title": "Whodunnit at the Jazz Club",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "In the dimly lit Jazz Club 'Satin Sax', a crime unfolded late last night. Our dear saxophonist, 'Benny Blues', took a fatal blow, leaving behind a note: 'Let the music speak for me now.' Strange, he always believed that his sax would be his defense in life and music. The club was filled with passionate jazz fans, each with a unique backstory.",
+  "victim": "Benny Blues - A saxophonist",
+  "crimeScene": "The dimly lit Jazz Club 'Satin Sax'",
+  "forensicClue": "A mysterious jazz rhythm engraved on the murder weapon.",
+  "question": "Who committed the crime and how did they leave the unique jazz rhythm on the murder weapon?",
+  "options": [
+    "Option A (Charlie Melody - He had a grudge & played a clarinet)",
+    "Option B (Sylvia Strings - Known for her jealousy)",
+    "Option C (Eddie Beats - Had a motive & drumstick was used)",
+    "Option D (Oscar Silhouette - Had an alibi & drew around the crime scene)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 241,
+  "id": "case_241"
+}

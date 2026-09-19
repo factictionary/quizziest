@@ -1,0 +1,20 @@
+{
+  "title": "Shady Jewellers",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Hard",
+  "story": "In the heart of the glittering city, 'Shady Jewellers' housed the world's most valuable collection of diamonds. On a moonlit night, the owner, Benjamin Tate, discovered a ruthless breach, leaving him heartbroken. His trusted employee, Miranda, managed the security system while glamorous thief, Gatsby, masterminded the dazzling heist. Wealthy art collector, James, and charismatic con-artist, Max, were involved too.",
+  "victim": "Benjamin Tate (Jewellers Owner)",
+  "crimeScene": "The crime scene was illuminated by an eerie blue light, casting shadows of the gleaming diamonds on the wall. A broken security camera and a smashed vault door revealed the cunning heist.",
+  "forensicClue": "A peculiar blue dye was found on the security camera lens.",
+  "question": "Who is the culprit and how did the detective crack the case? (answer below)",
+  "options": [
+    "Option A (Miranda and her familiarity with security system)",
+    "Option B (Gatsby and the blue dye)",
+    "Option C (James and the jewel-theft history)",
+    "Option D (Max and the broken vault door clue)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The detective analyzed the evidence meticulously: the broken vault door implicates James for the theft as he has a history of jewel heists. The peculiar blue dye on the security camera lens suggests Gatsby's involvement, as only he had the motive and knowledge to leave the dye as a signature.\n\nThe smashed security camera implies Max's role as the muscle, and Miranda's familiarity with the system could have been exploited by Gatsby to bypass the security measures.",
+  "caseNumber": 109,
+  "id": "case_109"
+}

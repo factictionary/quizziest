@@ -1,0 +1,19 @@
+{
+  "title": "The Twisted Duality Case",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "In the rundown neighborhood of Twisted Duality, a peculiar murder rocked the town. Detective John investigated the crime scene at the dilapidated mansion, where the deceased was none other than the enigmatic twin sisters, Harmony and Discord. The door to the study was locked from the inside, but the shattered window indicated a break-in.",
+  "victim": "Harmony and Discord Twin Sisters",
+  "crimeScene": "The study of the Twisted Duality mansion.",
+  "forensicClue": "The distinct odor of sulfur was prevalent in the study.",
+  "question": "Who committed the crime and how did they do it? Find the hidden motive behind the sinister crime.",
+  "options": [
+    "Option A: Suspect 1 - The gardener who had a motive to eliminate Harmony due to a rivalry over the flower patches. Reason: The gardener was seen entering the mansion through the shattered window, and footprints matching his size were found near the broken window.",
+    "Option B: Suspect 2 - The mysterious art dealer who had a motive to eliminate Discord due to a disputed art transaction. Reason: The art dealer's fingerprints were found on the murder weapon, a vintage poison dart.",
+    "Option C: Suspect 3 - The cunning socialite who had a motive to eliminate both Harmony and Discord due to a family dispute. Reason: The socialite was seen arguing with the twins on the night before the crime, and their wedding rings were found next to the bodies.",
+    "Option D: Suspect 4 - The reclusive biologist who had a motive to eliminate both Harmony and Discord due to a contested research project. Reason: The biologist's DNA was found on the dart, matching the victim's victims' DNA. Furthermore, the biologist claimed to have been in his lab at the time of the crime."
+  ],
+  "correctIndex": 3,
+  "caseNumber": 154,
+  "id": "case_154"
+}

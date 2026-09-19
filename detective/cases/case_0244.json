@@ -1,0 +1,20 @@
+{
+  "title": "Painted Deception at the Art Gallery",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "At the prestigious 'Masterpieces' art exhibition in our city's museum, the curator, Mrs. Howard, was found dead in her office.",
+  "victim": "Mrs. Elizabeth Howard - Curator",
+  "crimeScene": "The dimly lit office of the victim, filled with valuable artwork, lies amidst the bustling exhibition.",
+  "forensicClue": "A muddy footprint near the window, suggesting the culprit has been to the venue before.",
+  "question": "Who committed the crime and how did they do it?",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The murderer must have had previous knowledge of the museum and knew the victim's office well. Let's break down the evidence and suspect motives step by step:",
+  "caseNumber": 244,
+  "id": "case_244"
+}

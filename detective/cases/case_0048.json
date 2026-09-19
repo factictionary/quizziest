@@ -1,0 +1,20 @@
+{
+  "title": "The Silent Suite",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Wealthy philanthropist Victor Hale was discovered dead in his locked study at the secluded Alpine Lodge, a high‑security mountain retreat. The only entry was a biometric door that recorded Victor entering at 21:45 and sealing shut at 22:00. When investigators forced the door open at 22:30, Victor lay slumped over his desk, a glass of brandy tipped on the floor and a faint almond scent lingering in the air – a classic sign of cyanide poisoning.\n\nFour people were present that night. Emma Hale, Victor’s estranged wife, insists she retired to her suite at 21:50 and never left, noting the room had no clock, yet she could state the exact minute the poison took effect. James Whitaker, Victor’s business partner, claims he was in the library reading, but the library’s motion sensor recorded no movement between 21:55 and 22:15. Sarah Liu, Victor’s personal assistant, says she was monitoring the security system from her tablet until the moment the alarm sounded, yet the system log shows her user session terminated at 22:13 – the precise time the toxic dose was administered. Michael Ortega, the lodge’s chef, maintains he was preparing a midnight snack in the kitchen, but the kitchen’s temperature log shows it remained at 18 °C, far too cool for any cooking activity.",
+  "victim": "Victor Hale",
+  "crimeScene": "Victor’s locked study in the Alpine Lodge, a high‑security mountain retreat",
+  "forensicClue": "The security system log records Sarah Liu’s session ending exactly at 22:13, the moment the cyanide was injected into Victor’s drink.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Emma Hale – Claims she was in her suite, but oddly knows the exact time of death",
+    "James Whitaker – Says he was in the library, yet motion sensors show no movement",
+    "Sarah Liu – Says she was monitoring security, but her session ended at the exact time of the poison",
+    "Michael Ortega – Insists he was cooking, but the kitchen temperature stayed low"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The decisive clue is the security log showing Sarah Liu’s remote session terminated at 22:13, the exact moment Victor’s drink was poisoned. Her claim of continuous monitoring is contradicted by this log, placing her at the scene when the cyanide was administered. All other suspects have alibis supported by sensor data or physical evidence, making Sarah Liu the indisputable murderer.",
+  "caseNumber": 48,
+  "id": "case_48"
+}

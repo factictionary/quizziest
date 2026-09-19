@@ -1,0 +1,19 @@
+{
+  "title": "Whosoever Wins, Steals This Night",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the dimly lit galleries of the Gothic Art Museum, a startling theft unfolded during a gala night celebrating the 'Whosoever Wins, Steals This Night' exhibition. The museum's esteemed curator, Dr. Freida Blackwood, silently gazed upon the newly acquired painting, 'The Enigmatic Mask' by the elusive artist, Kitsch Karp. The painting, believed to be a masterpiece by the infamous 19th-century artist, Barnaby Bones, was worth millions. Suddenly, the lights flickered, and the painting vanished from its alcove, leaving a mysterious black mark on the spot where it had been.",
+  "victim": "Dr. Freida Blackwood",
+  "crimeScene": "The Gothic Art Museum, during the gala night of 'Whosoever Wins, Steals This Night' exhibition.",
+  "forensicClue": "A peculiar scrawl on the black mark left at the crime scene - 'The Enigmatic Mask' - hinting at the motive.",
+  "question": "Who stole the painting and why? ",
+  "options": [
+    "Option A: Mr. Eerie, seeking to expose Barnaby Bones' authenticity.",
+    "Option B: Miss Quirky, jealous of her rival's success.",
+    "Option C: Professor Skulk, seeking the hidden treasure within the painting.",
+    "Option D: Lord Whiskertip, desirous of the valuable artwork."
+  ],
+  "correctIndex": 3,
+  "caseNumber": 240,
+  "id": "case_240"
+}

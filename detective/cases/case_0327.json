@@ -1,0 +1,15 @@
+{
+  "title": "Whodunit: The Grim Midnight Murder",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In a chilly night in the seedy backstreets of the city, Detective Johnston stumbled upon the haunting case of a young musician named Vincent.\n\nThe victim, a sole survivor of a band called 'Nightfall Noise', was found lifeless on a dimly lit alleyway, mercilessly stabbed multiple times. The crumpled sheet of paper in his hand displayed the song lyrics, 'Shadows of midnight, silent screams...' written in blood.\n\nThe setting was an old, rundown shack near the riverbank, where the band used to rehearse. The alleyway where Vincent met his demise was adjacent to this decrepit building.\n\nThe four suspects:\n\n1. Elizabeth, the band manager.\n2. Julian, the band's roadie.\n3. Rachel, the local graffiti artist who had a grudge against the band.\n4. Marcus, the mysterious figure who sold junk items to the band.\n\n\nThe alley was deserted when Johnston arrived, but later, one of the witnesses, Thomas, claimed he saw a figure wearing all black fleeing the scene shortly after the murder. Thomas's testimony was crucial as it narrowed down the suspects' possibilities.\n\nThe autopsy report revealed that Vincent was killed right before midnight, but the alleyway has no CCTV cameras to confirm the exact time.\n\nQuestion: Who committed the heinous crime? How did Detective Johnston deduce the truth?",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 327,
+  "id": "case_327"
+}

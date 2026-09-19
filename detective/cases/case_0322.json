@@ -1,0 +1,39 @@
+{
+  "title": "The Twisted Harvest",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "In a quiet countryside town, a twisty tale unfolds. On a moonlit night, the venerable estate of Harvest Manor experienced a harrowing tragedy. Late into the night, the masterful chef and owner of the renowned Harvest Restaurant, Signor Giovanni Moretti, was found brutally murdered in the sprawling manor's wine cellar.\n\nCrime Scene:\nThe dimly lit wine cellar reeked of stale grapes and damp earth. The body of Signor Moretti lay on the stone floor, a gory knife wound across his chest. A broken corkscrew nearby hinted at a struggle. The temperature, humidity, and wine bottles offered no vital information.\n\nVictim:\nSignor Moretti was the renowned Italian chef, esteemed business owner, and the pillar of the community.\n\nSuspects:\n1. The scheming head sommelier, Madame Vivienne Leclair. She had access to the cellar and a grudge against Signor Moretti forرفضed her promotion.\n2. The agitated apprentice chef, Miguel Gonzales. He had a motive since he was fired by Signor Moretti days ago.\n3. The gossiping wine waiter, Anthony Capelli. He had access to the cellar and heard a strange noise before the crime occurred.\n4. The enigmatic gardener, Isadora Blackwood. She had a motive as her sister was denied a job at Harvest Restaurant.\n\nTestimonies:\n1. Madame Leclair: \"I was locked in the kitchen during the crime, I didn't see or hear anything!\"\"\n2. Miguel: \"I was dismissed days ago and couldn't take it anymore! I couldn't resist the opportunity!\"\"\n3. Anthony: \"I was serving at the top table when I heard a strange noise down here. I rushed down but it was too late!\"\"\n4. Isadora: \"My sister sought a job at Harvest, but Signor Moretti turned her away.\"\nCrime Timeline:\nThe tragedy occurred between 11 PM and midnight.\n\nForensic Clue:\nThe murderer left behind a single grape seed in their bloody prints, found on the knife handle.\n\nThe Question:\nWho committed the crime and how were they connected to the victim?\n\nOptions:\n1. Option 1 connects the murderer to the victim through motive and opportunity.\n2. Option 2 connects the murderer to the victim through coincidence.\n3. Option 3 connects the murderer to the victim through motive and opportunity, with a unique forensic detail.\n4. Option 4 connects the murderer to the victim through motive and opportunity, with a unique forensic detail.\n\nThe Answer:\nOption 3.\n\nAnswer Explanation:\nThe murderer, Isadora, had motive, opportunity, and a unique forensic detail. The single grape seed found on the knife handle corresponds to her sister's grape varietal, which the victim, Signor Moretti, grew himself. The coinciding timeline of the crime and Isadora's visit right after the wine tasting event implies she was the only one who could have committed the crime.",
+  "options": [
+    {
+      "option": "Option 1 - The murderer was locked in the cellar during the crime as they only had a motive but no opportunity.",
+      "motivation": "Having been rejected by Signor Moretti for the kitchen apprentice position.",
+      "opportunity": "None",
+      "forensicHint": "No unique forensic detail found on the murderer's prints or DNA",
+      "correct": false
+    },
+    {
+      "option": "Option 2 - The murderer was present at the wine tasting event.",
+      "motivation": "No specific motivation provided.",
+      "opportunity": "Witnessed at the tasting event.",
+      "forensicHint": "No unique forensic detail found on the murderer.",
+      "correct": false
+    },
+    {
+      "option": "Option 3 - The murderer used a grape seed from the tasting event to commit the crime.",
+      "motivation": "Had a personal grudge against Signor Moretti.",
+      "opportunity": "Attended the wine tasting event and knew the timing.",
+      "forensicHint": "A single grape seed from the varietal grown in Signor Moretti's vineyard was found on the murder weapon.",
+      "correct": true
+    },
+    {
+      "option": "Option 4 - The murderer was in the vineyard at the time of the crime.",
+      "motivation": "No specific motive provided.",
+      "opportunity": "Was tending the vineyard around midnight.",
+      "forensicHint": "No unique forensic detail found on the murderer.",
+      "correct": false
+    }
+  ],
+  "correctIndex": 0,
+  "caseNumber": 322,
+  "id": "case_322"
+}

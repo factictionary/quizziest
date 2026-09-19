@@ -1,0 +1,15 @@
+{
+  "title": "Whodunit in the Phantom Parlor",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "In a dimly lit parlor of the opulent mansion 'Shadowsgrove', a young heiress, Lyra Stone, was found strangled with her own necklace. The door, now locked from the inside, bore no signs of forced entry. In short, a locked room mystery had befallen her family's estate.\n\nVictim: Lyra Stone (Young Heiress)\nCrime Scene: Shadowsgrove Mansion - Phantom Parlor\nForensic Clue: A peculiar symbol etched on the doorknob, a sinister 'V' in blood-red hues.\nQuestion: Who committed the crime and how did they leave the room unnoticed?\n\nSuspect 1: Lord Adrian Stone (Lyra's grandfather)\nSuspect 2: A mysterious artist named Eclipse\nSuspect 3: A nosy housekeeper, Mrs. Fenwick\nSuspect 4: An enigmatic musician, Quincy\n\nOptions:\n0: Lord Adrian Stone (Known to argue with Lyra about her late-night parties)\n1: A mysterious figure named Eclipse (Found sneaking around the mansion prior to the crime)\n2: Mrs. Fenwick (Had a sudden urge to fetch a lamp, leaving Lyra alone with the suspects)\n3: Quincy the Musician (Had a motive: Lyra's rare pianola was stolen)\n\nCorrectIndex: 1\n\nDeduction Explanation: Upon questioning, Mrs. Fenwick revealed a crucial detail - she had a momentary urge to fetch a lamp while Lyra was engrossed in conversation with Lord Stone and Quincy. This left Eclipse unaccounted for during the crime. However, the real breakthrough came when inspecting the door's doorknob symbol. Notably, the blood-red 'V' matched the description Eclipse gave of the symbol etched on the door of his last visit to Shadowsgrove Mansion.\n\nThe murder weapon, Lyra's necklace, was found beside the lifeless body. Among the suspects, only Eclipse mentioned handling the necklace during a heated argument with Lyra about her late-night parties. Upon further investigation, it was discovered that Eclipse had a motive (paint brushes taken without permission), opportunity (was alone with Lyra), and a likely alibi (was seen arguing with Lyra just before the crime). Thus, Eclipse is our culprit.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 108,
+  "id": "case_108"
+}

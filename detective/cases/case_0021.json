@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Malware Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "At 02:13 UTC, the core server housing Elliot Grant’s breakthrough AI model went dark, overwritten by a custom ransomware that erased months of research. The lab’s logs showed the malicious payload entered via a USB stick plugged into the server’s maintenance port. The building’s biometric system recorded that only four staff members were on the floor between 01:45 and 03:00: Maya, the network admin; Dex, a freelance coder; Lila, the UX designer; and Omar, the security analyst.\n\nMaya insists she was monitoring the firewall from the security hub at 01:50 and never left her console. Dex claims he was at the city hackathon, live‑streaming his code sprint, and his phone ping logs confirm he was 30 km away. Lila says she was in a video call with a client from 02:00 to 02:45, her webcam showing the conference room. Omar maintains he left his workstation to charge his laptop in the breakroom at 01:55, noting the battery was dead and he never touched the server room. Yet the forensic analysis uncovered a USB drive with serial number X9O7, the same suffix as Omar’s employee badge, and a latent fingerprint on its casing that matches Omar’s left thumb. Moreover, the server’s internal clock runs two hours ahead of UTC, meaning the ransomware actually executed at 04:13 UTC—after Omar re‑entered the floor at 03:05, as shown by the entry log.",
+  "victim": "Elliot Grant, lead AI researcher",
+  "crimeScene": "The high‑security AI lab on the 13th floor of Nexus Corp headquarters",
+  "forensicClue": "The USB drive that delivered the payload bears serial number X9O7, the same suffix as Omar’s employee badge, and its fingerprint matches his left thumb.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Maya – She claims to have been at the firewall console, but no evidence ties her to the USB.)",
+    "Option B (Dex – He was streaming from a remote location, and his device logs show no proximity to the lab.)",
+    "Option C (Omar – The USB’s serial number matches his badge and his fingerprint is on it; the timeline shows he re‑entered after the true execution time.)",
+    "Option D (Lila – Her video call logs place her in the conference room, and she had no access to the server’s maintenance port.)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The ransomware’s true execution time, adjusted for the server’s clock offset, was 04:13 UTC, after Omar had re‑entered the floor at 03:05 (entry log). The only physical evidence linking a suspect to the payload is the USB drive: its serial number mirrors Omar’s badge number and a latent fingerprint on the drive matches Omar’s left thumb. Maya, Dex, and Lila have alibis corroborated by independent logs and lack any forensic connection to the USB. Therefore, Omar is indisputably the culprit.",
+  "caseNumber": 21,
+  "id": "case_21"
+}

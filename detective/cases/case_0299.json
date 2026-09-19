@@ -1,0 +1,19 @@
+{
+  "title": "The Midnight Heist Murders",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Hard",
+  "story": "In the quiet and picturesque coastal town of Seashore Bay, a series of baffling murders occurred during a spectacular firework display. The last event took place at Van Wyck Mansion, where the renowned art collector, Sir Felix Van Wyck, was found brutally murdered on the stroke of midnight. The mansion’s opulent rooms were decorated with priceless art pieces, providing a rich backdrop for the tragedy.\n\nVictim: Sir Felix Van Wyck, a wealthy art collector, well-respected member of Seashore Bay society.\n\nCrime Scene: The lavish Van Wyck Mansion, where the murder took place on the night of the annual firework celebration.\n\nForensic Clue: An incriminating footstep on the library floor - a single shoe print left behind by the culprit.\nQuestion: Who committed the murder and how did they evade detection?\nOptions:",
+  "options": [
+    "Option D: Mr. Grayson",
+    "Option D: The cryptic letter revealing the hidden motive",
+    "Option A: Lady Adela",
+    "Option B: Mr. Ravenswood",
+    "Option C: Mr. Montague",
+    "Correct Index: 0"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "Upon closer examination, the single shoe print left at the crime scene leads to the realization that a stranger was involved. Suspect A and D both have alibis, which initially throws a wrench into the works, but the incriminating footstep puts the focus on strangers. However, the cryptic letter from suspect D reveals a hidden motive.\nCorrect deduction: By piecing together the cryptic letter from Mr. Grayson, the players will uncover a hidden motive that links him to the crime, confirming his involvement as the murderer.\n\nCorrect options:\n\n- Option D: Mr. Grayson\n- Option D: The cryptic letter revealing the hidden motive",
+  "question": "Who killed Sir Felix Van Wyck and why? The cryptic letter from Mr. Grayson reveals a hidden motive.",
+  "caseNumber": 299,
+  "id": "case_299"
+}

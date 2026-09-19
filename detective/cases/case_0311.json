@@ -1,0 +1,20 @@
+{
+  "title": "The Shadows of Blackwood Manor",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Hard",
+  "story": "In the late hours of a stormy night, the wealthy and exclusive Blackwood Manor witnessed a shocking crime. Sir Hubert Blackwood, the enigmatic owner and a respected philanthropist, was found dead in his grand library. The mahogany doors, locked from the inside, sealed the fate of whoever committed this heinous act. Amidst the piles of ancient tomes and rich tapestries, the scene was lit by a solitary flickering candle. The room was untouched except for a single bloody footprint outside the library window.",
+  "victim": "Sir Hubert Blackwood, a prominent philanthropist and owner of Blackwood Manor.",
+  "crimeScene": "The crime was discovered in the opulent library within Blackwood Manor. The room housed an extensive collection of dusty books, grand wooden shelves, and a large fireplace.",
+  "forensicClue": "A peculiar incense burnt mark on a rare leather-bound volume near the crime scene.",
+  "question": "Who killed Sir Hubert Blackwood and why? Find the clues that point to the killer.",
+  "options": [
+    "Option A: Lady Adelaide Blackwood, the proud and reclusive widow of Sir Hubert, due to his forbidden affair with her trusted maid, Ester.",
+    "Option B: The reclusive artist, Mr. Augustus Shadow, as he had a deep grudge against Sir Hubert for ruining his career.",
+    "Option C: The mysterious book collector, Mr. Thornton Quill, for leaving a clue in the form of an unusual incense burnt mark on a rare book near the crime scene.",
+    "Option D: The headstrong daughter, Miss Isadora Blackwood, who had motive: Sir Hubert dismissing her from inheriting the manor."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The incense mark at the crime scene links suspect Option C, Mr. Thornton Quill. The mark suggests he intentionally left a clue to divert attention away from himself while planting evidence to frame another suspect. This is further supported by his habit of collecting rare and valuable books, which Sir Hubert possessed. Meanwhile, the other suspects had no motive or clues linking them to the crime. That is why Mr. Thornton Quill is the indisputable culprit.",
+  "caseNumber": 311,
+  "id": "case_311"
+}

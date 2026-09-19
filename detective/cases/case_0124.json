@@ -1,0 +1,20 @@
+{
+  "title": "Treasure Trove Tampering",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the dimly lit, air-conditioned corridors of the prestigious 'Art Emporium,' a crime scene unfolded behind the closed doors of the 'Renaissance Revival' exhibition. Mrs. Penelope Paintbrush, the esteemed museum curator, was found lifeless in a corner, clutching a mysterious painting, a priceless Vermeer forgery. Secured by a highly sensitive fingerprint lock, the door to the exhibition was discovered slightly ajar, with no signs of a forced entry.",
+  "victim": "Mrs. Penelope Paintbrush",
+  "crimeScene": "The dimly lit, air-conditioned corridors of the Art Emporium lead to the 'Renaissance Revival' exhibition room, featuring a high-tech fingerprint lock on the door. Inside, the curator, Mrs. Penelope Paintbrush, is found with a mysterious Vermeer forgery in her grasp.",
+  "forensicClue": "The fingerprints on the lock's touch panel show a match with that of the museum's cleaning staff, Mr. Jackson Palette.",
+  "question": "Who committed the crime and how did they gain entry? ",
+  "options": [
+    "Option A: Mr. Jackson Palette (Access due to his job)",
+    "Option B: Suspect B (Forgery expert)",
+    "Option C: Suspect C (Stealthy art thief)",
+    "Option D: Suspect D (Envious owner)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The crime scene indicated that the perpetrator had access to the secured exhibition due to prior knowledge or connections. Upon examination, the fingerprints on the fingerprint lock's touch panel matched Mr. Jackson Palette, the museum's cleaning staff. This suggests that the culprit could have gained entry through their work-related access, leading to Option A being the correct answer.",
+  "caseNumber": 124,
+  "id": "case_124"
+}

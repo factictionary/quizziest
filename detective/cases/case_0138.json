@@ -1,0 +1,19 @@
+{
+  "title": "The Hacktivist Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In a bustling tech city, our unsuspecting victim, Mark Williams, the CTO of CyberNexus Corporation, unexpectedly receives a financial windfall when his company's stock price surges overnight. The next day, Mark wakes to find his computer network hacked, causing a major outage, and vital data breached. Mark's assistant, Sarah, experiences an eerie phone call beforehand, claiming responsibility for the cyberattack.\n\nVictim: Mark Williams (CTO of CyberNexus Corporation)\nCrime Scene: CyberNexus Corporation\n\nTestimonies:\n1. Sarah: 'I heard someone on the phone mention planning this attack before it happened, sir.' (pointing to the mysterious caller)\n2. Laura: 'The hackers left a peculiar code snippet related to a protest group, Hacktivists for Freedom (HAF). Mark didn't know they were involved.'\n3. Jonah: 'Just before the attack, I noticed unusual network activity, likely a test run.'\n4. CEO David: 'Mark was working on a secret project related to artificial intelligence and quantum computing. It could be connected.'",
+  "crimeScene": "CyberNexus Corporation",
+  "forensicClue": "Unusual network activity",
+  "question": "Who is the mastermind behind the hacking incident and what's the connection to Hacktivists for Freedom? \n\nOptions:\nA. Sarah (Mysterious phone call)\nB. Laura (No direct connection to HAF but knowledge of Mark's work)\nC. Jonah (Network activity suspiciously close to the attack)\nD. David (Mark's secret project connection)",
+  "correctIndex": 3,
+  "deductionExplanation": "The clue that reveals the culprit is the CEO's statement about Mark's secret project related to AI and quantum computing. This leads to suspect David, who hints at a possible connection to the cyberattack.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "caseNumber": 138,
+  "id": "case_138"
+}

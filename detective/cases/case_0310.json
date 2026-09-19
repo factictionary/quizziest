@@ -1,0 +1,15 @@
+{
+  "title": "The Tech-Savvy Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Expert",
+  "story": "In the bustling city of Silicon Valley, a tech company named 'ByteLabs' faced a severe loss. Their latest product, the AI-powered voice assistant 'Ava', was stolen from the secure R&D lab. The CEO, Dr. Emily Thompson, expressed her frustration, stating Ava had sensitive data about the company's future projects.\n\nThe crime scene is the opulent ByteLabs R&D lab, with state-of-the-art security cameras recording every event. The lab is locked from the inside, suggesting a break-in or someone from the inside orchestrated the crime.\n\nThe four suspects, each with a motive, are:\n\n1. Oliver Stone, a brilliant yet enigmatic AI researcher (Option A).\n2. Dr. Sarah Kim, the head of security (Option B).\n3. John Kim, a software developer close to unveiling his masterpiece (Option C).\n4. Rachel Kang, the chief administrative officer (Option D).\n\nThe investigative clue: Security footage shows a mysterious figure in a lab coat leaving the lab with a laptop bag just before the CCTV went black.\n\nThe deduction explanation: Based on the forensic examination of the stolen laptop, we discovered a hidden filesystem with plans for the 'Ava 2.0' prototype.\n\nThe correct index to solve this riddle is 3 (Dr. John Kim). The logical deduction is as follows:\n\n1. Oliver Stone's absence during the break-in is evident from time-stamped footage, disproving Option A.\n2. Dr. Sarah Kim's position at the security desk makes it impossible for her to be the culprit, disproving Option B.\n3. The mysterious lab coat figure in the CCTV footage and the plans for 'Ava 2.0' prototype on the stolen laptop point to the culprit being connected to the AI research team, disproving Options 1 and 4.\n4. The blacked-out CCTV system occurred at the precise moment John Kim would have gained access to the lab, suggesting he tampered with the surveillance equipment to cover his tracks, disproving Option C.\n\nTherefore, Dr. John Kim is the one who orchestrated the heist and hid crucial evidence in plain sight on the stolen laptop. The mystery revolves around deciphering the AI-enhanced 'Ava 2.0' plans.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 310,
+  "id": "case_310"
+}

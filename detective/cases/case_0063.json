@@ -1,0 +1,20 @@
+{
+  "title": "Silenced Strings at The Velvet Note",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "Renowned violinist Elena Marquez was found dead in the backstage dressing room of The Velvet Note concert hall, a single glass of water on a side table stained with a fast‑acting neurotoxin. The police interviewed four staff members who were on duty that night. Carlos, the lighting technician, swore he was on the roof adjusting spotlights from 8:00 pm to 9:30 pm. Maya, Elena’s personal assistant, claimed she stayed in the greenroom with Elena from 7:45 pm until 9:00 pm, never leaving her side. Victor, the hall’s head of security, insisted he was glued to the control room monitors from 8:15 pm to 9:45 pm and never left his station. Lena, the catering manager, said she was in the kitchen preparing late‑night snacks from 8:00 pm to 10:00 pm. A forensic sweep uncovered a badge‑swipe log showing Victor’s security badge opened the side hallway door at 8:05 pm—ten minutes before his alleged start time. Moreover, the only glass that could have held the poisoned water was tucked behind Victor’s console, a spot no one else could reach without a badge. The building’s fire‑alarm system recorded a brief power surge at 8:07 pm that disabled the hallway cameras for exactly two minutes, creating a perfect window for the murder.",
+  "victim": "Elena Marquez, celebrated violinist",
+  "crimeScene": "Backstage dressing room of The Velvet Note concert hall",
+  "forensicClue": "Badge‑swipe log shows Victor entered the side hallway at 8:05 pm, before his claimed start time, and the poisoned water glass was placed behind his security console.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Option A (Carlos – the lighting technician, because his roof alibi conflicts with a rooftop fire alarm but no direct evidence).",
+    "Option B (Maya – Elena’s personal assistant, because she was with the victim but no trace of toxin on her).",
+    "Option C (Victor – head of security, because his badge swipe at 8:05 pm and exclusive access to the glass prove he could have administered the poison).",
+    "Option D (Lena – the catering manager, because she was in the kitchen and had no opportunity to reach the dressing room)."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The toxin was found only in a glass located behind the security console, accessible only with a staff badge. 2. Victor’s badge‑swipe log records him opening the side hallway door at 8:05 pm, ten minutes before his claimed presence in the control room. 3. The fire‑alarm surge at 8:07 pm disabled hallway cameras for two minutes, giving Victor a blind window to place the poisoned glass. 4. All other suspects have alibis that place them elsewhere and no means to reach the glass. 5. Therefore, Victor’s timeline discrepancy and exclusive access make him the indisputable murderer.",
+  "caseNumber": 63,
+  "id": "case_63"
+}

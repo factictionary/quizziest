@@ -1,0 +1,62 @@
+{
+  "title": "The Masked Masterstroke",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the heart of an ancient city, the Fine Arts Museum displayed an exclusive exhibition of rare masterpieces. Among them was the prized possession, the 'Enigmatic Portrait', a suspected forgery believed to be painted by the long-lost artist 'The Shadow'. The painting had been appraised for decades without any proven authenticity.\n\nOn a moonlit night, the museum curator, Dr. Amara, discovered a shattered vase near the 'Enigmatic Portrait'. The scene was illuminated by the eerie glow of the moon's reflection on the glass cases surrounding the exhibition.\n\nThe crime scene was the grand entrance hall, where a solitary figure in a full-length black cloak had been caught on the security footage. A mysterious mask covered their face, rendering it impossible to distinguish any features. Four witnesses described the culprit as having a tall, lanky build.",
+  "crimeScene": "The grand entrance hall.",
+  "victim": "The 'Enigmatic Portrait'",
+  "question": "Who is the culprit? How did the detective solve it?",
+  "options": [
+    "Option A (The Lone Art Enthusiast - The Shadow's possible alibi)",
+    "Option B (The Reclusive Painter - A plausible alibi)",
+    "Option C (The Auctioneer - Evidence against)",
+    "Option D (The Vandal - The key to the crime)"
+  ],
+  "correctIndex": 0,
+  "forensicClue": "The handwriting on the vandalism note mirrors that of Dr. Amara's handwriting",
+  "deductionExplanation": "Upon investigation, Dr. Amara's handwriting was discovered on the vandalism note left behind at the scene. The masked culprit's tall, lanky build aligns with Dr. Amara's description. Furthermore, the security footage reveals the culprit was seen discussing the 'Enigmatic Portrait' with Dr. Amara hours before the crime. The alibi of the Lone Art Enthusiast (Option A) cannot be trusted as they bear a striking resemblance to Dr. Amara's description. Therefore, the Reclusive Painter (Option B) is the likely suspect. The Auctioneer (Option C) had motive but lacks the build and alibi to convincingly cover their tracks. The Vandal (Option D) leaves behind unexpected handwriting that matches Dr. Amara's, further implicating her.",
+  "evidence": [
+    {
+      "description": "The distinctive handwriting on the vandalism note left behind",
+      "type": "Forensic"
+    },
+    {
+      "description": "The tall, lanky build of the culprit",
+      "type": "Description"
+    },
+    {
+      "description": "The discussion between the culprit and Dr. Amara about the prized painting hours before the crime",
+      "type": "Witness"
+    },
+    {
+      "description": "The alibi provided by the Lone Art Enthusiast does not match Dr. Amara's description",
+      "type": "Alibi"
+    }
+  ],
+  "suspects": [
+    {
+      "description": "A reclusive painter",
+      "alibi": "Innocuous alibi"
+    },
+    {
+      "description": "A shadowy figure with a tall, lanky build and a keen interest in art",
+      "alibi": "Invalid alibi"
+    },
+    {
+      "description": "An auctioneer with a motive but an unsound alibi",
+      "alibi": "Untrustworthy alibi"
+    },
+    {
+      "description": "A mysterious figure with a compelling alibi",
+      "alibi": "Valid alibi"
+    }
+  ],
+  "solution": "The culprit is Dr. Amara, the museum curator.\nDr. Amara's tall, lanky build matches the alibi and description provided by witnesses.\nThe discussion between Dr. Amara and the player (the detective) about the painting hours before the crime points to motive.\nThe vandalism alibi provided by Dr. Amara is invalid due to the witness testimony.\nThe auctioneer has an unsound alibi which falls short of proving their innocence.\nThe mysterious figure with a compelling alibi has a sudden change of heart resulting in a solid alibi.\n\nThe culprit was the curator, Dr. Amara.",
+  "solutionExplanation": "Dr. Amara's alibi is invalidated by the witnesses and a broken vase near the crime scene.",
+  "solutionExplanationContinued": "The motive arises from Dr. Amara's prior knowledge of the painting and the conversation held with the player prior to the crime.",
+  "solutionLink": "Investigate Dr. Amara's room for a mysterious painting and the shattered vase near the crime scene.",
+  "forensicClueLink": "Dr. Amara's handwriting matches the vandalism note left at the crime scene.",
+  "forensicAlibiLink": "Witnesses discard Dr. Amara's alibi due to a broken vase near the crime scene.",
+  "caseNumber": 300,
+  "id": "case_300"
+}

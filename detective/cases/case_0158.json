@@ -1,0 +1,20 @@
+{
+  "title": "Ephemeral Echoes",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the shadowed halls of the \"Luminous Legacies\" exhibit at the Metropolitan Gallery, an unspeakable crime occurred. Gallery curator, Mr. Jameson, vanished under mysterious circumstances, leaving behind a shattered painting and a haunting whisper: 'The only masterpiece that never was.' A replica of a stolen Rembrandt, the exhibit's highlight.",
+  "victim": "Mr. Jameson, the Gallery Curator",
+  "crimeScene": "The shattered Rembrandt painting and the haunting whisper \"The only masterpiece that never was\"",
+  "forensicClue": "A peculiar cryptic note found near the victim - 'The brushstrokes betray'",
+  "question": "Who is the culprit and why did they commit this crime? ",
+  "options": [
+    "Option A (Suspect 1 and motive)",
+    "Option B (Suspect 2 and motive)",
+    "Option C (Suspect 3 and motive)",
+    "Option D (Suspect 4 and motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The correct suspect was identified by examining the cryptic note left behind, which hinted at the motive. Let's unravel the mystery.",
+  "caseNumber": 158,
+  "id": "case_158"
+}

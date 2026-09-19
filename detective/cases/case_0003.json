@@ -1,20 +1,20 @@
 {
-  "id": "case_3",
-  "caseNumber": 3,
-  "title": "The Soundproof Recording Studio Heist",
-  "category": "Locked Room Mystery",
+  "title": "The Vanishing Vermeer",
+  "category": "Museum & Art Gallery Forgery",
   "difficulty": "Easy",
-  "story": "Pop star Luna was rehearsing alone inside a state-of-the-art soundproof recording studio booth. Through the heavy triple-pane soundproof window, her sound engineer Greg saw her suddenly clutching her ears, collapsing, and dropping a $500,000 diamond necklace which vanished from the locked studio floor.\n\nGreg testifies: 'I was adjusting the mixer when I heard Luna scream in sheer terror from inside the booth, so I hit the emergency unlock button and ran in to help her, finding the necklace gone.'",
-  "victim": "Luna (Pop Star)",
-  "crimeScene": "High-end soundproof vocal booth",
-  "forensicClue": "Consider the physical properties of the soundproof booth.",
-  "question": "How did Detective Vance know Greg was the thief who faked the break-in?",
+  "story": "At the prestigious Lumen Museum, the celebrated Vermeer replica \"The Girl with a Pearl Earring\" vanished from its glass case during the afternoon cleaning shift. The victim, Leonard Marlowe, the museum's chief conservator, discovered the empty pedestal at 2:05 pm and called the police. Four people were on site: Curator Claire, who was arranging a new exhibition; Restorer Raj, polishing a Renaissance frame in the adjacent studio; Security Guard Sam, monitoring the cameras from the control room; and Visitor Vera, a local art student who claimed to be sketching the gallery's lighting. Claire insists she was in a conference call at 1:45 pm, Sam says he was on a coffee break until 2:10 pm, Vera swears she was in the café across the street, and Raj maintains he was mixing pigments for a restoration project that afternoon. The security footage shows the case door being opened at 1:50 pm, but the motion sensor log records the hallway lights being off from 1:30 pm to 3:00 pm for a scheduled cleaning, meaning only someone with a staff keycard could have entered. A faint smear of ultramarine pigment—used exclusively in the museum’s restoration lab—was found on the inner edge of the glass case, and the keycard swipe at 1:48 pm belongs to Restorer Raj.",
+  "victim": "Leonard Marlowe, chief conservator",
+  "crimeScene": "Lumen Museum, Vermeer replica display hall",
+  "forensicClue": "Ultramarine pigment smear on the case edge matches the exclusive pigment in Raj's restoration kit, and his keycard was used to open the case at 1:48 pm while the hallway lights were off.",
+  "question": "Who stole the Vermeer replica and how was the crime uncovered?",
   "options": [
-    "The recording booth was 100% soundproof with triple-pane glass; Greg could not have heard her scream from the outside control room without active monitors.",
-    "The microphone inside the booth was muted on the mixing console.",
-    "Luna's diamond necklace was found hidden inside Greg's audio headphone case.",
-    "Security cameras showed Greg entering the booth before Luna collapsed."
+    "Option A (Curator Claire – she claims she was on a call, but no keycard record)",
+    "Option B (Security Guard Sam – says he was on break, but the cameras show no movement)",
+    "Option C (Restorer Raj – keycard used at 1:48 pm and ultramarine pigment found)",
+    "Option D (Visitor Vera – was across the street, no access to staff areas)"
   ],
-  "correctIndex": 0,
-  "deductionExplanation": "The booth was soundproof with heavy triple-pane acoustic glass. It is physically impossible to hear a human voice from inside the booth without an active monitor channel. Greg claiming he 'heard her scream' gave away that he staged the panic to rush in and swipe the dropped necklace!"
+  "correctIndex": 2,
+  "deductionExplanation": "The hallway lights were off, so only staff could enter. The keycard log shows Restorer Raj swiped his card at 1:48 pm, just before the case was opened at 1:50 pm. The only forensic trace is a smear of ultramarine pigment, which is stocked solely in Raj's restoration kit. Neither Claire, Sam, nor Vera had access to that pigment or a keycard. Therefore, Raj is indisputably the culprit.",
+  "caseNumber": 3,
+  "id": "case_3"
 }

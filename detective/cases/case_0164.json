@@ -1,0 +1,20 @@
+{
+  "title": "The Midnight Arsonist",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "In the quiet town of Pinewood, a horrifying crime unfolded when a local businessman, Mr. Burnett, was found dead in his antique store at midnight. The store, filled with priceless artifacts, was engulfed in flames, suggesting the crime was preceded by an arson attack. The town's residents and curious investigators alike find themselves caught in a web of intrigue.",
+  "victim": "Mr. Burnett, a local businessman and antique dealer",
+  "crimeScene": "Amidst the smoldering ruins of Mr. Burnett's antique store.",
+  "forensicClue": "A single fingerprint found on the burned wooden door.",
+  "question": "Who is the culprit and how did they leave that fingerprint? ",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The fingerprints found on the door matched those of Mrs. Emily, as her signature print was unique. Additionally, she had a longstanding jealousy over her father's sudden will changes which led to a heated argument at the town square hours before the crime. The antique shop's fire started around midnight, coinciding with Mrs. Emily's routine midnight river walk.",
+  "caseNumber": 164,
+  "id": "case_164"
+}

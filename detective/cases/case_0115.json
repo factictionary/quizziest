@@ -1,0 +1,19 @@
+{
+  "title": "The Hacker Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Expert",
+  "story": "In the world-renowned tech startup, 'CyberByte Solutions', a mysterious series of events led to the abrupt theft of their most valuable intellectual property - a groundbreaking artificial intelligence algorithm. The CEO, Thomas Lukas, has fallen prey to a cunning cybercrime, and the clock is ticking as the culprit remains elusive.",
+  "victim": "Thomas Lukas, CEO of CyberByte Solutions",
+  "crimeScene": "CyberByte Solutions HQ - a futuristic digital fortress with cutting-edge security systems",
+  "forensicClue": "A discrepancy in the AI algorithm's coding history (modified at 23:47 on the night of the theft)",
+  "question": "Who is responsible for the AI algorithm theft and how was the crime committed?",
+  "options": [
+    "Option A: Kira, the AI developer and motive: jealousy due to John's promotion; time of theft: matches her last login; reason: Her expertise and access",
+    "Option B: John, the AI architect and motive: financial gain; time of theft: matches his login; reason: Insider knowledge",
+    "Option C: Maria, the cybersecurity specialist and motive: revenge; time of theft: pre-dates all logins; reason: Abnormal network traffic",
+    "Option D: Nicholas, the data analyst and motive: corporate espionage; time of theft: post-dates all logins; reason: Anomalous data export"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 115,
+  "id": "case_115"
+}

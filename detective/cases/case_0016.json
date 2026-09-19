@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Stain at the Gallery",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "Renowned art dealer Victor Hale was found dead on the polished marble floor of the Crescent Gallery at 11:12 pm, his wristwatch frozen at 10:45 pm. The autopsy reports a fatal blunt‑force injury to the back of his head, a fresh coffee stain on his upper lip, and a smear of dark lipstick—Crimson Velvet—on his left cheek. Four people were present that night:\n\n1. **Lena, the gallery curator** – \"I was arranging the new exhibit until 10:30 pm, then I stepped out for a breath of fresh air. I never entered the main hall again.\"\n2. **Nina, the security guard** – \"My 30‑minute break started at 10:00 pm. I was in the staff lounge until 10:30 pm, then I returned to my post.\"\n3. **Marco, the barista from the on‑site café** – \"Victor ordered a double espresso at 10:40 pm. I handed it to him and left the bar at 10:45 pm.\"\n4. **Priya, the night‑time cleaning crew member** – \"I began my sweep at 10:50 pm after the café closed. I didn’t see anyone else in the gallery.\"\n\nThe café’s transaction log shows the espresso was actually brewed at 10:55 pm, five minutes after Marco claimed to have served it. Moreover, the coffee stain on Victor’s lip is still wet, meaning the drink was consumed after the fatal blow. The only person whose alibi places them in the gallery after 10:55 pm is Nina, whose badge swipe record shows she re‑entered the main hall at 10:58 pm, contradicting her statement about the break.",
+  "victim": "Victor Hale",
+  "crimeScene": "Crescent Gallery, main exhibition hall with marble floor and on‑site café",
+  "forensicClue": "A still‑wet coffee stain on the victim’s lip indicates he was alive after the espresso was brewed at 10:55 pm.",
+  "question": "Who is the culprit and how was the crime solved?",
+  "options": [
+    "Option A (Lena – she claims to have left early, but no evidence places her after the coffee was brewed)",
+    "Option B (Nina – her badge swipe shows she entered the hall at 10:58 pm, contradicting her break alibi)",
+    "Option C (Marco – he says he served the espresso at 10:40 pm, but the log proves it was brewed at 10:55 pm)",
+    "Option D (Priya – she started cleaning after 10:50 pm, but no coffee was served then)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The coffee stain is still wet, meaning Victor was alive after the espresso was made. The café log proves the espresso was brewed at 10:55 pm, not 10:40 pm as Marco claimed, so Marco could not have served it earlier. Nina’s badge record shows she re‑entered the main hall at 10:58 pm, exactly after the espresso was brewed, placing her at the scene when the fatal blow could have been delivered. Her alibi of a 30‑minute break ending at 10:30 pm is false, making her the only suspect whose timeline matches the forensic evidence.",
+  "caseNumber": 16,
+  "id": "case_16"
+}

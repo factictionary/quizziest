@@ -1,0 +1,20 @@
+{
+  "title": "The Enigmatic Piano Case",
+  "category": "Locked Room Mystery",
+  "difficulty": "Hard",
+  "story": "On the night of a swanky jazz party, the renowned pianist, Jonathan Blackwood, found dead in his locked study. The door was securely shut from the inside, leaving no trace of forced entry. As the guests mingled and the music filled the house, the seemingly inconsequential secrets of the suspects began to unfold.",
+  "victim": "Jonathan Blackwood - A Pianist",
+  "crimeScene": "The study is a dimly lit room with a grand piano as the centerpiece. A vintage keyboard sits beside the locked door, covered in dried blood.",
+  "forensicClue": "The bloodstains on the grand piano's digital key 'E'",
+  "question": "Who committed the crime and how was the piano key involved?",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The motive behind the crime points to Suspect 1, as they were known to have a grudge against Blackwood due to a failed musical collaboration. The bloodstains on the digital key 'E' represent the key that triggered the piano's self-destruct mechanism, activated moments before the police arrived. The locked door eliminates the possibility of an intruder. Investigation reveals that Suspect 1 had the means, motive, and opportunity to commit the crime. But who pressed the self-destruct key? This leads to Suspect 3, who was famously known for his exceptional piano skills and had the know-how to bypass the door lock. The motive lies in the rivalry over a prestigious music competition.",
+  "caseNumber": 285,
+  "id": "case_285"
+}

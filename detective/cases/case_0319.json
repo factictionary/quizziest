@@ -1,0 +1,31 @@
+{
+  "title": "Whodunnit at the Masquerade Ball",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "On a dark and stormy night, the wealthy businessman John Smith was found dead in his penthouse office. John was known for his numerous business deals and rivalries among his colleagues. The lavish masquerade ball hosted at his palace was in full swing when the murder occurred.",
+  "victim": "John Smith - wealthy businessman",
+  "crimeScene": "A sprawling mansion on Park Avenue, the victim's extravagant penthouse office was dimly lit, with a shattered vase on the floor and a bloody knife nearby.",
+  "forensicClue": "The murder weapon - A long, silver-handled dagger with a unique engraving of a crescent moon.",
+  "question": "Who murdered John Smith and how did they escape? Unravel the alibis and find the cunning killer.",
+  "options": [
+    "Option A (Suspect 1 and alibi)",
+    "Option B (Suspect 2 and alibi)",
+    "Option C (Suspect 3 and alibi)",
+    "Option D (Suspect 4 and alibi)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "During the investigation, we discover a discrepancy in Suspect 3's alibi. Upon probing further, we uncover that they were seen exiting the ballroom with a limp, consistent with having committed the murder.",
+  "correctAnswer": "Option C (Suspect 3 and the alibi)",
+  "clues": [
+    {
+      "description": "The ballroom was crowded during the crucial time of the murder, and several witnesses confirm seeing Suspect 3 limping outside.",
+      "index": 1
+    },
+    {
+      "description": "One of the guests noticed a distinct crescent moon engraving on the murder weapon. This matches the mask John Smith was wearing at the ball. Only Suspect 3 wore a mask similar to John's.",
+      "index": 2
+    }
+  ],
+  "caseNumber": 319,
+  "id": "case_319"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Dream Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the glamorous city of Shimmerville, a dazzling event was about to take place at the prestigious Diamond Ball. The night was abuzz with anticipation until the shocking discovery: the priceless Moonlight Diamond was stolen from the grand display case at the ball's entrance. The gleaming gemstone, worth an astronomical $500 million, was the centerpiece of the event, ensuring an unforgettable tragedy for the ball organizers.",
+  "victim": "Victim: Ball Organizer, Mr. Gleam",
+  "crimeScene": "The crime scene was a grand ballroom at the Diamond Ball, adorned with glistening chandeliers and an opulent dance floor. The display case, a gleaming masterpiece itself, was carefully sealed by security personnel to prevent unauthorized access. The Moonlight Diamond was on full view within the locked case.",
+  "forensicClue": "The DNA of 'Blue', a notorious thief and expert forger, was found on a ventilation duct near the display case.",
+  "question": "Who is the culprit and how did they bypass security to commit the crime? ",
+  "options": [
+    "Option A: Mr. Shimmer, the ball's co-founder and forger, and reason: Security footage shows a figure in a red trench coat mimicking Mr. Shimmer's walk and mannerisms.",
+    "Option B: Ms. Sparkle, the event planner, and reason: The digital fingerprint left behind at the scene matches hers.",
+    "Option C: Mr. Glint, the security chief, and reason: Security camera C64 shows a sudden power surge just before the crime, possibly an inside job.",
+    "Option D: Mr. Radiance, the illusionist, and reason: His stage trickery could have easily misled the security measures and left a DNA sample behind"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "In the intricate world of Shimmerville's glitz and glamour, it's crucial to look beyond the surface. Upon closer examination, we find a hidden clue: Mr. Radiance, the illusionist, possesses the skills required to execute a heist like this, leaving a DNA sample behind that just barely escapes detection. His stage trickery could have easily fooled the security measures, and thus, he is our mastermind behind the Moonlight Diamond heist.",
+  "caseNumber": 131,
+  "id": "case_131"
+}

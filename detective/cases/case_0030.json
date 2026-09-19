@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Toxin in the Morgue",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Medium",
+  "story": "Dr. Elena Marquez, the chief forensic pathologist at Riverside County Medical Examiner's Office, was found slumped over the autopsy table at 22:17, a single puncture wound in her left wrist and a faint metallic smell lingering in the air. The refrigeration unit logged that her body was placed in the cold storage at exactly 22:15, and the preliminary toxicology report noted traces of a rare neurotoxin that normally degrades completely within 20 minutes at 4 °C. Yet the toxin was still fully detectable, meaning it must have been introduced after the body was already chilled.\n\nWhen the detectives interviewed the night staff, each gave a solid alibi: Janice, the night‑shift nurse, said she was on a scheduled break from 22:00 to 22:30 and returned to the morgue at 22:31; Victor, the lab technician, claimed he locked the toxic‑substance cabinet at 22:05 and never entered the morgue after that; Detective Ruiz remembered arriving at the morgue at 22:45 to take over the case; and Dr. Patel, a fellow pathologist, insisted he left the lab at 21:55 and never stepped inside the morgue that night. The only person who could have accessed the refrigerated body after 22:15 was Janice, who was the only staff member on duty once her break ended, and she had earlier mentioned borrowing a vial of the same neurotoxin from her husband, a herpetologist, for a personal experiment.",
+  "victim": "Dr. Elena Marquez",
+  "crimeScene": "Riverside County Medical Examiner's morgue, night shift",
+  "forensicClue": "The neurotoxin detected degrades at 4 °C within 20 minutes, yet it was still present, proving it was applied after the body was refrigerated at 22:15.",
+  "question": "Who is the culprit and how was the crime solved?",
+  "options": [
+    "Option A (Victor, the lab technician – he claims to have locked the cabinet early, but the toxin's presence after refrigeration proves he couldn't have applied it).",
+    "Option B (Detective Ruiz – arrived too late to have placed the toxin).",
+    "Option C (Janice, the night‑shift nurse – she was the only person with post‑break access to the refrigerated body and possessed the toxin).",
+    "Option D (Dr. Patel – left the lab before the body was stored and never entered the morgue)."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The toxin's chemical property is the key: it disappears within 20 minutes at morgue temperature. The body was refrigerated at 22:15, yet the toxin remained, meaning it was introduced after that time. Janice is the only suspect who was present in the morgue after 22:15 (her break ended at 22:31) and she had access to the same neurotoxin from her husband. All other alibis place the suspects either before the refrigeration or after the toxin would have degraded, making them impossible perpetrators. Therefore, Janice is indisputably the murderer.",
+  "caseNumber": 30,
+  "id": "case_30"
+}

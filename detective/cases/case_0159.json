@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Handshake",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In the dimly lit alley behind the old Theater of Shadows, a gruesome find shattered the quiet night. Detective John discovered the body of acclaimed actor, Emile de Ravin, lying in a pool of blood. The distraught theater manager, Ms. Lydia Ross, stated she last saw Emile entering the theater after a late-night rehearsal.",
+  "victim": "Emile de Ravin, acclaimed actor",
+  "crimeScene": "Dark alley behind Theater of Shadows",
+  "forensicClue": "The murderer wore a distinctive left-handed glove, leaving a unique DNA profile.",
+  "question": "Who killed Emile de Ravin and why?",
+  "options": [
+    "Option A (Suspect 1 and reason): The bitter rival, theater critic, Mr. Thomas Blackwood, had years of enmity towards Emile over their on-stage conflict.",
+    "Option B (Suspect 2 and reason): The desperate costume designer, Ms. Ava Wilson, who recently lost her job to Emile, sought revenge.",
+    "Option C (Suspect 3 and reason): The enigmatic and jealous set designer, Mr. Isaac Fox, had a motive due to Emile stealing his award-winning set design.",
+    "Option D (Suspect 4 and reason): The mysterious and long-time friend, Ms. Maya Patel, who had a secret motive related to the theater production."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Through interviews, Detective John discovered that all suspects had valid reasons to commit the crime. However, the distinctive left-handed DNA found at the scene could only belong to Ms. Maya Patel, who wore gloves during their last meeting discussing theater secrets the night before the murder.",
+  "caseNumber": 159,
+  "id": "case_159"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Isolated Inheritance",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "Lord Harrington, a wealthy and reclusive aristocrat, was found dead in his mansion's study. The heavy oak door was locked from the inside and the sole window was sealed shut. A single bullet wound to the chest marked the fatal shot, and the key lay on the floor beside the body. On the desk a steaming cup of coffee sat untouched, its surface pristine with no fingerprints.\n\nFour people were present in the house that night. James, the victim's nephew and heir, claimed he was asleep in his room when the shot rang out. Emma, the long‑serving butler, said she was in the kitchen preparing dinner. Dr. Lee, a family friend and physician, insisted he was in his office writing a prescription. Sarah, a journalist probing the family's affairs, maintained she was strolling in the garden. Each rushed to the locked study and found the door bolted from the inside, seeing no one else.",
+  "victim": "Lord Harrington",
+  "crimeScene": "The mansion's locked study",
+  "forensicClue": "The coffee cup on the desk was hot but bore no fingerprints, despite Emma stating she had delivered it an hour earlier.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Option A (James – the disgruntled nephew with a motive)",
+    "Option B (Emma – the butler who claimed to have delivered the coffee)",
+    "Option C (Dr. Lee – the physician who was nearby)",
+    "Option D (Sarah – the journalist with a hidden agenda)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "Emma is the only suspect who could have placed the fingerprint‑free coffee on the desk. She said she brought the coffee to Lord Harrington, yet the cup shows no prints, indicating it was wiped clean after the murder. The locked‑room setup means the shooter had to be inside; Emma was the only person with access to the study and the means to manipulate the evidence, making her the indisputable culprit.",
+  "caseNumber": 51,
+  "id": "case_51"
+}

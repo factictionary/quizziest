@@ -1,0 +1,17 @@
+{
+  "title": "The Hacktivist Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In the bustling city of Silicon Valley, our crime takes place at the prestigious tech startup, 'BitWise.' While working on a new AI assistant prototype, they discovered a massive data breach. The highly sensitive information of their clients, including personal data, financial details, and project plans, had been leaked online.\n\nCrime Scene: The server room of BitWise.\nVictim: BitWise IT team.\nCrime: Massive Data Leak\n\nSuspect 1: Alice - AI assistant developer\nSuspect 2: Bob - cybersecurity analyst\nSuspect 3: Charlotte - marketing executive\nSuspect 4: Dave - head of IT department\n\nTestimonies:\n1. Alice: 'I needed test data for my AI assistant project.'\n2. Bob: 'Our fortified network was breached, but I can't say who did it.'\n3. Charlotte: 'I had no clue about the server room! I only visit once a week for marketing meetings.'\n4. Dave: 'Dave, the head of IT, was the last one to access the server room before the leak.'",
+  "forensicClue": "An unapproved AI assistant development project.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Alice - AI development project and forensic clue)",
+    "Option B (Dave - last accessed and forensic clue)",
+    "Option C (Bob - network breach and forensic clue)",
+    "Option D (Charlotte - meeting schedule and forensic clue)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 110,
+  "id": "case_110"
+}

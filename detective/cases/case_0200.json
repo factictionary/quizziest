@@ -1,0 +1,20 @@
+{
+  "title": "Tainted Tea Tangle",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In the serene countryside town of Willowbrook, a peculiar event occurred when a group of friends gathered at the fanciful Lavender House for a potluck tea party. Just as they settled down for their afternoon repast, Mrs. Marigold, the hostess, poured each guest a glass of homemade lemonade. Minutes later, the company found themselves utterly befuddled, each unable to recall what they consumed. The elusive culprit has skillfully poisoned the lemonade.",
+  "victim": "Guests at the Lavender House potluck tea party",
+  "crimeScene": "The Lavender House",
+  "forensicClue": "The absence of any visible poison residue on the glasses.",
+  "question": "Who poisoned the lemonade and why?",
+  "options": [
+    "Option A: Mr. Poppy (Reason: Suspicion due to a past grudge involving Mrs. Marigold)",
+    "Option B: Miss Chamomile (Reason: Disagreement over flower arrangements before the party)",
+    "Option C: Mrs. Marigold (Reason: An anonymous note left at the scene)",
+    "Option D: Mr. Violet (Reason: Discovering a stolen rare herb from the kitchen)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "During the investigation, we find a mysterious note left at the crime scene accusing Mrs. Marigold of poisoning the party. Initially, suspicion falls on her. However, upon further examination, guests recall none of them had a disagreement regarding the food or drinks, eliminating Mrs. Marigold as the culprit. The real challenge lies within the motive: Mr. Poppy harbors a longstanding grudge against Mrs. Marigold. With no evidence connecting the other suspects, the most logical deduction points to Mr. Poppy as the poisoner due to his motive.",
+  "caseNumber": 200,
+  "id": "case_200"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Codebreaker's Caper",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "In a bustling tech hub, our detective finds himself on the trail of a coder extraordinaire who orchestrated a cyber heist. It began when tech mogul, Sarah Wilde, ace coder and owner of WildeTech, discovered a breach that resulted in the theft of her most confidential client data. This data, revealed to be from renowned AI start-up, CyberNexus, had been stolen by someone within her own tight-knit team. Our detective's task is to identify the culprit and recover the stolen data with the help of four suspects: Paul, Emily, John, and Lucas.",
+  "victim": "Sarah Wilde, CEO of WildeTech",
+  "crimeScene": "An extensive network of servers at WildeTech, with CyberNexus data traces",
+  "forensicClue": "The presence of the AI-specific programming language, LuminScript, at the crime scene",
+  "question": "Who is the mastermind behind the AI data theft? How did the detective solve the case?",
+  "options": [
+    "Option A (Paul and the motive)",
+    "Option B (Emily and the opportunity)",
+    "Option C (John and the alibi)",
+    "Option D (Lucas and the forensic clue)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 219,
+  "id": "case_219"
+}

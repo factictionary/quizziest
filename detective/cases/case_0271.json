@@ -1,0 +1,19 @@
+{
+  "title": "Whodunit: The Vanishing Vintner",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In a quaint town of Berryville, resided a wealthy and kind-hearted wine tycoon, Mr. Aubrey Winston. Late one moonlit night, the police received a frantic call from Mrs. Winston, the victim's wife, stating her husband hadn't returned from his late-night walk. Upon investigation, they discovered Mr. Winston's lifeless body lying in the vineyard. His watch, still ticking, showed 11:15 PM, precisely the time he left home.",
+  "victim": "Mr. Aubrey Winston (Wine Tycoon)",
+  "crimeScene": "The lonely vineyard",
+  "forensicClue": "A peculiar grape stain on the victim's coat",
+  "question": "Who killed Mr. Aubrey Winston and why?",
+  "options": [
+    "Option A (Mrs. Winston and revenge)",
+    "Option B (Envious neighbor and jealousy)",
+    "Option C (The accountant and embezzlement)",
+    "Option D (The winemaker and a grudge)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 271,
+  "id": "case_271"
+}

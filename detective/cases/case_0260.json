@@ -1,0 +1,21 @@
+{
+  "title": "Shadows of the Midnight Heist",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "In the shadows of the enigmatic warehouse district, a heist went horribly wrong. Late one moonlit night, the renowned diamond merchant, Mr. Cresswell, vanished without a trace after securing a consignment of rare gems. His trusted employee, Ms. Thompson, was the last seen with him before the incident. The warehouse door had been forcibly breached, indicating a الداخل job.",
+  "victim": "Mr. Cresswell, the diamond merchant",
+  "crimeScene": "The dimly lit warehouse, with the broken warehouse door and scattered gem fragments.",
+  "forensicClue": "The peculiar footprints left at the scene; a unique combination of regular and irregular treads.",
+  "question": "Who stole Mr. Cresswell and why did they leave peculiar footprints? ",
+  "options": [
+    "Option A (Ms. Thompson and the motive): A power struggle within the company; she wanted to seize control and the stolen jewels as evidence.",
+    "Option B (Mr. Jenkins and the motive): Jealousy over a promotion; he believed Mr. Cresswell favored Ms. Thompson.",
+    "Option C (Mr. Brown and the motive): Financial distress; he desperately needed the jewels to settle a bet with Mr. Black.",
+    "Option D (Mr. Black and the motive): A mysterious competitor; he sought to sabotage the company and acquire the jewels for his own venture."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The peculiar footprints at the scene point towards Mr. Black's involvement. His motive (to sabotage the company) aligns with the motive of the mysterious competitor (Option D), but his unique footprints reveal a hidden intention: he wore rubber soled shoes to leave no print while entering, then switched to his regular shoes to commit the crime, leaving the peculiar footprints behind when leaving.",
+  "alibi": "Mr. Black's alibi (Option D) was substantiated by a reliable witness confirming his presence at a secret business meeting with a rival company at the time of the crime.",
+  "caseNumber": 260,
+  "id": "case_260"
+}

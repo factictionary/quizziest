@@ -1,0 +1,19 @@
+{
+  "title": "The Clandestine Venom Vendetta",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the quiet, well-to-do neighborhood of Ashwood, a stark tragedy unfolded. The wealthy and mysterious Reikart Industries' CEO, Sebastian Blackwood, was found poisoned to death in his lavish study late last night. As the sun rose over the opulent mansion, Detective Jane Doe reopened an old case marked as unsolved – The Ashwood Assassination. The suspects were tight-lipped, each harboring secrets and grudges.",
+  "victim": "Sebastian Blackwood, CEO of Reikart Industries",
+  "crimeScene": "His opulent study, adorned with priceless artifacts and books, an antique writing desk, and an expansive window overlooking the sunrise.",
+  "forensicClue": "An unidentified sedative residue was discovered on the antique writing desk.",
+  "question": "Who poisoned Sebastian Blackwood and how was the toxin discovered? ",
+  "options": [
+    "Option A: Edison Darrow (personal rival and former employee), poisoned the antique writing desk.",
+    "Option B: Lady Adelaide (neighbor and vendetta), used the expansive window to toss the poisoned note.",
+    "Option C: Dr. Thornton (private investigator hired by Sebastian), had a motive due to unpaid debts, and left a poisoned cup on the desk.",
+    "Option D: Sir Reginald (business partner and beneficiary), wanted Sebastian dead but had no motive or means to poison the desk."
+  ],
+  "correctIndex": 3,
+  "caseNumber": 210,
+  "id": "case_210"
+}

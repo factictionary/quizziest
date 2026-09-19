@@ -1,0 +1,20 @@
+{
+  "title": "Midnight in the Whitmore Library",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Expert",
+  "story": "Reginald Whitmore, the reclusive magnate of Whitmore Steel, was found slumped over his mahogany desk in the manor's library at 9:15 PM, a single knife wound to the back of his neck. The room was locked from the inside, the only window sealed, and a half‑burned lavender candle still flickered on the mantel. Four people were present in the house that night: Amelia Hart, the longtime housekeeper; Dr. Victor Reed, Whitmore’s personal physician; Lionel Black, his business partner; and Clara Finch, his estranged niece.\n\nAmelia testified that she was polishing the silverware in the kitchen from 8:30 to 9:00, then retired to her quarters. Dr. Reed claimed he was reviewing Whitmore’s medical records in the study until 9:20. Lionel insisted he was tending the garden, noting the roses were at their peak bloom. Clara said she was in the drawing‑room, sketching, and only stepped into the library at 9:05 to fetch a book. Yet the motion‑sensor log shows the kitchen door remained closed after 8:45, while the library’s floor sensor recorded a size‑9 women’s shoe tread entering at 8:55 – a shoe only Amelia owned, fitted with a custom lavender‑infused orchid cleaning spray. A single orchid petal and a faint lavender scent were recovered from the victim’s collar, confirming the presence of Amelia’s unique cleaning mixture.",
+  "victim": "Reginald Whitmore",
+  "crimeScene": "Whitmore Manor Library, a locked room with a half‑burned lavender candle on the mantel",
+  "forensicClue": "A size‑9 women’s shoe tread and a lavender‑scented orchid petal found on the victim, matching Amelia Hart’s exclusive cleaning spray",
+  "question": "Who is the culprit and how did the detective solve the case?",
+  "options": [
+    "Option A (Dr. Victor Reed – he was the last to see Whitmore alive)",
+    "Option B (Lionel Black – he claimed to be in the garden during the murder)",
+    "Option C (Amelia Hart – her unique lavender‑orchid cleaning spray and shoe tread were found on the victim)",
+    "Option D (Clara Finch – she entered the library shortly before the body was discovered)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The decisive evidence is the forensic clue: only Amelia Hart uses a lavender‑infused orchid cleaning spray, and the only size‑9 women’s shoe tread in the house belongs to her custom orthopaedic shoe. The motion‑sensor log places her in the library at 8:55, contradicting her claim of being in the kitchen. None of the other suspects have access to the lavender‑orchid mixture or the matching shoe tread. Therefore, Amelia Hart is indisputably the murderer.",
+  "caseNumber": 24,
+  "id": "case_24"
+}

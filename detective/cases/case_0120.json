@@ -1,0 +1,28 @@
+{
+  "title": "The Enigmatic Study Shuffle",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the prestigious Thorton Manor, a distinguished barrister named Sir Reginald Thorton had passed away in his study under mysterious circumstances.\n\nThe room was locked from the inside, leaving no possible escape for Sir Reginald. Among the four individuals present during the last hours before the incident, three witnesses provided their accounts:\n\n1. Lady Amelia Thorton (Sir Reginald's wife): 'I received a phone call at 9 PM, leaving the study briefly. Upon returning, I noticed the door locked and Sir Reginald lying on the floor.'",
+  "2. Mr. Augustus Raven (a close friend)": "I had an intense discussion with Sir Reginald about a sensitive matter until 10 PM. Afterward, I attempted to enter the study but found the door locked from the inside.",
+  "3. Miss Lily Bentwood (personal assistant)": "At 10:30 PM, I arrived at Thorton Manor to assist Sir Reginald with his paperwork. I recall locking the study door briefly around 10:15 PM when I stepped away to answer a phone call.",
+  "4. Detective Mortimer (the investigating officer)": "Upon examining the study, we discovered a peculiar shuffle of papers on Sir Reginald's desk.",
+  "crimeScene": "The study was a small room filled with antique furniture, shelves of legal documents, and a large wooden desk. The body of Sir Reginald was found near the desk, with a fatal blow to the back of his head.",
+  "forensicClue": "The shuffle of papers on the study desk.",
+  "question": "Who committed the crime and how?",
+  "options": [
+    "Option A (Lady Amelia): 'While leaving the study for a phone call, Lady Amelia locked the door, leaving no alternative suspect. The shuffle of papers points to manipulation after the door was locked.'",
+    "Option B (Mr. Augustus): 'Mr. Augustus had the motive and opportunity to strike Sir Reginald upon returning from the discussion. The shuffle of papers supports an alibi check.'",
+    "Option C (Miss Lily): ",
+    "Miss Lily made a phone call while locking the door",
+    "creating an alibi. The shuffle of papers suggests tampering after her return.",
+    "Option D (Detective Mortimer): 'The door was locked from the inside at the time of the crime. Upon examining the shuffle of papers, it is evident that it occurred before the alleged alibis were set (Lady Amelia at 9 PM, Mr. Augustus at 10 PM, and Miss Lily at 10:15 PM). The culprit must have been in the room since all exits were sealed after the alibis were set.'",
+    "correctIndex",
+    ": 0",
+    "answer",
+    ":",
+    "Lady Amelia was the one who tampered with the papers, allowing Mr. Augustus to enter the room after 10 PM when his alibi was set, leaving no other suspect. The shuffle of papers points to manipulation after the alibis were established. The door was locked from the inside at the time of the crime. The culprit had to be in the room since all exits were sealed after the alibis were set."
+  ],
+  "correctIndex": 0,
+  "caseNumber": 120,
+  "id": "case_120"
+}

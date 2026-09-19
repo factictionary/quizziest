@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Brew at The Velvet Note",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "At 10:45 p.m., the owner of the downtown jazz club The Velvet Note, Jasper Monroe, was found dead behind the bar, a single stab wound to the heart. The club’s doors were locked at 11:00 p.m., and the only witnesses were the night staff. Lena, the club’s sultry singer, insists she sang her set until 10:30 p.m. and then retreated backstage to change costumes. Victor, the bartender, claims he was polishing glasses from 10:40 p.m. onward, never leaving the bar. Mara, a friend of the victim who was off‑duty, says she was in the alley fixing a broken streetlamp at 10:50 p.m. Eddie, the pianist, says his final song ended at 10:40 p.m.; he slipped out the back door to grab a nightcap.  \n\nA forensic sweep uncovered a single, still‑warm drop of espresso on Jasper’s shirt, indicating he’d been served coffee within minutes of his death. The club’s espresso machine had been shut down for cleaning at 10:20 p.m. and could only be re‑activated with a key‑card that only Lena and Victor possessed. Security footage shows the back door opening at 10:38 p.m. by someone wearing a bartender’s apron—Victor’s apron was later found missing. Victor’s alibi collapses when the temperature of the coffee is measured at 58 °C, a temperature only possible if the espresso was pulled at 10:42 p.m., a time Victor claimed he was polishing glasses.",
+  "victim": "Jasper Monroe",
+  "crimeScene": "The Velvet Note jazz club, downtown, behind the bar area",
+  "forensicClue": "A warm espresso drop on the victim’s shirt, matching a coffee pulled at 10:42 p.m. after the machine was supposedly off",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Lena – she was on stage and had the key‑card, but her timeline ends at 10:30)",
+    "Option B (Victor – his claim of polishing glasses conflicts with the fresh coffee and missing apron)",
+    "Option C (Mara – she was in the alley at 10:50, after the murder occurred)",
+    "Option D (Eddie – he left through the back door at 10:38, but had no access to the espresso machine)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The decisive clue is the warm espresso drop. The espresso machine was off after 10:20 and could only be turned on with a key‑card held by Lena or Victor. Lena’s alibi ends at 10:30, so she could not have made coffee at 10:42. Victor says he was polishing glasses from 10:40, yet the coffee’s temperature indicates it was freshly brewed at 10:42, meaning Victor must have been at the machine, not the bar. The security camera shows the back door opened at 10:38 by someone in a bartender’s apron, and Victor’s apron is missing. All evidence points unequivocally to Victor, making him the murderer.",
+  "caseNumber": 25,
+  "id": "case_25"
+}

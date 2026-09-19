@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Star Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "At 3:07 PM on a rain‑slick Tuesday, the prized Midnight Star diamond vanished from the glass vault of the Metropolitan Art Museum, where Dr. Evelyn Hart, the chief curator, had just finished a private viewing. The vault’s alarm was triggered, but the security footage showed only a fleeting silhouette slipping through the side door before the doors sealed again. Four people were immediately questioned.\n\nMaya, Dr. Hart’s personal assistant, swore she was in the staff lounge arranging paperwork from 2:50 PM to 3:20 PM. Victor, the head of security, claimed he was on his scheduled lunch break from 2:45 PM to 3:15 PM, watching the museum’s live feed from the break room. Leon, a rival collector, insisted he was in a conference call with overseas buyers at exactly 3:00 PM, a fact his assistant could verify. Nina, a freelance journalist, said she was interviewing a donor in the museum’s café from 2:30 PM until after the theft.\n\nThe forensic team recovered a microscopic fragment of orchid pollen on the shattered glass of the display case. The only orchid of that species, *Cymbidium nocturnum*, is cultivated in the museum’s rooftop garden, which is locked and accessible solely with the security master key that Victor alone carries after hours. Moreover, the lobby’s entry logs show Victor’s badge swiped into the vault’s side door at 3:04 PM, contradicting his lunch‑break alibi.",
+  "victim": "Dr. Evelyn Hart",
+  "crimeScene": "Metropolitan Art Museum, glass vault on the second floor",
+  "forensicClue": "A fragment of rare orchid pollen found on the broken display case, traceable to the rooftop garden accessible only with the security master key.",
+  "question": "Who stole the Midnight Star diamond?",
+  "options": [
+    "Option A (Maya, her alibi is unverified but she had no access to the vault)",
+    "Option B (Victor, his lunch‑break alibi conflicts with badge logs and he holds the master key to the rooftop garden)",
+    "Option C (Leon, his conference call timing is confirmed but he lacks any key access)",
+    "Option D (Nina, she was interviewing a donor and was seen on CCTV away from the vault)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "1. The orchid pollen can only come from the rooftop garden, which is locked and requires the security master key. Only Victor possesses that key after hours. 2. Victor claimed to be on lunch break, yet the badge log shows his badge entered the vault side door at 3:04 PM, placing him at the scene during the theft window. 3. Maya, Leon, and Nina have no means to obtain the pollen or the master key, and their alibis are either verified (Leon’s call) or corroborated by CCTV (Nina). 4. The combination of the exclusive pollen source and the impossible alibi makes Victor the indisputable culprit.",
+  "caseNumber": 82,
+  "id": "case_82"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Shimmering Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the glittering cityscape, a high-stakes heist unfolded at the prestigious Carat & Gems auction house. The gleaming gem of the night, renowned diamond merchant Mr. Emir Samirov, was found shot in his office amidst a trail of priceless diamonds scattered on the floor. The door, with no signs of forced entry, led investigators to believe the crime was committed by someone with insider knowledge.\n\nVictim: Mr. Emir Samirov (Diamond Merchant)\nCrime Scene: Carat & Gems Auction House\nForensic Clue: A mysterious fingerprint on the murder weapon (a derringer)\n",
+  "question": "Who pulled the trigger and how did they gain access to the auction house?",
+  "options": [
+    "Option A: CEO Maria Rodriguez (Insider knowledge)",
+    "Option B: HR Manager Felix Cruz (Insider knowledge)",
+    "Option C: Vault Guard Mark Thompson (Unique motive)",
+    "Option D: Curator Olivia Miller (Insider knowledge) and her connection to the murder weapon"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The derringer with the mysterious fingerprint contains a piece of critical evidence linking to a suspect with insider knowledge, narrowing the suspects down to Options A, B, C, and D. The unique motive of Option C and the connection to the murder weapon in Option D point to Curator Olivia Miller. Further investigation reveals a shocking correlation between Olivia's distress over a lost antique diamond and Mr. Samirov's possession of a rare and valuable diamond, sparking jealousy and motivation. Moreover, Olivia's distinctive tattoo shared by both her and the mysterious fingerprint on the murder weapon provides an indisputable connection. The question now becomes, 'Did Olivia Miller pull the trigger?'",
+  "caseNumber": 135,
+  "id": "case_135"
+}

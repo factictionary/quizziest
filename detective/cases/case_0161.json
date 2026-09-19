@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception at Tiffany & Co.",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "On a dimly lit night at the prestigious Tiffany & Co. jewelry store, we find a dashing but mysterious gentleman named Charles causing quite a stir. The store's manager, Mrs. Thompson, claims that a priceless diamond named 'The Starburst' worth millions has gone missing. The Starburst is an extraordinary 100-carat diamond, renowned for its mesmerizing blue hue.",
+  "victim": "Mrs. Thompson, the Tiffany & Co. store manager",
+  "crimeScene": "The dimly lit Tiffany & Co. store, with The Starburst diamond missing from its display case.",
+  "forensicClue": "A peculiar handwriting sample found on a notepad near the display case.",
+  "question": "Who is the culprit and what led to their discovery? ",
+  "options": [
+    "Option A (Charles and connection to 'The Starburst')",
+    "Option B (Suspect 2 and break-in method)",
+    "Option C (Suspect 3 and alibi)",
+    "Option D (Suspect 4 and incriminating object)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The culprit can be identified due to a peculiar handwriting sample found on a notepad near the display case. Charles, a charismatic gentleman with a connection to 'The Starburst', stands out as the most likely suspect.",
+  "caseNumber": 161,
+  "id": "case_161"
+}

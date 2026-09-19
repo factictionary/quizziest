@@ -1,0 +1,20 @@
+{
+  "title": "Crime at Twilight Books",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "In the quaint, little town of Oakwood, the sun was setting on a peaceful evening at Twilight Books, a well-loved independent bookstore. Owner Mr. Reginald Ashby was found murdered, brutally stabbed in the back. The store was in a hush as customers and staff members scattered around.",
+  "victim": "Mr. Reginald Ashby - Owner of Twilight Books",
+  "crimeScene": "The crime scene was dimly lit, with a single broken book shelf and a puddle of blood leading to the lifeless body of Mr. Ashby. Faint printing from a children's book, 'The Secret Garden', was found on the murder weapon.",
+  "forensicClue": "The murder weapon - a gardening tool with The Secret Garden print on it",
+  "question": "Who committed the crime and what clues point to them? ",
+  "options": [
+    "Option A (Matilda McLeod and motive)",
+    "Option B (Mr. Jenkins and connection)",
+    "Option C (Ms. Harper and opportunity)",
+    "Option D (Mr. Thompson and incriminating evidence)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The fatal stabbing took place in the back of the store, concealed by a shattered bookcase. Ms. Harper had the opportunity to commit the crime while rearranging books during the chaos. Finding gardening tool with 'The Secret Garden' print on it, which matches the weapon used, connects Ms. Harper to the crime. The broken bookcase creates an alibi-busting opportunity for further exploration.",
+  "caseNumber": 119,
+  "id": "case_119"
+}

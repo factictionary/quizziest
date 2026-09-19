@@ -1,0 +1,19 @@
+{
+  "title": "The Tenuous Venom Vendetta",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In the shadowed streets of Gritville, a peculiar poisoning incident unveiled. On a stormy night, the local art gallery's lighting abruptly failed during the opening reception. Suddenly, a victim stumbled, clutching their chest. They gasped, 'I was... undercut!' before collapsing. The gallery was engulfed in darkness, with the murky scent of putrid moonflowers lingering.",
+  "victim": "Local Artist Elsie Moonflower",
+  "crimeScene": "The dimly lit Gritville Art Gallery filled with putrid moonflowers.",
+  "forensicClue": "A single crimson mark on the deceased victim's wrist.",
+  "question": "Who perpetrated the poisoning and how was the crime solved? ",
+  "options": [
+    "Option A (Elsie Moonflower - 'The Poisoned Painter' and motive).",
+    "Option B (Aiden Shadows - 'The Envious Gallerist' and motive)",
+    "Option C (Dr. Quinella Gloom - 'The Mysterious Botanist' and alibi)",
+    "Option D (Luna Foggy - 'The Illusive Collector' and opportunity)"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 211,
+  "id": "case_211"
+}

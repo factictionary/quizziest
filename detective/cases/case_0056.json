@@ -1,0 +1,20 @@
+{
+  "title": "The Mysterious Death at Willowbrook Manor",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Medium",
+  "story": "Richard Langley, a wealthy businessman, was found dead in his study at Willowbrook Manor. The victim was discovered by his wife, Emma, who claimed she had gone to look for him after receiving a disturbing phone call. The local police were called, and upon investigation, they found Richard's body with a single bullet wound to the chest. The study showed no signs of forced entry or struggle. The suspects are: 1. Emma Langley (the victim's wife) – she said she was in the garden when she got the call. 2. James Parker (the victim's business partner) – he had a heated argument with Richard earlier that day over a merger. 3. Samantha Lee (the victim's personal assistant) – she appeared unusually nervous during questioning. 4. Thomas Brown (the victim's nephew) – known for a troubled past and seen arguing with Richard at a family gathering. Testimonies: - Emma Langley: \"I was in the garden from 9:00 AM to 10:00 AM. I received a call and then went to find Richard.\" - James Parker: \"I left Richard's office around 9:30 AM. I had no reason to go back.\" - Samantha Lee: \"I was at my desk from 9:00 AM to 10:00 AM. I didn't see or hear anything unusual.\" - Thomas Brown: \"I was out for a walk from 9:00 AM to 10:00 AM. I didn't see anyone in the study.\"",
+  "victim": "Richard Langley",
+  "crimeScene": "Willowbrook Manor study",
+  "forensicClue": "The bullet wound indicates a shot fired from about 10 feet. Security footage of the study has a 5‑minute gap between 9:20 AM and 9:25 AM, exactly when the murder must have occurred.",
+  "question": "Who is the culprit?",
+  "options": [
+    "James Parker (Argument and possible motive)",
+    "Thomas Brown (Troubled past and recent argument)",
+    "Emma Langley (Inconsistent alibi and opportunity)",
+    "Samantha Lee (Nervous behavior but no concrete link)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The forensic clue pins the time of death to the 9:20‑9:25 window, the only period when the security camera was off. Emma claimed she was continuously in the garden from 9:00 to 10:00, but the garden is a separate, uncovered area; she could not have disabled the indoor camera from there. Only someone with access to the study could have caused the recording gap. Emma, as the spouse, had a key and was the first to discover the body, giving her the opportunity to tamper with the camera before calling for help. Her alibi collapses under the timeline, making her the indisputable murderer.",
+  "caseNumber": 56,
+  "id": "case_56"
+}

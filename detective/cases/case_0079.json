@@ -1,0 +1,20 @@
+{
+  "title": "The Mysterious Death at the Mansion",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "Richard Langley, a wealthy businessman, was found dead in his mansion's study at 9:00 AM, his wife Emma discovering the scene. Four people gave statements: Emma Langley said she went for a morning walk from 7:00 AM to 8:00 AM and returned to find her husband dead. James Parker, the business partner, claimed he was at a coffee shop meeting from 8:00 AM to 10:00 AM. Sarah Lee, the personal assistant, insisted she was in her office from 7:00 AM to 9:00 AM, stepping out only briefly for coffee. Michael Brown, the caretaker, said he tended the garden from 7:00 AM to 9:00 AM. The autopsy placed the time of death between 7:30 AM and 8:30 AM, and a letter‑opener stained with blood was found nearby, bearing fingerprints from Emma and Sarah.",
+  "victim": "Richard Langley",
+  "crimeScene": "The study in Richard Langley's mansion",
+  "forensicClue": "Security footage shows Emma's car leaving the driveway at 7:45 AM, contradicting her claimed walk.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Emma Langley (her car left during the murder window, breaking her alibi)",
+    "James Parker (his alibi starts after the murder window)",
+    "Sarah Lee (her fingerprint is on the weapon but she has no motive)",
+    "Michael Brown (was in the garden, far from the study)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The autopsy narrows death to 7:30‑8:30 AM. Emma claimed to be walking from 7:00‑8:00 AM, but the security camera captured her car departing the mansion at 7:45 AM, meaning she left the premises during the murder window. Neither James, Sarah, nor Michael could have been in the study at that time based on their alibis. The fingerprint on the weapon is shared, but only Emma's timeline directly contradicts the forensic evidence, making her the indisputable culprit.",
+  "caseNumber": 79,
+  "id": "case_79"
+}

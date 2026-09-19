@@ -1,0 +1,21 @@
+{
+  "title": "Whodunnit in the Enigmatic Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "In the heart of the Gothic mansion, lies the opulent study. The room is adorned with antique furniture and an imposing mahogany door that locks from the inside. Late one night, esteemed Professor Lyman's lifeless body was discovered, slumped behind his grand cherrywood desk. An iron candlestick holder stood ominously by his side.",
+  "victim": "Professor Lyman",
+  "crimeScene": "A locked room.",
+  "forensicClue": "A singular footprint found outside the door, conspicuously missing a right shoe.",
+  "question": "Who committed the crime and how did they escape the locked room?",
+  "options": [
+    "Option A (Miss Adeline and method)",
+    "Option B (Mr. Victor and method)",
+    "Option C (Miss Belle and method)",
+    "Option D (Mr. Marcus and method)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "During the investigation, it is discovered that Miss Adeline confessed she suffers from a mysterious footwear mishap, often losing her right shoe. On closer examination, footprints outside the locked door reveal her distinct right-shoe absence. Mrs. Brown, the housekeeper, admits she noticed Miss Adeline struggling with her footwear just before the crime. The locked room has no apparent entrance or exit besides the locked door, presenting the puzzle of how the culprit escaped. The correct answer is deduced as Miss Adeline, given her unique foot issue and the method of escape: 'by using the doorknob as a crutch, she twisted the doorknob to unlock the door from the inside, revealing the room was not locked after all.'",
+  "solution": "The key to solving 'Who Dunnit?' lies in unraveling the clues: the locked room, the missing right shoe, and the peculiar doorknob discovery. Players must deduce the method of escape, narrowing the suspects down to four characters: Miss Adeline, Mr. Victor, Miss Belle, and Mr. Marcus. Upon examination, players uncover that Miss Adeline suffers from her mysterious right-shoe problem, and Mrs. Brown witnessed her struggling with her footwear before the crime. The room appeared locked, yet players eventually discover that Miss Adeline, with her unique foot issue, was able to twist the doorknob to unlock the room from the inside, revealing the room wasn't locked after all. The game's solution lies in connecting the dots between the locked room, the missing shoe clue, and the unexpected doorknob twist, ultimately leading to Miss Adeline as the culprit and her clever method of escape.",
+  "caseNumber": 276,
+  "id": "case_276"
+}

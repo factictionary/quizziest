@@ -1,0 +1,19 @@
+{
+  "title": "The Twisted Harvest Case",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In the quaint town of Millfield, an unexpected tragedy unfolded. Last seen, well-respected farmer, Elijah Blackwood, was huddled over a seemingly innocent harvest festival scene. Yet, his lifeless body was later discovered in the same location, with a peculiar symbol etched into the wooden floor. Against the backdrop of a somber autumn evening, four witnesses found themselves in the middle of the carnage.",
+  "victim": "Elijah Blackwood, age 65",
+  "crimeScene": "The bustling center of Millfield's harvest festival, amidst a sea of enthusiastic revellers.",
+  "forensicClue": "The symbol etched into the wooden floor; a mysterious spiral.",
+  "question": "Who committed the heinous act, and how did they manage to escape unnoticed amidst the chaos of the festival?",
+  "options": [
+    "Option A (Suspect 1: Cynthia, a quirky artist; reason: an obsession with ancient rituals)",
+    "Option B (Suspect 2: Gabriel, a disgruntled festival organizer; reason: motive to sabotage the event)",
+    "Option C (Suspect 3: Marcus, the town librarian; reason: knowledge of rare books and obscure rituals)",
+    "Option D (Suspect 4: Sarah, a young couple's counselor; reason: a cryptic note found near the body)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 301,
+  "id": "case_301"
+}

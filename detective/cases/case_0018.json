@@ -1,0 +1,20 @@
+{
+  "title": "Zero‑Day Heist in the Vault",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Expert",
+  "story": "At 02:07 UTC on March 15, the NovaBank underground data vault was found empty—its core ledger server wiped clean and a ransomware note plastered on the console. The victim, Lena Ortiz, the bank’s lead security engineer, was found unconscious in the server room, her biometric wristband still pulsing. Four employees were on site that night: Alex Chen, the senior network admin; Maya Lee, a junior developer who recently pushed a code update; Raj Patel, an external contractor who had delivered a prototype 3D‑printer for a pilot project; and Zoe Morales, the night‑shift security guard.\n\nAlex swears he was in a video‑conference meeting from 02:00‑02:30, a recording that shows his face and his screen. Maya claims she was debugging a sandbox environment in the adjacent lab, and the lab’s door log shows her badge entered at 02:05. Raj says he was in the maintenance bay, calibrating the new 3D‑printer, and the printer’s internal log records a print job from 01:58‑02:04. Zoe insists she was on patrol, checking the HVAC system at 02:12, when the power briefly flickered.\n\nForensic analysis uncovered a tiny fragment of polymer lodged in the server’s ventilation duct. Spectrographic testing matched the fragment to a PLA filament batch (code #B7‑42) that was only ever used by Raj’s 3D‑printer during the calibration run. Moreover, the vault’s biometric scanner logs show a fingerprint bypass at 02:06, but the only fingerprint on file for that clearance level belongs to Alex—yet the scanner’s firmware recorded a “synthetic fingerprint” flag, indicating a mold was used. The only person with both the means to create a perfect fingerprint mold and the specific filament is Raj.",
+  "victim": "Lena Ortiz, Lead Security Engineer at NovaBank",
+  "crimeScene": "NovaBank’s underground data vault – a high‑security server room with biometric locks and a ventilation system.",
+  "forensicClue": "A polymer fragment from the ventilation duct matches the PLA filament batch used exclusively by Raj’s 3D‑printer during his calibration run.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Alex Chen – he had the biometric clearance, but his alibi is backed by video evidence)",
+    "Option B (Maya Lee – she was in the lab at the time, but no direct link to the vault)",
+    "Option C (Raj Patel – the polymer fragment ties his 3D‑printer to the fingerprint mold used to bypass the scanner)",
+    "Option D (Zoe Morales – she was on patrol, yet the HVAC flicker doesn’t explain the breach)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The decisive clue is the polymer fragment. Spectrographic analysis links it to the PLA filament batch that only Raj’s 3D‑printer used during a calibration print recorded at 01:58‑02:04. The biometric log shows a synthetic fingerprint was used at 02:06, meaning someone created a mold of a valid fingerprint. Only Raj had both the equipment (the 3D‑printer capable of producing a high‑resolution mold) and the specific filament to do so. Alex’s biometric clearance is irrelevant because the scanner flagged a synthetic fingerprint, and his video‑conference alibi is solid. Maya’s lab badge entry does not connect to the vault, and Zoe’s patrol timing does not align with the power outage that disabled the scanners. Therefore, Raj Patel is indisputably the perpetrator.",
+  "caseNumber": 18,
+  "id": "case_18"
+}

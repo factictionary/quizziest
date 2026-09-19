@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Study Scream",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Renowned jeweler Armand Vale was found dead in his private study at the Bellview Manor, the door bolted from the inside and the only window sealed shut. The room was locked at 8:00 PM, and the housekeeper, Marta, discovered the body at 9:00 PM when she fetched a late‑night tea. Four people had legitimate reasons to be inside: Elena, Armand’s meticulous assistant; Victor, a rival collector who had been arguing over a missing sapphire; Leo, Armand’s estranged son; and Marta herself. Elena swears she handed Armand his key at 7:30 PM and left the study by 7:45 PM. Victor claims he departed at 8:00 PM after a heated discussion, but the manor’s badge scanner logs his entry at 8:15 PM. Leo says he was in the library all evening, and Marta insists she never entered the study after locking the door. A forensic sweep reveals a faint smear of “Orchid Noir” perfume—an exclusive scent sold only to Victor’s boutique—on the victim’s collar, and a single fresh coffee droplet on the desk, the only cup missing from Elena’s station. The locked door’s interior latch bears a partial fingerprint matching Victor’s right thumb, and the study’s grandfather clock, which should have struck twelve at midnight, stopped at 11:45, a fact only Victor, who tinkers with antique clocks, could explain.",
+  "victim": "Armand Vale",
+  "crimeScene": "Sealed study in Bellview Manor, door bolted from inside, windows sealed, antique grandfather clock on the wall.",
+  "forensicClue": "A faint smear of exclusive \"Orchid Noir\" perfume on the victim’s collar, a scent sold only to Victor’s boutique.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Elena the Assistant – she left the missing coffee cup)",
+    "Option B (Victor the Rival Collector – his exclusive perfume and fingerprint on the latch)",
+    "Option C (Marta the Housekeeper – she could have tampered with the clock)",
+    "Option D (Leo the Son – he had a motive over inheritance)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The decisive clue is the Orchid Noir perfume, a fragrance sold exclusively to Victor’s boutique, found on Armand’s collar. Victor’s fingerprint on the interior latch proves he touched the lock from inside, meaning he was in the room after it was supposedly sealed. Moreover, the badge scanner logs his entry at 8:15 PM, after the door was locked at 8:00 PM, contradicting his claim of leaving at 8:00 PM. The stopped clock is a red herring that only deepens suspicion on Victor, who is known to repair antique clocks. No other suspect had access to the perfume, nor did their fingerprints match the latch. Therefore, Victor is indisputably the murderer.",
+  "caseNumber": 31,
+  "id": "case_31"
+}

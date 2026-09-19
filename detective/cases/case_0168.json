@@ -1,0 +1,19 @@
+{
+  "title": "Whodunnit at the Masquerade Ball",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "On a moonlit night, the lavish Masquerade Ball at the opulent Omega Mansion hosted by esteemed socialite, Lady Sybil, unfolded with masked guests indulging in festivities. Suddenly, a thunderous crash interrupted the revelry. Guests rushed to discover the priceless art collection of the mansion had been ransacked, and the masterpiece 'The Eternal Dance' was stolen.",
+  "victim": "The wealthy art collector, Mr. Leo Drake, the owner of the stolen painting.",
+  "crimeScene": "Amidst the ornate Omega Mansion, the ballroom displays an array of masks and bustling guests. The obsidian chandelier above the dance floor shines upon the broken remains of the exquisite Crystal Cascade sculpture.",
+  "forensicClue": "The partial DNA sample found on the broken sculpture matches neither any guest nor the mansion staff. A mysterious stranger seems to have infiltrated the ball.",
+  "question": "Who stole 'The Eternal Dance' and left the DNA behind?",
+  "options": [
+    "Option A: Sir Hugo (unknown mask, no known connection to arts)",
+    "Option B: The enigmatic Countess Elara (mask of a phoenix, claimed to study ancient arts)",
+    "Option C: Lord Adrian (mask of a phoenix, known art enthusiast),",
+    "Option D: The reclusive Mr. Ravenwood (mask of a wolf, unexplained absence from the drawing room)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 168,
+  "id": "case_168"
+}

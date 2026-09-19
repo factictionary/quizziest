@@ -1,0 +1,23 @@
+{
+  "title": "The Venomous Vinegar Case",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In the quaint town of Melancholy Meadows, a local antique shop owner, Mr. Penrose, was found lifeless among his collection of curiosities. The scene was eerily serene; a single glass of vinegar sat beside Mr. Penrose's lifeless body. It seemed the poison of choice was a mystery.",
+  "victim": "Mr. Penrose, the Antique Shop Owner",
+  "crimeScene": "The antique shop, filled with curiosities and memorabilia",
+  "forensicClue": "A peculiar label on the vinegar bottle: 'Handmade, Not for Ingestion'",
+  "question": "Who poisoned Mr. Penrose and how was the poison administered?",
+  "options": [
+    "Option A (Suspect 1 and method)",
+    "Option B (Suspect 2 and method)",
+    "Option C (Suspect 3 and method)",
+    "Option D (Suspect 4 and method)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The crime scene examination reveals the bottle of vinegar, despite the label 'Not for Ingestion', was used to poison Mr. Penrose. Examining the toxicology report, we find that the poison wasn't the toxic ingredients in the vinegar but was a chemical found in vinegar's byproduct, Acetic Acid. The key to solving this case lies in dissecting the suspects' motives and connections to Mr. Penrose.",
+  "correctAnswer": 0,
+  "solution": "The vinegar's Acetic Acid poisoning is the key clue. Suspect 4 had the motive, access, and a peculiar batch of homemade vinegar. Mr. Penrose had purchased homemade vinegar from Suspect 4's stall just hours before his demise. Investigating further, we discover that Suspect 4 had a grudge against Mr. Penrose who had competed with them in a recent craft fair.",
+  "method": "The player must piece together the suspects' motives and connections to Mr. Penrose.",
+  "caseNumber": 155,
+  "id": "case_155"
+}

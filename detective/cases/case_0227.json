@@ -1,0 +1,20 @@
+{
+  "title": "Poisoned Prelude",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the dimly lit rooms of the opulent mansion 'Decepta', a lavish charity gala hosted by the notorious and reclusive millionaire, Sirius Blackwood, unfolded. Guests mingled as they enjoyed an exquisite feast prepared by acclaimed chef, Simone Marchand. However, the night took a dark turn when dinner guest, Amelia Foxwood, mysteriously fell ill. The event took place at midnight, leaving little time for authorities to investigate.",
+  "victim": "Amelia Foxwood (Aspiring Poet)",
+  "crimeScene": "Decepta Mansion - Dining Hall",
+  "forensicClue": "The presence of cyanide traces on a silver fork (S1).",
+  "question": "Who poisoned Amelia Foxwood and how did they do it? ",
+  "options": [
+    "Suspect 1 (Sirius Blackwood - Owner of Decepta Mansion) and details of his motive, method and opportunity.",
+    "Suspect 2 (Simone Marchand - Acclaimed Chef) and their alibi.",
+    "Suspect 3 (Lady Evelyn Harrington - Socialite) and the discovery of a hidden poison collection.",
+    "Suspect 4 (Gregorio Ravenwood - Antiques Dealer) and the mysterious antique poison dart found."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "In the dimly lit room of the opulent mansion Decepta, the crime scene reveals a jumble of cyanide-tainted silver forks (S1). The antique poison dart and weaponized dart (S4) are found close by in Gregorio Ravenwood's (S4) extensive antique collection. Lady Evelyn Harrington (S3) and Sirius Blackwood (S1) have overlapping connections to the victim, Amelia Foxwood (Victim), but only Lady Evelyn is adept with poisonous artifacts, providing the method, motive and opportunity required to commit the crime. Simone Marchand (S2) is free of suspicion as she has a strong alibi.",
+  "caseNumber": 227,
+  "id": "case_227"
+}

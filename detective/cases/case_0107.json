@@ -1,0 +1,20 @@
+{
+  "title": "The Silent Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Expert",
+  "story": "In a bustling tech hub city, the high-security company 'ByteSec' witnessed an unprecedented theft. The crime scene was ByteSec's advanced server room, where a hefty sum of cryptocurrency was snatched. Our victim, the Chief Technology Officer (CTO), William 'Whiz' Walters, was found slumped over his desk, display showing an empty wallet.",
+  "victim": "William 'Whiz' Walters, CTO",
+  "crimeScene": "The advanced server room, dimly lit, filled with rows of glowing, silent servers.",
+  "forensicClue": "An unusual power surge noted during the theft, despite the room being energy-efficient.",
+  "question": "Who is the culprit and how did they pull off the heist? ",
+  "options": [
+    "Option A (Suspect 1 and reasoning)",
+    "Option B (Suspect 2 and reasoning)",
+    "Option C (Suspect 3 and reasoning)",
+    "Option D (Suspect 4 and reasoning)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The team of engineers at ByteSec diligently analyzed the forensic clue of the unusual power surge. They discovered a connection between the surge and the internal server logs. A tech-savvy culprit could exploit a backdoor in the room's automated energy-saving system, triggering the surge during the heist. This leaves us with Suspect 4 - the former ByteSec engineer, Sarah 'CyberSarah'. The timeline and motive align with her dissatisfaction and departure from the company.",
+  "caseNumber": 107,
+  "id": "case_107"
+}

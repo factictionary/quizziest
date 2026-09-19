@@ -1,0 +1,17 @@
+{
+  "title": "Whodunnit in the Closed Cabinet",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit Speakeasy Lounge, a peculiar incident occurred. Our dear friend and esteemed pianist, Professor Emerson Fenn, was found lifeless behind the locked piano cabinet. All windows and doors remained intact, leaving no apparent entry or exit route. The room's occupants consisted of owner 'Max', bartender 'Benny', music critic 'Elsie', and an unassuming patron 'Frank'. The clock read 12:08 AM when the distress call came through.\n\ncrimeScene: A dimly lit Speakeasy Lounge with a locked piano cabinet. The victim is Professor Emerson Fenn, a pianist.\nvictim: Professor Emerson Fenn (pianist)\nOptions:",
+  "options": [
+    "Max, the owner (they had a secret key to the cabinet and were unhappy with Emerson's latest composition)",
+    "Benny the bartender (he had the opportunity but lacked the means and motive)",
+    "Elsie the music critic (she had the motive but lacked both opportunity and means)",
+    "Frank the customer (he had both opportunity and motive, but lacked the knowledge to kill)."
+  ],
+  "correctIndex": 1,
+  "question": "Who committed the crime? How did the detective solve it?",
+  "deductionExplanation": "Upon closer examination of the scene, the detective noticed a burnt matchstick lying near the cabinet. The key to the mystery lies in the timeline. At 11:59 PM, Frank had loudly argued with Emerson about his musical composition. Meanwhile, Benny casually mentioned he's heard Emerson locking the cabinet after securing some bottles in it an hour ago. The clock read 12:08 AM when the emergency call was made. This indicates that the crime occurred between 11:59 PM and 12:07 AM. Given Frank's confrontation and Benny's timeline, onlyFrank had both opportunity and motive during that time frame. The burnt matchstick hints at an incriminating evidence of torched fury., The investigation revealed Frank was no amateur musician and knew how to handle a weapon - a set of piano keys - concealed under his coat. The motive: his passion-fuelled disagreement over Emerson's composition. The opportunity: the timeline and the locked cabinet door. Frank, alas, confessed to the murder. He explained that after the intense argument with Emerson, he calmly approached the cabinet, grabbed the piano keys concealed under his coat, and snapped Emerson's life with a final compositional argument.",
+  "caseNumber": 153,
+  "id": "case_153"
+}

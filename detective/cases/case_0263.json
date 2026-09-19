@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the opulent city of Luxembourg, a dazzling heist occurred at the prestigious Diamond Pavilion – a place where the world’s finest gems are displayed. The Czar Diamond, a 500-carat masterpiece, was stolen during the high-end charity gala, leaving the city in shock. Among the attendees were:\n\n1. A wealthy jewelry dealer, Mr. Monteith, who often dealt in rare gemstones.\n2. A cunning art forger, Miss Scarlet, known for her mimicry skills.\n3. An ambitious gemologist, Dr. Quartz, seeking recognition in the field.\n4. A charismatic diamond smuggler, Mr. Topaz, who often hides in plain sight.\n\nCrime scene: The Diamond Pavilion's opulent Great Hall, illuminated by a mesmerizing array of diamonds. The Czar Diamond was displayed on an exquisite pedestal, surrounded by an elite crowd. With the assistance of an AI assistant, the detective must piece together clues to catch the thief.",
+  "victim": "The Diamond Pavilion Museum Director",
+  "crimeScene": "The Great Hall of the Diamond Pavilion",
+  "forensicClue": "A peculiar scratch found on the polished surface of the Czar Diamond",
+  "question": "Who is the mastermind behind the dazzling heist? ",
+  "options": [
+    "Option A - Mr. Monteith, an expert in the diamond trade; The scratch on the Czar Diamond aligns with the signature tool used by Mr. Monteith during his gemstone demonstrations.",
+    "Option B - Miss Scarlet, a mimic who could have used her skills to distract the guests; The scratch could be a flaw imitation left by Miss Scarlet.",
+    "Option C - Dr. Quartz, the ambitious gemologist, who had the motive and knowledge to pull off the heist; The scratch could be a flaw left by Dr. Quartz, attempting to prove his diamond expertise.",
+    "Option D - Mr. Topaz, the smooth-talking smuggler who could have used his connections to pull off the theft; The scratch could be a mark from Mr. Topaz’s ring, left when he examined the diamond before the heist."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The AI assistant found a unique letter opener with a distinctive scratched handle at the crime scene, matching the one that Mr. Topaz often uses during his diamond demonstrations. Mr. Topaz was therefore identified as the culprit.",
+  "caseNumber": 263,
+  "id": "case_263"
+}

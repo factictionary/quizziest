@@ -1,0 +1,15 @@
+{
+  "title": "The Hacktivist Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "In a sleek tech startup in the heart of Silicon Valley, an audacious theft occurred. The CTO, a renowned inventor known as Dr. Ignacio Alvarez, discovered a significant drop in stock data. Rumors claim his groundbreaking AI assistant prototype had been snatched from the secure tech lab.\n\nCrime Scene: Secure Tech Lab\nVictim: Dr. Ignacio Alvarez (AI assistant prototype)\nForensic Clue: An encrypted message from the hacker, 'Unlock the Truth'\n\nWitnesses:\n1. Maria Ramirez: 'I logged off at 10 AM but noticed the breach at 10:05 AM.'\n2. Sarah Thompson: 'The meeting started at 10 AM, and I was focused on the investors, not the lab.'\n3. Lab tech, Mark Johnson: 'I received the security alert at 10:05 AM but was called to fix a faulty ventilation system.'\n4. Hacker, Peter Kim: 'The message arrived at 10:10 AM after the crime.'",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 123,
+  "id": "case_123"
+}

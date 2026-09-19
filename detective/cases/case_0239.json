@@ -1,0 +1,19 @@
+{
+  "title": "The Venomous Concoction",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the opulent halls of the illustrious Felton Mansion, a wealthy widow named Adelaide Felton was found dead in her lavish study. The room reeked of an unusual chemical odor, leading authorities to suspect the crime scene has been tampered with. Among the mansion's elite guests, four suspects are caught in a web of deceit.",
+  "victim": "Adelaide Felton, wealthy widow",
+  "crimeScene": "A luxurious study overwhelmed with a peculiar chemical scent",
+  "forensicClue": "A mysterious, unidentified residue on the poison dart.",
+  "question": "Which suspect had the motive and knowledge to arrange a venomous scene? Can they be linked to the poison dart's residue and the peculiar scent?",
+  "options": [
+    "Option A (Suspect 1: Amelia, the botanist; Suspect 2: Sebastian, the inventor; Suspect 3: Lady Helena, the rival heiress; Suspect 4: Captain Hayes, the war veteran)",
+    "Option B (Suspect 1 and the mysterious residue),",
+    "Option C (Suspect 2 and the peculiar scent),",
+    "Option D (Suspect 3 and the motive)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 239,
+  "id": "case_239"
+}

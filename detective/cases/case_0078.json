@@ -1,0 +1,20 @@
+{
+  "title": "Midnight at the Marlowe Gallery",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Hard",
+  "story": "Elias Marlowe, the charismatic owner of the Marlowe Gallery, was found slumped over a mahogany table in the private viewing room at 9:32 p.m., a single glass of red wine shattered beside him. The police were called by his sister, Clara, who claimed she had just entered the room to discuss a last‑minute sale. A rapid‑acting cyanide toxin was detected in the victim’s bloodstream, indicating the poison was ingested moments before death. \n\nFour people were present in the building that night. Clara Marlowe says she was in the library reading a contract from 9:00 p.m. until she heard the crash. Victor Hale, Elias’s business partner, insists he was at the downtown café, a claim confirmed by a timestamped receipt at 9:15 p.m. Nadia Ruiz, the housekeeper, maintains she was cleaning the kitchen, a task she never performs after 9:00 p.m. Leonard Graves, a rival collector, alleges he was on the 9:20 p.m. express train to the suburbs, but the railway schedule shows no train departed at that time. The forensic team recovered a single crystal wine glass with the monogram “C M” etched on its base, still containing faint cyanide residue, and a security motion sensor log shows the library door opened at 9:45 p.m., well after the estimated time of death.",
+  "victim": "Elias Marlowe, gallery owner",
+  "crimeScene": "Private viewing room, second floor of the Marlowe Gallery",
+  "forensicClue": "A monogrammed crystal wine glass marked “C M” with cyanide residue, found beside the body.",
+  "question": "Who is the culprit and how did the detective solve the case?",
+  "options": [
+    "Option A (Clara Marlowe – sister, motive of inheritance; her monogrammed glass with poison was found, and her alibi places her in the library after the murder).",
+    "Option B (Victor Hale – business partner; his café receipt confirms his whereabouts).",
+    "Option C (Nadia Ruiz – housekeeper; motion sensor shows no kitchen activity after 9:00 p.m., contradicting her claim).",
+    "Option D (Leonard Graves – rival collector; train schedule proves his alibi impossible)."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "1. The toxin was cyanide, a fast‑acting poison that must be ingested shortly before death. 2. Only one glass contained cyanide residue – a crystal glass etched with the initials “C M”. 3. The only person whose belongings match those initials is Clara Marlowe. 4. Clara claimed to be in the library at 9:00 p.m., but the library’s motion sensor logs show the door opened at 9:45 p.m., after the victim’s estimated time of death (9:32 p.m.). 5. Victor’s alibi is corroborated by a receipt, Leonard’s alibi is disproved by the train schedule, and Nadia’s alibi is contradicted by the kitchen motion sensor (no activity after 9:00 p.m.). 6. The combination of the monogrammed glass, the cyanide residue, and the impossible alibi makes Clara the only suspect who could have poured the poisoned wine and left the scene before the murder time, conclusively identifying her as the murderer.",
+  "caseNumber": 78,
+  "id": "case_78"
+}

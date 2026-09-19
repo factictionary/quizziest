@@ -1,0 +1,19 @@
+{
+  "title": "The Phantom Phlebotomist",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "In the dimly lit streets of Gotham City, Detective Jameson unlocked yet another case that would test his skills to the utmost. The scene unfolded at the prestigious Pennington Medical Research Facility. A prominent cardiologist, Dr. Miranda Blackwood, fell mysteriously dead in her lab amidst a pool of blood on the floor.",
+  "victim": "Dr. Miranda Blackwood (Prestigious Cardiologist)",
+  "crimeScene": "Pennington Medical Research Facility - Miranda's Lab",
+  "forensicClue": "The blood type in the crime scene blood sample does not match that of Dr. Blackwood or any staff member's type.",
+  "question": "Who killed Dr. Blackwood and why? How did Detective Jameson solve it?",
+  "options": [
+    "Option A (Reason: Dr. Blackwood's rivalry with Dr. Jonathan White, as forensic evidence links John to the murder and the blood type clue points to an unknown assailant)",
+    "Option B (Reason: Lab Assistant Sarah Grey planted the blood to frame another colleague, but the timeline and alibi contradict her statement)",
+    "Option C (Reason: Research Engineer Robert Brown fabricated the Antibody Discovery Award to blackmail Dr. Blackwood, but the lack of a wound contradicts his claim)",
+    "Option D (Reason: Lab Technician Emma Reed's jealousy over Dr. Blackwood's promotion; the blood type clue implicates Emma as the killer)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 182,
+  "id": "case_182"
+}

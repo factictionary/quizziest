@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Bedroom Murder",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In a dimly lit, Victorian-style mansion, Detective Thompson received a chilling call about the brutal murder of socialite, Lady Ada Blackwood. Thompson arrived to find Lady Ada's body laid out on her lavish four-poster bed, a wicked smile decorating her painted porcelain face. The bedroom had been ransacked, and scattered around were vintage dance cards from the Ball she hosted the previous evening.",
+  "victim": "Lady Ada Blackwood, a wealthy socialite",
+  "crimeScene": "The victim's opulent bedroom in her mansion.",
+  "forensicClue": "The distinctive smudge of green paint on Lady Ada's finger.",
+  "question": "Who committed the crime and why? How did Detective Thompson deduce their guilt?",
+  "options": [
+    "Option A (Complete chaos and lack of motive)",
+    "Option B (Guest with a grudge and green smudge)",
+    "Option C (Envious rival and green smudge)",
+    "Option D (Enigmatic artist and green smudge)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "After meticulously examining the crime scene, Detective Thompson noticed the distinctive smudge of green paint on Lady Ada's finger. This unusual detail led Thompson to interrogate the guests attending the Ball. Surprisingly, the guest with a grudge against Lady Ada stood out. Their alibi of 'complete chaos' lacked credibility. Further investigation revealed a green smudge on their clothing, matching Lady Ada's smudge. Consequently, Detective Thompson arrested the guest with a grudge and a green smudge, solving the case with solid forensic evidence and shrewd deduction.",
+  "caseNumber": 257,
+  "id": "case_257"
+}

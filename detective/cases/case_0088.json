@@ -1,0 +1,20 @@
+{
+  "title": "Cabin of Silent Shadows",
+  "category": "Locked Room Mystery",
+  "difficulty": "Hard",
+  "story": "On a storm‑riven Saturday night, Alex, the owner of a secluded mountain cabin, was found dead in the locked living room, a single gunshot wound to the head. The heavy oak door was bolted from the inside, the windows barred, and a fresh chain lay coiled on the floor. Four guests were present: Sarah, the chef; Mike, a tech consultant; Emily, a botanist; and Jack, a freelance photographer. Their statements: Sarah insists she was in the kitchen preparing dinner from 8 pm to 10 pm, hearing only the rain. Mike claims he was in his bedroom watching a documentary, hearing a loud thump at 9:30 pm. Emily says she was in the bathroom showering between 8:30 pm and 9:15 pm. Jack maintains he was outside on a night‑walk from 8:30 pm to 9:30 pm, the darkness hiding everything.\n\nWhen investigators examined the scene, they found the kitchen immaculate—no chopping board, no pots, and the stove cold—yet a plated dinner was discovered on the dining table, served at exactly 9 pm. Fresh footprints matching a woman’s size‑8 shoes were traced across the living‑room rug, the same shoe size Sarah wears. The only set of footprints leading to the living room matched those shoes, and the chain on the door showed no external tampering.\n\nThe contradiction between Sarah’s claim of cooking and the spotless kitchen, combined with the shoe‑print evidence, forces a logical conclusion.",
+  "victim": "Alex",
+  "crimeScene": "A remote, luxurious cabin in the woods, locked living room with bolted door",
+  "forensicClue": "Fresh footprints matching Sarah's size‑8 shoes were found on the living‑room rug, and the kitchen was spotless despite a dinner being served at 9 pm.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Mike (Claims to have heard a thump but provides no physical evidence)",
+    "Jack (Alibi of a night‑walk, but no footprints leading outside)",
+    "Sarah (Inconsistent alibi: kitchen spotless despite claim of cooking, and shoe prints match her size)",
+    "Emily (Shower alibi, but no corroborating evidence)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The victim was found in a locked room with no sign of forced entry. 2. The kitchen, where Sarah said she was cooking, showed no evidence of any meal preparation, yet a dinner was served at 9 pm. 3. Fresh footprints matching a size‑8 woman's shoes—Sarah's shoe size—were found on the living‑room rug, the only path to the victim. 4. No other suspect's alibi places them near the living room, and no external footprints were found. 5. Therefore, the only person whose statement contradicts the physical evidence and whose footprints are at the scene is Sarah, making her the indisputable culprit.",
+  "caseNumber": 88,
+  "id": "case_88"
+}

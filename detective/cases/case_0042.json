@@ -1,0 +1,20 @@
+{
+  "title": "The Melting Alibi",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "Baron Von Frost, a reclusive collector, was found dead in his temperature-controlled vault at 10:00 PM. The vault door was locked from the inside, and the air conditioning was set to a frigid -10°C. The only exit was a heavy steel door with no keyhole visible from the outside, implying a locked-room scenario, yet the door was found slightly ajar when the police arrived. Four suspects were questioned. Suspect 1, the janitor, claimed he was mopping the hallway outside the vault and saw no one enter or exit. Suspect 2, the chef, stated he was in the kitchen preparing a frozen dessert and had been there since 9:00 PM. Suspect 3, the curator, admitted to entering the vault at 9:30 PM to check on the collection but left by 9:40 PM, claiming he heard the Baron still alive. Suspect 4, the butler, insisted he was in his quarters sleeping and did not wake until the alarm went off at 10:15 PM.",
+  "victim": "Baron Von Frost",
+  "crimeScene": "A sealed, climate-controlled vault set to -10°C with a heavy steel door.",
+  "forensicClue": "Detective Miller noticed a puddle of water on the floor near the vault door, despite the room being kept at sub-zero temperatures all night.",
+  "question": "Who is the culprit and how did they bypass the locked-room alibi?",
+  "options": [
+    "Option A: The Janitor, because he had access to the hallway keys and could have forced the door.",
+    "Option B: The Chef, because frozen desserts require specific tools that match the murder weapon.",
+    "Option C: The Curator, because he was the last person seen alive with the victim and had motive.",
+    "Option D: The Butler, because the water on the floor proves he entered the vault, as ice would have melted from his body heat upon entry."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The key to this case is the environmental inconsistency. The vault is maintained at -10°C. The detective found a puddle of water on the floor near the door. Water does not naturally exist in a room at -10°C; it would instantly freeze. The presence of liquid water indicates that a source of heat introduced moisture that melted the frost or ice on the floor. A human body entering a sub-zero room from a warmer environment brings heat and moisture. As the butler entered the vault, the cold air would have caused moisture from his breath and body to condense and then melt the existing frost, creating the puddle. This physical evidence contradicts his alibi of sleeping in his quarters, as he was the only suspect who could have entered while the lock mechanism was still functional (or who knew the specific thermal weakness of the lock), proving his presence at the scene.",
+  "caseNumber": 42,
+  "id": "case_42"
+}

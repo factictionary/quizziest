@@ -1,0 +1,19 @@
+{
+  "title": "Whodunit at the Art Heist",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit galleries of the Renaissance Art Museum, a dazzling piece of art caught the eye of art enthusiast, Detective Jane Doe. The painting in question, 'The Night Watchman', was believed to be a genuine Van Gogh masterpiece, but something seemed off about it. Suddenly, the museum alarm went off, signaling an intrusion. Our dear detective was summoned to the scene.",
+  "victim": "Victim: Museum Curator John Smith",
+  "crimeScene": "The crime occurred in the museum's Renaissance Gallery, with 'The Night Watchman' painting as the prime suspect.",
+  "forensicClue": "The time on the security camera footage (11:37 PM) contradicts the CCTV's maintenance log (11:42 PM), raising questions about the integrity of the recorded evidence.",
+  "question": "Who stole 'The Night Watchman' and how is the questionable security footage connected? ",
+  "options": [
+    "Option A (Curator Linda's alibi and motive)",
+    "Option B (Security Tech Mark's alibi and motive)",
+    "Option C (Gallery Attendant Bob's alibi and motive)",
+    "Option D (Conservationist Sarah's alibi and motive)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 140,
+  "id": "case_140"
+}

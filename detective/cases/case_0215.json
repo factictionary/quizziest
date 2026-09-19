@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit in the Enigmatic Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the opulent estate of wealthy industrialist, Mr. Ebenezer Throckmorton, a peculiar crime took place. The well-known cryptologist, Dr. Emilia Morse, was found lifeless at the stroke of midnight, with a vintage pocket watch lying by her lifeless hand. The study, a room locked from the inside, bore no signs of forced entry. A perplexing riddle left behind read: 'Find the key that unlocks the door to my secret.'",
+  "victim": "Dr. Emilia Morse, Cryptologist",
+  "crimeScene": "The study of Mr. Throckmorton's opulent estate.",
+  "forensicClue": "The pocket watch exhibits an unusual magnetism.",
+  "question": "Who committed the crime and how was the door locked from the inside? Provide clues to solve the cryptic riddle.",
+  "options": [
+    "Option A (The Magnificent Mischievous Maid and the Enigmatic Entrée)",
+    "Option B (The Magnificent Mysterious Millionaire and the Meticulous Mouse)",
+    "Option C (The Brilliant Burglar and the Baffling Bell)",
+    "Option D (The Eccentric Entomologist and the Eerie Echoes)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "As the investigation began, Sergeant Farnsworth, the local law enforcement officer, discovered a peculiar clue - the watch's unusual magnetism. Further examination reveals the watch was once a part of a pocket watch and locket set belonging to Mr. Throckmorton. This means Dr. Morse was wearing Mr. Throckmorton's belongings when she met her demise. The locked door revealed a handwriting analysis at the doorknob that read: 'Only the one who loves me can unlock my door.' Inspection of the study reveals a series of cryptic riddles etched on the walls: 'The key is in my cryptogram; 'The murderer is one I've known since my toddlership; 'Find the hidden passage to my treasure.' The cryptogram is later deciphered as a cipher using Dr. Morse's initials and the room dimensions. The hidden passage leads to a secret room containing Mr. Throckmorton's prized possessions. \n\nThe Magnificent Mischievous Maid (Option A) couldn't have committed the crime as she had been seen diligently tidying the hallway outside the study while the crisis unfolded within. The Meticulous Millionaire (Option B) was present during the police interrogations, maintaining his innocence as the study's design and collection were his passions. The Baffling Burglar (Option C) had no motive, as he was hired to protect the estate, not steal from it. The Eerie Echoes (Option D) revealed that they had been restoring a painting in the nearby gallery and could not have entered the study.\n\nThe only suspect left is the Eccentric Entomologist (Option D). Upon entering the study, Sergeant Farnsworth noticed burn marks on the doorknob, indicating a desperate attempt to unlock it. Analysis of the cryptogram reveals that Dr. Morse's initials are H.M., and the room dimensions are 10x12. Using this information, the cryptogram spells out the murderer's name: 'H.M.' The hidden passage leads to a secret room, where the murderer kept a collection of rare butterflies, which they've been studying since their toddlership. The murderer had a motive - the rare butterfly species found nowhere else but in Mr. Throckmorton's collection. The clock in the study indicates the time of day when the crime occurred - 10:12 PM. The Eccentric Entomologist (Option D) was the last person seen with Dr. Morse, having discussed the butterfly species found nowhere but in Mr. Throckmorton's collection. The Entomologist claimed they were closely examining the study's collection, meaning they could have committed the crime, suggesting the murderer was one who knew Dr. Morse well enough to enter the locked room and had a motive - a rare butterfly species collection in the study. Their alibi: they were engrossed in studying the collection since their toddlership.",
+  "caseNumber": 215,
+  "id": "case_215"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the opulent city of Luxembourg, a dazzling heist occurred at the prestigious Diamond Museum. The late-night visitors were surprised only by a locked display case containing the priceless 'Pearl of Luxe', a 1000 carat diamond worth millions. Police reports indicate a flawless theft, but the CCTV footage reveals a peculiar fact: no one entered or left the museum during the incident. It seems the perpetrator must have been an insider.",
+  "victim": "Virgilian Rodriguez, Museum Director",
+  "crimeScene": "The Diamond Museum, home to the 'Pearl of Luxe'",
+  "forensicClue": "A peculiar scratch on the locked display case",
+  "question": "Who is the mastermind behind the heist? How did they manage to pull off such a flawless crime?",
+  "options": [
+    "Option A: Virgilian Rodriguez (Insider opportunity)",
+    "Option B: Antonio De Novo (Stealth expert)",
+    "Option C: Giselle Von Carstein (Master thief with a grudge)",
+    "Option D: Miguel Vargas (Curator with a motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The scratch on the locked display case leads us to the museum director Virgilian Rodriguez. CCTV footage indicates the crime occurred during a staff meeting, providing Virgilian with the unique opportunity to lock the case and escape unnoticed. Moreover, Giselle Von Carstein, the master thief with a grudge against the museum, had a motive to pull off this flawless crime. Antonio De Novo's stealth expertise wouldn't be challenging enough for our expert players. And finally, Miguel Vargas, the curator eagerly offering his motive, was mistakenly present at the same staff meeting, giving the opportunity to Giselle Von Carstein.",
+  "caseNumber": 225,
+  "id": "case_225"
+}

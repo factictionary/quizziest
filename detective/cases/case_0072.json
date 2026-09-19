@@ -1,0 +1,20 @@
+{
+  "title": "The Midnight Tonic",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "At the exclusive Seacliff Resort, renowned toxicologist Dr. Lena Hart collapsed during a midnight cocktail party in the private dining room. The coroner determined she died from a dose of the ultra‑fast‑acting neurotoxin *Aconitine*, which loses potency after 30 minutes at ambient temperature. The drink that killed her—a chilled martini—had been prepared by the kitchen 20 minutes before the party began and was served directly to her by the butler. Four guests give statements:\n\n1. **Chef Marco**: “I harvested the fresh herbs for the martini in my garden at 7 p.m.; the only orchid there is *Orchis nocturna*, whose pollen I keep in a sealed jar.”\n2. **Sommelier Elise**: “I was in the wine cellar all night, checking the temperature logs. I never left until after the body was found.”\n3. **Dr. Victor Kline (colleague)**: “I was in the lounge discussing a joint paper with Lena; I left at 11:45 p.m., well after the drink was served.”\n4. **Butler Jonas**: “I delivered the drinks at 11:30 p.m. and then went to the pantry to fetch ice. I didn’t touch the glasses after that.”\n\nA forensic sweep of the glass rim revealed microscopic pollen of *Orchis nocturna*, a plant that only grows in Chef Marco’s private garden. The timeline shows the toxin would have been inert by the time anyone other than the person who handled the chilled glass could have administered it.",
+  "victim": "Dr. Lena Hart",
+  "crimeScene": "Private dining room, Seacliff Resort, during a midnight cocktail party",
+  "forensicClue": "Microscopic *Orchis nocturna* pollen on the rim of the victim's glass, a flower cultivated solely in Chef Marco's garden.",
+  "question": "Who poisoned Dr. Lena Hart?",
+  "options": [
+    "Chef Marco – his garden pollen matches the clue and he handled the herbs.",
+    "Sommelier Elise – she was alone in the cellar and could have slipped the toxin.",
+    "Dr. Victor Kline – he was the last to see Lena alive and had motive.",
+    "Butler Jonas – he delivered the drink and could have added the poison."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "1. The toxin loses potency after 30 minutes; the drink was served 20 minutes before the party, so only someone who kept it chilled could have delivered it before it degraded. 2. The only person with access to the chilled martini before service was the butler, but he never handled the glass after delivery. 3. The decisive clue is the *Orchis nocturna* pollen on the glass rim, which only exists in Chef Marco's garden. 4. Chef Marco admits to harvesting herbs (including the orchid) that night, placing the pollen on the glass inadvertently while preparing the garnish. 5. No other suspect had any contact with the garden or the pollen. Therefore, Chef Marco is the only person who could have introduced both the poison and the unique pollen, making him the indisputable culprit.",
+  "caseNumber": 72,
+  "id": "case_72"
+}

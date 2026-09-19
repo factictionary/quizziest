@@ -1,0 +1,19 @@
+{
+  "title": "Shining Heist: Diamond's Deceit",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In a dimly lit, opulent room filled with priceless artifacts, the night took a sinister turn. The elegant and wealthy socialite, Lady Vivian, was found lifeless, sprawled across a massive ruby chandelier that now lay shattered around her. The room, known for its dazzling collection of gems, was now a chaotic scene with a missing 100-carat Pink Star diamond. This enchanting gem, worth millions, was securely displayed in an impenetrable glass case before the tragedy occurred.",
+  "victim": "Lady Vivian",
+  "crimeScene": "The opulent gemstone room of Lord Abbeythorpe Manor",
+  "forensicClue": "The distinct smell of lavender hairspray was detected at the crime scene.",
+  "question": "Who stole the Pink Star diamond and how did they escape unnoticed? ",
+  "options": [
+    "Option A: Suspect 1 - The dashing Lord Abbeythorpe (and escape method)",
+    "Option B: Suspect 2 - The disgruntled employee (and escape method)",
+    "Option C: Suspect 3 - The enigmatic art collector (and escape method)",
+    "Option D: Suspect 4 - The rival gem merchant (and escape method)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 277,
+  "id": "case_277"
+}

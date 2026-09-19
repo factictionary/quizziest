@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit at the Music Bash",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "On a lively night at the Music Bash, we find the beloved local musician, Mr. Charlie Jazz, brutally murdered in his dressing room. The venue was packed with guests partying and enjoying the live performance. With the music still echoing, the crime took place.",
+  "victim": "Mr. Charlie Jazz, a popular local musician",
+  "crimeScene": "A dimly lit dressing room inside the Music Bash venue",
+  "forensicClue": "A torn piece of fabric found near the victim's body.",
+  "question": "Who committed the crime and what was their motive? ",
+  "options": [
+    "Option A (Suspect 1 and motive)",
+    "Option B (Suspect 2 and motive)",
+    "Option C (Suspect 3 and motive)",
+    "Option D (Suspect 4 and motive)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The torn piece of fabric found near the body could be a crucial clue for Players. Examining it under a microscope reveals it matches the carpet fibers in the rival band member, Ms. Rhythm Rage's, dressing room.",
+  "caseNumber": 100,
+  "id": "case_100"
+}

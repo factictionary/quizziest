@@ -1,20 +1,20 @@
 {
-  "id": "case_5",
-  "caseNumber": 5,
-  "title": "The Museum Painting Switch",
-  "category": "Museum & Art Forgery",
-  "difficulty": "Hard",
-  "story": "A famous 17th-century Renaissance oil painting worth $10 Million was replaced with a forgery during a 3-minute power blackout at the National Gallery. Curator Raymond claims: 'When the lights went out at 10:00 PM, I bumped into the wall, waited for backup power, and immediately smelled fresh oil paint from the frame.'\n\nDetective Vance inspects the painting under UV light and immediately detains Raymond.",
-  "victim": "National Art Gallery",
-  "crimeScene": "Masterpiece wing of museum",
-  "forensicClue": "Think about the drying time of oil paintings versus acrylic copies.",
-  "question": "Why did Raymond's claim expose him as an accomplice in the switch?",
+  "title": "Midnight Keycard Mystery",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "At 10:00 PM the lights flickered out in the study of the opulent Finch Manor, and when they returned, philanthropist Harold Finch lay dead, a single bullet through his heart. Four people were present that night: Maya, the bar‑tender who served drinks at the mansion’s cocktail lounge; Leon, a delivery driver who dropped off a rare vintage wine; Priya, a night‑shift nurse who was on call at the nearby clinic; and Victor, the on‑site security guard. Maya swears she was polishing glasses until 11:00 PM, and the bar’s log shows she never left the lounge. Leon claims he parked his van in the driveway at 9:30 PM, delivered the wine, and drove away by 9:45 PM – a muddy tire track outside the back door matches his boot prints. Priya says she was at the clinic, with the nurse station’s electronic log confirming her shift started at 9:00 PM and she didn’t leave until 12:00 PM. Victor insists he was patrolling the roof from 9:30 PM to 10:30 PM, but the security system’s key‑card log records the back‑door entry at 9:55 PM using Victor’s exclusive guard key, and a broken wristwatch found on the floor stopped at 9:58 PM. The only forensic clue is a single red lipstick smear on the victim’s cuff, matching the shade Maya wears, yet the lipstick was found on a glass that was still sealed in the wine crate.",
+  "victim": "Harold Finch",
+  "crimeScene": "Study of Finch Manor, late‑night blackout",
+  "forensicClue": "Security key‑card log shows back‑door entry at 9:55 PM with Victor’s guard key; a broken wristwatch stopped at 9:58 PM.",
+  "question": "Who is the culprit and how did the detective solve it?",
   "options": [
-    "A genuine 17th-century masterpiece has been dry for 300 years; only the newly forged replacement would smell like fresh oil paint, proving Raymond knew the forgery was in place.",
-    "Raymond was wearing night-vision goggles when the police arrived.",
-    "The museum had emergency backup lighting that never actually went out.",
-    "UV lights showed Raymond's fingerprints on the glass frame."
+    "Option A (Maya – claims she was at the bar, but the lipstick clue points to her)",
+    "Option B (Leon – his muddy boot prints match the back‑door track)",
+    "Option C (Priya – says she was at the clinic, but no evidence ties her to the scene)",
+    "Option D (Victor – key‑card entry and wristwatch timestamp prove he unlocked the back door before the murder)"
   ],
-  "correctIndex": 0,
-  "deductionExplanation": "Raymond claimed he smelled fresh paint in the pitch black immediately after the lights went out. A 300-year-old Renaissance painting has zero paint odor. Only someone who knew the wet forgery had just been hung on the wall would invent smelling fresh paint!"
+  "correctIndex": 3,
+  "deductionExplanation": "The murder occurred at 10:00 PM after the lights went out. The only way to enter the study was through the back door, which was unlocked at 9:55 PM using a key‑card that only Victor, the security guard, possesses. The wristwatch stopped at 9:58 PM, indicating the killer was still present after the door was opened. Victor’s alibi of being on the roof from 9:30 PM to 10:30 PM conflicts with the key‑card log, making his story impossible. Maya’s lipstick is a red herring because the glass was sealed in the wine crate and never opened. Leon’s muddy boot prints match a delivery van, but the van was logged leaving at 9:45 PM, before the key‑card entry. Priya’s clinic logs are solid. Therefore, Victor is indisputably the murderer.",
+  "caseNumber": 5,
+  "id": "case_5"
 }

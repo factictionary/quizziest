@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit at the Art Heist",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit halls of the prestigious Galleria d'Arte Moderna, a daring theft occurred during the exclusive VIP opening night. Amidst the elite crowd admiring the priceless art pieces, a valuable painting titled 'Night Watch', believed to be a lost Vermeer masterpiece, suddenly disappeared. The painting was worth millions and had never left the museum grounds.",
+  "victim": "Curator Dr. Maria Rossi",
+  "crimeScene": "The museum's night skyline as it fades into the stylish VIP reception area.",
+  "forensicClue": "The faint scent of camphor wafting through the night.",
+  "question": "Who stole the 'Night Watch' and how did they evade detection? ",
+  "options": [
+    "Option A (Suspect 1 and motive).",
+    "Option B (Suspect 2 and motive)",
+    "Option C (Suspect 3 and motive)",
+    "Option D (Suspect 4 and motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Examining the clues, Detective John discovered that all guests had signed in before entering, making everyone present accounted for. However, the distinct scent of camphor, a rare ingredient in some art preservatives, was found throughout the crime scene. The faint scent could have been concealed within the thief's clothing or equipment they used to execute the theft.",
+  "caseNumber": 312,
+  "id": "case_312"
+}

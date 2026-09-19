@@ -1,0 +1,19 @@
+{
+  "title": "Shimmering Heist: The Vanishing Gems",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the seedy world of high-stakes heists, a daring crime caught the attention of Detective John. On a moonlit night in the city's flashiest jewelry emporium, 'The Starlight Showcase', a dazzling diamond heist transpired. Owner and resident antique dealer, Mr. Emerald, revealed the crime in a dimly lit office: 'My heavenly collection of rare diamonds vanished without a trace. A precious gemstone as big as a thumbs brazenly disappeared during a charity event. The showcase had been left unlocked for attendees to marvel at the masterpieces, and a security camera caught a mysterious figure slipping in and out.",
+  "victim": "Mr. Emerald, the Antique Dealer",
+  "crimeScene": "The Starlight Showcase, a glamorous charity event",
+  "forensicClue": "The distinctive footprints near the showcase door.",
+  "question": "Who stole the diamond and how were they able to bypass the security system?",
+  "options": [
+    "Option A: Suspect 1 - A seasoned con artist (correctIndex: 2),\n    \"Option B: Suspect 2 - A disgruntled employee (correctIndex: 1)",
+    "Option C: Suspect 3 - A glamorous and charming art collector (correctIndex: 3),\n    \"Option D: Suspect 4 - A vengeful security guard (correctIndex: 0)\n  ]",
+    "correctIndex",
+    ": 3"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 216,
+  "id": "case_216"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Hard",
+  "story": "In the glittering city of Las Vegas, the heist night at the illustrious Casino Royale came to an end. The Grand Trianon, a dazzling diamond exhibit, displayed the famed \"Sunset Star Diamond\", worth over 100 million dollars. Owned by the infamous diamond merchant, Armand DeLuxe, this spectacular jewel was the talk of the town.",
+  "victim": "Armand DeLuxe, Diamond Merchant",
+  "crimeScene": "The Grand Trianon, Casino Royale",
+  "forensicClue": "A distinct chemical mark on the crime scene floor.",
+  "question": "Who stole the Sunset Star Diamond from the Grand Trianon? How was the crime scene different from others? ",
+  "options": [
+    "Option A (The Vault Guard and irrelevant detail)",
+    "Option B (The Limelight Gambler and a peculiar event)",
+    "Option C (The Illusionist and a concealed detail)",
+    "Option D (The Armory Tech and an unusual mark)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "During the investigation, Detective John discovered a chemical mark (indicating a specific heist technique) on the floor near the exhibit. In close examination, this mark perfectly matched the signature of 'The Illusionist'. It was revealed that The Illusionist, a notorious figure in the underground heist community, had a criminal partnership with Armand DeLuxe in the past. Furthermore, the gemstone expert testified that diamonds in the Sunset Star Diamond were restrained by an invisible magnetic force, a technique The Illusionist specialized in. The crime scene was different as it showcased a peculiar absence of chaos, whereas typical heists are marked by scuffles and chaos. The Illusionist's team didn't leave their hallmark 'The Great Illusion' on the exhibit wall, which is usually left by rival gangs. The chemical mark at the crime scene and the pattern left behind were conspicuously absent.",
+  "caseNumber": 122,
+  "id": "case_122"
+}

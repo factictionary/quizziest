@@ -1,0 +1,20 @@
+{
+  "title": "The Venomous Vendetta",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In the tranquil town of Millfield, local bakery owner Mrs. Olivia White discovered her death in her shop this morning. The place was filled with the scent of freshly baked bread and the delightful cries of customers enjoying her homemade pastries. It appears Mrs. White passed away while closing up the shop after a busy day.",
+  "victim": "Mrs. Olivia White, bakery owner",
+  "crimeScene": "The bakery was dimly lit, the air thick with the scent of freshly baked goods. A small table was set up near the cash register, where the notorious rival baker Mr. James Black stood accused of the crime.",
+  "forensicClue": "A discreet label found on the poisoned pastry: 'Lethal Levain'",
+  "question": "Who is the guilty party and how did they commit the crime?",
+  "options": [
+    "Option A (Mr. Black and the poisoned pastry motive)",
+    "Option B (The police officer and the false alibi)",
+    "Option C (Miss Stevens and the hidden motive)",
+    "Option D (Mr. Johnson and the stolen recipe)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The forensic clue of 'Lethal Levain' points towards the involvement of the bakery owner. Mrs. White had a bitter rivalry with Mr. Black due to their longstanding feud over customers. Miss Stevens, the police officer, can be ruled out as her alibi is confirmed to be true. Mr. Johnson is also ruled out as he was seen leaving the bakery at the different time of the alleged crime. That leaves us with Option C - Miss Stevens had a hidden motive related to a disputed inheritance. It seems she had been in conflict with Mrs. White over a family legacy. The police officer could have planted the poisoned pastry to frame Miss Stevens, as she had filed a complaint against the town's chief, a close friend of Mr. Black. The poison 'Lethal Levain' seems to be tied to Miss Stevens, as she was the one who discovered and reported the feud over the bakery's legacy.",
+  "caseNumber": 204,
+  "id": "case_204"
+}

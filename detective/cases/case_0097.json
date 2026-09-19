@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the opulent city of Luxor, a heist that shook the entire world occurred - the disappearance of the Royal Ruby, a priceless, 1000-carat diamond that had been passed down through generations as a royal family heirloom. The elegant mansion of the royal family was the scene of the crime. Guards were posted at every entrance, but that night, they had fallen victim to a cunning plan orchestrated by a mastermind. The night watchman, Mr. Johnson, swears he saw a mysterious figure in a hooded cloak and gloves slip inside while he was dealing with an emergency call. The royal family, comprised of the aging King George, his introverted daughter Princess Victoria, and his extroverted son Prince Edward, were all out of town on official engagements. The missing diamond was last stored in the vault, located within the opulent throne room.",
+  "victim": "Princess Victoria - The owner of the stolen diamond.",
+  "crimeScene": "The opulent throne room of the royal mansion in Luxor.",
+  "forensicClue": "An eerily familiar handwriting on the note left behind.",
+  "question": "Who stole the Royal Ruby and why? Find the note left behind for clues.",
+  "options": [
+    "Option A: Prince Edward (He had a grudge against his sister Victoria for taking precedence over him in public events) and the handwriting on the note matches his sister's.",
+    "Option B: Night watchman Mr. Johnson (He had an unexpected guest who visited him that night),",
+    "Option C: The royal family's former nanny (She was overheard discussing the mansion's layout with a mysterious stranger weeks ago),",
+    "Option D: The royal family's blacksmith (He had access to the mansion and a grudge against the royal family for not providing a steady job)."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The blacksmith, Mr. Wilson, had a crucial connection that no one else has: a conversation with a mysterious figure who knew the mansion layout weeks ago. The handwriting on the threatening note left at the crime scene matches that of Princess Victoria. The former nanny, despite possessing inside information, lacks the motive as she has financial stability being employed by the royal family. Prince Edward, although having a motive due to his animosity towards his sister, couldn't have executed the crime alone, as he's stated to have been with his family during their engagements. Mr. Johnson, on the other hand, had an unexpected guest that night, making it difficult to determine his involvement.",
+  "caseNumber": 97,
+  "id": "case_97"
+}

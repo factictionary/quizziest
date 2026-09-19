@@ -1,0 +1,20 @@
+{
+  "title": "Pinned Past",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit mansion of eccentric millionaire, Mr. Greystone, a horrifying scene unfolded. The master of the house, Mr. Finch, was found pinned to a grand piano in the opulent drawing room. Despite the luxurious setting, the atmosphere was forlorn as the only light came from a flickering candle.",
+  "victim": "Mr. Finch, the butler",
+  "crimeScene": "In the dimly lit mansion of eccentric millionaire, Mr. Greystone, a horrifying scene unfolded. The master of the house, Mr. Finch, was found pinned to a grand piano in the opulent drawing room. Despite the luxurious setting, the atmosphere was forlorn as the only light came from a flickering candle.",
+  "forensicClue": "A torn piece of fabric found near the crime scene.",
+  "question": "Who committed the crime and how was the room locked from the inside? ",
+  "options": [
+    "Option A (Mr. Finch, as the killer used his own torn fabric and a hidden doorknob mechanism)",
+    "Option B (Mrs. Greystone, the ardent collector of priceless antiques, placed a hidden statue that locked the door)",
+    "Option C (Mr. Greystone, the reclusive millionaire, disguised the doorknob with a meticulously crafted wooden effigy)",
+    "Option D (Mr. Greystone's long-lost heir, Miss Rivers, knew the mansion intimately and tripped the doorknob switch while unknowingly performing a hidden talent"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The torn piece of fabric found near the crime scene indicates that the murderer was likely someone close to Mr. Finch. Given the intricacies of the Greystone Mansion, only Mr. Greystone would know the mansion well enough to hide a doorknob mechanism and create a disguised wooden effigy. The act of tripping the doorknob switch while unknowingly performing a hidden talent is a plausible motive for Miss Rivers.",
+  "caseNumber": 177,
+  "id": "case_177"
+}

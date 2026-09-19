@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit at the Masquerade Ball? ",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "It was a sweltering summer night, and the city's elite gathered at the opulent Masquerade Ball held at the luxurious Grand Opera House. Lady Ella, the renowned art collector, had invited everyone to celebrate her latest acquisition. The highlight of the evening was the surprise auction of a rare van Gogh painting.",
+  "victim": "Lady Ella, the art collector",
+  "crimeScene": "Grand Opera House - opulent ballroom filled with guests in extravagant costumes",
+  "forensicClue": "A single crimson trace on the doormat by the entrance",
+  "question": "Who committed the crime and how did they do it? ",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The crucial clue to solving the case lies in the crimson trace found on Lady Ella's front door's doormat. Let's examine the night's events and alibis.",
+  "caseNumber": 255,
+  "id": "case_255"
+}

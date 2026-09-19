@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Motive",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In the dimly lit alley behind the old mansion, a gruesome scene unfolded. The body of wealthy socialite, Lady Elizabeth Harker, was found lying in a puddle of congealed blood, clutching a flickering candle that revealed a sinister message: 'Beware the 7th.'",
+  "victim": "Lady Elizabeth Harker",
+  "crimeScene": "The cold, wet alley behind the Harker mansion.",
+  "forensicClue": "The position of the victim's right hand, which held the candle with a burnt area on the fourth finger.",
+  "question": "Who killed Lady Elizabeth Harker and why was the candle burnt?",
+  "options": [
+    "Option A (The nosy neighbor, Mr. Williams and the stolen artifact)",
+    "Option B (The disgruntled butler, Mr. Blackwood and the missing jewels)",
+    "Option C (The rival businessman, Mr. Brown and the contested real estate)",
+    "Option D (The envious sister, Miss Amelia and the inheritance dispute)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Through careful examination of Lady Elizabeth's right hand burnt area on the fourth finger, it is clear she struggled with her assailant. Combining this with the jumbled candle message and the missing jewels, Detective X discovered that the disgruntled butler, Mr. Blackwood, orchestrated the crime to frame rival businessman, Mr. Brown, who had recently contested real estate deals with Lady Elizabeth. The burnt candle further points to Mr. Blackwood, as he had been known to play with candles to create eerie scenes for Lady Elizabeth's elaborate parties.",
+  "caseNumber": 160,
+  "id": "case_160"
+}

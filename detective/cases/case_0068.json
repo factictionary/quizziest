@@ -1,0 +1,20 @@
+{
+  "title": "The Orchid Poison at Hawthorne Hall",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Hard",
+  "story": "Victor Hale, a renowned art dealer, was discovered slumped over his mahogany desk in the study of Hawthorne Hall, a sprawling Victorian manor. A half‑filled crystal brandy glass lay shattered on the floor, its rim dusted with a fine powder of rare orchid pollen. The house clock had stopped at 9:46 pm, and the coroner later confirmed cyanide as the cause of death. Four people were present that night:\n\n1. **Clara Hale** – Victor’s wife, who says she was in her boudoir reading until after midnight.\n2. **Lionel Graves** – Victor’s business partner, who insists he was in the library reviewing contracts from 9:30 pm onward.\n3. **Marta Alvarez** – the housekeeper, who claims she was in the kitchen preparing a late‑night snack for herself.\n4. **Derek Hale** – Victor’s estranged brother, who says he was on the terrace smoking a cigar.\n\nThe forensic team found a single set of muddy footprints leading from the greenhouse to the study, matching the size of Lionel’s shoes. Moreover, a torn fragment of a green gardening glove, identical to the pair Lionel wears while tending the orchids, was caught in the broken glass. The library’s fire alarm had been triggered at 9:44 pm, forcing everyone out of the library for a brief evacuation – a fact Lionel omitted from his statement.",
+  "victim": "Victor Hale",
+  "crimeScene": "Victor’s study in Hawthorne Hall, a Victorian manor",
+  "forensicClue": "Orchid pollen on the glass rim and a torn gardening glove fragment matching Lionel’s gloves, plus muddy footprints the size of Lionel’s shoes.",
+  "question": "Who is the culprit and how was the murder solved?",
+  "options": [
+    "Option A (Clara Hale – she was the only one with access to the study)",
+    "Option B (Lionel Graves – his alibi fails and forensic evidence ties him to the scene)",
+    "Option C (Marta Alvarez – she handled the kitchen and could have slipped the poison)",
+    "Option D (Derek Hale – his presence on the terrace gives him a clear line of sight)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The detective first noted the orchid pollen on the brandy glass, a substance only cultivated in the greenhouse tended by Lionel. Muddy footprints of Lionel’s shoe size led from the greenhouse to the study, and a torn piece of his gardening glove was caught in the broken glass, indicating he handled the weapon. Lionel’s claimed alibi collapses because the library fire alarm sounded at 9:44 pm, forcing evacuation and making it impossible for him to have been there uninterrupted from 9:30 pm onward. All forensic and timeline evidence point unequivocally to Lionel Graves as the murderer.",
+  "caseNumber": 68,
+  "id": "case_68"
+}

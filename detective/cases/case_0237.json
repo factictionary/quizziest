@@ -1,0 +1,31 @@
+{
+  "title": "Whodunit in the Enigmatic Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Expert",
+  "story": "In the opulent mansion of eccentric millionaire, Mr. E. Blackwood, a gruesome discovery shattered the tranquility of the peaceful night. Upon entering his study, the valet Mr. Peterson found the master, renowned physicist Dr. Elwood, bound, gagged, and lifeless on his mahogany desk. The study door, locked from the inside, bore a chilling message written in crimson: 'The Calculator Conundrum persists.'",
+  "victim": "Dr. Elwood - a brilliant physicist",
+  "crimeScene": "The study, adorned with shelves of scientific tomes, an antique compass resting on Dr. Elwood's desk, and an enigmatic mathematical puzzle on the study door",
+  "forensicClue": "A torn piece of paper with a riddle:\n\nThe Calculator Conundrum\nA thief with a key, stole from a room without a key.\nA murderer with a knife, entered, but never left.\nA magician with a card, vanished in the twinkling of an eye.\nWhat am I?",
+  ",\n  \"question": "Who committed the crime and how were they able to do so? Explain the logical deduction.",
+  "options": [
+    {
+      "option": "Option A: Mrs. Blakestone (The Calculator), the enigmatic and reclusive widow who resides in the east wing.\nReason: She was last seen in the library at 11 PM, accessed the study via a secret passage that Dr. Elwood revealed to her during a physics lecture, fitting the first clue (a thief with a key).\n\nThe east wing window was open, suggesting Mrs. Blakestone entered the room after climbing from the garden.\nA torn piece of paper with a riddle was found alongside the crime scene, implicating her involvement.",
+      "correct": true
+    },
+    {
+      "option": "Option B: Professor Latimer (The Musician), the renowned organist who visited the study briefly at 11:15 PM for a violin recital scheduled at midnight.\nReason: The study door had no apparent break-in signs, indicating an insider involvement.\n\nThe torn piece of paper with the riddle was found alongside the crime scene, implying Professor Latimer's involvement as well.",
+      "correct": false
+    },
+    {
+      "option": "Option C: Miss Vanderheide (The Botanist), the eccentric botanist who entered the study at 10:45 PM to collect a rare flower specimen.\nReason: Miss Vanderheide possesses a habit of carrying a small potted plant (with a peculiar symbol etched on the pot's saucer), which could have been used to unlock the study door.\n\nThe east window was found unlocked, possibly suggesting Miss Vanderheide or an accomplice entered the room.\n\nThe torn piece of paper with the riddle was found alongside the crime scene, implicating either Miss Vanderheide or her accomplice.",
+      "correct": false
+    },
+    {
+      "option": "Option D: Professor Orville (The Alchemist), the enigmatic alchemist who arrived at 10:30 PM to experiment with rare potions.\nReason: Professor Orville is known to possess a set of enigmatic brass keys, one of which opens the study door, and the alchemist's almanac bears a cryptic equation scrawled in Dr. Elwood's own handwriting.\n\nThe east window was found unlocked, possibly indicating Professor Orville or an accomplice entered the room.\n\nThe torn piece of paper with the riddle was found alongside the crime scene, suggesting Professor Orville or his accomplice.",
+      "correct": false
+    }
+  ],
+  "correctIndex": 0,
+  "caseNumber": 237,
+  "id": "case_237"
+}

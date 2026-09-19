@@ -1,0 +1,15 @@
+{
+  "title": "Whodunit on Moonlit Mansion",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "In the shadowy streets of Noirville, Detective Nightshade received a distress call from the elusive heiress, Miss Euphoria Blackwood. Blackwood's opulent mansion, Moonlit Manor, was shrouded in mystery. Late this eve, she lay dead in her lavish ballroom, gunshot wounds inflicted. A locked room mystery meets a sinister tale.\n\nVictim: Miss Euphoria Blackwood (Role: Heiress, Dead)\nCrime Scene: Moonlit Manor - Grand Ballroom (Late night, locked room)\n\nSuspect 1: Silas Shadow (Role: Ex-Bodyguard of Miss Euphoria, Alibi: Guarded the security of the mansion all night)\nSuspect 2: Lady Luna Ashwood (Role: Enigmatic Guest, Alibi: Stayed in the Throne Room with an alibi of reading ancient manuscripts)\nSuspect 3: The enigmatic Monsieur Midnight (Role: Mysterious Architect, Alibi: Inspected the mansion's rooftop})\nSuspect 4: The pianist, Phantom Melody (Role: Musician, Alibi: Performed solo in the Music Room all night)\n\nOptions:\n1. Option A (Monsieur Midnight - Lack of motive)\n2. Option B (Lady Luna - Alibi verified)\n3. Option C (Silas Shadow - Alibi broken)\n4. Option D (Phantom Melody - Evidence tampering)\n\nCorrect Index: 3",
+  "correctIndex": 3,
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "caseNumber": 308,
+  "id": "case_308"
+}

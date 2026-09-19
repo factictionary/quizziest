@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the glitzy city of Lumiere, a dazzling event took place at the prestigious Diamond Ball. Hosted by the wealthy jewelry mogul, Sir Isaac Vivacious, the night revolved around the display of rare and extravagant diamonds. The Vivacious Diamond Collection was on display, attracting the world's finest jewel thieves.",
+  "victim": "Sir Isaac Vivacious, the host of the Diamond Ball",
+  "crimeScene": "The opulent Diamond Ballroom, adorned with over 100,000 carats of diamonds on display.",
+  "forensicClue": "A peculiar scratch found on the polished glass door to the Ballroom.",
+  "question": "Who stole the diamonds and how were they acquired? Uncover the mystery of the Diamond Ball heist.",
+  "options": [
+    "Option A (Charlie Crown and diamond tunnel passage)",
+    "Option B (Lucille Lightning and the distraction technique)",
+    "Option C (Ernest Emerald and the hidden elevator)",
+    "Option D (Alfred Aurora and the disguise plan)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The scratches found on the door indicated that a vehicle or a heavy object was used to force entry. Among the suspects, only Ernest Emerald has a history with Sir Isaac Vivacious and could potentially know the detailed layout of the Diamond Ballroom. The hidden elevator provided the perfect escape route, making Ernest Emerald the prime suspect in the Diamond Ball heist.",
+  "caseNumber": 313,
+  "id": "case_313"
+}

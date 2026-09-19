@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Dr. Eleanor Finch, a celebrated botanist, was found dead on the floor of her locked study at the remote Alpine Research Lodge. The heavy oak door was bolted from the inside, the single window sealed shut, and the only entry key was still in the lock. The night before, Dr. Finch had hosted a small gathering: Chef Marco, Groundskeeper Luis, Research Assistant Priya, and Visiting Scholar Dr. Victor. \n\nMarco swears he was in the kitchen preparing the midnight snack from 9:00 PM to 9:45 PM, and the kitchen log shows the door was locked during that entire period. Luis says he was tending the greenhouse from 9:10 PM to 9:40 PM, but the greenhouse key was later found in his pocket, and the lock on the greenhouse door was recorded as engaged the whole night. Priya claims she was cataloguing specimens in the library from 9:15 PM onward and never left the room. Victor insists he was on a video call in the lounge from 9:05 PM until after the body was discovered. The forensic team discovered a faint smear of rare orchid mud on the study’s rug—a soil that only exists in the lodge’s greenhouse—and a single broken glass fragment that matches the decorative vase on Luis’s desk.",
+  "victim": "Dr. Eleanor Finch",
+  "crimeScene": "Locked study at the Alpine Research Lodge, sealed window, bolted door",
+  "forensicClue": "Rare orchid mud on the rug that can only come from the greenhouse, and the greenhouse key found in Luis's pocket despite the door being locked all night",
+  "question": "Who is the culprit?",
+  "options": [
+    "Chef Marco – claims to have been in the kitchen, but the kitchen door was locked the whole time",
+    "Groundskeeper Luis – mud from the greenhouse on the rug and the greenhouse key in his pocket contradict his alibi",
+    "Research Assistant Priya – says she never left the library, yet no library log confirms her presence",
+    "Visiting Scholar Dr. Victor – says he was on a video call, but the call log shows he disconnected at 9:00 PM"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The only soil that can produce the orchid mud found on the study floor is the greenhouse soil, which only the groundskeeper Luis tends. Luis’s story that he was in the greenhouse is impossible because the greenhouse door was locked all night, yet the key was later discovered in his pocket, proving he entered the greenhouse and brought the mud into the study. All other suspects have alibis supported by logs or lack contradictory evidence. Therefore, Luis is indisputably the murderer.",
+  "caseNumber": 46,
+  "id": "case_46"
+}

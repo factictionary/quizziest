@@ -1,20 +1,20 @@
 {
-  "id": "case_2",
-  "caseNumber": 2,
-  "title": "The Poisoned Toast at High Noon",
-  "category": "Poison & Toxic Mystery",
-  "difficulty": "Hard",
-  "story": "At a prestigious banquet, Lord Harrington and his heir Charles both drink from the exact same pitcher of freshly squeezed iced lemonade poured into identical glasses. Lord Harrington drinks his glass down in 5 rapid gulps within 30 seconds. Charles sips his drink slowly over the next 45 minutes.\n\nTwo hours later, Charles collapses and dies from severe cyanide poisoning, while Lord Harrington experiences zero symptoms and remains completely healthy.",
-  "victim": "Charles Harrington (Heir)",
-  "crimeScene": "Grand banquet dining hall",
-  "forensicClue": "Pay attention to the state of the ice cubes in the glasses and how fast each man drank.",
-  "question": "How was Charles poisoned while Lord Harrington was unharmed if the lemonade came from the same pitcher?",
+  "title": "The Clockwork Conundrum",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "At the stroke of midnight, the famed horologist Evelyn Hart was found dead in her private study, the door bolted from the inside and the only window sealed shut. The room was immaculate except for a shattered pocket watch clutched in Evelyn's hand, its hands frozen at 9:13 PM, and a single crystal‑clear ice cube floating in her half‑filled glass of red wine—still perfectly intact despite the warm air of the study. Four people were present in the manor that night:\n\nAmelia, the housekeeper, swears she was polishing the silverware in the kitchen from 8:30 PM until 10:00 PM. Victor, Evelyn’s estranged brother, claims he stepped out onto the balcony at 8:45 PM to take a phone call and never entered the study. Dr. Lyle, Evelyn’s personal physician, says he was reviewing her medical records in the library and left at 9:00 PM. Jasper, the gardener, insists he was in the greenhouse all evening, tending to the night‑blooming orchids.\n\nThe forensic team noted that the study’s only key was missing from the lock, yet a tiny brass key was later discovered in Victor’s coat pocket. Moreover, the ice cube’s surface bore a faint imprint of a distinctive, hand‑carved wooden chess piece that matches the one displayed on Victor’s desk. The locked door could only be opened from the inside, but the missing key explains how the bolt could have been disengaged after the murder.",
+  "victim": "Evelyn Hart",
+  "crimeScene": "Evelyn's private study, locked from the inside, with a sealed window and a single intact ice cube in a wine glass.",
+  "forensicClue": "A brass key found in Victor's coat pocket and an ice‑cube imprint of Victor's unique wooden chess piece.",
+  "question": "Who is the culprit and how did the detective solve the case?",
   "options": [
-    "The cyanide poison was frozen inside the ice cubes; Lord Harrington drank quickly before the ice melted, while Charles drank slowly as the poison melted into his drink.",
-    "The rim of Charles's glass was coated with odorless contact poison by the waiter.",
-    "Lord Harrington had built up a biological immunity to cyanide over several years.",
-    "The poison was secretly injected into Charles's napkin."
+    "Option A (Amelia – she had access to the kitchen and could have slipped the key in the victim's hand)",
+    "Option B (Victor – his pocket contained the missing key and the ice cube bore his chess piece imprint)",
+    "Option C (Dr. Lyle – he could have administered a lethal dose while reviewing records)",
+    "Option D (Jasper – he was the only one with a greenhouse alibi that could be fabricated)"
   ],
-  "correctIndex": 0,
-  "deductionExplanation": "The poison was encased inside the ice cubes. Because Lord Harrington finished his entire drink within 30 seconds, the ice cubes remained solid and he ingested pure lemonade. Charles sipped his drink slowly over 45 minutes, allowing the poisoned ice cubes to melt and release lethal cyanide directly into his beverage."
+  "correctIndex": 1,
+  "deductionExplanation": "The pocket watch stopped at 9:13 PM, meaning the murder occurred at that exact moment. The only ice cube still unmelted indicates the wine was poured moments before death, and the imprint of Victor's unique chess piece on the cube ties the ice to his presence. Most crucially, the missing brass key that unlocked the study was found in Victor's coat pocket, providing the only means to open the locked door from the inside after the murder. None of the other suspects had any physical evidence linking them to the lock or the distinctive chess piece, making Victor the indisputable culprit.",
+  "caseNumber": 2,
+  "id": "case_2"
 }

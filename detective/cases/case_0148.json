@@ -1,0 +1,19 @@
+{
+  "title": "The Hacktivist Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "In the bustling tech hub of Silicon Valley, a startling heist took place at the renowned tech firm, 'CyberByte'. The crime scene illuminated by eerie blue lights from the computer screens, where the mastermind behind the company's revolutionary security system, Dr. Aaron Talbot, had vanished under mysterious circumstances. His valuable development files were gone too.",
+  "victim": "Dr. Aaron Talbot, Chief Tech Officer of CyberByte",
+  "crimeScene": "CyberByte's headquarters, a futuristic tech fortress with advanced surveillance",
+  "forensicClue": "The hacktivist signature: A cryptic message left on the company's mainframe, stating 'Awakening the digital revolution'",
+  "question": "Who is the culprit and how did they gain access to the secure tech fortress? ",
+  "options": [
+    "Option A: Sarah, the CyberSecurity lead (Corporate Spy reason)",
+    "Option B: Lucas, the hacker (Access Trap reason)",
+    "Option C: Dr. Talbot's ex-assistant, Emma (Insider Known Passwords reason)",
+    "Option D: The CEO, James (Employee Sabotage reason)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 148,
+  "id": "case_148"
+}

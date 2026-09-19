@@ -1,0 +1,20 @@
+{
+  "title": "The Phantom Painting",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Expert",
+  "story": "In the dimly lit rooms of the prestigious Art Gallery of the Galleria Umberto I, a shocking discovery unfolds. The dazzling painting, 'Moonlit Serenade' attributed to the famed artist, Leonardo da Vinci, has mysteriously vanished from its place of prominence. The last recorded sighting was hours ago, during the pre-opening tour, led by the gallery's esteemed curator, Miss Amelia Ravenwood.",
+  "victim": "Curator Miss Amelia Ravenwood",
+  "crimeScene": "The Galleria Umberto I Art Gallery, during a pre-opening tour",
+  "forensicClue": "An eerie symbol etched on the floor near the painting's last location - a cursed phoenix.",
+  "question": "Who is responsible for the disappearance of 'Moonlit Serenade'? ",
+  "options": [
+    "Option A (Miss Ravenwood and the phoenix symbol)",
+    "Option B (Suspect 1 - the renowned art thief, Count Felix Stealth)",
+    "Option C (Suspect 2 - the notorious forger, Madame Aurelia Artemis)",
+    "Option D (Suspect 3 - the disgruntled apprentice, Gianni DeLuca)",
+    "Option E (Suspect 4 - the eccentric philanthropist, Baron Von Schröder)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 125,
+  "id": "case_125"
+}

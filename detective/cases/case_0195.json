@@ -1,0 +1,19 @@
+{
+  "title": "Echoes of Deception",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the dimly lit mansion of renowned author, Sir Isaac Nightfall, an unexpected tragedy unfolds. Upon discovering the lifeless body of his beloved assistant, Emily Grey, in the locked study, the room seemingly devoid of any exits or clues as to how she entered or exited. Sir Isaac narrates, 'I had invited each of my four closest literary associates for a belated birthday celebration, eager to unveil my latest manuscript. Here are their statements:",
+  "victim": "Emily Grey - The deceased assistant",
+  "crimeScene": "The locked study within Sir Isaac Nightfall's mansion.",
+  "forensicClue": "An open manuscript lying on the desk.",
+  "question": "Who committed this murder and how did they gain entry to the study? ",
+  "options": [
+    "Suspect 1: Sir Isaac Nightfall - Found with a possible motive but no alibi (Option A)",
+    "Suspect 2: Oliver Swift - With a surprising connection to the manuscript (Option B)",
+    "Suspect 3: Lila Ashwood - With an air of suspicion due to sudden rage (Option C)",
+    "Suspect 4: Hugo Drake - A cryptic clue left behind (Option D)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 195,
+  "id": "case_195"
+}

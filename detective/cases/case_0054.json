@@ -1,0 +1,20 @@
+{
+  "title": "Stormy Secrets at Seabreeze Inn",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "During a raging thunderstorm, celebrated novelist Eleanor Hart was discovered slumped over a table in the lounge of the Seabreeze Inn, a single glass of red wine shattered beside her. The coroner determined she died from a fast‑acting cyanide derived from bitter almond oil, a toxin that leaves a faint pine‑like aftertaste. Four people were present that night: Marco, the inn’s head chef; Lila, the housekeeper who was on night duty; Victor, a local journalist known for his investigative pieces; and Clara, a traveling pianist who was staying in the guest rooms.\n\nMarco swears he was in the kitchen preparing the storm‑proof stew from 9:30 to 10:30 and never entered the lounge. Lila says she was polishing the front desk and checking the fire exits between 9:45 and 10:20, never leaving the hallway. Victor claims he spent the entire evening in the inn’s small library, reading his notes from 9:50 until after midnight. Clara insists she was in her room practicing scales from 9:00 to 10:15, then stepped out to the lounge at 10:20 to stretch before her performance.",
+  "victim": "Eleanor Hart, celebrated novelist",
+  "crimeScene": "Lounge of the Seabreeze Inn during a thunderstorm",
+  "forensicClue": "A faint pine‑resin scent was found on the victim’s lips; Victor’s notebook mentions he uses pine resin to preserve his ink.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Marco (chef, claims to be in kitchen)",
+    "Lila (housekeeper, claims to be at front desk)",
+    "Victor (journalist, claims to be in library)",
+    "Clara (pianist, claims to be in her room until 10:15)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The poison leaves a pine‑like aftertaste, and the only person who mentioned pine resin in the story is Victor, who writes with ink preserved by pine resin. Victor also claims to have been in the library the whole time, but the shattered wine glass and the victim’s watch stopped at 10:07, indicating the murder occurred in the lounge at that moment. The library is on the opposite wing and would have taken at least five minutes to reach, making Victor’s alibi impossible. Marco, Lila, and Clara have solid, verifiable alibis and no connection to pine resin. Therefore, Victor is indisputably the murderer.",
+  "caseNumber": 54,
+  "id": "case_54"
+}

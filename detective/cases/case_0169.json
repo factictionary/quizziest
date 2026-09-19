@@ -1,0 +1,25 @@
+{
+  "title": "Case Noir: The Vanishing Gems",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the heart of a glittering city, an opulent diamond showroom held the Jubilee Jewels exhibition. The star exhibit was the priceless 'Radiance Royale', a 357-carat, flawless diamond that mesmerized all who laid eyes on it. On a moonless night, the luxurious showroom was robbed, and the Radiance Royale disappeared without a trace.",
+  "victim": "Mrs. Elsie Fitch, Owner of Jubilee Jewels",
+  "crimeScene": "The dimly lit showroom, with its floor reflecting the glistening diamonds and the cold echo of footsteps guiding the robber's escape.",
+  "forensicClue": "An oddly folded piece of parchment found beside the open display cabinet - a clue left by the thief.",
+  "question": "Who stole the Radiance Royale and what was the mysterious parchment message?",
+  "options": [
+    "Option A (Suspect 1 and motive): The notorious diamond smuggler, Mr. Grayson Blackwood, who had previously attempted to acquire the Radiance Royale for his illicit network, leaving a cryptic message: 'Diamonds are forever, but so are prison bars'.",
+    "Option B (Suspect 2 and motive): The enigmatic Mr. Aiden Stone, a cunning art restorer who once salvaged a stolen diamond from a museum and left a mysterious symbol on the scene - a half-cut diamond.",
+    "Option C (Suspect 3 and motive): The ambitious Mr. Charlotte Silver, a former employee who plotted the heist to enrich himself, leaving a code in binary digits on the parchment - '1101001100', representing 'Open the safe and seize the Royale'.",
+    "Option D (Suspect 4 and motive): The witty Ms. Isabella Blue, a diamond connoisseur who attempted to swindle the priceless gem for an unknown client, leaving a cipher on the scene - a cryptic message in a diamonds' journey.",
+    "Option E (Suspect 5 and motive): Mr. Samuel Blackwood, a magician with a history of stage tricks; he left a disappearing act on the parchment, 'The illusionist's touch.'",
+    "CorrectOption",
+    ": 3",
+    "correctReason",
+    ":",
+    "Charlotte Silver, an insider, left a binary code on the parchment that guided the crime scene analysis leading to the culprit."
+  ],
+  "correctIndex": 0,
+  "caseNumber": 169,
+  "id": "case_169"
+}

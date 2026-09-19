@@ -1,0 +1,64 @@
+{
+  "title": "The Phantom Poisoner",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Medium",
+  "story": "In the dimly lit alley behind the exclusive Vesperia Cafe, something unsettling occurred. The body of a renowned botanist, Dr. Eliza Evergreen, was discovered with a mysterious potion bottle shattered nearby. Detective John Blackwood was called to the scene to solve the enigma. Several witnesses reported a hooded figure leaving moments before the arrival of the first responders.",
+  "victim": "Dr. Eliza Evergreen - Expert in rare poisons",
+  "crimeScene": "Dark alley behind Vesperia Cafe, a broken bottle of rare poison 'Emberglade Mist'",
+  "forensicClue": "A distinctive chemical signature from the broken bottle matches Emberglade Mist, a poison Dr. Evergreen was developing.",
+  "question": "Who is responsible for Dr. Evergreen's murder and how did they acquire Emberglade Mist? Please select one suspect and one of the following reasons:",
+  "options": [
+    {
+      "option": "Suspect 1 (Leonard Blackwood - Dr. Evergreen's assistant)",
+      "reason": "A motive: Dr. Evergreen was about to terminate Leonard's job due to security breaches with the Emberglade Mist project.",
+      "forensicEvidence": "A latent fingerprint on the broken bottle belongs to Leonard Blackwood"
+    },
+    {
+      "option": "Suspect 2 (Emilia Nightshade - Dr. Evergreen's rival)",
+      "reason": "A motive: Emilia sought the formula for Emberglade Mist to sabotage Dr. Evergreen's reputation.",
+      "forensicEvidence": "No forensic evidence linking Emilia to the scene."
+    },
+    {
+      "option": "Suspect 3 (Captain Quirk - Police Inspector)",
+      "reason": "A motive: Captain Quirk wanted to frame Dr. Evergreen for a previous incident at the cafe.",
+      "forensicEvidence": "No forensic evidence connecting Captain Quirk to the scene."
+    },
+    {
+      "option": "Suspect 4 (Gabriel Shadow - Unknown thief)",
+      "reason": "A motive: Gabriel stole Dr. Evergreen's research notes on Emberglade Mist.",
+      "forensicEvidence": "A set of distinct shoe prints near the scene, matching an odd pair worn by Gabriel Shadow."
+    }
+  ],
+  "correctAnswer": 4,
+  "deduction": "The pamphlet, distinct shoe prints, and Gabriel's confession provide the key clues to solving the mystery.",
+  "clues": [
+    {
+      "clue": "Pamphlet 'Guardians of the Forgotten Art'",
+      "forensicEvidence": "The pamphlet, found in Dr. Evergreen's office, reveals a secret society of collectors focusing on rare poisons and rare plants.",
+      "description": "A mysterious pamphlet about a secret society of poison collectors."
+    }
+  ],
+  "solution": "The distinct shoe prints and latex gloves point towards Gabriel Shadow. The secret society mentioned in the pamphlet reveals a shared motive. Upon interrogation, Gabriel confessed to entering and defending Dr. Evergreen when attacked.",
+  "evidence": [
+    {
+      "evidence": "Distinct shoe prints",
+      "description": "A unique shoe size left at the scene.",
+      "location": "Found near Dr. Evergreen's body"
+    },
+    {
+      "evidence": "Latex gloves",
+      "description": "Personal gloves, possibly used for protection or defense.",
+      "location": "On Dr. Evergreen's person"
+    }
+  ],
+  "forensicEvidence": [
+    {
+      "forensicEvidence": "Copper coins",
+      "description": "Copper coins scattered near the body suggest a struggle.",
+      "location": "Found near Dr. Evergreen's body"
+    }
+  ],
+  "correctIndex": 0,
+  "caseNumber": 147,
+  "id": "case_147"
+}

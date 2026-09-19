@@ -1,0 +1,19 @@
+{
+  "title": "Diamond in the Rough",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the glittering world of Las Vegas nights, a daring heist took place at the prestigious Diamond Expo. The central gem, a 100-carat diamond worth millions, mysteriously vanished from its heavily guarded display cabinet. To complicate matters, the victim, Mr. James Wilson, the Diamond Expo Director, couldn't have been influenced by the اللصوص since he met his untimely demise in a separate incident a week prior. The event was attended by 4 potential suspects, each with a motive to get their hands on the shining prize.",
+  "victim": "Mr. James Wilson, Diamond Expo Director",
+  "crimeScene": "The Diamond Expo at the opulent Venice Hotel & Casino.",
+  "forensicClue": "The distinctive odor of burnt magnesium was discovered on one of the suspects.",
+  "question": "Who stole the diamond and how did they pull it off?",
+  "options": [
+    "Option A (Suspect 1 and their method)",
+    "Option B (Suspect 2 and their method)",
+    "Option C (Suspect 3 and their method)",
+    "Option D (Suspect 4 and their method)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 286,
+  "id": "case_286"
+}

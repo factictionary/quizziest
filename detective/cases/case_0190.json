@@ -1,0 +1,20 @@
+{
+  "title": "Who Dunnit: The Phantom Heist",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "On a moonlit night in the seedy backstreets of Gritville, Detective Jones received a cryptic call: 'Someone stole the Notorious Diamond, a 300-year-old relic that once graced the royal crown. The crime scene: an abandoned theater, where cobwebs meet modern technology. Victim: Security Guard Larry, found unconscious near the holographic security display.",
+  "victim": "Larry, the Security Guard",
+  "crimeScene": "The theater is a peculiar blend of ancient architecture and high-tech surveillance systems. The holographic security display records every movement and login attempt.",
+  "forensicClue": "The Notorious Diamond's digital trail led to a mysterious account named 'NightMuse', which logged in at the precise moment of the heist.",
+  "question": "Which suspect stole the Diamond and faked Larry's assault? ",
+  "options": [
+    "Option A: Clyde, the janitor with a grudge (Larry accused him of stealing cleaning supplies)\nReason: Clyde's alibi-less and a proven grasper.\nForensic Clue: Clyde's fingerprints on the Diamond's case.",
+    "Option B: Veronica, the theater manager (She wanted to sell the Diamond for profit)\nReason: Veronica has a motive and logged off the security display just before the crime.\nForensic Clue: Veronica's DNA on the display's keyboard.",
+    "Option C: Amelia, the theater's tech support (She had the password to the Diamond's digital trail)\nReason: Amelia lied about her whereabouts at the time of the crime and a crucial detail is missing from her alibi.\nForensic Clue: Amelia's palm print near the 'NightMuse' login.",
+    "Option D: Professor Dupont, the ancient history expert (He knows the theater's secrets, including the hidden entrance used by the thief)\nReason: Professor Dupont had the means, motive, and the cunning to pull of the crime.\nForensic Clue: Professor Dupont's fingerprints on the hidden entrance doorknob."
+  ],
+  "correctIndex": 3,
+  "deduction": "The culprit, Professor Dupont, used his knowledge of the theater's secrets to enter and exit without leaving a trace. His fingerprints on the hidden entrance doorknob indicates his presence. The 'NightMuse' login corresponds to a fictitious account created just before the crime. The motive lies in the mystery box within the theater, where the Diamond is believed to hide a legendary treasure map.",
+  "caseNumber": 190,
+  "id": "case_190"
+}

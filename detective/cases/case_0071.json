@@ -1,0 +1,20 @@
+{
+  "title": "Stormbound Silence",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "During a raging thunderstorm, wealthy philanthropist Richard Langley was found dead at 11:00 PM in the locked study of his isolated manor. The study door was bolted from the inside, the sole window was shut and barred, and the only piece of furniture disturbed was a porcelain teacup on the desk. An autopsy revealed a lethal dose of cyanide in his tea.\n\nFour guests give their alibis. James, the business partner, says he was in the library until 9:45 PM, then walked to the garden and took a phone call until 10:15 PM before returning to the lounge. Emma, the housekeeper, claims she was in the kitchen preparing dessert and, at 10:20 PM, fetched a clean teacup for Richard, placed it on the study desk, and stayed in the kitchen until 10:45 PM. Alex, the nephew, insists he was in the billiard room reading until 10:50 PM and never left. Samantha, the rival, says she was in the lounge watching the storm until 10:55 PM, seeing only James and Emma pass by. The forensic team discovers the teacup on the desk bears Richard’s fingerprints and a faint cyanide residue on its rim.",
+  "victim": "Richard Langley",
+  "crimeScene": "Locked study in an isolated manor during a thunderstorm",
+  "forensicClue": "A porcelain teacup on the desk with Richard's fingerprints and cyanide residue",
+  "question": "Who is the culprit?",
+  "options": [
+    "James (He was in the garden during the critical window)",
+    "Alex (He stayed in the billiard room the whole evening)",
+    "Emma (She handled the teacup and placed it on the desk before the study was locked)",
+    "Samantha (She was in the lounge watching the storm)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The poison was found only on the teacup that sat on the study desk. 2. The study was locked from the inside at 10:30 PM, so anyone entering after that is impossible. 3. Emma is the only person who admits to handling a teacup that night and states she placed it on the desk at 10:20 PM, before the lock was engaged. 4. James, Alex, and Samantha never mention touching a cup and their alibis keep them away from the study during the crucial window. 5. The cyanide on the rim matches the autopsy result, linking the cup directly to the murder. Therefore, Emma is indisputably the murderer.",
+  "caseNumber": 71,
+  "id": "case_71"
+}

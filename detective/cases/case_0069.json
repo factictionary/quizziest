@@ -1,0 +1,20 @@
+{
+  "title": "The Midnight Data Breach",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "Alexandra \"Alex\" Chen, lead engineer at NovaTech, discovered that the prototype AI code she stored on her encrypted workstation had vanished when she logged in on Monday morning. The server logs show the files were exfiltrated during a brief window on Sunday night, after the building’s biometric doors were temporarily disabled. Four colleagues were questioned:\n\n1. **Jamie Lee** – a disgruntled ex‑employee who claims he was in a job interview in Denver on Sunday, backed by a coffee‑shop receipt timestamped 6 PM.\n2. **Dr. Rachel Kim** – a senior researcher who says she left the office at 9:45 PM on Friday and spent the weekend at a family reunion, with several coworkers confirming her early departure.\n3. **Ethan Patel** – a new intern who insists he was at a national gaming tournament from Friday evening through Sunday, a fact his teammate can verify via a livestream archive.\n4. **Maya Ramos** – a senior executive who visited Alex’s desk at 7:30 PM Friday to discuss a project and left at 8:15 PM, noting she never returned after that.",
+  "victim": "Alexandra \"Alex\" Chen",
+  "crimeScene": "NovaTech headquarters, Silicon Valley – Alex’s secured workstation and the central data vault.",
+  "forensicClue": "The access‑control log records that the door‑disable command originated from internal IP 10.2.5.17, the static IP assigned exclusively to Dr. Rachel Kim’s workstation.",
+  "question": "Who stole the AI prototype code?",
+  "options": [
+    "Option A (Jamie Lee – his alibi checks out with the receipt).",
+    "Option B (Dr. Rachel Kim – her stated Friday departure contradicts the Sunday night remote disable).",
+    "Option C (Ethan Patel – his tournament claim is backed by a livestream).",
+    "Option D (Maya Ramos – she was the last to see Alex on Friday)."
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "All alibis cover the Sunday night window except Rachel’s. She claims to have left the office before 10 PM on Friday, yet the breach occurred Sunday night when the building’s doors were disabled. The forensic clue shows the disable command came from IP 10.2.5.17, which is bound to Rachel’s workstation and cannot be spoofed from outside the network. Jamie, Ethan, and Maya have verifiable whereabouts for the entire weekend. Therefore, the only suspect who could have remotely issued the command and had motive (rivalry with Alex) is Dr. Rachel Kim.",
+  "caseNumber": 69,
+  "id": "case_69"
+}

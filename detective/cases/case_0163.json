@@ -1,0 +1,20 @@
+{
+  "title": "The Enigmatic Parlor Puzzle",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the opulent mansion of eccentric millionaire, Mr. Wilder, a shocking discovery was made. Upon Mr. Wilder's sudden death in his lavish parlor, every door and window were firmly locked from the outside. The valet, Mrs. Johnson, the gardener, Mr. Brown, the cook, Miss Turner, and the housekeeper, Mr. Williams, were the only ones present during the evening's events. Upon examination, the only entrance to the parlor was found unlocked, leading to the locked room mystery.",
+  "victim": "Mr. Wilder",
+  "crimeScene": "The locked parlor with a single unlocked door.",
+  "forensicClue": "An empty whiskey bottle found on the floor near the unlocked door.",
+  "question": "Who committed the crime and how did they gain entry? Culprit's motive and opportunity will also be revealed.",
+  "options": [
+    "Option A (Mr. Williams and opportunity)",
+    "Option B (Mrs. Johnson and motive)",
+    "Option C (Mr. Brown and opportunity)",
+    "Option D (Miss Turner and motive)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "During the investigation, it was discovered that Mr. Wilder's health condition was known to all of them. Upon closer questioning, it was revealed that Mr. Williams had a motive (Wilder's inheritance) and opportunity (he was the last seen with Wilder before the locked room). The empty whiskey bottle provides evidence of self-medication, which Mr. Brown had knowledge of due to his consistent work with Wilder. This puts Mr. Brown at the scene around the time of the crime.",
+  "caseNumber": 163,
+  "id": "case_163"
+}

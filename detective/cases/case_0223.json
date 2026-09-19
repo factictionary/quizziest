@@ -1,0 +1,38 @@
+{
+  "title": "Whodunit: The Cursed Museum",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "In the eerie halls of the ancient “Legacy of Shadows” museum, a dark fate befell curator Sarah Thompson. Upon discovering a priceless artifact's uncanny disappearance, the staff were alarmed by mysterious writing on the wall: “You shall pay for your greed!”\n\nThe day's curator was Sarah Thompson, a meticulous and respected figure. The museum's layout is distinct, with a central “Shadows Gallery” showcasing eerie artwork and a locked “Lost Treasures Cellar” housing valuable relics. The “Thunderstone”, a mythical gem said to grant immense power, vanished from the cellar, leaving the staff bewildered.",
+  "victim": "Sarah Thompson - the museum's esteemed curator",
+  "crimeScene": "The central “Shadows Gallery”, where the mysterious graffiti was discovered.",
+  "forensicClue": "The smudge",
+  "question": "Who stole the Thunderstone and left the cryptic message? How did the detective uncover the truth?",
+  "options": [
+    {
+      "option": "Option A: Bernard - the janitor with a history of theft",
+      "reason": "Found guilty of previous museum thefts, Bernard's motive is clear.",
+      "forensicClueLink": "Shadows_Gallery_smudge"
+    },
+    {
+      "option": "Option B: Maria - the security guard with a grudge against Sarah",
+      "reason": "Maria, envious of Sarah's promotion, had a grudge and access to the museum.",
+      "forensicClueLink": "Shadows_Gallery_smudge"
+    },
+    {
+      "option": "Option C: Samuel - the archaeologist seeking the Thunderstone",
+      "reason": "Samuel, undercover for a rival museum, had the motive and access to the museum.",
+      "forensicClueLink": "Shadows_Gallery_smudge"
+    },
+    {
+      "option": "Option D: Emily - the temp worker with a hidden key",
+      "reason": "Emily, the new temp worker, was caught fitting a peculiar key to an empty room.",
+      "forensicClueLink": "Shadows_Gallery_smudge",
+      "logicalDiscrepancyLink": "Museum_timeline_anomaly"
+    }
+  ],
+  "answer": "The detective discovered the museum's timeline anomaly revealing Emily as the culprit.",
+  "logicalDiscrepancy": "The anomaly in the museum's timeline",
+  "correctIndex": 0,
+  "caseNumber": 223,
+  "id": "case_223"
+}

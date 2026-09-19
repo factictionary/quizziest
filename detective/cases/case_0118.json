@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the glittering city of Las Vegas, amidst the architectural splendor of the Crystal Casino, a dazzling heist occurred. The daring crime took place at the heart of the casino, in the newly-opened Diamond Vault. The Vault was a marvel of modern architecture, featuring a breathtaking display of diamonds that could light up an entire city. The owner of the Crystal Casino, successful businessman Mr. Jameson, entrusted the security to his trusted security chief, Inspector Johnson.",
+  "victim": "Mr. Jameson (Victim)",
+  "crimeScene": "The Diamond Vault at the Crystal Casino",
+  "forensicClue": "A peculiar scratch mark on the floor near the entrance of the Vault.",
+  "question": "Who is the culprit? How did the detective solve it?",
+  "options": [
+    "Option A (Inspector Johnson and the scratch mark)",
+    "Option B (Suspect 1 and the motive)",
+    "Option C (Suspect 2 and the hidden room)",
+    "Option D (Suspect 3 and the security footage)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "During the investigation, Inspector Johnson revealed that there was a peculiar scratch mark on the floor near the entrance of the Diamond Vault, which could only have been made by a person wearing specific type of shoes. Further inspection of the CCTV footage revealed a peculiar figure, wearing such distinctive shoes, entering the Vault just before the crime occurred. The clincher came when the inspector mentioned that a hidden room was discovered in the Diamond Vault, which led to the discovery of a stolen diamond brooch - identical to the missing diamond from the heist.",
+  "caseNumber": 118,
+  "id": "case_118"
+}

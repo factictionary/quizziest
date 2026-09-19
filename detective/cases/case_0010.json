@@ -1,0 +1,20 @@
+{
+  "title": "The Silent Clocktower Conundrum",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Elias Finch, the venerable archivist of the city museum, was found dead in his study perched atop the historic Clocktower. The heavy oak door was bolted from the inside, the two narrow windows were sealed with iron bars, and the only access was a 1‑meter ventilation shaft that was logged as locked at 22:10. Finch's pocket watch lay on the desk, its hands frozen at 22:13. The storm raged outside, and a single fresh rain droplet glistened on the polished floor despite the sealed windows. \n\nFour people were present in the tower that night: \n1. Mara Voss, the night guard, claims she patrolled the lower floors until 22:05 and then retired to the break room. \n2. Dr. Lionel Pierce, a historian, says he was in the library reviewing old blueprints until 22:12, then left via the main stairwell. \n3. Selene Kade, Finch's apprentice, insists she was cataloguing manuscripts in the adjacent wing until 22:14, when she heard a crash and fled. \n4. Victor Hale, the maintenance chief, reports he was inspecting the tower's clock mechanism from 22:00 to 22:20, and that he alone possessed the key to the ventilation shaft.",
+  "victim": "Elias Finch",
+  "crimeScene": "Sealed study on the Clocktower, door bolted from inside, windows barred, ventilation shaft locked at 22:10",
+  "forensicClue": "A single fresh rain droplet on the floor indicates water entered through the ventilation shaft after it was supposedly locked, and the pocket watch stopped two minutes after the shaft was logged closed.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Mara Voss – she claims to have left early, but her watch shows she was still on duty)",
+    "Option B (Dr. Lionel Pierce – his alibi conflicts with the time the watch stopped)",
+    "Option C (Victor Hale – he had the only key to the shaft and the rain clue points to entry through it)",
+    "Option D (Selene Kade – she was the last to see the victim alive, but lacks means to lock the shaft)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The pocket watch stopped at 22:13, two minutes after the ventilation shaft was logged as locked at 22:10. The only way water could reach the floor after the windows were sealed is through that shaft, meaning it was opened after being logged closed. Of the suspects, only Victor Hale admits to having the key to the shaft and was present in the tower until 22:20, giving him both the means and the opportunity. The other suspects' alibis either place them elsewhere at the crucial time or give them no access to the shaft. Therefore, Victor Hale is indisputably the murderer.",
+  "caseNumber": 10,
+  "id": "case_10"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Whodunit in the Enigmatic Penthouse",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the lavish penthouse of a wealthy industrialist, Mr. R. K. Verma, a gruesome scene unfolds. The master bedroom door is locked from the inside, and the victim, Ms. Aisha Patel, a renowned art curator, lies lifeless on the floor. The room is cluttered with expensive art pieces, and the window is securely locked as well. The doorbell rings at 9 PM, unexpected guests discover the gruesome scene.",
+  "victim": "Ms. Aisha Patel, Art Curator",
+  "crimeScene": "Enigmatic penthouse with valuable artworks and locked door",
+  "forensicClue": "A torn painting invoice found near the body",
+  "question": "Who committed the crime and how did they do it? Explain the solution.",
+  "options": [
+    "Option A: Mr. Charles D'Souza (Suspect 1) - Bought a suspiciously similar painting the day prior.",
+    "Option B: Ms. Rachel Lee (Suspect 2) - Visited R. K. Verma prior to the crime, seeking a rare art piece.",
+    "Option C: Mr. Imtiaz Khan (Suspect 3) - Owns the torn painting invoice found near the body.",
+    "Option D: Miss Olivia Thompson (Suspect 4) - Showed peculiar behavior prior to the doorbell's ringing; had a grudge against Aisha for rejecting her promotion proposal"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 98,
+  "id": "case_98"
+}

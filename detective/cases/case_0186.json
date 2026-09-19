@@ -1,0 +1,19 @@
+{
+  "title": "The Shimmering Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the glittering city of Diamond City, a dazzling event unfolded at the prestigious Diamond Museum. The heart of the city, where tourists and connoisseurs gathered to marvel at the world's finest gems. On this fateful evening, the museum's iconic 'Sunburst Diamond', worth a staggering $500 million, captured everyone's attention.",
+  "victim": "Dr. Amelia Stone, Curator of Diamond Museum",
+  "crimeScene": "The Sunburst Diamond was securely displayed in its glass case, invisibly wired to a hidden room. The security footage revealed a flawless entrance and exit.",
+  "forensicClue": "A peculiar scratch on the seemingly flawless Sunburst Diamond",
+  "question": "Who stole the Sunburst Diamond and how were they able to escape undetected? ",
+  "options": [
+    "Option A: Mr. Blackwood (Enthusiast, entered undetected during the VIP preview)",
+    "Option B: Ms. Sapphire (Consultant, had a key card and alibi)",
+    "Option C: Professor Emerald (Archaeologist, had a legitimate research appointment)",
+    "Option D: Count Violet (Malachite Mafia Boss, entered during the confusion of a distraction plan) "
+  ],
+  "correctIndex": 3,
+  "caseNumber": 186,
+  "id": "case_186"
+}

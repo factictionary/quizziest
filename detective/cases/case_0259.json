@@ -1,0 +1,20 @@
+{
+  "title": "Clockwork Deception",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "In the old, dimly lit streets of Rustburg, Detective Jane Doe investigated the mysterious disappearance of millionaire businessman, Mr. Lionel Blackwood. On a fateful evening, Mr. Blackwood's butler, Charles, found the grand entryway to Blackwood Mansion locked with the front door wide open, indicating forced entry. Within, Charles discovered Mr. Blackwood's prized pocket watch, known as the 'Blackwood Timer', missing from his study.",
+  "victim": "Mr. Lionel Blackwood",
+  "crimeScene": "The grand entryway to Blackwood Mansion with a locked door and an open front door; a forced entry.",
+  "forensicClue": "An unusual shoe print near the front door, not belonging to any of the residents.",
+  "question": "Who took the Blackwood Timer and how did they enter the mansion? Match the suspect with their alibi.",
+  "options": [
+    "Suspect 1: Mrs. Foggy (Was at the charity event from 7 PM till 9 PM, Alibi).",
+    "Suspect 2: Mr. Quirk (Was at the library reading a book, Alibi).",
+    "Suspect 3: Miss Whispers (Was in the garden whispering to herself, Alibi).",
+    "Suspect 4: Mr. Swift (Was seen running in the park at 8 PM, Alibi)."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "At 8 PM, Suspect 2 was observed reading at the library, while the front door of the Mansion was found unlocked at 7:30 PM, just before the forced entry. Given the alibi and the timeline, Suspect 2 is the most likely suspect.\n\nThe unusual shoe print near the front door belongs to Suspect 4, who was running in the park at the same time of the forced entry. Contradicting their alibi, Suspect 4 is the prime suspect.",
+  "caseNumber": 259,
+  "id": "case_259"
+}

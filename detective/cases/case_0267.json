@@ -1,0 +1,19 @@
+{
+  "title": "The Enigmatic Study Solution",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In The Enigmatic Study Solution, detective John investigates the mysterious death of renowned inventor, Mr. Amalgam. The crime scene is Mr. Amalgam's luxurious study, which was impressively locked from the inside. Upon arrival, Detective John discovers a chalk outline of a human figure near the locked study door. Among the shattered glass of a nearby vase, he finds a distinctive torn piece of fabric that matches a cloak worn by one of the suspects. Witnesses report hearing a loud noise around the time of the murder, suggesting an intruder might be involved.",
+  "victim": "Mr. Amalgam (Role - Inventor)",
+  "crimeScene": "Mr. Amalgam's study, locked from the inside with chalk outline, glass vase, and torn fabric clue",
+  "forensicClue": "Torn piece of fabric from a cloak matching one of the suspects",
+  "question": "Who is the culprit and how did they escape?",
+  "options": [
+    "Option A (Dr. Quark and escape method)",
+    "Option B (Ms. Nebula and escape method)",
+    "Option C (Professor Zeta and escape method)",
+    "Option D (Mr. Galaxy and escape method)"
+  ],
+  "correctIndex": 1,
+  "caseNumber": 267,
+  "id": "case_267"
+}

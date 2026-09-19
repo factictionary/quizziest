@@ -1,0 +1,19 @@
+{
+  "title": "Artful Deception",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "In a quaint little town, the prestigious 'Art Gallery of Elegance' hosted an exhibition of valuable artworks. Among them was a priceless oil painting by an unknown artist, 'The Enigmatic Masterpiece'. On the opening night, the gallery's owner, Miss Emily, discovered the painting missing from its gilded frame. Time of crime: 8 PM.",
+  "victim": "Miss Emily, the Gallery Owner",
+  "crimeScene": "The dimly lit Art Gallery of Elegance, adorned with priceless artworks, where 'The Enigmatic Masterpiece' was prominently displayed.",
+  "forensicClue": "An odd scratch on the surface of the empty frame.",
+  "question": "Who stole 'The Enigmatic Masterpiece' and why? ",
+  "options": [
+    "Option A (The Grumpy Art Appraiser - The appraiser's grumpy demeanor and a habitual grudge against the gallery)",
+    "Option B (The Enigmatic Artist - The mysterious artist who asked for anonymity and couldn't provide a fingerprint)",
+    "Option C (The Quiet Collector - The collector who visited discreetly and left a cryptic note)",
+    "Option D (The Impulsive Student - The student who excitedly shared their art thievery plan the night before)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 191,
+  "id": "case_191"
+}

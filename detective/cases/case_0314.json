@@ -1,0 +1,15 @@
+{
+  "title": "The Enigmatic Escape Room",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In the heart of a bustling city, the Escape Room chain gained popularity amongst thrill-seekers. On a chilling autumn evening, the latest challenge, 'The Enigmatic Escape Room,' was locked in the dimly lit Escape Room building.\n\nThe victim, Sarah 'Sass' Parker, was a renowned cryptographer with Escape Room's mysterious division. She was trapped inside the locked room with no apparent entry or exit point. Her fellow cryptographers, a motley crew of suspects, tried desperately to crack the room's latest conundrum. They were: \n\n1. Peter, an eccentric cipher master, whose obsession with 4321 numbers was notorious.\n2. Emma, an inventive inventor, obsessed with secret passage discoveries.\n3. Leo, a meticulous logician, known for his analysis of puzzles.\n4. Ava, a cunning codebreaker, famous for solving complex puzzles, but with a secret motive.\n\nThe room's puzzles revolved around a cryptic code, a secret passage, and a hidden exit.\n\nThe clock was ticking, and Escape Room's director, John, frantically dialed the emergency number. \n\n\n",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 314,
+  "id": "case_314"
+}

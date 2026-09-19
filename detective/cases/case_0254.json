@@ -1,0 +1,20 @@
+{
+  "title": "Tech Tangled: The Hacked Company",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In the bustling tech hub, \"Silicon Valley Innovations\", a mysterious event rocked the company's world. Suddenly, their confidential client database was breached, compromising thousands of important records. The CEO, Sarah Williams, called for her team's help to crack the case and restore her company's reputation.",
+  "victim": "CEO Sarah Williams",
+  "crimeScene": "Silicon Valley Innovations headquarters",
+  "forensicClue": "An unknown script left on the company's Intrusion Detection System (IDS)",
+  "question": "Who is responsible for the database breach and how was it done? ",
+  "options": [
+    "Option A (Suspect 1 and their motive)",
+    "Option B (Suspect 2 and their method)",
+    "Option C (Suspect 3 and their opportunity)",
+    "Option D (Suspect 4 and their unique approach)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The logical progression to reveal the culprit begins with analyzing the forensic clue. None of the suspects have a motive or opportunity that directly links to them. However, suspect 3, James Kim, is the only one with a connection to the tech realm, an IDS expert. Upon examination of the left script on the IDS system, the code mentions a unique IP address linked to James' personal server. Subsequent interviews with the team reveal that James was angry with Sarah due to recent budget cuts affecting his department. This links James to the crime. The motive is clear: financial gain, and the method of accessing the server falls under his expertise. Therefore, the correct answer is Option C (Suspect 3 and their opportunity).",
+  "caseNumber": 254,
+  "id": "case_254"
+}

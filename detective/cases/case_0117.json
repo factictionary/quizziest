@@ -1,0 +1,40 @@
+{
+  "title": "Whispers of the Forged Masterpiece",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "In the city's prestigious Art Museum, a beguiling incident occurred. The 'Painted Illusion' exhibit was unveiled, showcasing a fabled oil painting, thought lost for decades. The painting, 'Enigma of the Laughing Magdalene', was said to have been stolen from the renowned Rothko Gallery in 1987. A prominent figure, Dr. Amelia Ravenwood - Curator of the 'Painted Illusion' - stood beaming next to the newfound masterpiece.\n\nVictim: Dr. Amelia Ravenwood (Curator)\nCrime Scene: Art Museum, specifically 'Painted Illusion' exhibit\n\nThe nightly gala was bustling with art enthusiasts when an anonymous note was found pinned to the roped-off painting. It read: 'Madam, your exhibition is a sham! This 'Laughing Magdalene' is a forgery.' Suspect 1, Mr. Emeric Blackwood - Art Dealer, believed the painting to be authentic and claimed to have a promising lead on its origin. Suspect 2, Ms. Isadora Dusk - Art Historian, claimed to have studied the painting and knew it to be a contemporary imitation. Suspect 3, Mr. Jasper Nightshade - Art Critic, dismissed the painting's authenticity but denied any involvement, directing the suspicion towards Ms. Astrid Galveston - Art Collector, who heavily invested in unusual art pieces and had a peculiar motive.",
+  "crimeSceneDescription": "The Art Museum's 'Painted Illusion' exhibit was abuzz with excitement on the night of the gala event. Amidst the murmur of art enthusiasts, a mysterious note was found pinned to the roped-off painting. The note read: 'Madam, your exhibition is a sham! This 'Laughing Magdalene' is a forgery.'",
+  "suspects": [
+    {
+      "name": "Mr. Emeric Blackwood",
+      "role": "Art Dealer",
+      "evidence": "He believed the painting to be authentic and claimed to have a promising lead on its origin."
+    },
+    {
+      "name": "Ms. Isadora Dusk",
+      "role": "Art Historian",
+      "evidence": "She studied the painting and knew it to be a contemporary imitation."
+    },
+    {
+      "name": "Mr. Jasper Nightshade",
+      "role": "Art Critic",
+      "evidence": "He dismissed the painting's authenticity but denied any involvement and pointed the finger at Ms. Astrid Galveston",
+      "forensicDiscrepancy": "The painting's creation year matches an infamous art forgery ring leader known to be connected with Ms. Galveston."
+    },
+    {
+      "name": "Ms. Astrid Galveston",
+      "role": "Art Collector",
+      "evidence": "She heavily invested in unusual art pieces and had a motive.",
+      "forensicDiscrepancy": "The painting's creation year matches the notorious forger's known activity period."
+    }
+  ],
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 117,
+  "id": "case_117"
+}

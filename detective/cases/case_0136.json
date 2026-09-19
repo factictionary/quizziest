@@ -1,0 +1,15 @@
+{
+  "title": "The Late Night Murder",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "In the small, quiet town of Ashville, our detective received an anonymous tip about a fatal murder at the local library. On arriving at the scene, they discovered Mr. Jameson, the town librarian, brutally killed in the reading section.\n\nCrime Scene: The dimly lit library was filled with stacks of books, a broken vase, and shattered glass suggesting a violent struggle.\n\nVictim: Mr. Jameson, the 50-year-old town librarian.\n\nTestimonies:\n1. Miss Adams, the old lady: 'I heard a loud noise around midnight, while searching for a rare book.' She left the library shortly after and didn't see anyone.\n2. Mrs. Wilson, the book club organizer: 'At the meeting last night, Mr. Jameson argued with someone over a disputed book.' She didn't witness any further events.\n3. Mr. Brown, the town baker: 'I delivered fresh pastries at 10 pm and left. I heard nothing unusual.' (no alibi provided)\n4. Mr. Green, the carpenter: 'I was sawing wood at my shop. I heard the commotion around midnight, but didn't investigate.' (no alibi provided)",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 136,
+  "id": "case_136"
+}

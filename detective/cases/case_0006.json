@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Study Silence",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "At precisely 9 p.m., the body of reclusive philanthropist Harold Finch was discovered slumped over his mahogany desk in the study of his manor. The heavy oak door was bolted from the inside, the single window sealed shut, and no footprints were found on the polished floor. A half‑drunk cup of Earl Grey lay on the desk, its porcelain spoon missing, and a faint whiff of lemon oil clung to Finch's shirt. The wall‑mounted security camera in the hallway captured a figure in a rain‑coat opening the study door at 8:55 p.m., though the night outside was dry and the only rain‑coat in the house belonged to the neighbor, Clara Marlowe.\n\nFour people were present that evening. Alice, the housekeeper, swears she was polishing the silverware in the kitchen until 9:10 p.m. Ben, Finch’s estranged brother, claims he was in the library reading until the lights went out at 9:00 p.m. Clara, the neighbor who often visited for tea, says she left the manor at 8:30 p.m., after sharing a cup of tea with Finch. Derek, the handyman, insists he was in the garage fixing a leaky pipe and never entered the house after 8:40 p.m. Each insists they had no motive, but the lemon‑scented perfume found on the victim’s collar matches only Clara’s signature fragrance.",
+  "victim": "Harold Finch",
+  "crimeScene": "Sealed study in Finch Manor, with a locked door, sealed window, and polished oak floor.",
+  "forensicClue": "A lingering scent of lemon oil on the victim's shirt matches Clara's exclusive perfume, and the missing spoon is a unique antique that belongs to Clara's tea set.",
+  "question": "Who is the culprit and how did the detective solve the case?",
+  "options": [
+    "Option A (Alice – She was polishing silverware, but the missing antique spoon belongs to Clara, not Alice.)",
+    "Option B (Ben – He was in the library, yet the security footage shows a rain‑coat wearer, and Ben never owned one.)",
+    "Option C (Clara – Her lemon‑scented perfume matches the residue on the victim, and the only rain‑coat in the house belongs to her.)",
+    "Option D (Derek – He was in the garage, but the broken wristwatch stopped at 8:45, indicating the murder occurred after his claimed departure.)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The detective first noted the impossible timeline: the study door was opened at 8:55 p.m. by someone in a rain‑coat, yet it was not raining and only Clara owned such a coat. The victim’s shirt carried a lemon oil scent that matches Clara's exclusive perfume, and the missing antique spoon is part of Clara's personal tea set, confirming she handled the cup of tea found at the scene. All other suspects have alibis that align with the evidence, leaving Clara as the only person who could have entered, poisoned the tea, and escaped before the door re‑locked, making her the indisputable culprit.",
+  "caseNumber": 6,
+  "id": "case_6"
+}

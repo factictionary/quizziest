@@ -1,0 +1,20 @@
+{
+  "title": "The Bitter Brew at Midnight Lab",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "Dr. Elena Marquez, the renowned toxicologist who was about to publish a breakthrough antidote, was found dead on the marble floor of her private research lab, a half‑filled teacup shattered beside her. The autopsy revealed a lethal dose of aconitine, a rare Alpine poison that loses potency after about 30 minutes at room temperature. Four people were present in the building that night:\n\n1. **Chef Marco** – Elena’s ex‑boyfriend, who claimed he was in his restaurant kitchen preparing the night menu at 8:00 pm. He says he left the restaurant at 8:45 pm and drove home.\n2. **Lab Assistant Priya** – a diligent researcher who says she was cataloguing samples in the adjacent wing until 9:15 pm, then left for a quick coffee break.\n3. **Security Guard Luis** – the night‑shift guard who logged his patrol rounds, insisting he was on the east wing at 9:00 pm and did not enter the main lab until after 9:30 pm.\n4. **Dr. Victor Hale** – a rival scientist who was scheduled to meet Elena at 9:00 pm to discuss a joint grant, but claims his car broke down and he never entered the building.\n\nThe forensic team found a single fingerprint on the teacup’s rim – it matched Luis’s right thumb. Moreover, the building’s CCTV shows Luis entering the lab at 9:12 pm, pouring a clear liquid into the teacup, and leaving at 9:20 pm. The timestamp on the security log, however, records Luis’s patrol at 9:00 pm, contradicting his statement. The tea was still warm when the body was discovered at 9:45 pm, meaning the poison could not have been placed earlier than 9:15 pm, the only window Luis was documented inside the lab.",
+  "victim": "Dr. Elena Marquez",
+  "crimeScene": "Private research laboratory on the 3rd floor of the Meridian Science Center, with a marble floor and a broken teacup on a stainless‑steel table.",
+  "forensicClue": "A single fingerprint on the teacup matches Luis, and the CCTV timestamps place the poison being added at 9:12 pm, within the toxin’s viable window.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Chef Marco – he had motive but no physical evidence)",
+    "Option B (Lab Assistant Priya – she was nearby but her alibi checks out)",
+    "Option C (Security Guard Luis – his fingerprint, CCTV presence, and timeline inconsistency reveal him)",
+    "Option D (Dr. Victor Hale – his alibi is weak but no forensic link)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The key to the case is the poison’s short‑lived potency. Elena died at 9:45 pm, so the aconitine had to be administered no earlier than 9:15 pm. CCTV shows Luis entering the lab at 9:12 pm, pouring the liquid into the teacup, and leaving at 9:20 pm – exactly the only window that fits the toxin’s timeline. Luis’s fingerprint on the cup directly ties him to the act. His claim of being on patrol at 9:00 pm is disproved by the video, making his alibi false. No other suspect’s statements or evidence place them in the lab during that critical period, so Luis is indisputably the murderer.",
+  "caseNumber": 28,
+  "id": "case_28"
+}

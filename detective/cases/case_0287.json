@@ -1,0 +1,19 @@
+{
+  "title": "Whodunit at the Black Hat Ball",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "In the glitzy city of Sin City, the annual Black Hat Ball was held at the opulent Mirage Hotel. It was a night filled with smoke, mirrors, and deception. Things took a sinister turn when we discovered the body of renowned gambler, Simon 'The Sharpshooter' Tate, in the VIP gaming room. The gambler was found murdered with a bullet wound to the chest.",
+  "victim": "Simon 'The Sharpshooter' Tate, a notorious gambler",
+  "crimeScene": "The VIP gaming room at the Mirage Hotel's Black Hat Ball",
+  "forensicClue": "A silenced gunshot residue found on the doorman's left hand.",
+  "question": "Who committed the crime and how did they escape unnoticed? Uncover the alibi busting clue leading to the culprit.",
+  "options": [
+    "Option A: Paul 'The Poker Pro' Richardson and his alibi of playing poker till closing time, and the mysterious absence of a security camera in that area.",
+    "Option B: Maria 'The Mind Reader' Montoya and her alibi of reading minds, however, her readings were inconclusive at the crime scene.",
+    "Option C: Gavin 'The Shadow' Smith and his alibi of vanishing into thin air immediately after the event started, but the doorman's testimony reveals seeing him leaving with a guest pass in hand.",
+    "Option D: Lydia 'The Lady Luck' Warren and her alibi of striking it rich at the gaming tables, but the silenced gunshot residue found on the doorman's left hand points to someone who entered undetected."
+  ],
+  "correctIndex": 3,
+  "caseNumber": 287,
+  "id": "case_287"
+}

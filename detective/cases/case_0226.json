@@ -1,0 +1,19 @@
+{
+  "title": "Crime of the Crest Diamond",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the glitz and glamour of the night, an exclusive event was taking place at the Crest Diamond Gallery - a place where the world's finest diamonds are displayed. The night's highlight was the Crest Diamond, an unparalleled 1000-carat masterpiece worth millions.\n\nThe gallery was filled with wealthy collectors and esteemed guests, including esteemed auctioneer, Miss Amelia Bloomstone, renowned gemologist, Dr. Sebastian Stone, Mr. Victor Blackwood, a mysterious gentleman, and Ms. Zara Emerald, the event organizer.",
+  "victim": "Ms. Zara Emerald (Event Organizer)",
+  "crimeScene": "The Crest Diamond Gallery, where the rare Crest Diamond was on display.",
+  "forensicClue": "A hairpin found at the crime scene with a distinct pattern matching that of Miss Amelia Bloomstone.",
+  "question": "Who committed the crime and what was their motive? Solve the mystery.",
+  "options": [
+    "Option A (Miss Amelia Bloomstone and motive to discredit her colleague Dr. Stone)",
+    "Option B (Dr. Sebastian Stone and motive to protect the diamond)",
+    "Option C (Mr. Victor Blackwood and motive to profit from the insurance)",
+    "Option D (Ms. Zara Emerald and motive to make amends for an unfulfilled promise)."
+  ],
+  "correctIndex": 2,
+  "caseNumber": 226,
+  "id": "case_226"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Note of Death",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "At 11:45 p.m., Jasper Quinn, the charismatic owner of the Velvet Note jazz club, was found slumped behind the bar, a single .38 caliber bullet through his heart. The backroom was a mess of shattered glass, a half‑filled espresso cup, and a faint trail of cigar ash on his coat. Four witnesses gave their statements: \n\nMaya, the bartender, swears she was polishing glasses from 11:30 until the lights went out at 11:40, then rushed to the kitchen when the espresso machine sputtered. Victor, the saxophonist, claims he finished his set at 11:50 and was in the dressing room rehearsing a new solo. Lena, the club manager, says she was in the restroom checking the broken restroom door lock from 11:35 to 12:00. Theo, the security guard, insists he was monitoring the lobby cameras until a power reset forced him to step out at 11:42, returning at 11:55.\n\nThe forensic team notes three decisive clues: the espresso cup bears a distinctive cinnamon swirl that only the club’s premium espresso machine—out of service after a maintenance log at 11:40—could produce; the cigar ash matches a rare Cuban brand that Victor exclusively smokes, and the club’s soundboard log shows the last note from Victor’s saxophone at 11:38, after which the stage lights were cut for a power reset at 11:40. The timeline makes Victor’s claim of being on stage until 11:50 impossible.",
+  "victim": "Jasper Quinn",
+  "crimeScene": "Backroom of the Velvet Note jazz club, after the midnight set",
+  "forensicClue": "Cigar ash on the victim’s coat matches Victor’s exclusive Cuban brand, and the espresso cup’s cinnamon swirl could only have been made before the espresso machine went offline at 11:40.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Maya – the bartender, because she was near the espresso machine)",
+    "Option B (Victor – the saxophonist, because his exclusive cigar ash and impossible stage timeline expose him)",
+    "Option C (Lena – the manager, because she claimed to be in the restroom during the murder)",
+    "Option D (Theo – the security guard, because he left his post during the power reset)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The murder occurred after the stage lights went out at 11:40, confirmed by the power‑reset log. Victor’s soundboard entry shows his last note at 11:38, meaning he could not have been on stage after the reset, contradicting his alibi of playing until 11:50. The only cigar ash found matches Victor’s unique Cuban brand, linking him physically to the victim. Additionally, the espresso cup’s cinnamon swirl could only have been made before the espresso machine was taken offline at 11:40, placing Victor near the cup earlier, but his claimed whereabouts after that time are false. All other suspects have alibis that hold up against the logs and forensic evidence. Therefore, Victor is indisputably the murderer.",
+  "caseNumber": 17,
+  "id": "case_17"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit in the Phantom Parlor",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "In a dimly lit town called Mysterton, Detective Jackson found himself on a simple case at the enigmatic Thornhill Manor. Late one evening, a grieving widow, Lady Sylvia Hawthorne, requested his help after discovering her younger sister, Miss Elise, lying dead in her bedroom.",
+  "victim": "Miss Elise Hawthorne - Younger Sister",
+  "crimeScene": "The crime scene was the exquisite Thornhill Manor, a grand residence with a locked door.",
+  "forensicClue": "A peculiar 'X' scratched on the locked door.",
+  "question": "Who committed the crime and how did they enter the locked room? ",
+  "options": [
+    "Option A (Lady Sylvia and the locked door)",
+    "Option B (Suspect 1 and the key)",
+    "Option C (Suspect 2 and the hidden passage)",
+    "Option D (Suspect 3 and the window)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Upon closer inspection, Detective Jackson discovered that a hidden passage behind a secret painting was left open, providing a backdoor entrance. The scratched 'X' on the locked door indicated that the murderer marked their path to escape, proving Suspect 2's involvement.",
+  "caseNumber": 224,
+  "id": "case_224"
+}

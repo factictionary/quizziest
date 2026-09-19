@@ -1,0 +1,19 @@
+{
+  "title": "The Deadly Botanical Murder",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "In the lush gardens of Havenwood Manor, a renowned botanist named Dr. Olivia Blackwood was found dead in her greenhouse. The victim's assistant, James West, discovered her body when he arrived for their early morning meeting. The greenhouse was a sanctuary for rare and exotic plants, but that fateful day, it led to a sinister discovery.",
+  "victim": "Dr. Olivia Blackwood",
+  "crimeScene": "Set in the opulent Havenwood Manor, the crime scene was the renowned botanist Dr. Olivia Blackwood's greenhouse. Displayed meticulously amidst exotic flora, this tranquil oasis concealed a sinister truth.",
+  "forensicClue": "An unexpectedly high concentration of the poisonous plant, Deathstalk, near Dr. Blackwood's body.",
+  "question": "Who is the culprit and how did they leave the Deathstalk poison near Dr. Blackwood's body? ",
+  "options": [
+    "Option A: James West (Unknown motives)",
+    "Option B: Dr. Blackwood's research rival, Dr. Amelia Fenwick (Vengeance)",
+    "Option C: The gardener, Mr. Samuel Brown (Opportunity and possible motives)",
+    "Option D: Dr. Blackwood's estranged sister, Lady Isabella Wilde (Motive and misleading evidence)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 95,
+  "id": "case_95"
+}

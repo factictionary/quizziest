@@ -1,0 +1,36 @@
+{
+  "title": "Knights of Deception",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "In the shadows of the ancient Gothic mansion, crime struck on a dense foggy night. Lady Adeline, the enigmatic owner, lay dead in her study. This night, four knights faced a challenge to prove their innocence.",
+  "victim": "Lady Adeline, wealthy socialite and owner of the mansion.",
+  "crimeScene": "The study was dimly lit, filled with priceless artifacts and an imposing marble fireplace.\nDead body of Lady Adeline, with a vintage pocket watch placed beside her. A note read: 'Payback for betrayal'.",
+  "forensicClue": "The pocket watch found next to the victim's body has a secret mechanism that sets off an alarm if tampered with.",
+  "question": "Who committed the crime and how were they linked to Lady Adeline? Uncover the true culprit by examining the suspects' alibis and the hidden clue.",
+  "options": [
+    {
+      "option": "Colonel Ezra (Found a rare artifact for Lady Adeline)",
+      "alibi": "Enters the mansion at 8 PM, searches for the artifact, leaves at 10 PM, and meets Lady Adeline briefly for a thankful word.",
+      "alibiReason": "Colonel Ezra claims he was searching for a valuable artifact requested by Lady Adeline and only exchanged brief words with her."
+    },
+    {
+      "option": "Countess Vivienne (Gave Lady Adeline a potion)",
+      "alibi": "Arrives at 9 PM, presents Lady Adeline with a mysterious potion, leaves at 11 PM, and stops by a tavern.",
+      "alibiReason": "Countess Vivienne visited Lady Adeline to share a peculiar potion and later stopped by a tavern."
+    },
+    {
+      "option": "Marquess Xavier (Hosted a secret meeting)",
+      "alibi": "Greets Lady Adeline at 10 PM, hosts a secret meeting till midnight, and leaves quietly.",
+      "alibiReason": "Marquess Xavier claimed to have greeted Lady Adeline, organized a secret meeting, and left discreetly."
+    },
+    {
+      "option": "Archduke Felix (Paid a debt)",
+      "alibi": "Pays a debt to Lady Adeline at 9 PM, attends a private dinner at 10 PM, and leaves at midnight.",
+      "alibiReason": "Archduke Felix settled a financial dispute with Lady Adeline, dined at a private dinner, and departed at midnight."
+    }
+  ],
+  "correctIndex": 2,
+  "correctReason": "Marquess Xavier's secret meeting and discreet departure provide a crucial connection to the crime.",
+  "caseNumber": 134,
+  "id": "case_134"
+}

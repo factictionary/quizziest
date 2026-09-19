@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Vine Murder",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In the dimly lit, clandestine alley behind The Twisted Vine, a gruesome scene unfolded. The victim, renowned wine critic, Samuel Blanc, lay sprawled on the damp cobblestones. Bloodied and lifeless, his body bore a peculiar tattoo on his neck - a sinister vine, intertwining with an enigmatic symbol.",
+  "victim": "Victim: Samuel Blanc",
+  "crimeScene": "Setting: The dimly lit alley behind The Twisted Vine.",
+  "forensicClue": "The peculiar tattoo on Samuel Blanc's neck - a sinister vine intertwined with an enigmatic symbol.",
+  "question": "Who killed Samuel Blanc and why? ",
+  "options": [
+    "Option A (A jealous rival critic and envy as motive)",
+    "Option B (The proprietor of The Twisted Vine and grudges)",
+    "Option C (A disgruntled employee seeking vengeance)",
+    "Option D (A cryptic wine collector and the vine-symbol connection)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The true identity of the culprit and motive becomes apparent through the correlation between the cryptic vine symbol on the victim and the murderer, Mr. X. The heated argument regarding a spurious wine months ago fills in the motive. Detective Zero's discovery of the cryptic vine symbol on Mr. X's work table confirms the connection between the victim and the murderer, pointing to Mr. X as the culprit. The timeline reveals Mr. X's presence near the crime scene shortly after the argument, further pointing towards him as the murderer, as Samuel Blanc was killed immediately after leaving the event held by Mr. X. The players must piece together the pieces of this intricate puzzle to solve the case.",
+  "caseNumber": 101,
+  "id": "case_101"
+}

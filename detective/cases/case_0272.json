@@ -1,0 +1,20 @@
+{
+  "title": "Shhh... The Great Tape Mystery",
+  "category": "Locked Room Mystery",
+  "difficulty": "Expert",
+  "story": "In \"Shhh... The Great Tape Mystery\", the sleuth uncovers a locked room crime with a peculiar twist: a mysterious tape covers the only exit.",
+  "victim": "Mr. Augustus Snailworthy, the enigmatic inventor",
+  "crimeScene": "The dimly lit, lavish study of the eccentric Mr. Snailworthy",
+  "forensicClue": "A curious audio recording found on the tape's edge: 'Do not apply pressure - the key is hidden within the shadows'",
+  "question": "Who is the mastermind behind the locked room, and how did they manipulate the tape?",
+  "options": [
+    "Option A (Suspect 1 and method)",
+    "Option B (Suspect 2 and method)",
+    "Option C (Suspect 3 and method)",
+    "Option D (Suspect 4 and method)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Upon closer examination, Detective Thompson discovered a small piece of paper wedged beneath the doorknob. This piece of paper revealed a crucial clue: A mysterious handwriting from Mr. Snailworthy himself instructing 'Deception lies in the shadows... Look behind the tapestry!'",
+  "caseNumber": 272,
+  "id": "case_272"
+}

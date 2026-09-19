@@ -1,0 +1,20 @@
+{
+  "title": "Deadly Poisoned Dinner",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "On a cold and stormy night, numerous elite members of the city's elite gathered at the opulent mansion of tycoon, Mr. Thomas. The lavish dinner celebration was interrupted when the host himself mysteriously fell ill. Alas, it was then discovered that everyone present at the dinner had consumed the same dessert – a delectable-looking raspberry tart, prepared by the renowned chef, Miss Amelia.",
+  "victim": "Mr. Thomas",
+  "crimeScene": "The opulent mansion of Mr. Thomas",
+  "forensicClue": "An unidentified residue found on the dessert plate",
+  "question": "Who is the culprit and how did they poison the dessert?",
+  "options": [
+    "Option A (Miss Amelia and the motive)",
+    "Option B (Mr. Whitaker and the opportunity)",
+    "Option C (Ms. Wilcox and the motive)",
+    "Option D (Mr. Jenkins and the connection)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "After a thorough examination, it was discovered that the raspberry tart's unidentified residue matched a rare poison, Jatropha Curcas, found in Miss Amelia's kitchen spice collection. The motive could be linked to a longstanding feud between Miss Amelia and the victim, Mr. Thomas. Mr. Jenkins' opportunity and connection are insignificant, while Mr. Whitaker was the only one among the guests who had access to the kitchen.",
+  "caseNumber": 279,
+  "id": "case_279"
+}

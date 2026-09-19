@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Shadows Murder",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Medium",
+  "story": "In the dimly lit alleyway of the bustling city, a cold body of Samantha Blackwood, the eminent art curator, lay sprawled on the damp cobblestones. Her elegant neck showed the signature 'V' shaped murder weapon scar. The alley was awash in the eerie glow of the moon's reflection. Though a witness claimed to have seen a fleeting figure in a black hoodie around the time of the murder, no solid lead emerged.",
+  "victim": "Samantha Blackwood, Art Curator",
+  "crimeScene": "The mysterious, moonlit alley connecting the art district and the black market.",
+  "forensicClue": "The peculiar ink spot on the victim's glove.",
+  "question": "Who killed Samantha Blackwood and how did they escape?",
+  "options": [
+    "The perplexing ink spot on the victim's glove.",
+    "The black hoodie figure witness mentioned.",
+    "The alley's peculiar history",
+    "The art gallery staff's connection to the victim"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "Each clue is essential to solving the case. The black hoodie figure seen by the witness is the most immediate lead. Upon deeper investigation, it turns out that one of the art gallery staff members had a motive and opportunity related to a mysterious painting. Upon questioning, this staff member revealed that they had switched Samantha's glove by accident, leaving the peculiar ink spot as the only direct link to the murderer. The ink spot leads to the black hoodie figure who, in fact, was an undercover cop catching a notorious art forger. The forger, coincidentally, owed a significant debt to the art gallery staff member who tampered with the glove.",
+  "caseNumber": 96,
+  "id": "case_96"
+}

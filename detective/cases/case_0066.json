@@ -1,0 +1,20 @@
+{
+  "title": "The Locked Study of Ravenscroft Hall",
+  "category": "Locked Room Mystery",
+  "difficulty": "Expert",
+  "story": "Eleanor Ravenscroft, the reclusive benefactor of Ravenscroft Hall, was discovered slumped over her mahogany desk at 9:07 PM. The study was bolted from the inside; the only window was shut and latched, and the heavy oak door bore a single brass key turned to the locked position from within. A single, pristine surgical glove was found folded beside the victim, its fibers bearing the unmistakable imprint of a rare, teal‑blue polymer used exclusively by Dr. Milo Hargrave in his private clinic. \n\nFour people were present in the house that night. Harold Ravenscroft, the husband, said, “I was in the library reading until I heard a crash at 9:15, then I rushed in.” Clara, the long‑serving maid, testified, “I was polishing the silver in the dining room; I didn’t hear anything until the housekeeper shouted.” Dr. Milo Hargrave claimed, “I was in my clinic across town until 9:30, then drove here for a quick consultation.” Victor Lang, a business partner, asserted, “I was on the terrace smoking a cigar until 9:00, then I went inside to talk to Eleanor.” All four claim they entered the study after the body was found, yet the only entry point was locked from the inside.",
+  "victim": "Eleanor Ravenscroft",
+  "crimeScene": "The locked study in Ravenscroft Hall, with a bolted door and sealed window",
+  "forensicClue": "A single surgical glove made of teal‑blue polymer, a material only Dr. Milo Hargrave’s clinic stocks, was found folded on the desk beside the victim.",
+  "question": "Who murdered Eleanor Ravenscroft?",
+  "options": [
+    "Option A (Harold Ravenscroft – husband, motive of inheritance)",
+    "Option B (Clara the maid – long‑standing resentment)",
+    "Option C (Dr. Milo Hargrave – clinic‑only glove material)",
+    "Option D (Victor Lang – business rivalry)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The decisive clue is the teal‑blue surgical glove. Only Dr. Milo Hargrave’s clinic orders that exact polymer, and no other suspect has access to it. The study was locked from the inside, meaning the murderer could not have escaped through the door or window; the only plausible scenario is that Dr. Milo entered the room earlier, killed Eleanor, and then slipped the glove onto the desk to mislead investigators before leaving through the hidden service hatch that only he knew about from his clinic’s maintenance work. All alibis collapse under this forensic evidence, making Dr. Milo the indisputable culprit.",
+  "caseNumber": 66,
+  "id": "case_66"
+}

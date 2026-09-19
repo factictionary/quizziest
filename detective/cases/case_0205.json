@@ -1,0 +1,20 @@
+{
+  "title": "Toxic Twist at the Garden Party",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "On a sunny afternoon, a gathering of well-to-do gentlemen and ladies was held at the opulent mansion of Mrs. Elizabeth White. As the guests enjoyed refreshments provided by Rosalind the Head Chef, tragedy struck. Suddenly, one of the guests, the charming but enigmatic Mr. Jameson, fell to the ground writhing in excruciating pain. The once festive atmosphere turned sinister as the guests raced to seek medical aid.",
+  "victim": "Mr. Jameson (role of guest)",
+  "crimeScene": "The opulent mansion of Mrs. Elizabeth White",
+  "forensicClue": "The presence of cyanide in Mr. Jameson's blood sample",
+  "question": "Who poisoned Mr. Jameson and why?",
+  "options": [
+    "Option A (Mrs. White - Reason: Jealousy)",
+    "Option B (Rosalind - Reason: Feud)",
+    "Option C (Mr. Wilson - Reason: Financial dispute)",
+    "Option D (Miss Harper - Reason: Hidden jealousy)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "During the investigation, it was discovered that the poisoned punch was prepared by Rosalind, the Head Chef, due to a recent feud with Mrs. White over the kitchen staff hierarchy. A financial dispute led Mr. Wilson to confront Mr. Jameson, which left him distracted during the incident. Miss Harper, though seemingly innocent, hid her true motive: jealousy over Mr. Jameson's charm.",
+  "caseNumber": 205,
+  "id": "case_205"
+}

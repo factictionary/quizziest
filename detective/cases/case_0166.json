@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Nightmare Venom",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "In the shadowy world of high society, the city's elite attended a glamorous charity gala at the opulent Serenity Manor. The lavish event turned to horror when the host, renowned industrialist Mr. Blackwood, was found poisoned to death in the grand ballroom. Poison detection expert Inspector Lee was called in to solve this peculiar case.",
+  "victim": "Mr. Blackwood",
+  "crimeScene": "The opulent Serenity Manor, the grand ballroom.",
+  "forensicClue": "A single dropped violet rose petal near the lifeless body.",
+  "question": "Who is the poison suspect and how did they do it?",
+  "options": [
+    "Option A: Lady Scarlett (found the rare poison)",
+    "Option B: Professor Graves (knew the antidote)",
+    "Option C: Baroness Elsa (hosted the poisoned cocktail)",
+    "Option D: Lord Adrian (served the poisoned punch)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The dropped violet rose petal, with delicate initials 'C.B.' discovered near the crime scene, links directly to the late Mr. Charles Blackwood, the victim's brother. This planted evidence points to Lady Scarlett as the mastermind, framing her sibling for her own handiwork.",
+  "caseNumber": 166,
+  "id": "case_166"
+}

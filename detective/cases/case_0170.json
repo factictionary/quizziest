@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit at Murder Mystery Manor",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "In the heart of Gothic England, a cursed manor called Darkwood House becomes the center of a chilling mystery. On a moonlit night, the entire town was invited to a costume-themed party hosted by eccentric millionaire, Sir Roland Blackwood. Upon discovering Sir Roland lifeless in his study, the door locked from the inside.",
+  "victim": "Sir Roland Blackwood (Billionaire and Host) Name",
+  "crimeScene": "The study contained a comfortable armchair, a thick oak desk, and an open window overlooking the manor's dark gardens.",
+  "forensicClue": "The murder weapon, a hairpin with a peculiar engraving on the handle, was found next to the victim's body.",
+  "question": "Who is the ruthless party-pooper and how did they leave the hairpin as incriminating evidence?",
+  "options": [
+    "Option A (Miss Adelaide & poisoned punch)",
+    "Option B (Sir Julian & an alibi)",
+    "Option C (Lady Vivienne & the locked door)",
+    "Option D (Mr. Sebastian & the hairpin clue)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The suspicious events at the gathering, combined with the hairpin evidence linking Mr. Sebastian, make it evident that he orchestrated the murder out of jealousy over Sir Roland's inheritance decision. The engraved hairpin left at the crime scene confirms Mr. Sebastian's guilt.",
+  "caseNumber": 170,
+  "id": "case_170"
+}

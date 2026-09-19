@@ -1,0 +1,38 @@
+{
+  "title": "A Dose of Deception",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In a secluded mansion located in the depths of the Forgotten Forest, the wealthy socialite, Lady Aria Thornwood, was found dead in her luxurious bedroom. The room was adorned with a lavish bed, ornate Persian rugs, and a balcony overlooking a dimly lit garden. Amongst the clues, a handwritten note was left behind: 'She deserved it.'",
+  "victim": "Lady Aria Thornwood, a formidable philanthropist and socialite",
+  "crimeScene": "A lavish bedroom in a secluded mansion.",
+  "forensicClue": "An unidentified poison analysis from the autopsy report",
+  "question": "Who committed the crime and what was the motive?",
+  "options": [
+    "Option A (Mrs. Vivienne Drake and conflict with Lady Aria)",
+    "Option B (Mr. Cyrus Nightshade and jealousy over investments)",
+    "Option C (Miss Adelaide Wisp and revenge for inheritance)",
+    "Option D (Colonel Elijah Darkwood and vengeance for a past betrayal)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The investigation reveals that Lady Aria had a bitter argument with Colonel Elijah Darkwood days prior to the tragedy. The discovery of an unidentified poison in Lady Aria's autopsy report points to an expert knowledge of poisons. Among the suspects, only Colonel Elijah is a known poisonologist. His motive: Vengeance for a past betrayal. The murder weapon was his magnifying glass, which had residues of the poison found in Lady Aria's system. In contrast, the other suspects lack the necessary background or connection to commit and handle the poison. The poison was not found in any of the others' belongings. Colonel Elijah's guilt-ridden admission to poisoning Lady Aria serves as the final clue.",
+  "evidence": [
+    {
+      "evidenceID": 1,
+      "description": "Colonel Elijah Darkwood's background as a poisonologist",
+      "value": "A skilled individual with knowledge of poisons and a motive for vengeance"
+    },
+    {
+      "evidenceID": 2,
+      "description": "Lady Aria's death with an unidentified poison",
+      "value": "Uncertainty at first, but leads to Colonel Elijah Darkwood through magnifying glass and poison traces"
+    },
+    {
+      "evidenceID": 3,
+      "description": "Colonel Elijah Darkwood's guilt-ridden admission",
+      "value": "Colonel Elijah Darkwood's motives, opportunities, and guilt"
+    }
+  ],
+  "solution": "Colonel Elijah Darkwood killed Lady Aria and framed the others.",
+  "caseNumber": 212,
+  "id": "case_212"
+}

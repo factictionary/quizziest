@@ -1,0 +1,20 @@
+{
+  "title": "Murder at the Langley Estate",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Hard",
+  "story": "On a rain‑slick Thursday morning, Richard Langley, the reclusive magnate of Langley Industries, was found slumped over his mahogany desk in the private study of his sprawling mansion, a single glass of water tipped beside him. The autopsy confirmed rapid cyanide poisoning, a toxin that loses potency after about thirty minutes at room temperature. Four people were present in the house that morning: James Parker, Langley's longtime business partner; Emily Langley, his estranged wife; Sophia Patel, his meticulous personal assistant; and Michael Lee, a rival entrepreneur who had been invited for a tentative merger discussion.\n\nJames Parker claimed he left the study at 10:00 AM after a brief meeting and joined a conference call that, according to the call log, began at 10:05 AM. Emily Langley said she was still in her bedroom, asleep, and only awoke when the police arrived. Sophia Patel asserted she was at the downtown gym from 9:00 AM to 11:00 AM, but the gym’s exit camera shows her leaving at 10:45 AM, while the mansion’s driveway camera records her car departing at 11:05 AM. Michael Lee maintained he was at a coffee shop, with a receipt timestamped 10:30 AM for a large espresso. A single fingerprint on the water glass matches James Parker, and the glass still contained a faint cyanide residue.",
+  "victim": "Richard Langley",
+  "crimeScene": "Langley's private study in the family mansion",
+  "forensicClue": "The cyanide in the water glass degrades after 30 minutes; only James Parker's fingerprint was on the glass, and his conference call log proves he couldn't have been elsewhere at 10:00 AM as he claimed.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Option A (Emily Langley – claims to have been asleep, no motive shown)",
+    "Option B (Sophia Patel – timeline mismatch but no forensic link)",
+    "Option C (James Parker – conference call started after he said he left, fingerprint on poisoned glass)",
+    "Option D (Michael Lee – rival motive but alibi confirmed by receipt)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The poison was cyanide, which loses potency after ~30 minutes. The water glass still held trace cyanide, meaning the drink was consumed shortly before death. 2. Only James Parker's fingerprint was on that glass, directly tying him to the lethal drink. 3. Parker claimed to have left the study at 10:00 AM, yet the conference call log shows his call began at 10:05 AM, proving he was still in the house after the time he said he departed. 4. The timeline impossibility (he couldn't be on a call at 10:05 AM if he had already left) places him at the scene when the poison was administered. 5. No other suspect has forensic evidence linking them to the glass, and their alibis hold up under scrutiny. Therefore, James Parker is indisputably the murderer.",
+  "caseNumber": 73,
+  "id": "case_73"
+}

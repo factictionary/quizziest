@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit: The Forgery Heist",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "On a moonlit night, the prestigious Art Museum was robbed! The crime scene, a dimly lit room displaying ancient Egyptian artifacts, reveals a shattered vase worth millions. Among the collection, stands a 'forged' priceless painting, 'The Enigmatic Mummy's Eye', which mysteriously went missing. Alarm alerts the authorities, and a curator, EMILY, shakes with fear: 'It was stolen! I was locked in the control room during the break-in.'",
+  "victim": "Curator EMILY",
+  "crimeScene": "Ancient Egyptian artifacts room",
+  "forensicClue": "Enigmatic Mummy's Eye forgery signature",
+  "question": "Who stole 'The Enigmatic Mummy's Eye' and covered their tracks? How did they leave no trace?",
+  "options": [
+    "Option A: Suspect 1 (Emily's Coded Message)",
+    "Option B: Suspect 2 (The Black Market Boss)",
+    "Option C: Suspect 3 (The Art Forger)",
+    "Option D: Suspect 4 (The Calculated Thief)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The missing forgery signature clue connects to Suspect 3, The Art Forger. Upon further inspection, a cryptic message left behind by Emily hints at a cunning thief, leading us to Suspect 4, The Calculated Thief. Combining both pieces of evidence, the final deduction points to the art forger and calculated thief, linking them together as a well-oiled crime syndicate. Thus, the culprit is: Suspect 3 and Suspect 4.",
+  "caseNumber": 235,
+  "id": "case_235"
+}

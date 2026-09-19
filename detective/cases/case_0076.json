@@ -1,0 +1,20 @@
+{
+  "title": "The Missing Diamond Heirloom",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "The luxurious Bellvue Hotel in downtown Manhattan was the venue for a charity gala hosted by Mr. Johnson, the owner of a high‑end jewelry store. During the event, Mr. Johnson's prized diamond, the 'Starlight,' vanished from its locked display case. Police gathered statements from four suspects: Emily, the event planner; James, a wealthy donor; Sarah, a jewelry appraiser; and Michael, a security guard.\n\nEmily said, \"I was coordinating the event schedule in the back office from 9 PM to 11 PM and didn’t leave until I saw the security team making their rounds.\" James claimed, \"I was in the main hall, mingling with guests and delivering my speech around 10 PM; I even have a recording on my phone.\" Sarah noted, \"I was inspecting pieces in the display case at about 9:30 PM. I saw Michael, the guard, taking a longer‑than‑usual break around 10:15 PM.\" Michael insisted, \"I was on my regular 15‑minute rounds and never took an extended break.\"",
+  "victim": "Mr. Johnson",
+  "crimeScene": "The luxurious Bellvue Hotel in downtown Manhattan",
+  "forensicClue": "Security footage shows the display‑case lights flicker for a split second at 10:15 PM, exactly when Michael claimed to be on a routine round.",
+  "question": "Who stole the 'Starlight' diamond?",
+  "options": [
+    "Emily, the event planner, because she had access to the back office and could have swapped the diamond.",
+    "James, a wealthy donor, because he could have used his recording as an alibi and slipped away.",
+    "Sarah, the jewelry appraiser, because she knew the case’s lock mechanism.",
+    "Michael, the security guard, because his claim of no extended break contradicts Sarah’s observation and the flickering‑light footage."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The decisive clue is the 10:15 PM light flicker captured on camera. Michael said he never took a long break, yet Sarah saw him away at that exact moment, and the footage shows a brief power dip consistent with someone opening the case. The only suspect whose timeline and opportunity align with the flicker is Michael, making him the undeniable thief.",
+  "caseNumber": 76,
+  "id": "case_76"
+}

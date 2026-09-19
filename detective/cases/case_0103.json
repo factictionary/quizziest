@@ -1,0 +1,19 @@
+{
+  "title": "Poisoned Dinner Party",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "On a chilly evening at the posh mansion of millionaire industrialist, Mr. Jameson, a dinner party was organized to celebrate his latest business deal. Among the guests were close friends and associates:\n\n1. Mrs. Emily Jameson (brother-in-law),\n2. Mr. Robert Wilson (business partner),\n3. Dr. Susan Smith (toxicologist),\n4. Mr. Andrew Foster (rival businessman).",
+  "crimeScene": "The mansion's opulent dining room. The table was adorned with an exquisite feast prepared by the best chef, yet the guests reported feeling strange symptoms.",
+  "victim": "Mr. William Jameson (host) - found slumped over in his chair, motionless.",
+  "forensicClue": "The poisoned wine glass left untouched on the table, with a distinct silver taint.",
+  "question": "Who poisoned Mr. Jameson and how? Find the poisoned wine glass to piece together the story.",
+  "options": [
+    "Option A (The poison was introduced in the kitchen by Mrs. Emily Jameson)",
+    "Option B (Mr. Andrew Foster poisoned the wine during the handshake)",
+    "Option C (Dr. Susan Smith tampered with the wine after the dinner started)",
+    "Option D (Mr. Robert Wilson added the poison at the last minute)?"
+  ],
+  "correctIndex": 1,
+  "caseNumber": 103,
+  "id": "case_103"
+}

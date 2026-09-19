@@ -1,0 +1,20 @@
+{
+  "title": "The Phantom Phantom Case",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Expert",
+  "story": "In a dimly lit, old mansion nestled on the outskirts of town, an eerie and cryptic note signed as 'The Phantom' had haunted the residents. On a fateful night, the family patriarch, Samuel Brampton, a widower who owned the mansion, was found brutally murdered in his study. The door was locked from the inside, leaving no escape or intruder. The player's job is to piece together the clues and capture The Phantom. ",
+  "victim": "Samuel Brampton, a widower family patriarch",
+  "crimeScene": "The study of Samuel Brampton's mansion.",
+  "forensicClue": "A single shoe print, size 10, found near the bloodied body.",
+  "question": "Who killed Samuel Brampton and why? ",
+  "options": [
+    "Option A (Miss Adelaide and revenge)",
+    "Option B (Colonel Hardcastle and inheritance)",
+    "Option C (The butler and discovery)",
+    "Option D (Audrey and unrequited love)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The investigation reveals that Miss Adelaide, fueled by unrequited love and jealousy, had visited Samuel Brampton's study twice that evening, once at 9 PM and again at 10:30 PM. The Colonel, having feuded with Samuel over his estate planning, was seen arguing with him two hours before the murder. Upon thorough examination, the only shoe print found near the body belonged to Samuel himself, who wore a size 10 shoe. The butler, intrigued by the discovery of a hidden room in the mansion, was the last seen interacting with Samuel before the crime happened and had a motive for revenge due to past mistreatment. Audrey, in love with Samuel, was present during dinner but did not have a viable motive or alibi. The hidden room found by the butler reveals a secret passage leading to Samuel's study, suggesting his knowledge of the room prior to the argument with the Colonel.",
+  "caseNumber": 320,
+  "id": "case_320"
+}

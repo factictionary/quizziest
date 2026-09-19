@@ -1,0 +1,20 @@
+{
+  "title": "The Venomous Veranda Mystery",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the opulent mansion of wealthy industrialist, Mr. Blackwood, a deadly poison has silently snuffed out the life of his esteemed colleague, Dr. Whitney.",
+  "victim": "Dr. Whitney - A distinguished acupuncture expert",
+  "crimeScene": "The lavish Blackwood mansion; a sprawling, opulent estate with a picturesque veranda.",
+  "forensicClue": "An enigmatic blackout note found beside the body with the message: 'Poisoned by the shadows.'",
+  "question": "Who, among the mercurial suspects, was the mastermind behind Dr. Whitney's demise? ",
+  "options": [
+    "Option A (Mrs. Blackwood - Emotional distress as a motive)",
+    "Option B (Lt. Col. Grey - Jealousy and rivalry)",
+    "Option C (Ava - A mysterious visitor with a connection)",
+    "Option D (Mr. Blackwood - A hidden business rivalry)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "In this tale of deceit, forensic detective's attention turns towards Mr. Blackwood as the culprit. Leading up to the crime, Mr. Blackwood had been concealing a dark secret: a bitter rivalry driven by jealousy and fear of Dr. Whitney revealing Mr. Blackwood's fraudulent medical inventions. The mysterious blackout note, mentioning 'Poisoned by the shadows,' could be interpreted as Mr. Blackwood's fear being the 'poison,' and the shadows representing the secrets he sought to protect. The blackout note leaves clues to the murderer's motive and identity intertwined, as the story unfolds, revealing Mr. Blackwood's involvement and the motive behind the crime.",
+  "caseNumber": 156,
+  "id": "case_156"
+}

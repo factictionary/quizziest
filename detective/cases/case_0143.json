@@ -1,0 +1,19 @@
+{
+  "title": "Bloodstone Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the glittering world of the Fancy Jewelry Show, the night was about to turn sinister. The opulent venue, hosting an exclusive Diamond Auction, was bustling with high society's finest. Our victim, the enigmatic and wealthy jewellery magnate, Sir Adrian Blackstone, appeared to be the perfect host. But, under his polished exterior, lurked a conspiracy to be unravelled.",
+  "victim": "Sir Adrian Blackstone",
+  "crimeScene": "The Diamond Auction at the Fancy Jewelry Show",
+  "forensicClue": "A peculiar engraving on the back of the stolen diamond - 'A Diamond's Loyalty'",
+  "question": "Who stole the Blackstone Bloodstone Diamond and left a cryptic message? ",
+  "options": [
+    "Option A (Suspect 1 claims innocence and gives alibi)",
+    "Option B (Suspect 2 mentions rivalry with the victim)",
+    "Option C (Suspect 3 alludes to curiosity and lacks motive)",
+    "Option D (Suspect 4 reveals their obsession with the Bloodstone Diamond)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 143,
+  "id": "case_143"
+}

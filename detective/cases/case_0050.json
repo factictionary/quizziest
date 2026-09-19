@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Malware Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "At 10:00 p.m. the co‑working hub \"ByteBrew\" was quiet except for the soft hum of servers. Maya, the CTO of a fledgling AI startup, discovered that her encrypted prototype code had been exfiltrated and a ransomware note left on the main workstation. Four people were on site that night: Leo, the on‑call IT support who says he was troubleshooting the Wi‑Fi from the server room; Nina, the product manager who claims she was reviewing design mock‑ups in the lounge until 9:45 p.m.; Omar, a freelance security consultant hired for a penetration test, who insists he left the premises at 9:30 p.m. after a brief coffee break; and Priya, an intern who says she packed up her laptop and left at 9:30 p.m. to catch the last train. The server logs, however, record a successful SSH login from the internal network at 10:12 p.m. using a key that matches Priya’s laptop MAC address, and a half‑filled cup of \"Solar Brew\" coffee—Priya’s favorite brand—was found on the server rack, still warm. The timestamp on the coffee’s thermal sensor indicates it was poured no earlier than 10:00 p.m., contradicting Priya’s alibi.",
+  "victim": "Maya (CTO of the AI startup)",
+  "crimeScene": "ByteBrew co‑working hub, server room and lounge area",
+  "forensicClue": "A warm Solar Brew coffee cup with a thermal timestamp of 10:00 p.m. and a laptop MAC address match to Priya’s device.",
+  "question": "Who stole the prototype code and planted the ransomware?",
+  "options": [
+    "Option A (Leo – He was in the server room and could have accessed the SSH key).",
+    "Option B (Nina – She was the last to leave the lounge and might have slipped into the server area).",
+    "Option C (Omar – As a security consultant, he had the skills to bypass the system).",
+    "Option D (Priya – Her laptop MAC matches the unauthorized login and the coffee cup timestamps contradict her alibi)."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "1. The server logs show an SSH login at 10:12 p.m. from a device whose MAC address matches Priya’s laptop. 2. Priya claimed she left at 9:30 p.m., but the coffee cup’s thermal sensor proves a drink was poured after 10:00 p.m., and the cup was found on the server rack, indicating she was still on site. 3. Neither Leo nor Nina reported any activity after 9:45 p.m., and Omar explicitly left at 9:30 p.m. 4. The combination of the MAC address match and the impossible‑to‑ignore coffee timestamp makes Priya the only suspect whose presence at the time of the breach is verifiable, pointing indisputably to her as the culprit.",
+  "caseNumber": 50,
+  "id": "case_50"
+}

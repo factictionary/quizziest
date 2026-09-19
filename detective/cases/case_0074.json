@@ -1,0 +1,20 @@
+{
+  "title": "The Vanishing Code‑Phone",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "Alex Rivera, a senior developer at NovaTech, discovered that his encrypted work phone—containing the prototype’s source code—had vanished from his desk at exactly 2:10 PM. The office is an open‑plan floor with a single security camera covering the central aisle. Alex recalls the last time he saw the phone was during a stand‑up meeting that ended at 2:00 PM. Four coworkers give their alibis:\n\n1. **John Patel (IT manager)** – “I was on a video conference from 1:45 PM to 2:05 PM. The call log shows I hung up at 2:05, then I stepped out for a coffee.”\n2. **Emma Liu (UX designer)** – “I was reviewing Alex’s mockups with him until 2:15 PM. We were side‑by‑side at his desk the whole time.”\n3. **Michael Chen (junior developer)** – “I was debugging my module at my workstation until 3:00 PM. My laptop’s activity log shows continuous coding from 1:30 PM onward.”\n4. **Sarah Gomez (office manager)** – “I was at the reception desk all afternoon",
+  "victim": "Alex Rivera",
+  "crimeScene": "Open‑plan office on the 3rd floor of NovaTech headquarters, central aisle under a security camera.",
+  "forensicClue": "The phone’s Bluetooth log recorded a connection at 2:09 PM to a device with MAC address 00:1A:2B:3C:4D:5E, which matches Michael’s workstation.",
+  "question": "Who stole Alex’s phone and how was the culprit identified?",
+  "options": [
+    "Option A – John Patel, because he left the conference early and could have slipped away.",
+    "Option B – Emma Liu, because she was with Alex right up until the theft time.",
+    "Option C – Michael Chen, because his workstation paired with the phone at 2:09 PM, contradicting his claim of uninterrupted coding.",
+    "Option D – Sarah Gomez, because she was the only one with constant access to the reception area."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The Bluetooth log is a concrete forensic trace: it shows the phone paired with a device whose MAC address belongs to Michael’s workstation at 2:09 PM, one minute before the theft was recorded by the camera. Michael claimed he was continuously coding at his desk, which would not involve moving to Alex’s desk to steal the phone. No other suspect’s alibi is contradicted by any technical evidence. Therefore, Michael Chen is indisputably the culprit.",
+  "caseNumber": 74,
+  "id": "case_74"
+}

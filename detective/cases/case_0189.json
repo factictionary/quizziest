@@ -1,0 +1,19 @@
+{
+  "title": "Diamond Dilemma",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "In the luxurious city of Lumina, a dazzling event was about to take place at the grand Ardent Ballroom. The centerpiece of the night was the breathtakingly beautiful, 1000-carat diamond named 'Lumina Star'. The diamond belonged to the esteemed jewelry store owner, Mr. Lazarus Blackwood. One evening, just as the Ballroom was about to open, the alarm went off, signaling a daring heist.\n\nCrime Scene: The Ardent Ballroom - A lavishly decorated venue with a massive stage, surrounded by a grand jury wall displaying the priceless gems of Mr. Blackwood.\n\nVictim: Mr. Lazarus Blackwood (Jewelry Store Owner)",
+  "crimeScene": "The crime scene reveals a masterfully orchestrated break-in. Doors were forced open, and there's a clear footprint near the exit, leading away from the scene. A security recording shows suspicious characters entering the Ballroom around the same time as the heist, but their faces remain concealed due to poor quality.",
+  "forensicClue": "The distinct shoe print found by the crime scene.",
+  "question": "Who stole the Lumina Star Diamond? How did the detective solve it?",
+  "options": [
+    "Option A: Lucius Stardust (Footprints and suspicious entry).",
+    "Option B: Veronica Opal (Timing and concealed faces).",
+    "Option C: Gatsby Sapphire (The stolen diamond's description and motive).",
+    "Option D: Duke Emerald (The concealed entrants and connection to Mr. Blackwood)."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "During the investigation, Detective Zephyr discovered a cryptic note left behind at the scene: 'The sky's the limit when diamonds are the motive.' The cryptic message led Detective Zephyr to the mysterious Duke Emerald. Poring over security footage, Detective Zephyr found a direct connection between Duke Emerald and Mr. Blackwood from years ago. It transpired that Duke Emerald once owed Mr. Blackwood a substantial debt, which he could only pay through the invaluable Lumina Star Diamond. When confronted, Duke Emerald confessed and revealed that he hired Lucius Stardust and Veronica Opal to execute the daring heist.\n\nThe duo, unaware of Duke Emerald's scheme, executed the heist out of greed and mistook the Lumina Star Diamond for a priceless gem, the Opal Phantom Diamond, which they needed to fund their extravagant lifestyle. Veronica Opal, the mastermind behind this daring crime, had a motive as she harbored a grudge against Mr. Blackwood after a failed business deal. Detective Zephyr concluded the investigation with this information leading to the arrest of Duke Emerald, Lucius Stardust, and Veronica Opal, solving the case once and for all.",
+  "caseNumber": 189,
+  "id": "case_189"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Heist: The Shimmering Scheme",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the glitzy city of Diamondville, a dazzling event caught everyone's eye - the annual Diamond Jubilee auction. Guests gathered at the luxurious Diamond Palace, where valuable gems were displayed like precious crown jewels. Among them, the Crown Diamond, a breathtaking 1000-carat gem, was the star attraction. Dressed in tuxedos and gowns, attendees speculated on the lucky bidder who would claim the treasure trove. On the night of the auction, one particular gem caught the eye of an ambitious thief.",
+  "victim": "The Diamond Jubilee Auction Organizer, Ms. Elsa Stones",
+  "crimeScene": "The opulent Diamond Palace",
+  "forensicClue": "The distinct scent of lavender found at the crime scene",
+  "question": "Who stole the Crown Diamond and how was the scent of lavender connected?",
+  "options": [
+    "Option A (Brighton Black - The Enigmatic Entertainer and reason)",
+    "Option B (Violetta Velvet - The Glamorous Stylist and reason)",
+    "Option C (Clyde Cipher - The elusive Hacktivist and reason)",
+    "Option D (Adrian Amethyst - The Charismatic Auctioneer and reason;"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Amidst the glittering crowd, our cunning detective must piece together the clues to unmask the thief. The scent of lavender at the scene hints at a familiar face. Let's review the suspects: the enigmatic entertainer Brighton Black, the glamorous stylist Violetta Velvet, the elusive hacker Clyde Cipher, and our charismatic auctioneer Adrian Amethyst.",
+  "caseNumber": 317,
+  "id": "case_317"
+}

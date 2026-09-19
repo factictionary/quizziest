@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit at the Enigmatic Cabaret",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "In the neon-lit streets of the enigmatic city of Twilight Falls, Detective Eleanor unravels a bizarre murder case at the notorious Cabaret Royale. On the night of the crime, the air was thick with intrigue as patrons sipped their elixirs and listened to the enigmatic melodies of the live jazz band.",
+  "victim": "The enigmatic Figurehead",
+  "crimeScene": "The Cabaret Royale, with its red velvet curtains and dimly lit tables. The victim's lifeless body lay behind the stage, amidst a pile of old vinyl records.",
+  "forensicClue": "A peculiar scratched record found at the crime scene.",
+  "question": "Who committed the crime and how did they escape? Uncover the alibi busters.",
+  "options": [
+    "Option A: Velma (found a rare vinyl at home)",
+    "Option B: Dwayne (host of the event with a perfect alibi)",
+    "Option C: Luna (ex-employee with a motive and an alibi breeder)",
+    "Option D: Tobias (a mysterious figure who disappeared after the performance)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Dwayne, being the host of the event, has a perfect alibi, staying at the Cabaret Royale throughout the crime. Luna, the ex-employee, had a motive but lacked a solid alibi. Velma, while finding a rare vinyl at home, couldn't have committed the crime. Option D, Tobias, disappears after the performance, making him the likely suspect. The scratched record found at the crime scene points to an inside job, and Tobias is the only one with a connection to the Cabaret Royale and a motive - he was deeply in debt to the Figurehead, who had promised financial backing for his jazz band. The alibi breeder (Luna) could provide an alibi for Tobias if he confesses his involvement and names Luna as his accomplice. The scratched record leads us to suspect Tobias, but the alibi breeder role of Luna tips the scales, implicating both of them.",
+  "caseNumber": 273,
+  "id": "case_273"
+}

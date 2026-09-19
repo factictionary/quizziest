@@ -1,0 +1,20 @@
+{
+  "title": "Silicon Heist at Sunset Summit",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "During the Sunset Summit Tech Conference in Hall B of the Palomar Hotel, NovaCore AI’s CEO Rachel Chen unveiled a prototype algorithm that could rewrite natural‑language models in seconds. After the keynote, Rachel’s encrypted laptop vanished from the locked demo table. Four attendees had legitimate access to the demo area:\n\nAlex, NovaCore’s CTO, said, “I was on stage for the post‑talk Q&A until 4:55 PM, then I headed straight to the networking lounge and didn’t leave until after 9 PM.”\nMaya, a rival tech journalist, claimed, “I interviewed Rachel for a quick soundbite at 4:40 PM, then stepped outside for a phone call. I was on the balcony until the call ended at 5:10 PM.”\nJack, a former NovaCore engineer now working for a competitor, testified, “I was looking for an outlet near the demo table at 4:30 PM. I saw Alex and Maya talking, but I didn’t notice Dr. Nguyen until I passed the server room at 5:15 PM.”\nDr. Lisa Nguyen, a renowned AI researcher, asserted, “I attended the Q&A, then stayed in the adjacent breakout room until the session officially ended at 5:00 PM. I was focused on the discussion and never left the room until the speaker thanked the audience.”",
+  "victim": "Rachel Chen, CEO of NovaCore AI",
+  "crimeScene": "Sunset Summit Tech Conference, Hall B, Palomar Hotel, Silicon Valley",
+  "forensicClue": "The laptop’s secure‑boot log records a successful decryption at 5:02 PM using Dr. Nguyen’s personal RSA key, and the building’s badge scanner shows her badge entered the server room at 5:01 PM – a room that only staff could access during the conference.",
+  "question": "Who stole the algorithm and how was the theft uncovered?",
+  "options": [
+    "Alex – the CTO, who could have taken the laptop after the Q&A.",
+    "Maya – the journalist, who claimed to be on a balcony call at the crucial time.",
+    "Dr. Lisa Nguyen – the AI researcher, whose badge entry and RSA key match the forensic logs.",
+    "Jack – the former employee, who was seen near the demo area early on."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "All suspects provide alibis, but the forensic clue ties the theft to a specific person. The secure‑boot log shows the laptop was decrypted at 5:02 PM with Dr. Nguyen’s RSA key—no other suspect possesses that key. Moreover, the badge scanner records Dr. Nguyen entering the server room at 5:01 PM, the only place where the laptop could be removed without triggering the demo‑area alarm. Maya’s balcony claim is disproved by Wi‑Fi logs showing her device remained on the internal network at 5:00 PM. Alex’s timeline places him in the lounge after 4:55 PM, and Jack admits he didn’t see Dr. Nguyen until after the theft window. The only person whose actions align perfectly with the forensic evidence is Dr. Lisa Nguyen, making her the indisputable culprit.",
+  "caseNumber": 80,
+  "id": "case_80"
+}

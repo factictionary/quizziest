@@ -1,0 +1,20 @@
+{
+  "title": "The Late Count's Shady Deed",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Expert",
+  "story": "In the shadows of an old, grand mansion on Blackwood Lane, the crime unfolded. Sir Edmund Blackwood, the elusive and reclusive Count, was found brutally murdered in his study with a vintage fencing foil. The room's antique fireplace displayed an eerie burn pattern, suggesting a direct assault with a lit object. The study door was found unlocked, implying opportunistic entry.",
+  "victim": "Sir Edmund Blackwood, the Count",
+  "crimeScene": "Blackwood Mansion, the grand, eerie study.",
+  "forensicClue": "The burnt end of a fencing foil",
+  "question": "Who committed the murder and how was it done?",
+  "options": [
+    "Option A (Mrs. Blackwood and forced entry)",
+    "Option B (Mr. Hartley and a lit object)",
+    "Option C (Mr. Ramsay and a stolen fencing foil)",
+    "Option D (Miss Turner and a hidden motive)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The burnt fencing foil clue reveals that a weapon was used, specifically a fencing foil. Options C and D involve the fencing foil, which directly confirms clue found. Miss Turner (Option D) had a hidden motive due to the Count's reluctance to grant her a financial inheritance. Mr. Ramsay (Option C) stole the burnt fencing foil from the Count's collection, which links him to the murder weapon. Mr. Hartley (Option B) used a lit object (a candle) as the murder method, which matches the burn pattern on the Count's shirt.",
+  "caseNumber": 192,
+  "id": "case_192"
+}

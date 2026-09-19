@@ -1,0 +1,20 @@
+{
+  "title": "Deadly Draft on the Rooftop",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "Dr. Lena Moroz, the institute's leading toxicologist, was found unconscious on the rooftop laboratory of the Helix Pharma research center, later declared dead from acute respiratory failure. The autopsy revealed a rare alkaloid, *Aconitine‑X*, inhaled as an aerosol. Four people were on the premises that morning.\n\nDr. Victor Hale, a senior colleague, testified, \"I was in the conference room from 9:00 to 10:30 reviewing grant proposals; I never left the building.\" Maya Ruiz, the lab assistant, said, \"I was in the lower lab preparing the antivenom batch from 8:45 to 10:15; I only stepped out to fetch a sample at 9:05.\" Security chief Dr. Ethan Shaw claimed, \"I was on patrol in the east wing, checking cameras, from 9:15 to 10:00.\" Nina Patel, the cleaning supervisor, insisted, \"I started cleaning the rooftop terrace at 9:30 and worked until 10:20.\"\n\nA logbook recovered from the rooftop lab shows a nebulizer was activated at 9:06 AM, recording the user’s badge ID as 4729. The door access log shows badge 4729 swiped at 9:07 AM to open the rooftop door. CCTV footage captures a figure in a lab coat entering at that moment, but the figure’s face is obscured. The only person who possessed a badge with ID 4729 was Nina, yet her statement places her arrival after 9:30. Meanwhile, Maya had ordered a shipment of *Aconitine‑X* for a side project the week before and is the only staff member with training on the nebulizer.",
+  "victim": "Dr. Lena Moroz",
+  "crimeScene": "Rooftop laboratory of Helix Pharma research center",
+  "forensicClue": "Nebulizer log shows activation at 9:06 AM with badge 4729; door swipe at 9:07 AM also shows badge 4729, but the alleged user (Nina) claims she arrived after 9:30.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Dr. Victor Hale – He had professional rivalry with Dr. Moroz.",
+    "Maya Ruiz – She ordered the rare toxin and knows how to operate the nebulizer.",
+    "Dr. Ethan Shaw – He controlled security footage and could tamper with logs.",
+    "Nina Patel – She had access to the rooftop and a badge that opened the door."
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "1. The poison was a rare alkaloid (*Aconitine‑X*) that only Maya had recently ordered, establishing motive and means. 2. The aerosol could only be delivered by the rooftop nebulizer, which the logbook records as used at 9:06 AM. 3. The nebulizer log records badge ID 4729, which belongs to Nina. 4. Nina claims she did not reach the rooftop until 9:30, creating a timeline impossibility because the door was opened at 9:07 AM with her badge. 5. The only way Nina’s badge could have been used earlier is if it was cloned. Maya, as the lab assistant, had access to the badge printer and the technical knowledge to clone a badge. 6. Combining Maya’s exclusive access to the toxin, her training on the nebulizer, and the ability to forge Nina’s badge explains the contradictory timestamps. Therefore, Maya Ruiz is indisputably the murderer.",
+  "caseNumber": 58,
+  "id": "case_58"
+}

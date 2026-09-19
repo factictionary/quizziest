@@ -1,0 +1,20 @@
+{
+  "title": "The Varnish Lie",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "The Grandeur Gallery was thrown into chaos when 'The Weeping Angel,' a 17th-century masterpiece, was found to be a recent high-end forgery. The curator, Mrs. Halloway, had authenticated the piece based on a hidden signature and the chemical composition of the varnish, which dated it to 1650. The theft wasn't of the money, but of the institution's reputation, which was destroyed when the forger revealed the truth to the press. Four suspects were questioned: The Art Restorer, Julian Thorne, who had handled the painting for a minor scratch repair three days prior; The Rival Collector, Silas Vane, who had bid on the piece and lost to the museum; The Appraiser, Clara Dune, who had signed off on the valuation; and The Security Chief, Marcus Stone, who controls the museum's access logs. Julian claimed he only cleaned the surface with standard solvents. Silas admitted he was angry about the loss but insisted he never touched the canvas. Clara stated she relied entirely on the lab reports provided by the museum. Marcus provided a log showing Julian entered the secure vault at 4:00 PM and left at 4:45 PM, the only window where the painting was unobserved by cameras.",
+  "victim": "The Grandeur Gallery (Reputational Victim)",
+  "crimeScene": "The secure vault of the Grandeur Gallery, where the painting was displayed behind bulletproof glass.",
+  "forensicClue": "The forensic analysis of the '1650 varnish' revealed traces of a modern synthetic resin that dries clear but yellows rapidly under UV light. Crucially, the residual solvent smell detected on the back of the canvas was consistent with a specific, expensive citrus-based remover, not the standard alcohol-based solvent Julian claimed to use. Furthermore, the 'hidden signature' was not painted beneath the varnish but was etched into the wood panel itself with a diamond-tipped stylus, a tool found missing from Julian's personal toolkit.",
+  "question": "Who is the culprit and how did they forge the authentication?",
+  "options": [
+    "Julian Thorne: He used his access to alter the varnish and etch the signature.",
+    "Silas Vane: He swapped the painting with a forgery before the auction.",
+    "Clara Dune: She falsified the lab reports to inflate the price.",
+    "Marcus Stone: He disabled the cameras and planted the evidence."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The key to solving this case lies in the forensic discrepancy regarding the materials used. Julian Thorne, the Art Restorer, claimed he used 'standard solvents' for a minor repair. However, the forensic clue reveals the presence of a specific, expensive citrus-based remover on the canvas, which is inconsistent with his statement. More damning is the nature of the 'hidden signature.' It was etched into the wood panel with a diamond-tipped stylus. Only a professional restorer with access to the back of the painting (during the 'repair') would have the skill and tools to etch the wood without damaging the paint layer, and the stylus was found missing from his toolkit. While Marcus provided the timeline allowing Julian access, the specific physical evidence (the unique solvent and the missing specialized tool) points directly to Julian as the one who physically created the forgery elements. Silas, Clara, and Marcus lack both the opportunity to work on the back of the panel and the specialized technical skills to execute the etching and varnish manipulation described.",
+  "caseNumber": 40,
+  "id": "case_40"
+}

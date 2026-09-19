@@ -1,0 +1,21 @@
+{
+  "title": "Digital Deception",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In the bustling city of CyberTech, our investigation focuses on the mysterious disappearance of tech billionaire, James Wilson. His luxurious penthouse was targeted, but due to the advanced security system, we have limited physical evidence. However, we discovered a peculiar clue: a cryptic message scrawled on his state-of-the-art whiteboard.\n\n'The hacker's riddle solved, but secrets never last.' This cryptic message hints at a digital twist to the case.",
+  "victim": "James Wilson",
+  "crimeScene": "James Wilson's luxurious penthouse",
+  "forensicClue": "The cryptic message on the whiteboard.",
+  "question": "What part of the city was the crime scene located?",
+  "options": [
+    "CyberTech",
+    "Arena City",
+    "Silicon Valley",
+    "Central Hub"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The crime scene is located in CyberTech, as mentioned in the story: 'Our investigation focuses on the bustling city of CyberTech...'",
+  "correctAnswer": "CyberTech",
+  "caseNumber": 174,
+  "id": "case_174"
+}

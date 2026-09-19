@@ -1,0 +1,19 @@
+{
+  "title": "Toxic Twist: The Seductive Concoction",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In a sumptuous mansion filled with opulence, an enchanting concoction was served at the lavish party hosted by eccentric millionaire, Sir Roland. Among the attendees were Lady Evelyn, the cunning chemist Dr. Adelaide, charming conman Mr. Franklin, and the brooding artist, Mr. Sebastian. This evening took a deadly turn when the host, Sir Roland, was found lifeless in the grand library. The poisoned punch seemed the perfect cover-up for the real motive behind the gathering.",
+  "victim": "Sir Roland",
+  "crimeScene": "The grand library with its antique books and solemn atmosphere. A shattered vase near the victim hints at a struggle.",
+  "forensicClue": "The poison traces on Sir Roland's fingertips.",
+  "question": "Who poisoned Sir Roland and why? ",
+  "options": [
+    "Option A (Lady Evelyn and revenge)",
+    "Option B (Dr. Adelaide and a failed experiment)",
+    "Option C (Mr. Franklin and a grudge)",
+    "Option D (Mr. Sebastian and art inspiration)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 139,
+  "id": "case_139"
+}

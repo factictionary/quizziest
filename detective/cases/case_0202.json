@@ -1,0 +1,20 @@
+{
+  "title": "The Venomous Affair",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the dimly lit study of the opulent mansion, a vintage leather-bound book fell open at the hastily scrawled note. The handwritten message read: 'Attend the party tonight and claim your prize. The Victim, renowned pharmaceutical mogul Dr. Leonardo Blackwood, was found slumped in his favorite wingback chair, lifeless. The poison ivy that once graced the estate walls had now infiltrated the crowd. The clock on the mantle read a sinister 11:13 PM when Inspector Grey arrived on the scene. The party was a symposium on advanced toxins, hosted by Dr. Blackwood himself.",
+  "victim": "Dr. Leonardo Blackwood",
+  "crimeScene": "A lavish mansion, a gathering of toxin experts",
+  "forensicClue": "A half-consumed glass of elusive elixir",
+  "question": "Who poisoned Dr. Leonardo Blackwood and how was the toxin used? ",
+  "options": [
+    "Option A: Professor Franklin Grey and method of using the toxin as a concealed poison in a beverage.",
+    "Option B: Dr. Ava Fenchurch and the elusive elixir found at the scene",
+    "Option C: Dr. Cassius Clay and the toxin mastermind motive",
+    "Option D: Dr. Adelaide Sharpe and the venomous vapor trail"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "Dr. Ava Fenchurch stands out as the logical suspect, given the half-consumed elixir glass at the scene. The mysterious elixir provides the crucial forensic clue that links her to the crime scene. The inconspicuous nature of the elixir makes it a plausible concealment method for the toxic substance. The other options involve unconvincing motives or methods, whereas Dr. Ava's connection to the toxin and evidence leave no doubt. Time of death proves challenging to pinpoint due to the unspecified nature of the elixir and the suspect's expertise in toxins.",
+  "caseNumber": 202,
+  "id": "case_202"
+}

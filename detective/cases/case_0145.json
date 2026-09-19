@@ -1,0 +1,20 @@
+{
+  "title": "Shadows of the Deceased",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Easy",
+  "story": "In the dimly lit town of Rowanshire, a sinister murder occurred at the opulent mansion of wealthy businessman, Mr. Ames. His wife, the enigmatic Mrs. Ames, was found dead in their lavish bedroom, clutching a silver candlestick.",
+  "victim": "Mrs. Ames (wealthy socialite and wife to Mr. Ames)",
+  "crimeScene": "The lavish bedroom of the grand Ames Mansion, adorned with antique furniture and a canopied bed.",
+  "forensicClue": "A peculiar scratch on the doorknob leading to the bedroom.",
+  "question": "Who killed Mrs. Ames and why? Find the conclusive answer within the narrative.",
+  "options": [
+    "Option A (Mrs. Ames' former lover, Mr. Blackwood and the motive: jealousy)",
+    "Option B (Mr. Ames and the motive: inheritance dispute)",
+    "Option C (The reclusive butler, Mr. Whittaker and the motive: anger)",
+    "Option D (The mysterious artist, Miss Purple and the motive: revenge)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The scratch on the doorknob confirms that the killer entered the bedroom from the outside, not being one of the Ames's guests. Given the motive, we can eliminate Mr. Ames (inheritance dispute) and Miss Purple (revenge), leaving us with the former lovers, the reclusive butler and the mysterious artist. The scratch on the doorknob points towards a visitor, making Mr. Blackwood (former lover) the most probable suspect. His motive (jealousy) perfectly aligns with the motive of the scratch on the doorknob. The scratch could have occurred when Mr. Blackwood entered stealthily to confront his lover about their shared past. The guests in the mansion testify that they heard a heated argument between Mr. Blackwood and Mrs. Ames before the crime happened.",
+  "caseNumber": 145,
+  "id": "case_145"
+}

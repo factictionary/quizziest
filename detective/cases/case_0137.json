@@ -1,0 +1,20 @@
+{
+  "title": "Shady Hackers Unveiled",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "In a bustling tech company, a crucial project plan went missing. The victim, Project Manager Sarah Masters, was meticulous about documenting project progress. Suddenly, her computer's hard drive went blank. The forensic evidence revealed a rare strain of malware that erased the data for no apparent reason.",
+  "victim": "Project Manager Sarah Masters",
+  "crimeScene": "The tech company's server room.",
+  "forensicClue": "An unusual software key used in the malware.\nKey: 'W7QN4L8XP'\n",
+  "question": "Who is responsible for sabotaging Project Manager Sarah Masters' computer? How did the detective solve it?",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "Among the suspects:\n\n1. **Suspect 1 (Emily, IT Support)** - Had access to the server room and was known to have disagreements with Sarah over server modifications. However, the malware used requires specific coding knowledge to create, discounting Emily as the culprit.\n2. **Suspect 2 (Daniel, Cybersecurity Analyst)** - Daniel is a cybersecurity expert and would not be responsible for such a malware strain. However, he admitted to having a heated discussion with Sarah about cybersecurity protocol breaches, fueling suspicion. A closer look at the malware's coding reveals Daniel's signature, undoing his alibi.\n3. **Suspect 3 (Alex, Network Engineer)** - Had an ambition to be in charge of the project and was recently caught snooping into Sarah's files. Sarah found and confronted Alex about accessing her files without permission, creating tension between them. The malware's coding signature matches Alex's expertise.\n4. **Suspect 4 (Maria, Competitor)** - Maria worked on a rival tech company and had a grudge against Sarah for stealing key clients. However, there is no concrete evidence linking Maria to the crime. A timeline review unveils a series of connections between Maria, Daniel, and Alex, suggesting a conspiracy.\n\nAfter a thorough analysis of the situation, the detective concludes:\n\nThe puzzle pieces lead to a conspiracy among **Suspect 3 (Alex) and Suspects 2 (Daniel) and 4 (Maria). The shared connections and coding expertise point to their involvement in creating the malware and using it to sabotage the project.**\n\nThe detective confronts each suspect about their suspicious behavior and connections. Both Daniel and Alex admit to arguing with Sarah just before the incident while Maria remains defiant. A forensic analysis reveals the malware was created on a laptop found to be shared between Daniel, Alex, and Maria. The case against them strengthens, leading to a confession by Alex and a guilty look from Daniel and Maria. The cybersecurity expert, Daniel, revealed that he had shared the laptop with Alex and Maria during an emergency meeting with Sarah prior to the incident.",
+  "caseNumber": 137,
+  "id": "case_137"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Venomous Concoction",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In the secluded mansion of eccentric chemist and recluse, Dr. Elektra, a murder has taken place. The victim, Mr. Elias, a renowned botanist, was found sprawled on the lab table, lifeless. As the sun began to set on the sprawling gardens, the aroma of exotic plants filled the air. Dr. Elektra, suspect #1, famed painter, Miss Amara, suspect #2, and peculiar inventor, Prof. Thorn, suspect #3, were the only ones in the mansion at the time of the crime. Suspect #4, the mysterious butler, Mr. Cypher, had an alibi.",
+  "victim": "Elias, Mr.",
+  "crimeScene": "Dr. Elektra's sprawling lab, rich with exotic plants",
+  "forensicClue": "A distinctive smell of a rare poisonous flower found in Dr. Elektra's garden",
+  "question": "Who is the culprit? How did the detective solve it?",
+  "options": [
+    {
+      "reason": "Dr. Elektra's expertise, the distinctive smell of the rare poisonous flower found in her garden.",
+      "index": 0
+    },
+    {
+      "reason": "Miss Amara's motive, her jealousy over Dr. Elektra's latest artwork.",
+      "index": 1
+    },
+    {
+      "reason": "Prof. Thorn's expertise, the discovery of a missing vial from the lab.",
+      "index": 2
+    },
+    {
+      "reason": "Mr. Cypher's deception, the alibi was only for Dr. Elektra's garden.",
+      "index": 3
+    }
+  ],
+  "correctIndex": 2,
+  "caseNumber": 295,
+  "id": "case_295"
+}

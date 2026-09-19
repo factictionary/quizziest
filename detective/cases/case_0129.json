@@ -1,0 +1,20 @@
+{
+  "title": "Whispers in the Art Gallery",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the dimly lit halls of the prestigious Galerie des Beaux-Arts, a curator named Madeline discovered a shocking discovery. Within the walls adorned with priceless art pieces, the gallery's most prized possession, a stunning Van Gogh painting, had vanished without a trace. The painting was explicitly secured with state-of-the-art security measures. Alarm triggered, cameras recording, and a wall-mounted, time-lock safe ensuring the painting remained untouched.",
+  "victim": "Curator Madeline",
+  "crimeScene": "The Galerie des Beaux-Arts, a museum gallery filled with priceless art pieces, including a prized possession - a stolen Van Gogh painting.",
+  "forensicClue": "The peculiar absence of a security alert and footage.",
+  "question": "Who stolen the Van Gogh painting and how was it done? ",
+  "options": [
+    "Option A: Ella, the Gallery Manager; the security breach was intentional.",
+    "Option B: Sebastian, the retired thief; a master of stealth.",
+    "Option C: Maria, the night janitor; an alibi awaits.",
+    "Option D: Olivier, the art restorer; an art forgery expert with a motive."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The painting's disappearance seems to have occurred during the night, as the janitor Maria claimed to be cleaning the adjacent exhibition hall. However, the security footage mysteriously vanished, suggesting an inside job. Amongst all suspects, only Maria's alibi is easily falsifiable. The retired thief Sebastian's expertise implies he could have pulled it off without leaving a trace, making him the most likely culprit.",
+  "caseNumber": 129,
+  "id": "case_129"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Toxic Greenhouse",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "Dr. Emma Taylor, a leading botanist, was found dead in the greenhouse at the municipal botanical garden. The autopsy revealed death by a rare alkaloid extracted from the night-blooming belladonna, a toxin only a handful of specialists could isolate. Four people were present in the garden that morning: Dr. Liam Chen, a colleague who had a heated argument with Dr. Taylor over a disputed grant; Ms. Sophia Patel, a graduate student desperate to publish her thesis; Mr. Jack Harris, a rival botanist known for sabotage; and Mrs. Rachel Taylor, the victim’s spouse who stood to inherit a sizable estate.\n\nTestimonies:\n- Dr. Liam Chen: “I was in the lab from 8 AM until noon, running a chromatography run. I didn’t step out until the experiment finished.”\n- Ms. Sophia Patel: “I saw Dr. Chen and Dr. Taylor arguing at 9 AM, then I went to the library. I returned to the greenhouse at 11 AM and found Dr. Taylor on the floor.”\n- Mr. Jack Harris: “I was at a conference in another city; I even have a coffee receipt stamped 10 AM to prove it.”\n- Mrs. Rachel Taylor: “I stayed home alone from 8 AM to 12 PM, never leaving the house.”\n\nThe forensic team recovered a fragment of a disposable nitrile glove on the victim’s lab coat. The glove bore a distinctive teal‑blue imprint, the exact brand stocked only in Dr. Chen’s personal lab cabinet. A security camera, though grainy, captured a figure slipping into the greenhouse at 9:45 AM wearing gloves of that brand.",
+  "victim": "Dr. Emma Taylor",
+  "crimeScene": "The greenhouse at the municipal botanical garden",
+  "forensicClue": "A fragment of a teal‑blue nitrile glove, a brand stored exclusively in Dr. Chen’s lab, was found on the victim’s coat.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Dr. Liam Chen – Had motive and the unique glove brand was found on the victim.",
+    "Ms. Sophia Patel – Was at the greenhouse later but lacks the glove evidence.",
+    "Mr. Jack Harris – Claims an alibi, but no physical link to the scene.",
+    "Mrs. Rachel Taylor – Stands to inherit, yet no forensic trace ties her to the crime."
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The only forensic link is the teal‑blue nitrile glove fragment, a brand kept solely in Dr. Chen’s lab. His alibi claims he stayed in the lab until noon, but the camera shows a glove‑wearing figure entering the greenhouse at 9:45 AM—well within his stated window, allowing him to leave briefly and return unnoticed. No other suspect had access to that glove brand, making Dr. Chen the indisputable murderer.",
+  "caseNumber": 81,
+  "id": "case_81"
+}

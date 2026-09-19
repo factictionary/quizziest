@@ -1,0 +1,20 @@
+{
+  "title": "The Ivory Lock of Thorn Manor",
+  "category": "Locked Room Mystery",
+  "difficulty": "Hard",
+  "story": "Elias Thorn, the reclusive master jeweler, was found dead in his private study at Thorn Manor, a Victorian room sealed by a heavy iron door, a floor‑to‑ceiling bookcase, and a single barred window that could not be opened from the outside. The door was locked from the inside at 9:45 PM, the only key lay on the desk, and a single gunshot wound was the cause of death. Four people were present that night.\n\nClara Finch, Thorn’s personal assistant, claimed, “I was cataloguing inventory in the library until 9:40, then I fetched coffee. I never entered the study after that.” Victor Marlowe, a rival collector, said, “I arrived at 9:20 to discuss a purchase, left at 9:35, and was in the hallway when I heard a gunshot.” Greta Hale, the housekeeper, testified, “I was polishing the silverware in the kitchen; the oven timer was set to 10:00, so I stayed there until after the murder.” Detective Rowan Pierce, the partner on the case, noted, “I was reviewing notes in the hallway and heard nothing until the body was discovered.”",
+  "victim": "Elias Thorn",
+  "crimeScene": "Thorn’s private study – iron‑locked door, bookcase, sealed window, desk with the missing key.",
+  "forensicClue": "A faint smear of powdered chalk, the exact type Greta uses to mark polished silverware, was found on the victim’s right sleeve.",
+  "question": "Who is the culprit and how was the locked‑room murder accomplished?",
+  "options": [
+    "Option A (Clara Finch – she claims she never entered the study, but the key was on the desk).",
+    "Option B (Victor Marlowe – his perfume pollen was found, but the timeline doesn’t match).",
+    "Option C (Greta Hale – the chalk residue matches her cleaning routine and her alibi contradicts the oven timer log).",
+    "Option D (Detective Rowan Pierce – he was the only one with access to the case notes)."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The study was locked from the inside, so the murderer had to be inside the room before it was sealed. The key was found on the desk, meaning someone who handled the desk could have taken it. Greta, the housekeeper, regularly uses powdered chalk to mark silverware and the exact same chalk residue was on Thorn’s sleeve, directly linking her to the victim. Moreover, the smart‑oven log shows the timer was set at 9:30, contradicting Greta’s claim that she only entered the kitchen after 10:00; she must have been there earlier to set the timer, giving her the opportunity to slip into the study, commit the murder, lock the door, and return to the kitchen. No other suspect’s statements or evidence place them inside the study at the crucial time, making Greta Hale the indisputable culprit.",
+  "caseNumber": 9,
+  "id": "case_9"
+}

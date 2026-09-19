@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Study of Eleanor Whitlock",
+  "category": "Locked Room Mystery",
+  "difficulty": "Expert",
+  "story": "Eleanor Whitlock, the city's most renowned antiquarian, was found dead inside her private Victorian library at precisely 9:13 PM. The heavy oak door was bolted from the inside, the windows were sealed with iron bars, and a single brass latch on the north window was found untouched. The room showed no sign of forced entry, and the only source of light was a dying chandelier. Four people were present in the mansion that evening:\n\n1. Victor Hale (caretaker) – “I was polishing the brass fixtures in the hallway until the clock struck ten. I never entered the library after dinner.”\n2. Mara Linton (rival collector) – “I arrived at 7:30 PM to discuss a rare manuscript. I left the library at 8:45 PM after Eleanor promised to show me a hidden codex. I stepped out onto the balcony, inhaling the night air.”\n3. Dr. Felix Armitage (forensic pathologist) – “I was in the infirmary reviewing autopsy reports. I heard a faint click at 8:50 PM, thought it was the clock, and checked the mantel clock – it had stopped at 7:45 PM.”\n4. Jasper Quinn (private investigator) – “I was in the study the whole evening, cataloguing Eleanor’s collection. I never left the room; the door was locked behind me the whole time.”\n\nA single, fresh cigar ash residue was discovered on Eleanor’s lapel, matching the rare Havana 1892 blend that only Mara Linton keeps in a locked humidor. The mantel clock, an heirloom, had been wound down to stop exactly at 7:45 PM – the moment the library’s hidden side door, concealed behind a bookcase, could be opened, but the latch on the north window remained sealed, making any external entry impossible.",
+  "victim": "Eleanor Whitlock",
+  "crimeScene": "Victorian library locked from inside, iron‑barred windows, sealed brass latch, antique mantel clock stopped at 7:45 PM",
+  "forensicClue": "Fresh cigar ash from the exclusive Havana 1892 blend found on the victim’s lapel",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Victor Hale – claimed to be polishing fixtures, but his alibi conflicts with the clock’s stop time)",
+    "Option B (Mara Linton – cigar ash matches her exclusive blend and she was the only one who could have opened the hidden side door before the clock stopped)",
+    "Option C (Dr. Felix Armitage – noticed the clock stopped but had no motive or means to enter the sealed room)",
+    "Option D (Jasper Quinn – insisted he never left, yet the hidden side door was the only way in and out)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The decisive clue is the cigar ash from the Havana 1892 blend, a rarity that only Mara Linton possesses. The hidden side door behind the bookcase could be opened only while the mantel clock was still running; it stopped at 7:45 PM, which aligns with Mara’s statement that she left the library at 8:45 PM—she could have used the door before the clock stopped, then resealed the room and locked the door from inside. Victor's alibi fails because the clock had already stopped before his claimed activity. Dr. Armitage and Jasper Quinn had no access to the exclusive cigar and no reason to use the hidden door. Thus, Mara Linton is indisputably the murderer.",
+  "caseNumber": 22,
+  "id": "case_22"
+}

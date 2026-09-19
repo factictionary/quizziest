@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit at the Masquerade Bash?",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "At the lavish and exclusive Masquerade Bash, the elegant ballroom was the stage for a crime. The enigmatic host, Mr. Blackwood, had invited a select group of society elites to celebrate his wealth and success. Amongst them were: Mrs. Scarlet, a feared business magnate; Mr. Magenta, a secretive artist; Miss Amethyst, a daring journalist; and Sir Cyan, a notorious gambler. The room was strewn with extraordinary masks and decorations, providing a veil of secrecy for the night's events.",
+  "victim": "Mr. Crimson, the charismatic and mysterious band leader.",
+  "crimeScene": "The scene was set amidst the grand ballroom adorned with delicate chandeliers and an irresistible dance floor. The room was filled with the enchanting melodies of Mr. Crimson's orchestra.",
+  "forensicClue": "The distinctive scratch marks on the doorknob of the music room.",
+  "question": "Who committed the crime and why? Break down the suspects' alibis and motives.",
+  "options": [
+    "Option A: Mrs. Scarlet (Mrs. Scarlet claims to have been in the card room with Sir Cyan. Motive: Personal rivalry with Mr. Crimson over the latest album release.)",
+    "Option B: Mr. Magenta (Says he was creating in the art studio. Motive: Mr. Crimson once pried into his private life.)",
+    "Option C: Miss Amethyst (Miss Amethyst claims to have been with Sir Cyan in the gaming hall. Motive: Mr. Crimson exposed her sources' illicit deals.)",
+    "Option D: Sir Cyan (Sir Cyan claims to have been with Mr. Magenta in the art studio. Motive: Mr. Crimson exposed his illegal gambling empire.)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The scratch marks on the music room door indicate a struggle. Alibi analysis: Mrs. Scarlet was in the card room with Sir Cyan, Mr. Magenta claimed artistic solitude, Miss Amethyst was with Sir Cyan in the gaming hall, and Sir Cyan was with Mr. Magenta in the art studio. The forensic evidence incriminates Sir Cyan since he had a motive (Crimson exposed his illegal gambling empire) and was with a suspect (Mr. Magenta) who also has a motive (Crimson pried into his private life). It points to Option D: Sir Cyan.",
+  "caseNumber": 184,
+  "id": "case_184"
+}

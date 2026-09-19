@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Spark at the Gilded Peacock",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "At 10:15 p.m. the Gilded Peacock Casino’s famed Starfire Diamond vanished from its reinforced vault. Evelyn Hart, the head of security, was found unconscious beside the shattered glass, her watch stopped at 10:12. Four people were on duty that night.\nMaya, a freelance jeweler, claims she was polishing the rooftop garden’s marble statues at 10:00, but the garden’s maintenance gate was locked for repairs until 11:00. Victor, an ex‑con with a known debt, says he was in the staff lounge, yet the lounge’s CCTV shows it empty at that hour. Lena, the casino manager, insists she was reviewing the payroll in her office, but the office door was bolted from the inside and no one entered. Theo, the night‑shift security guard, says he was patrolling the east wing, but a single alpaca‑wool fiber—used only in the guard’s custom‑stitched uniform—was found embedded in the broken vault glass.",
+  "victim": "Evelyn Hart, Head of Security",
+  "crimeScene": "The reinforced vault of the Gilded Peacock Casino, with shattered glass and a stopped watch.",
+  "forensicClue": "A lone alpaca‑wool fiber lodged in the vault glass, matching the material of Theo’s uniform.",
+  "question": "Who stole the Starfire Diamond and how was the culprit identified?",
+  "options": [
+    "Option A (Maya – her alibi is impossible because the rooftop garden was locked)",
+    "Option B (Victor – he had a debt but no physical evidence ties him)",
+    "Option C (Theo – alpaca‑wool fiber from his uniform was found on the glass)",
+    "Option D (Lena – she was in a locked office, making her claim doubtful)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The story gives three concrete clues: Maya’s impossible alibi, Victor’s empty lounge, and Lena’s locked office. Only Theo’s statement can be directly contradicted by forensic evidence—a single alpaca‑wool fiber, which matches the unique material of his uniform and is not found on anyone else’s clothing. Because the fiber is physically embedded in the broken glass, it proves Theo was at the vault when it was breached, making him the indisputable culprit.",
+  "caseNumber": 13,
+  "id": "case_13"
+}

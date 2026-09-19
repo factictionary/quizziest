@@ -1,0 +1,19 @@
+{
+  "title": "Shimmering Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the glittering city of Las Vegas, a dazzling diamond theft occurred at the prestigious Rustique Jewelry Showcase. The victim is Mr. Jameson R. Rodgers, the owner and curator. The crime scene reveals the window smashed, leading to the missing masterpiece, a 50-carat, flawless 'Royal Opulence Diamond'. This rare gem is worth an astounding $50 million.",
+  "victim": "Jameson R. Rodgers",
+  "crimeScene": "The Rustique Jewelry Showcase, a sleek, dimly lit room displaying the world's finest diamonds.",
+  "forensicClue": "A peculiar fingerprint found on the broken glass remains.",
+  "question": "Who stole the Royal Opulence Diamond and how were they able to escape? ",
+  "options": [
+    "The meticulous gemologist, Dr. Ashley Stone (Option A) due to her expertise; or",
+    "The daring thief, Marco Giovanni (Option B) due to his history of heists; or",
+    "The jealous employee, Sarah Stevens (Option C) as she held a grudge against Jameson; or",
+    "The mysterious collector, Sir Reginald Blackwood (Option D) because of his recent visit and suspicious behavior"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 288,
+  "id": "case_288"
+}

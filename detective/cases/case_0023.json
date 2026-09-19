@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Marinade Murder",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "At 9:45 p.m. the renowned food critic Armand LeBlanc collapsed in the kitchen of La Lumière, a Michelin‑starred restaurant, clutching his throat. The chef’s knife lay a few inches away, its blade smeared with a dark, oily residue. The victim’s assistant, Emma, says she was polishing the silverware in the dining room until the scream. The rival chef, Victor Dumas, insists he was in the wine cellar conducting a private tasting from 9:00 to 10:00. Night manager Lena claims she was reviewing reservation logs in the office, a task that would keep her at her desk until after midnight. Delivery driver Marco maintains he was loading crates in the back alley, a job that took him from 9:30 to 10:15. The security footage shows Victor exiting the cellar at 9:12, but the door sensor logs record the cellar door remaining closed until 10:02, creating a timeline impossibility. A fine dust of smoked paprika—an exclusive spice Victor keeps locked in his personal pantry—was found embedded in the victim’s shirt fibers.",
+  "victim": "Armand LeBlanc, celebrated food critic",
+  "crimeScene": "Kitchen of La Lumière, a high‑end restaurant",
+  "forensicClue": "Smoked paprika dust from Victor's private pantry on the victim’s shirt",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Emma – she was the only one near the silverware and could have slipped the knife)",
+    "Option B (Victor – his alibi contradicts the cellar door sensor and his exclusive paprika was on the victim)",
+    "Option C (Lena – she had access to reservation logs and could have tampered with the timeline)",
+    "Option D (Marco – his delivery schedule matches the time of death and he could have planted the knife)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The detective first checks the forensic evidence: only Victor owns the smoked paprika found on the victim. Next, the timeline is examined: Victor claims to be in the cellar until 10:00, but the door sensor shows the cellar stayed locked until 10:02, meaning he could not have been inside during the alleged tasting. The only person whose alibi aligns with the impossible sensor reading and whose unique spice is on the body is Victor. All other suspects lack both the exclusive paprika and a contradictory alibi, making Victor the indisputable murderer.",
+  "caseNumber": 23,
+  "id": "case_23"
+}

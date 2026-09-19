@@ -1,0 +1,19 @@
+{
+  "title": "The Twisted Business Deal",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Medium",
+  "story": "In the shadowy world of high-stakes business deals, the disappearance of Mr. Benjamin Blackwood caught the attention of the city. Known for his shady dealings and countless enemies, it appeared he met his demise during a meeting held at his lavish penthouse suite. A cold, calculating man, few believed the rumors of internal conflict within his company.",
+  "victim": "Mr. Benjamin Blackwood",
+  "crimeScene": "The crime scene is a luxurious penthouse suite filled with expensive art and opulent furniture. A large, floor-to-ceiling window showcases a breathtaking city view.",
+  "forensicClue": "A peculiar scratch on the doorknob leading to the secret room.",
+  "question": "Who is the culprit and how was Mr. Blackwood killed? Remember to detail the step-by-step deduction.",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 183,
+  "id": "case_183"
+}

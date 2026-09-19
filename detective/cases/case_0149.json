@@ -1,0 +1,26 @@
+{
+  "title": "Silent Venom at the Art Exhibit",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "In the heart of the city, a notorious art gallery was hosting a grand opening event. Among the attendees was esteemed art critic, Ms. Amelia Blackwood. The event's theme revolved around the dark undertones of human emotions, portrayed through various artworks.\n\nAt the heart of the night, the guests were gathered around the main exhibit, a mesmerizing sculpture called 'Emotional Chokehold'. Suddenly, an eerie silence filled the air as the guests began falling ill with symptoms of poisoning. Doctors confirmed the presence of a potent toxin in their systems.\n\nThe crime scene is a dimly lit, lavish gallery with a central exhibit featuring the 'Emotional Chokehold' sculpture, surrounded by various artworks that portray human emotions.\n\nVictim: Ms. Amelia Blackwood (a prominent art critic).",
+  "crimeScene": "A dimly lit, lavish gallery with a central exhibit featuring the 'Emotional Chokehold' sculpture, surrounded by various artworks that portray human emotions.\n\nThe crime scene is a dimly lit, lavish gallery with a central exhibit featuring the 'Emotional Chokehold' sculpture, surrounded by various artworks that portray human emotions.\n\nVictim: Ms. Amelia Blackwood (a prominent art critic)",
+  "forensicClue": "A peculiar inscription found on the 'Emotional Chokehold' sculpture:\n'The Painter's Payback'",
+  "question": "Who is responsible for the poisoning incident and what's the mysterious inscription on the sculpture?",
+  "options": [
+    "Option A: Sebastian Raven, as he holds a grudge against Ms. Blackwood for tarnishing his previous exhibition; the inscription 'The Painter's Payback' matches his signature.\n\nOption B: Lily Moon, as she had a motive due to her rivalry with Ms. Blackwood, but there's no inscription related to revenge.\n\nOption C: Julian Night, since he feared exposure due to a secret past in illegal artwork creation and the inscription fits his mysterious nature.\n\nOption D: Aiden Blackwood, as he holds a grudge after Ms. Blackwood dismissed his inadequate talent; however, there's no indication of revenge on the sculpture.",
+    "crimeScene",
+    ":",
+    "A dimly lit, lavish gallery with a central exhibit featuring the 'Emotional Chokehold' sculpture, surrounded by various artworks that portray human emotions.\n\nVictim: Ms. Amelia Blackwood (a prominent art critic)",
+    "forensicClue",
+    ":",
+    "A peculiar inscription found on the 'Emotional Chokehold' sculpture:\n'The Painter's Payback'",
+    "correctIndex",
+    ": 2",
+    "question",
+    ":",
+    "Who left the mysterious inscription on the sculpture and what forensic evidence points to them?"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 149,
+  "id": "case_149"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Poisoned Pen Gala",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "On a dark and chilly night, a lavish literary gala filled the grand hall of the Oasis Museum. Writers, publishers, and critics gathered to celebrate Literary Legends, honouring renowned author, 'Emerald Echoes'. Amongst them, tensions ran high as each was in pursuit of a prestigious literary award. The evening began with a sumptuous dinner served in the opulent banquet hall, adorned with gilt-framed portraits of past authors. The room was illuminated by the soft glow of vintage book-inspired chandeliers. The unforeseen tragedy unfolded when Emerald Echoes was found slumped over their plate, lifeless.",
+  "victim": "Emerald Echoes",
+  "crimeScene": "In the opulent banquet hall of the Oasis Museum, amidst gilt-framed portraits of past authors.",
+  "forensicClue": "An unexpected note found beside the victim's body.",
+  "question": "Who murdered Emerald Echoes and why? What clue led to the culprit's discovery? ",
+  "options": [
+    "Option A: Fiery Fable (Echoes' rival), 'The Poisoned Pen' (a mysterious note found)",
+    "Option B: Cynical Critic (Envious of Echoes' success)",
+    "Option C: Clandestine Competitor (Desperate to steal the award)",
+    "Option D: Bewildered Biographer (Accidentally poisoned Echoes by mistake)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The gala's mysterious note, signed as 'The Poisoned Pen', led Detective Jones to discover the culprit's motive. The note's cryptic message hinted at a rivalry between the authors. Suspect 'Fiery Fable' (Option A) was caught red-handed at the scene, jealous of Emerald Echoes' success. The Poisoned Pen's cryptic message and Fable's motive connected the dots, leading Detective Jones to charge Fable with the crime.",
+  "caseNumber": 238,
+  "id": "case_238"
+}

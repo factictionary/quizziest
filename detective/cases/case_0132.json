@@ -1,0 +1,19 @@
+{
+  "title": "The Stolen Vermeer: A Mysterious Art Heist",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Hard",
+  "story": "In the sparkling city of Gotham, a heinous crime unfolded at the prestigious Gotham Art Gallery. Vincent van Gogh's 'Starry Night' was mysteriously vanished, leaving the authorities perplexed and the art connoisseurs in awe. The night of the crime, gallery owner and respected art historian, Miss Amelia Montague, was overwhelmed by the crowd, and security footage revealed the following suspects: Mr. Thomas, a notorious art dealer; Ms. Isabella, the gallery's former curator; Mr. Richard, a renowned art restorer; and Mr. Sebastian, a notorious art forger. A clever touch was applied to the art gallery's entryway, leading to a hidden clue: a peculiar symbol etched on the floor in wax.",
+  "crimeScene": "The Gotham Art Gallery is a grandiose space, filled with priceless art pieces, including the much-treasured 'Starry Night'. The gallery is illuminated by soft spotlights, showcasing the exquisite paintings that bring the walls to life.",
+  "forensicClue": "The wax etching found at the crime scene bears a resemblance to a secret society symbol, 'The Illuminati Wax', rarely seen in public.",
+  "question": "Who committed the heist and how did they leave the peculiar wax etching?",
+  "options": [
+    "Suspect 1 committed the crime, using the wax etching as a diversion to blend with the gallery's ambiance.",
+    "Suspect 2 bypassed the security system, leaving the mysterious wax clue to mislead investigators.",
+    "Suspect 3 exploited their knowledge of the gallery's history to commit the crime without arousing suspicion.",
+    "Suspect 4 utilized their expertise to bypass security and execute the crime, leaving the cryptic clue behind."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Bypassing the security system and executing the crime without raising suspicion aligns with Suspect 3's knowledge of the gallery's history. Moreover, the cryptic clue appears to be purposefully left to mislead investigators, which is the mindset of Suspect 3 as well.",
+  "caseNumber": 132,
+  "id": "case_132"
+}

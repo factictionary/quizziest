@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "totalCases": 5,
-  "lastUpdated": "2026-09-18T21:29:53.260536Z",
+  "totalCases": 325,
+  "lastUpdated": "2026-09-18T18:07:02.576064Z",
   "categories": [
     "Locked Room Mystery",
     "Alibi Buster",
@@ -16,47 +16,2927 @@
     {
       "id": "case_1",
       "caseNumber": 1,
-      "title": "The Frozen Lake Cabin Murder",
-      "category": "Alibi Buster",
-      "difficulty": "Medium",
-      "victim": "Arthur Sterling (Billionaire)",
+      "title": "Midnight Malware Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Lina Patel, CEO of NovaTech",
       "file": "cases/case_0001.json"
     },
     {
       "id": "case_2",
       "caseNumber": 2,
-      "title": "The Poisoned Toast at High Noon",
-      "category": "Poison & Toxic Mystery",
-      "difficulty": "Hard",
-      "victim": "Charles Harrington (Heir)",
+      "title": "The Clockwork Conundrum",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Evelyn Hart",
       "file": "cases/case_0002.json"
     },
     {
       "id": "case_3",
       "caseNumber": 3,
-      "title": "The Soundproof Recording Studio Heist",
-      "category": "Locked Room Mystery",
+      "title": "The Vanishing Vermeer",
+      "category": "Museum & Art Gallery Forgery",
       "difficulty": "Easy",
-      "victim": "Luna (Pop Star)",
+      "victim": "Leonard Marlowe, chief conservator",
       "file": "cases/case_0003.json"
     },
     {
       "id": "case_4",
       "caseNumber": 4,
-      "title": "The Fake Kidnapping Ransom Call",
-      "category": "Cyber & Tech Crime",
-      "difficulty": "Medium",
-      "victim": "David (Merchant's son)",
+      "title": "The Silent Vault of Marlowe Jewelers",
+      "category": "Locked Room Mystery",
+      "difficulty": "Hard",
+      "victim": "Victor Marlowe",
       "file": "cases/case_0004.json"
     },
     {
       "id": "case_5",
       "caseNumber": 5,
-      "title": "The Museum Painting Switch",
-      "category": "Museum & Art Forgery",
-      "difficulty": "Hard",
-      "victim": "National Art Gallery",
+      "title": "Midnight Keycard Mystery",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Harold Finch",
       "file": "cases/case_0005.json"
+    },
+    {
+      "id": "case_6",
+      "caseNumber": 6,
+      "title": "The Sealed Study Silence",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Harold Finch",
+      "file": "cases/case_0006.json"
+    },
+    {
+      "id": "case_7",
+      "caseNumber": 7,
+      "title": "The Sealed Vault of Hart",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Evelyn Hart",
+      "file": "cases/case_0007.json"
+    },
+    {
+      "id": "case_8",
+      "caseNumber": 8,
+      "title": "Midnight at Whitmore Manor",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Expert",
+      "victim": "Eleanor Whitmore",
+      "file": "cases/case_0008.json"
+    },
+    {
+      "id": "case_9",
+      "caseNumber": 9,
+      "title": "The Ivory Lock of Thorn Manor",
+      "category": "Locked Room Mystery",
+      "difficulty": "Hard",
+      "victim": "Elias Thorn",
+      "file": "cases/case_0009.json"
+    },
+    {
+      "id": "case_10",
+      "caseNumber": 10,
+      "title": "The Silent Clocktower Conundrum",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Elias Finch",
+      "file": "cases/case_0010.json"
+    },
+    {
+      "id": "case_11",
+      "caseNumber": 11,
+      "title": "Deadly Dose in the Lab",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Elena Voss",
+      "file": "cases/case_0011.json"
+    },
+    {
+      "id": "case_12",
+      "caseNumber": 12,
+      "title": "Midnight Sapphire Lockdown",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Victor Marlowe",
+      "file": "cases/case_0012.json"
+    },
+    {
+      "id": "case_13",
+      "caseNumber": 13,
+      "title": "Midnight Spark at the Gilded Peacock",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Evelyn Hart, Head of Security",
+      "file": "cases/case_0013.json"
+    },
+    {
+      "id": "case_14",
+      "caseNumber": 14,
+      "title": "Midnight Mix-Up at the Velvet Orchid",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Elliot Graves",
+      "file": "cases/case_0014.json"
+    },
+    {
+      "id": "case_15",
+      "caseNumber": 15,
+      "title": "The Midnight Malware Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Lena Ortiz, lead security engineer at NovaBank",
+      "file": "cases/case_0015.json"
+    },
+    {
+      "id": "case_16",
+      "caseNumber": 16,
+      "title": "Midnight Stain at the Gallery",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Victor Hale",
+      "file": "cases/case_0016.json"
+    },
+    {
+      "id": "case_17",
+      "caseNumber": 17,
+      "title": "Midnight Note of Death",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Jasper Quinn",
+      "file": "cases/case_0017.json"
+    },
+    {
+      "id": "case_18",
+      "caseNumber": 18,
+      "title": "Zero‑Day Heist in the Vault",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Lena Ortiz, Lead Security Engineer at NovaBank",
+      "file": "cases/case_0018.json"
+    },
+    {
+      "id": "case_19",
+      "caseNumber": 19,
+      "title": "Midnight Sauté Murder",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Chef Anton Marquez",
+      "file": "cases/case_0019.json"
+    },
+    {
+      "id": "case_20",
+      "caseNumber": 20,
+      "title": "The Midnight Muse Heist",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Elena Marquez, Head Curator",
+      "file": "cases/case_0020.json"
+    },
+    {
+      "id": "case_21",
+      "caseNumber": 21,
+      "title": "Midnight Malware Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Elliot Grant, lead AI researcher",
+      "file": "cases/case_0021.json"
+    },
+    {
+      "id": "case_22",
+      "caseNumber": 22,
+      "title": "The Sealed Study of Eleanor Whitlock",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Eleanor Whitlock",
+      "file": "cases/case_0022.json"
+    },
+    {
+      "id": "case_23",
+      "caseNumber": 23,
+      "title": "Midnight Marinade Murder",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Armand LeBlanc, celebrated food critic",
+      "file": "cases/case_0023.json"
+    },
+    {
+      "id": "case_24",
+      "caseNumber": 24,
+      "title": "Midnight in the Whitmore Library",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Expert",
+      "victim": "Reginald Whitmore",
+      "file": "cases/case_0024.json"
+    },
+    {
+      "id": "case_25",
+      "caseNumber": 25,
+      "title": "Midnight Brew at The Velvet Note",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "Jasper Monroe",
+      "file": "cases/case_0025.json"
+    },
+    {
+      "id": "case_26",
+      "caseNumber": 26,
+      "title": "Midnight Bloom Murder",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Dr. Amelia Reed",
+      "file": "cases/case_0026.json"
+    },
+    {
+      "id": "case_27",
+      "caseNumber": 27,
+      "title": "Midnight Murmur in the Manor Library",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Harold Finch",
+      "file": "cases/case_0027.json"
+    },
+    {
+      "id": "case_28",
+      "caseNumber": 28,
+      "title": "The Bitter Brew at Midnight Lab",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Dr. Elena Marquez",
+      "file": "cases/case_0028.json"
+    },
+    {
+      "id": "case_29",
+      "caseNumber": 29,
+      "title": "Midnight Spark at the Aurora",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Dr. Elise Marlowe (Head Curator)",
+      "file": "cases/case_0029.json"
+    },
+    {
+      "id": "case_30",
+      "caseNumber": 30,
+      "title": "Midnight Toxin in the Morgue",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Medium",
+      "victim": "Dr. Elena Marquez",
+      "file": "cases/case_0030.json"
+    },
+    {
+      "id": "case_31",
+      "caseNumber": 31,
+      "title": "The Sealed Study Scream",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Armand Vale",
+      "file": "cases/case_0031.json"
+    },
+    {
+      "id": "case_32",
+      "caseNumber": 32,
+      "title": "The Lavender Lethal Libation",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Victor Harrow",
+      "file": "cases/case_0032.json"
+    },
+    {
+      "id": "case_33",
+      "caseNumber": 33,
+      "title": "The Dissolving Ledger",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Victor Thorne",
+      "file": "cases/case_0033.json"
+    },
+    {
+      "id": "case_34",
+      "caseNumber": 34,
+      "title": "The Ice-Cold Dose",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Victor Sterling",
+      "file": "cases/case_0034.json"
+    },
+    {
+      "id": "case_35",
+      "caseNumber": 35,
+      "title": "The Icebound Ledger",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Victor Thorne, Industrialist",
+      "file": "cases/case_0035.json"
+    },
+    {
+      "id": "case_36",
+      "caseNumber": 36,
+      "title": "The Chilled Alibi",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Elias Thorne, Perfumer",
+      "file": "cases/case_0036.json"
+    },
+    {
+      "id": "case_37",
+      "caseNumber": 37,
+      "title": "The Icebound Chord",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Julian Thorne, Conductor",
+      "file": "cases/case_0037.json"
+    },
+    {
+      "id": "case_38",
+      "caseNumber": 38,
+      "title": "The Shattered Facet",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Marcus Vane (Hotel Owner)",
+      "file": "cases/case_0038.json"
+    },
+    {
+      "id": "case_39",
+      "caseNumber": 39,
+      "title": "The Zero-Day Paradox",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Dr. Aris Thorne, Lead Security Architect",
+      "file": "cases/case_0039.json"
+    },
+    {
+      "id": "case_40",
+      "caseNumber": 40,
+      "title": "The Varnish Lie",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "The Grandeur Gallery (Reputational Victim)",
+      "file": "cases/case_0040.json"
+    },
+    {
+      "id": "case_41",
+      "caseNumber": 41,
+      "title": "The Encrypted Ghost",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "NexaCorp (Corporate Asset)",
+      "file": "cases/case_0041.json"
+    },
+    {
+      "id": "case_42",
+      "caseNumber": 42,
+      "title": "The Melting Alibi",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Baron Von Frost",
+      "file": "cases/case_0042.json"
+    },
+    {
+      "id": "case_43",
+      "caseNumber": 43,
+      "title": "The Phantom Ping",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Nexus Corp Mainframe",
+      "file": "cases/case_0043.json"
+    },
+    {
+      "id": "case_44",
+      "caseNumber": 44,
+      "title": "The Frozen Window",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Hard",
+      "victim": "Victor Sterling",
+      "file": "cases/case_0044.json"
+    },
+    {
+      "id": "case_45",
+      "caseNumber": 45,
+      "title": "Data Heist at the Silicon Summit",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Rachel Lee, CEO of TechCorp",
+      "file": "cases/case_0045.json"
+    },
+    {
+      "id": "case_46",
+      "caseNumber": 46,
+      "title": "The Sealed Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Dr. Eleanor Finch",
+      "file": "cases/case_0046.json"
+    },
+    {
+      "id": "case_47",
+      "caseNumber": 47,
+      "title": "The Sealed Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Dr. Evelyn Hart",
+      "file": "cases/case_0047.json"
+    },
+    {
+      "id": "case_48",
+      "caseNumber": 48,
+      "title": "The Silent Suite",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Victor Hale",
+      "file": "cases/case_0048.json"
+    },
+    {
+      "id": "case_49",
+      "caseNumber": 49,
+      "title": "Deadly Cocktail",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Richard Langley",
+      "file": "cases/case_0049.json"
+    },
+    {
+      "id": "case_50",
+      "caseNumber": 50,
+      "title": "Midnight Malware Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Maya (CTO of the AI startup)",
+      "file": "cases/case_0050.json"
+    },
+    {
+      "id": "case_51",
+      "caseNumber": 51,
+      "title": "The Isolated Inheritance",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Lord Harrington",
+      "file": "cases/case_0051.json"
+    },
+    {
+      "id": "case_52",
+      "caseNumber": 52,
+      "title": "Midnight Shot in the Library",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Medium",
+      "victim": "Dr. Alan Pierce",
+      "file": "cases/case_0052.json"
+    },
+    {
+      "id": "case_53",
+      "caseNumber": 53,
+      "title": "The Vanishing Canvas",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Expert",
+      "victim": "Bellwether Art Gallery (the painting \"Twilight over the Seine\")",
+      "file": "cases/case_0053.json"
+    },
+    {
+      "id": "case_54",
+      "caseNumber": 54,
+      "title": "Stormy Secrets at Seabreeze Inn",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Eleanor Hart, celebrated novelist",
+      "file": "cases/case_0054.json"
+    },
+    {
+      "id": "case_55",
+      "caseNumber": 55,
+      "title": "Midnight Mirage Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Victor Hale, owner of Lumen Jewelers",
+      "file": "cases/case_0055.json"
+    },
+    {
+      "id": "case_56",
+      "caseNumber": 56,
+      "title": "The Mysterious Death at Willowbrook Manor",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Medium",
+      "victim": "Richard Langley",
+      "file": "cases/case_0056.json"
+    },
+    {
+      "id": "case_57",
+      "caseNumber": 57,
+      "title": "The Bitter Harvest",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Elena Marquez",
+      "file": "cases/case_0057.json"
+    },
+    {
+      "id": "case_58",
+      "caseNumber": 58,
+      "title": "Deadly Draft on the Rooftop",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Dr. Lena Moroz",
+      "file": "cases/case_0058.json"
+    },
+    {
+      "id": "case_59",
+      "caseNumber": 59,
+      "title": "The Sealed Study of Dr. Finch",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Dr. Eleanor Finch",
+      "file": "cases/case_0059.json"
+    },
+    {
+      "id": "case_60",
+      "caseNumber": 60,
+      "title": "Canvas of Lies",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Hard",
+      "victim": "Mara Delgado, Chief Curator of the Metropolitan Heritage Museum",
+      "file": "cases/case_0060.json"
+    },
+    {
+      "id": "case_61",
+      "caseNumber": 61,
+      "title": "Midnight Spark Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Victor Marlowe",
+      "file": "cases/case_0061.json"
+    },
+    {
+      "id": "case_62",
+      "caseNumber": 62,
+      "title": "The Toxic Inheritance",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Richard Langley",
+      "file": "cases/case_0062.json"
+    },
+    {
+      "id": "case_63",
+      "caseNumber": 63,
+      "title": "Silenced Strings at The Velvet Note",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Elena Marquez, celebrated violinist",
+      "file": "cases/case_0063.json"
+    },
+    {
+      "id": "case_64",
+      "caseNumber": 64,
+      "title": "Midnight Data Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Maya, senior cybersecurity analyst",
+      "file": "cases/case_0064.json"
+    },
+    {
+      "id": "case_65",
+      "caseNumber": 65,
+      "title": "The Bitter Aftertaste",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Victoria Vittles, renowned food critic",
+      "file": "cases/case_0065.json"
+    },
+    {
+      "id": "case_66",
+      "caseNumber": 66,
+      "title": "The Locked Study of Ravenscroft Hall",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Eleanor Ravenscroft",
+      "file": "cases/case_0066.json"
+    },
+    {
+      "id": "case_67",
+      "caseNumber": 67,
+      "title": "Canvas of Lies",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Mara Whitfield, gallery owner",
+      "file": "cases/case_0067.json"
+    },
+    {
+      "id": "case_68",
+      "caseNumber": 68,
+      "title": "The Orchid Poison at Hawthorne Hall",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Hard",
+      "victim": "Victor Hale",
+      "file": "cases/case_0068.json"
+    },
+    {
+      "id": "case_69",
+      "caseNumber": 69,
+      "title": "The Midnight Data Breach",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Alexandra \"Alex\" Chen",
+      "file": "cases/case_0069.json"
+    },
+    {
+      "id": "case_70",
+      "caseNumber": 70,
+      "title": "Poisoned at the Penthouse",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "Victor Hale",
+      "file": "cases/case_0070.json"
+    },
+    {
+      "id": "case_71",
+      "caseNumber": 71,
+      "title": "Stormbound Silence",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Richard Langley",
+      "file": "cases/case_0071.json"
+    },
+    {
+      "id": "case_72",
+      "caseNumber": 72,
+      "title": "The Midnight Tonic",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Lena Hart",
+      "file": "cases/case_0072.json"
+    },
+    {
+      "id": "case_73",
+      "caseNumber": 73,
+      "title": "Murder at the Langley Estate",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Hard",
+      "victim": "Richard Langley",
+      "file": "cases/case_0073.json"
+    },
+    {
+      "id": "case_74",
+      "caseNumber": 74,
+      "title": "The Vanishing Code‑Phone",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Alex Rivera",
+      "file": "cases/case_0074.json"
+    },
+    {
+      "id": "case_75",
+      "caseNumber": 75,
+      "title": "Midnight Spark at the Sapphire Gala",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Evelyn Whitmore",
+      "file": "cases/case_0075.json"
+    },
+    {
+      "id": "case_76",
+      "caseNumber": 76,
+      "title": "The Missing Diamond Heirloom",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Mr. Johnson",
+      "file": "cases/case_0076.json"
+    },
+    {
+      "id": "case_77",
+      "caseNumber": 77,
+      "title": "The Sealed Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Victor Hale",
+      "file": "cases/case_0077.json"
+    },
+    {
+      "id": "case_78",
+      "caseNumber": 78,
+      "title": "Midnight at the Marlowe Gallery",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Hard",
+      "victim": "Elias Marlowe, gallery owner",
+      "file": "cases/case_0078.json"
+    },
+    {
+      "id": "case_79",
+      "caseNumber": 79,
+      "title": "The Mysterious Death at the Mansion",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Richard Langley",
+      "file": "cases/case_0079.json"
+    },
+    {
+      "id": "case_80",
+      "caseNumber": 80,
+      "title": "Silicon Heist at Sunset Summit",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Rachel Chen, CEO of NovaCore AI",
+      "file": "cases/case_0080.json"
+    },
+    {
+      "id": "case_81",
+      "caseNumber": 81,
+      "title": "The Toxic Greenhouse",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Emma Taylor",
+      "file": "cases/case_0081.json"
+    },
+    {
+      "id": "case_82",
+      "caseNumber": 82,
+      "title": "Midnight Star Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Dr. Evelyn Hart",
+      "file": "cases/case_0082.json"
+    },
+    {
+      "id": "case_83",
+      "caseNumber": 83,
+      "title": "Midnight Masque Murder",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Elena Voss, philanthropist",
+      "file": "cases/case_0083.json"
+    },
+    {
+      "id": "case_84",
+      "caseNumber": 84,
+      "title": "The Diamond Diva's Dilemma",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Madame LeRoux",
+      "file": "cases/case_0084.json"
+    },
+    {
+      "id": "case_85",
+      "caseNumber": 85,
+      "title": "Midnight Malware at NovaTech",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Emily Chen, Head of Cybersecurity at NovaTech",
+      "file": "cases/case_0085.json"
+    },
+    {
+      "id": "case_86",
+      "caseNumber": 86,
+      "title": "Canvas of Lies",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Elena Whitmore, Museum Director",
+      "file": "cases/case_0086.json"
+    },
+    {
+      "id": "case_87",
+      "caseNumber": 87,
+      "title": "Midnight Algorithm Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Dr. Lena Ortiz, Lead AI Researcher",
+      "file": "cases/case_0087.json"
+    },
+    {
+      "id": "case_88",
+      "caseNumber": 88,
+      "title": "Cabin of Silent Shadows",
+      "category": "Locked Room Mystery",
+      "difficulty": "Hard",
+      "victim": "Alex",
+      "file": "cases/case_0088.json"
+    },
+    {
+      "id": "case_89",
+      "caseNumber": 89,
+      "title": "The Isolated Inheritance",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Richard Langley",
+      "file": "cases/case_0089.json"
+    },
+    {
+      "id": "case_90",
+      "caseNumber": 90,
+      "title": "Midnight Autopsy at Harbor Dock",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Medium",
+      "victim": "Victor Hale, marine engineer",
+      "file": "cases/case_0090.json"
+    },
+    {
+      "id": "case_91",
+      "caseNumber": 91,
+      "title": "The Sealed Lab Conspiracy",
+      "category": "Locked Room Mystery",
+      "difficulty": "Hard",
+      "victim": "Richard Langley",
+      "file": "cases/case_0091.json"
+    },
+    {
+      "id": "case_92",
+      "caseNumber": 92,
+      "title": "Midnight Breach at Cipher Labs",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Maya (Cybersecurity Analyst)",
+      "file": "cases/case_0092.json"
+    },
+    {
+      "id": "case_93",
+      "caseNumber": 93,
+      "title": "The Phantom Poisoner",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0093.json"
+    },
+    {
+      "id": "case_94",
+      "caseNumber": 94,
+      "title": "Whodunit at the Masquerade Ball",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0094.json"
+    },
+    {
+      "id": "case_95",
+      "caseNumber": 95,
+      "title": "The Deadly Botanical Murder",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Dr. Olivia Blackwood",
+      "file": "cases/case_0095.json"
+    },
+    {
+      "id": "case_96",
+      "caseNumber": 96,
+      "title": "The Twisted Shadows Murder",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Medium",
+      "victim": "Samantha Blackwood, Art Curator",
+      "file": "cases/case_0096.json"
+    },
+    {
+      "id": "case_97",
+      "caseNumber": 97,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Princess Victoria - The owner of the stolen diamond.",
+      "file": "cases/case_0097.json"
+    },
+    {
+      "id": "case_98",
+      "caseNumber": 98,
+      "title": "Whodunit in the Enigmatic Penthouse",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Ms. Aisha Patel, Art Curator",
+      "file": "cases/case_0098.json"
+    },
+    {
+      "id": "case_99",
+      "caseNumber": 99,
+      "title": "Shadows of St. James Alley",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Emily Stone (Jewelry Store Owner)",
+      "file": "cases/case_0099.json"
+    },
+    {
+      "id": "case_100",
+      "caseNumber": 100,
+      "title": "Whodunit at the Music Bash",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Mr. Charlie Jazz, a popular local musician",
+      "file": "cases/case_0100.json"
+    },
+    {
+      "id": "case_101",
+      "caseNumber": 101,
+      "title": "The Twisted Vine Murder",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Victim: Samuel Blanc",
+      "file": "cases/case_0101.json"
+    },
+    {
+      "id": "case_102",
+      "caseNumber": 102,
+      "title": "Shadows of the Cuckoo Clock Case",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Unknown",
+      "file": "cases/case_0102.json"
+    },
+    {
+      "id": "case_103",
+      "caseNumber": 103,
+      "title": "Poisoned Dinner Party",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Mr. William Jameson (host) - found slumped over in his chair, motionless.",
+      "file": "cases/case_0103.json"
+    },
+    {
+      "id": "case_104",
+      "caseNumber": 104,
+      "title": "Whodunnit at the Masquerade Ball? ",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Unknown",
+      "file": "cases/case_0104.json"
+    },
+    {
+      "id": "case_105",
+      "caseNumber": 105,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Lady Luck's proprietor: Mr. Amir Khan",
+      "file": "cases/case_0105.json"
+    },
+    {
+      "id": "case_106",
+      "caseNumber": 106,
+      "title": "Deadly Pharma Scandal",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0106.json"
+    },
+    {
+      "id": "case_107",
+      "caseNumber": 107,
+      "title": "The Silent Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "William 'Whiz' Walters, CTO",
+      "file": "cases/case_0107.json"
+    },
+    {
+      "id": "case_108",
+      "caseNumber": 108,
+      "title": "Whodunit in the Phantom Parlor",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Unknown",
+      "file": "cases/case_0108.json"
+    },
+    {
+      "id": "case_109",
+      "caseNumber": 109,
+      "title": "Shady Jewellers",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Hard",
+      "victim": "Benjamin Tate (Jewellers Owner)",
+      "file": "cases/case_0109.json"
+    },
+    {
+      "id": "case_110",
+      "caseNumber": 110,
+      "title": "The Hacktivist Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0110.json"
+    },
+    {
+      "id": "case_111",
+      "caseNumber": 111,
+      "title": "The Twisted Melodies Murder",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Medium",
+      "victim": "Earl Blackwood (a young jazz pianist)",
+      "file": "cases/case_0111.json"
+    },
+    {
+      "id": "case_112",
+      "caseNumber": 112,
+      "title": "The Tainted Dinner Party",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Mrs. Blackwood",
+      "file": "cases/case_0112.json"
+    },
+    {
+      "id": "case_113",
+      "caseNumber": 113,
+      "title": "Da Vinci's Eclipse",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "The genuine 'The Last Supper' by Leonardo da Vinci",
+      "file": "cases/case_0113.json"
+    },
+    {
+      "id": "case_114",
+      "caseNumber": 114,
+      "title": "Deadly Venom Vigil",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Victim Information",
+      "file": "cases/case_0114.json"
+    },
+    {
+      "id": "case_115",
+      "caseNumber": 115,
+      "title": "The Hacker Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Thomas Lukas, CEO of CyberByte Solutions",
+      "file": "cases/case_0115.json"
+    },
+    {
+      "id": "case_116",
+      "caseNumber": 116,
+      "title": "The Hacktivist Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "ByteCore CEO Dylan Johnson",
+      "file": "cases/case_0116.json"
+    },
+    {
+      "id": "case_117",
+      "caseNumber": 117,
+      "title": "Whispers of the Forged Masterpiece",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0117.json"
+    },
+    {
+      "id": "case_118",
+      "caseNumber": 118,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Mr. Jameson (Victim)",
+      "file": "cases/case_0118.json"
+    },
+    {
+      "id": "case_119",
+      "caseNumber": 119,
+      "title": "Crime at Twilight Books",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Mr. Reginald Ashby - Owner of Twilight Books",
+      "file": "cases/case_0119.json"
+    },
+    {
+      "id": "case_120",
+      "caseNumber": 120,
+      "title": "The Enigmatic Study Shuffle",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0120.json"
+    },
+    {
+      "id": "case_121",
+      "caseNumber": 121,
+      "title": "Whodunit at the Gallery Gallows",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Leonardo da Vinci - 'The Last Supper'",
+      "file": "cases/case_0121.json"
+    },
+    {
+      "id": "case_122",
+      "caseNumber": 122,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Hard",
+      "victim": "Armand DeLuxe, Diamond Merchant",
+      "file": "cases/case_0122.json"
+    },
+    {
+      "id": "case_123",
+      "caseNumber": 123,
+      "title": "The Hacktivist Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0123.json"
+    },
+    {
+      "id": "case_124",
+      "caseNumber": 124,
+      "title": "Treasure Trove Tampering",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Mrs. Penelope Paintbrush",
+      "file": "cases/case_0124.json"
+    },
+    {
+      "id": "case_125",
+      "caseNumber": 125,
+      "title": "The Phantom Painting",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Expert",
+      "victim": "Curator Miss Amelia Ravenwood",
+      "file": "cases/case_0125.json"
+    },
+    {
+      "id": "case_126",
+      "caseNumber": 126,
+      "title": "Shimmering Swindle",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Mr. Martin Stone, the shop owner",
+      "file": "cases/case_0126.json"
+    },
+    {
+      "id": "case_127",
+      "caseNumber": 127,
+      "title": "Tech Thieves: The Hacker Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Dr. Amirah Patel (CEO)",
+      "file": "cases/case_0127.json"
+    },
+    {
+      "id": "case_128",
+      "caseNumber": 128,
+      "title": "Whodunit in the Cigar Lounge",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Mr. Montego, the cigar lounge owner",
+      "file": "cases/case_0128.json"
+    },
+    {
+      "id": "case_129",
+      "caseNumber": 129,
+      "title": "Whispers in the Art Gallery",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Curator Madeline",
+      "file": "cases/case_0129.json"
+    },
+    {
+      "id": "case_130",
+      "caseNumber": 130,
+      "title": "The Hacktivist Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Thomas Smith, CEO of ByteWorks",
+      "file": "cases/case_0130.json"
+    },
+    {
+      "id": "case_131",
+      "caseNumber": 131,
+      "title": "Diamond Dream Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Victim: Ball Organizer, Mr. Gleam",
+      "file": "cases/case_0131.json"
+    },
+    {
+      "id": "case_132",
+      "caseNumber": 132,
+      "title": "The Stolen Vermeer: A Mysterious Art Heist",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0132.json"
+    },
+    {
+      "id": "case_133",
+      "caseNumber": 133,
+      "title": "The Tech Hackers' Duel",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Unknown",
+      "file": "cases/case_0133.json"
+    },
+    {
+      "id": "case_134",
+      "caseNumber": 134,
+      "title": "Knights of Deception",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Lady Adeline, wealthy socialite and owner of the mansion.",
+      "file": "cases/case_0134.json"
+    },
+    {
+      "id": "case_135",
+      "caseNumber": 135,
+      "title": "Shimmering Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0135.json"
+    },
+    {
+      "id": "case_136",
+      "caseNumber": 136,
+      "title": "The Late Night Murder",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0136.json"
+    },
+    {
+      "id": "case_137",
+      "caseNumber": 137,
+      "title": "Shady Hackers Unveiled",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Project Manager Sarah Masters",
+      "file": "cases/case_0137.json"
+    },
+    {
+      "id": "case_138",
+      "caseNumber": 138,
+      "title": "The Hacktivist Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0138.json"
+    },
+    {
+      "id": "case_139",
+      "caseNumber": 139,
+      "title": "Toxic Twist: The Seductive Concoction",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Sir Roland",
+      "file": "cases/case_0139.json"
+    },
+    {
+      "id": "case_140",
+      "caseNumber": 140,
+      "title": "Whodunit at the Art Heist",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Victim: Museum Curator John Smith",
+      "file": "cases/case_0140.json"
+    },
+    {
+      "id": "case_141",
+      "caseNumber": 141,
+      "title": "The Drowned Formula",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Dr. Ada Stone, a renowned Poisonologist",
+      "file": "cases/case_0141.json"
+    },
+    {
+      "id": "case_142",
+      "caseNumber": 142,
+      "title": "Whispers of Deception",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0142.json"
+    },
+    {
+      "id": "case_143",
+      "caseNumber": 143,
+      "title": "Bloodstone Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Sir Adrian Blackstone",
+      "file": "cases/case_0143.json"
+    },
+    {
+      "id": "case_144",
+      "caseNumber": 144,
+      "title": "Whodunit in the Grim Mansion",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0144.json"
+    },
+    {
+      "id": "case_145",
+      "caseNumber": 145,
+      "title": "Shadows of the Deceased",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Mrs. Ames (wealthy socialite and wife to Mr. Ames)",
+      "file": "cases/case_0145.json"
+    },
+    {
+      "id": "case_146",
+      "caseNumber": 146,
+      "title": "Twisted Heist at the Black Hat Ball",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Mr. E.J. Pharaoh, a wealthy art collector and host of the event.",
+      "file": "cases/case_0146.json"
+    },
+    {
+      "id": "case_147",
+      "caseNumber": 147,
+      "title": "The Phantom Poisoner",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Medium",
+      "victim": "Dr. Eliza Evergreen - Expert in rare poisons",
+      "file": "cases/case_0147.json"
+    },
+    {
+      "id": "case_148",
+      "caseNumber": 148,
+      "title": "The Hacktivist Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Dr. Aaron Talbot, Chief Tech Officer of CyberByte",
+      "file": "cases/case_0148.json"
+    },
+    {
+      "id": "case_149",
+      "caseNumber": 149,
+      "title": "Silent Venom at the Art Exhibit",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0149.json"
+    },
+    {
+      "id": "case_150",
+      "caseNumber": 150,
+      "title": "Whodunit in the Enigmatic Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Sir Edmund, Lord Reginald's right-hand man",
+      "file": "cases/case_0150.json"
+    },
+    {
+      "id": "case_151",
+      "caseNumber": 151,
+      "title": "Deceptive Duo",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Medium",
+      "victim": "James, Sir Reginald's valet",
+      "file": "cases/case_0151.json"
+    },
+    {
+      "id": "case_152",
+      "caseNumber": 152,
+      "title": "The Stolen Crypto Case",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Alex Stone, Cryptocurrency Magnate",
+      "file": "cases/case_0152.json"
+    },
+    {
+      "id": "case_153",
+      "caseNumber": 153,
+      "title": "Whodunnit in the Closed Cabinet",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0153.json"
+    },
+    {
+      "id": "case_154",
+      "caseNumber": 154,
+      "title": "The Twisted Duality Case",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Harmony and Discord Twin Sisters",
+      "file": "cases/case_0154.json"
+    },
+    {
+      "id": "case_155",
+      "caseNumber": 155,
+      "title": "The Venomous Vinegar Case",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Mr. Penrose, the Antique Shop Owner",
+      "file": "cases/case_0155.json"
+    },
+    {
+      "id": "case_156",
+      "caseNumber": 156,
+      "title": "The Venomous Veranda Mystery",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Whitney - A distinguished acupuncture expert",
+      "file": "cases/case_0156.json"
+    },
+    {
+      "id": "case_157",
+      "caseNumber": 157,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Cynthia Gems, the museum director",
+      "file": "cases/case_0157.json"
+    },
+    {
+      "id": "case_158",
+      "caseNumber": 158,
+      "title": "Ephemeral Echoes",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Mr. Jameson, the Gallery Curator",
+      "file": "cases/case_0158.json"
+    },
+    {
+      "id": "case_159",
+      "caseNumber": 159,
+      "title": "The Twisted Handshake",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Emile de Ravin, acclaimed actor",
+      "file": "cases/case_0159.json"
+    },
+    {
+      "id": "case_160",
+      "caseNumber": 160,
+      "title": "The Twisted Motive",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Lady Elizabeth Harker",
+      "file": "cases/case_0160.json"
+    },
+    {
+      "id": "case_161",
+      "caseNumber": 161,
+      "title": "Diamond Deception at Tiffany & Co.",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Mrs. Thompson, the Tiffany & Co. store manager",
+      "file": "cases/case_0161.json"
+    },
+    {
+      "id": "case_162",
+      "caseNumber": 162,
+      "title": "Deceptive Dose",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Mrs. Butterfield - the owner of a local bakery",
+      "file": "cases/case_0162.json"
+    },
+    {
+      "id": "case_163",
+      "caseNumber": 163,
+      "title": "The Enigmatic Parlor Puzzle",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Mr. Wilder",
+      "file": "cases/case_0163.json"
+    },
+    {
+      "id": "case_164",
+      "caseNumber": 164,
+      "title": "The Midnight Arsonist",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Mr. Burnett, a local businessman and antique dealer",
+      "file": "cases/case_0164.json"
+    },
+    {
+      "id": "case_165",
+      "caseNumber": 165,
+      "title": "Diamond Desire Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Dr. Elsa Winslow, a gemologist specializing in rare diamonds.",
+      "file": "cases/case_0165.json"
+    },
+    {
+      "id": "case_166",
+      "caseNumber": 166,
+      "title": "The Twisted Nightmare Venom",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Mr. Blackwood",
+      "file": "cases/case_0166.json"
+    },
+    {
+      "id": "case_167",
+      "caseNumber": 167,
+      "title": "The Enigmatic Escapologist",
+      "category": "Locked Room Mystery",
+      "difficulty": "Hard",
+      "victim": "Victim: The enigmatic Professor Ezra Thornton",
+      "file": "cases/case_0167.json"
+    },
+    {
+      "id": "case_168",
+      "caseNumber": 168,
+      "title": "Whodunnit at the Masquerade Ball",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "The wealthy art collector, Mr. Leo Drake, the owner of the stolen painting.",
+      "file": "cases/case_0168.json"
+    },
+    {
+      "id": "case_169",
+      "caseNumber": 169,
+      "title": "Case Noir: The Vanishing Gems",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Mrs. Elsie Fitch, Owner of Jubilee Jewels",
+      "file": "cases/case_0169.json"
+    },
+    {
+      "id": "case_170",
+      "caseNumber": 170,
+      "title": "Whodunnit at Murder Mystery Manor",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Sir Roland Blackwood (Billionaire and Host) Name",
+      "file": "cases/case_0170.json"
+    },
+    {
+      "id": "case_171",
+      "caseNumber": 171,
+      "title": "The Enigmatic Study Solution",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Mr. Alexander Drake, the personal butler",
+      "file": "cases/case_0171.json"
+    },
+    {
+      "id": "case_172",
+      "caseNumber": 172,
+      "title": "The Enigmatic Seance",
+      "category": "Locked Room Mystery",
+      "difficulty": "Hard",
+      "victim": "Sir Algernon Blackwood (Detective Claire's benefactor and owner of the mansion)",
+      "file": "cases/case_0172.json"
+    },
+    {
+      "id": "case_173",
+      "caseNumber": 173,
+      "title": "The Shadow Hacker",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0173.json"
+    },
+    {
+      "id": "case_174",
+      "caseNumber": 174,
+      "title": "Digital Deception",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "James Wilson",
+      "file": "cases/case_0174.json"
+    },
+    {
+      "id": "case_175",
+      "caseNumber": 175,
+      "title": "The Grim Reaper's Gambit",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Mr. Adrian Blackwood",
+      "file": "cases/case_0175.json"
+    },
+    {
+      "id": "case_176",
+      "caseNumber": 176,
+      "title": "Whodunit in the Enigmatic Apartment",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Ms. Blackwood - The renowned author",
+      "file": "cases/case_0176.json"
+    },
+    {
+      "id": "case_177",
+      "caseNumber": 177,
+      "title": "Pinned Past",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Mr. Finch, the butler",
+      "file": "cases/case_0177.json"
+    },
+    {
+      "id": "case_178",
+      "caseNumber": 178,
+      "title": "Toxic Twist at Blackwood Manor",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Charles Blackwood, a wealthy businessman",
+      "file": "cases/case_0178.json"
+    },
+    {
+      "id": "case_179",
+      "caseNumber": 179,
+      "title": "The Phantom Phantom",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Expert",
+      "victim": "Victim is the owner of Phantom Club - Mr. Bernard Blackwood",
+      "file": "cases/case_0179.json"
+    },
+    {
+      "id": "case_180",
+      "caseNumber": 180,
+      "title": "The Silent Shadows",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0180.json"
+    },
+    {
+      "id": "case_181",
+      "caseNumber": 181,
+      "title": "Whodunit: The Vanishing Vault Heist",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "Mr. James Whitney",
+      "file": "cases/case_0181.json"
+    },
+    {
+      "id": "case_182",
+      "caseNumber": 182,
+      "title": "The Phantom Phlebotomist",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Dr. Miranda Blackwood (Prestigious Cardiologist)",
+      "file": "cases/case_0182.json"
+    },
+    {
+      "id": "case_183",
+      "caseNumber": 183,
+      "title": "The Twisted Business Deal",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Medium",
+      "victim": "Mr. Benjamin Blackwood",
+      "file": "cases/case_0183.json"
+    },
+    {
+      "id": "case_184",
+      "caseNumber": 184,
+      "title": "Whodunnit at the Masquerade Bash?",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Mr. Crimson, the charismatic and mysterious band leader.",
+      "file": "cases/case_0184.json"
+    },
+    {
+      "id": "case_185",
+      "caseNumber": 185,
+      "title": "Ruby's Ruby Riddle",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Victor the Night Watchman",
+      "file": "cases/case_0185.json"
+    },
+    {
+      "id": "case_186",
+      "caseNumber": 186,
+      "title": "The Shimmering Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Dr. Amelia Stone, Curator of Diamond Museum",
+      "file": "cases/case_0186.json"
+    },
+    {
+      "id": "case_187",
+      "caseNumber": 187,
+      "title": "Whodunnit at Shadow Bay",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Medium",
+      "victim": "Edgar Blackwood, Art Collector",
+      "file": "cases/case_0187.json"
+    },
+    {
+      "id": "case_188",
+      "caseNumber": 188,
+      "title": "Deceptive Venom",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Professor Jasper Blackwood",
+      "file": "cases/case_0188.json"
+    },
+    {
+      "id": "case_189",
+      "caseNumber": 189,
+      "title": "Diamond Dilemma",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Unknown",
+      "file": "cases/case_0189.json"
+    },
+    {
+      "id": "case_190",
+      "caseNumber": 190,
+      "title": "Who Dunnit: The Phantom Heist",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "Larry, the Security Guard",
+      "file": "cases/case_0190.json"
+    },
+    {
+      "id": "case_191",
+      "caseNumber": 191,
+      "title": "Artful Deception",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Miss Emily, the Gallery Owner",
+      "file": "cases/case_0191.json"
+    },
+    {
+      "id": "case_192",
+      "caseNumber": 192,
+      "title": "The Late Count's Shady Deed",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Expert",
+      "victim": "Sir Edmund Blackwood, the Count",
+      "file": "cases/case_0192.json"
+    },
+    {
+      "id": "case_193",
+      "caseNumber": 193,
+      "title": "The Corpse in the Mansion",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0193.json"
+    },
+    {
+      "id": "case_194",
+      "caseNumber": 194,
+      "title": "Diamond Dilemma: The Heist of Diamonds",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Mr. Gavin Emerald, the owner of Gemstone Gallery",
+      "file": "cases/case_0194.json"
+    },
+    {
+      "id": "case_195",
+      "caseNumber": 195,
+      "title": "Echoes of Deception",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Emily Grey - The deceased assistant",
+      "file": "cases/case_0195.json"
+    },
+    {
+      "id": "case_196",
+      "caseNumber": 196,
+      "title": "The Enigmatic Drawer Mystery",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Mr. Benjamin Blackwood - Esteemed Art Dealer",
+      "file": "cases/case_0196.json"
+    },
+    {
+      "id": "case_197",
+      "caseNumber": 197,
+      "title": "The Enigmatic Art Exhibit Murder",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Mr. Galloway, the gallery owner",
+      "file": "cases/case_0197.json"
+    },
+    {
+      "id": "case_198",
+      "caseNumber": 198,
+      "title": "Cracking the Tech Vault Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Dr. Maria Rodriguez - CEO of NeuroTech",
+      "file": "cases/case_0198.json"
+    },
+    {
+      "id": "case_199",
+      "caseNumber": 199,
+      "title": "The Venomous Supper Club",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Professor Poison",
+      "file": "cases/case_0199.json"
+    },
+    {
+      "id": "case_200",
+      "caseNumber": 200,
+      "title": "Tainted Tea Tangle",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Guests at the Lavender House potluck tea party",
+      "file": "cases/case_0200.json"
+    },
+    {
+      "id": "case_201",
+      "caseNumber": 201,
+      "title": "The Vanishing Masterpiece",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Former Art Curator Sarah Thompson",
+      "file": "cases/case_0201.json"
+    },
+    {
+      "id": "case_202",
+      "caseNumber": 202,
+      "title": "The Venomous Affair",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Leonardo Blackwood",
+      "file": "cases/case_0202.json"
+    },
+    {
+      "id": "case_203",
+      "caseNumber": 203,
+      "title": "Shimmering Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "A wealthy gemologist named Mrs. Amara Quartz.",
+      "file": "cases/case_0203.json"
+    },
+    {
+      "id": "case_204",
+      "caseNumber": 204,
+      "title": "The Venomous Vendetta",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Mrs. Olivia White, bakery owner",
+      "file": "cases/case_0204.json"
+    },
+    {
+      "id": "case_205",
+      "caseNumber": 205,
+      "title": "Toxic Twist at the Garden Party",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Mr. Jameson (role of guest)",
+      "file": "cases/case_0205.json"
+    },
+    {
+      "id": "case_206",
+      "caseNumber": 206,
+      "title": "Scrambled Data: The Tech Hack Mystery",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Engineer John",
+      "file": "cases/case_0206.json"
+    },
+    {
+      "id": "case_207",
+      "caseNumber": 207,
+      "title": "Whodunit at the Masquerade Ball? ",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Jaxon Starling, Music Mogul",
+      "file": "cases/case_0207.json"
+    },
+    {
+      "id": "case_208",
+      "caseNumber": 208,
+      "title": "The Twisted Baking Contest",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Mrs. Winifred Whitmore, Cinnamon Roll Queen Bakery owner",
+      "file": "cases/case_0208.json"
+    },
+    {
+      "id": "case_209",
+      "caseNumber": 209,
+      "title": "Digital Deception",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Anjali Patel - CEO of ByteSec",
+      "file": "cases/case_0209.json"
+    },
+    {
+      "id": "case_210",
+      "caseNumber": 210,
+      "title": "The Clandestine Venom Vendetta",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Sebastian Blackwood, CEO of Reikart Industries",
+      "file": "cases/case_0210.json"
+    },
+    {
+      "id": "case_211",
+      "caseNumber": 211,
+      "title": "The Tenuous Venom Vendetta",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Local Artist Elsie Moonflower",
+      "file": "cases/case_0211.json"
+    },
+    {
+      "id": "case_212",
+      "caseNumber": 212,
+      "title": "A Dose of Deception",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Lady Aria Thornwood, a formidable philanthropist and socialite",
+      "file": "cases/case_0212.json"
+    },
+    {
+      "id": "case_213",
+      "caseNumber": 213,
+      "title": "Whispers of the Vanished Guest",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0213.json"
+    },
+    {
+      "id": "case_214",
+      "caseNumber": 214,
+      "title": "Shimmering Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Victim: Crystal Gala's CEO, Mr. Verity.",
+      "file": "cases/case_0214.json"
+    },
+    {
+      "id": "case_215",
+      "caseNumber": 215,
+      "title": "Whodunnit in the Enigmatic Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Dr. Emilia Morse, Cryptologist",
+      "file": "cases/case_0215.json"
+    },
+    {
+      "id": "case_216",
+      "caseNumber": 216,
+      "title": "Shimmering Heist: The Vanishing Gems",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Mr. Emerald, the Antique Dealer",
+      "file": "cases/case_0216.json"
+    },
+    {
+      "id": "case_217",
+      "caseNumber": 217,
+      "title": "Critical Poisoning Scandal",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0217.json"
+    },
+    {
+      "id": "case_218",
+      "caseNumber": 218,
+      "title": "The Twisted Deception",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Medium",
+      "victim": "Eleanor Blackwood",
+      "file": "cases/case_0218.json"
+    },
+    {
+      "id": "case_219",
+      "caseNumber": 219,
+      "title": "The Codebreaker's Caper",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Sarah Wilde, CEO of WildeTech",
+      "file": "cases/case_0219.json"
+    },
+    {
+      "id": "case_220",
+      "caseNumber": 220,
+      "title": "Tech Thief: The Phantom Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0220.json"
+    },
+    {
+      "id": "case_221",
+      "caseNumber": 221,
+      "title": "The Hack and the Hidden Code",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Elizabeth Johnson, the Chief Technology Officer",
+      "file": "cases/case_0221.json"
+    },
+    {
+      "id": "case_222",
+      "caseNumber": 222,
+      "title": "The Deadly Potion Puzzle",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Professor Agatha Blackwood",
+      "file": "cases/case_0222.json"
+    },
+    {
+      "id": "case_223",
+      "caseNumber": 223,
+      "title": "Whodunit: The Cursed Museum",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Sarah Thompson - the museum's esteemed curator",
+      "file": "cases/case_0223.json"
+    },
+    {
+      "id": "case_224",
+      "caseNumber": 224,
+      "title": "Whodunnit in the Phantom Parlor",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Miss Elise Hawthorne - Younger Sister",
+      "file": "cases/case_0224.json"
+    },
+    {
+      "id": "case_225",
+      "caseNumber": 225,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Virgilian Rodriguez, Museum Director",
+      "file": "cases/case_0225.json"
+    },
+    {
+      "id": "case_226",
+      "caseNumber": 226,
+      "title": "Crime of the Crest Diamond",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Ms. Zara Emerald (Event Organizer)",
+      "file": "cases/case_0226.json"
+    },
+    {
+      "id": "case_227",
+      "caseNumber": 227,
+      "title": "Poisoned Prelude",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Amelia Foxwood (Aspiring Poet)",
+      "file": "cases/case_0227.json"
+    },
+    {
+      "id": "case_228",
+      "caseNumber": 228,
+      "title": "The Phantom Poisoner",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Dr. Ada Blackwood",
+      "file": "cases/case_0228.json"
+    },
+    {
+      "id": "case_229",
+      "caseNumber": 229,
+      "title": "The Phantom Drawer",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Mrs. Amelia Blackwood",
+      "file": "cases/case_0229.json"
+    },
+    {
+      "id": "case_230",
+      "caseNumber": 230,
+      "title": "The Enigmatic Study Murder",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Professor Alexander Strand - renowned cryptographer",
+      "file": "cases/case_0230.json"
+    },
+    {
+      "id": "case_231",
+      "caseNumber": 231,
+      "title": "Crime of the Golden Touch",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Victim's name or role (omitted for mystery)",
+      "file": "cases/case_0231.json"
+    },
+    {
+      "id": "case_232",
+      "caseNumber": 232,
+      "title": "The Heist of the Century",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0232.json"
+    },
+    {
+      "id": "case_233",
+      "caseNumber": 233,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Hard",
+      "victim": "Mr. Patel, Millionaire Businessman",
+      "file": "cases/case_0233.json"
+    },
+    {
+      "id": "case_234",
+      "caseNumber": 234,
+      "title": "Ruby Royale Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0234.json"
+    },
+    {
+      "id": "case_235",
+      "caseNumber": 235,
+      "title": "Whodunit: The Forgery Heist",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Curator EMILY",
+      "file": "cases/case_0235.json"
+    },
+    {
+      "id": "case_236",
+      "caseNumber": 236,
+      "title": "The Hacker Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0236.json"
+    },
+    {
+      "id": "case_237",
+      "caseNumber": 237,
+      "title": "Whodunit in the Enigmatic Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Elwood - a brilliant physicist",
+      "file": "cases/case_0237.json"
+    },
+    {
+      "id": "case_238",
+      "caseNumber": 238,
+      "title": "Poisoned Pen Gala",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Emerald Echoes",
+      "file": "cases/case_0238.json"
+    },
+    {
+      "id": "case_239",
+      "caseNumber": 239,
+      "title": "The Venomous Concoction",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Adelaide Felton, wealthy widow",
+      "file": "cases/case_0239.json"
+    },
+    {
+      "id": "case_240",
+      "caseNumber": 240,
+      "title": "Whosoever Wins, Steals This Night",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Dr. Freida Blackwood",
+      "file": "cases/case_0240.json"
+    },
+    {
+      "id": "case_241",
+      "caseNumber": 241,
+      "title": "Whodunnit at the Jazz Club",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Benny Blues - A saxophonist",
+      "file": "cases/case_0241.json"
+    },
+    {
+      "id": "case_242",
+      "caseNumber": 242,
+      "title": "Gemstone Heist: The Shimmering Scheme",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Mr. Amos Stone, the enigmatic owner of Diamond Depths",
+      "file": "cases/case_0242.json"
+    },
+    {
+      "id": "case_243",
+      "caseNumber": 243,
+      "title": "Whodunnit in the Enigmatic Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "The wealthy and reclusive Mr. Wilberforce",
+      "file": "cases/case_0243.json"
+    },
+    {
+      "id": "case_244",
+      "caseNumber": 244,
+      "title": "Painted Deception at the Art Gallery",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Mrs. Elizabeth Howard - Curator",
+      "file": "cases/case_0244.json"
+    },
+    {
+      "id": "case_245",
+      "caseNumber": 245,
+      "title": "Shimmering Heist: The Diamond Catcher",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Hard",
+      "victim": "Mr. Zephyr Kline, Diamond Merchant",
+      "file": "cases/case_0245.json"
+    },
+    {
+      "id": "case_246",
+      "caseNumber": 246,
+      "title": "Whodunnit in the Musical Mansion",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Ms. Opal Blackwood, the wealthy widow",
+      "file": "cases/case_0246.json"
+    },
+    {
+      "id": "case_247",
+      "caseNumber": 247,
+      "title": "Byte by Byte - The Hacktivist Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "CEO Johnathan Stone III - ByteBits Corporation",
+      "file": "cases/case_0247.json"
+    },
+    {
+      "id": "case_248",
+      "caseNumber": 248,
+      "title": "The Silent Snake",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Mrs. Fiona Bakehouse",
+      "file": "cases/case_0248.json"
+    },
+    {
+      "id": "case_249",
+      "caseNumber": 249,
+      "title": "Whispers of the Masterforger",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Hard",
+      "victim": "Dr. Amelia Blake, esteemed curator",
+      "file": "cases/case_0249.json"
+    },
+    {
+      "id": "case_250",
+      "caseNumber": 250,
+      "title": "Whodunnit: The Deadly Reunion",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Dr. Alistair Blackwood",
+      "file": "cases/case_0250.json"
+    },
+    {
+      "id": "case_251",
+      "caseNumber": 251,
+      "title": "Whodunnit: The Late Night Heist",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Sarah Winslow - Gallery Owner",
+      "file": "cases/case_0251.json"
+    },
+    {
+      "id": "case_252",
+      "caseNumber": 252,
+      "title": "The Enigma of the Coded Door",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Miss Amelia, heiress",
+      "file": "cases/case_0252.json"
+    },
+    {
+      "id": "case_253",
+      "caseNumber": 253,
+      "title": "Poisoned Deception",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Dr. Ezra Blackwood",
+      "file": "cases/case_0253.json"
+    },
+    {
+      "id": "case_254",
+      "caseNumber": 254,
+      "title": "Tech Tangled: The Hacked Company",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "CEO Sarah Williams",
+      "file": "cases/case_0254.json"
+    },
+    {
+      "id": "case_255",
+      "caseNumber": 255,
+      "title": "Whodunnit at the Masquerade Ball? ",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Lady Ella, the art collector",
+      "file": "cases/case_0255.json"
+    },
+    {
+      "id": "case_256",
+      "caseNumber": 256,
+      "title": "Whodunnit at the Masquerade Bash",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "Lady Amelia Blackwood",
+      "file": "cases/case_0256.json"
+    },
+    {
+      "id": "case_257",
+      "caseNumber": 257,
+      "title": "The Twisted Bedroom Murder",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Lady Ada Blackwood, a wealthy socialite",
+      "file": "cases/case_0257.json"
+    },
+    {
+      "id": "case_258",
+      "caseNumber": 258,
+      "title": "The Venomous Banquet",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0258.json"
+    },
+    {
+      "id": "case_259",
+      "caseNumber": 259,
+      "title": "Clockwork Deception",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Mr. Lionel Blackwood",
+      "file": "cases/case_0259.json"
+    },
+    {
+      "id": "case_260",
+      "caseNumber": 260,
+      "title": "Shadows of the Midnight Heist",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "Mr. Cresswell, the diamond merchant",
+      "file": "cases/case_0260.json"
+    },
+    {
+      "id": "case_261",
+      "caseNumber": 261,
+      "title": "The Venomous Masquerade",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Baron Von Dust",
+      "file": "cases/case_0261.json"
+    },
+    {
+      "id": "case_262",
+      "caseNumber": 262,
+      "title": "Whodunit at the Masquerade Ball",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Lady Georgiana Rivers (a respected socialite and writer)",
+      "file": "cases/case_0262.json"
+    },
+    {
+      "id": "case_263",
+      "caseNumber": 263,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "The Diamond Pavilion Museum Director",
+      "file": "cases/case_0263.json"
+    },
+    {
+      "id": "case_264",
+      "caseNumber": 264,
+      "title": "The Stolen Masterpiece",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "Director of Art Gallery of Europe",
+      "file": "cases/case_0264.json"
+    },
+    {
+      "id": "case_265",
+      "caseNumber": 265,
+      "title": "Sapphire Scam",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Expert",
+      "victim": "Mayor's Daughter",
+      "file": "cases/case_0265.json"
+    },
+    {
+      "id": "case_266",
+      "caseNumber": 266,
+      "title": "Whose Lies Will Crack?",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Mr. Miles Mitchell, Iconic Jazz Pianist",
+      "file": "cases/case_0266.json"
+    },
+    {
+      "id": "case_267",
+      "caseNumber": 267,
+      "title": "The Enigmatic Study Solution",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Mr. Amalgam (Role - Inventor)",
+      "file": "cases/case_0267.json"
+    },
+    {
+      "id": "case_268",
+      "caseNumber": 268,
+      "title": "Tech Theft: The Silent Hacker",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Benjamin Cross",
+      "file": "cases/case_0268.json"
+    },
+    {
+      "id": "case_269",
+      "caseNumber": 269,
+      "title": "Deadly Serpentine Scandal",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "The victim, Leonora Dupont, a renowned botanist.",
+      "file": "cases/case_0269.json"
+    },
+    {
+      "id": "case_270",
+      "caseNumber": 270,
+      "title": "The Phantom Pharmaceutical Killer",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0270.json"
+    },
+    {
+      "id": "case_271",
+      "caseNumber": 271,
+      "title": "Whodunit: The Vanishing Vintner",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Mr. Aubrey Winston (Wine Tycoon)",
+      "file": "cases/case_0271.json"
+    },
+    {
+      "id": "case_272",
+      "caseNumber": 272,
+      "title": "Shhh... The Great Tape Mystery",
+      "category": "Locked Room Mystery",
+      "difficulty": "Expert",
+      "victim": "Mr. Augustus Snailworthy, the enigmatic inventor",
+      "file": "cases/case_0272.json"
+    },
+    {
+      "id": "case_273",
+      "caseNumber": 273,
+      "title": "Whodunnit at the Enigmatic Cabaret",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "The enigmatic Figurehead",
+      "file": "cases/case_0273.json"
+    },
+    {
+      "id": "case_274",
+      "caseNumber": 274,
+      "title": "Whose Alibi Falls Apart? ",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0274.json"
+    },
+    {
+      "id": "case_275",
+      "caseNumber": 275,
+      "title": "Shimmering Heist: The Dazzling Scam",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Mr. Jameson, the shop owner and sole witness",
+      "file": "cases/case_0275.json"
+    },
+    {
+      "id": "case_276",
+      "caseNumber": 276,
+      "title": "Whodunnit in the Enigmatic Study",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Professor Lyman",
+      "file": "cases/case_0276.json"
+    },
+    {
+      "id": "case_277",
+      "caseNumber": 277,
+      "title": "Shining Heist: Diamond's Deceit",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Lady Vivian",
+      "file": "cases/case_0277.json"
+    },
+    {
+      "id": "case_278",
+      "caseNumber": 278,
+      "title": "The Shadowy Shadows Murder",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0278.json"
+    },
+    {
+      "id": "case_279",
+      "caseNumber": 279,
+      "title": "Deadly Poisoned Dinner",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Hard",
+      "victim": "Mr. Thomas",
+      "file": "cases/case_0279.json"
+    },
+    {
+      "id": "case_280",
+      "caseNumber": 280,
+      "title": "The Venomous Vendetta",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Amelia Everton",
+      "file": "cases/case_0280.json"
+    },
+    {
+      "id": "case_281",
+      "caseNumber": 281,
+      "title": "The Twisted Venom Vendetta",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Elias Blackwood",
+      "file": "cases/case_0281.json"
+    },
+    {
+      "id": "case_282",
+      "caseNumber": 282,
+      "title": "Whodunnit on the Moonlit Mansion Path",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Easy",
+      "victim": "Mr. Blackwood",
+      "file": "cases/case_0282.json"
+    },
+    {
+      "id": "case_283",
+      "caseNumber": 283,
+      "title": "Whodunit in the Enigma Mansion",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Sir Edgar Blackwood, the eccentric owner of Enigma Mansion.",
+      "file": "cases/case_0283.json"
+    },
+    {
+      "id": "case_284",
+      "caseNumber": 284,
+      "title": "Whodunnit: The Phantom Heist",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Duke Harding (Racketeer)",
+      "file": "cases/case_0284.json"
+    },
+    {
+      "id": "case_285",
+      "caseNumber": 285,
+      "title": "The Enigmatic Piano Case",
+      "category": "Locked Room Mystery",
+      "difficulty": "Hard",
+      "victim": "Jonathan Blackwood - A Pianist",
+      "file": "cases/case_0285.json"
+    },
+    {
+      "id": "case_286",
+      "caseNumber": 286,
+      "title": "Diamond in the Rough",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Medium",
+      "victim": "Mr. James Wilson, Diamond Expo Director",
+      "file": "cases/case_0286.json"
+    },
+    {
+      "id": "case_287",
+      "caseNumber": 287,
+      "title": "Whodunit at the Black Hat Ball",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Simon 'The Sharpshooter' Tate, a notorious gambler",
+      "file": "cases/case_0287.json"
+    },
+    {
+      "id": "case_288",
+      "caseNumber": 288,
+      "title": "Shimmering Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Jameson R. Rodgers",
+      "file": "cases/case_0288.json"
+    },
+    {
+      "id": "case_289",
+      "caseNumber": 289,
+      "title": "Whispers of Vanished Masterpiece",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Expert",
+      "victim": "Emilia Arras, curator",
+      "file": "cases/case_0289.json"
+    },
+    {
+      "id": "case_290",
+      "caseNumber": 290,
+      "title": "Whodunit at the Dark Web Summit",
+      "category": "Alibi Buster",
+      "difficulty": "Medium",
+      "victim": "Robert Johnson, CEO of a cybersecurity firm",
+      "file": "cases/case_0290.json"
+    },
+    {
+      "id": "case_291",
+      "caseNumber": 291,
+      "title": "The Shadows of Secrecy",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Medium",
+      "victim": "Mr. Ezra Blackwood (Notorious Gang Leader)",
+      "file": "cases/case_0291.json"
+    },
+    {
+      "id": "case_292",
+      "caseNumber": 292,
+      "title": "Digital Deception",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Benjamin Thompson, Tech Cofounder",
+      "file": "cases/case_0292.json"
+    },
+    {
+      "id": "case_293",
+      "caseNumber": 293,
+      "title": "Whodunnit: The Late-Night Heist",
+      "category": "Alibi Buster",
+      "difficulty": "Hard",
+      "victim": "Victim: The owner of Diamond Dynasty, Mr. Singh.",
+      "file": "cases/case_0293.json"
+    },
+    {
+      "id": "case_294",
+      "caseNumber": 294,
+      "title": "Deadly Venom Vendetta",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Ezra Stone - Wealthy Industrialist",
+      "file": "cases/case_0294.json"
+    },
+    {
+      "id": "case_295",
+      "caseNumber": 295,
+      "title": "The Venomous Concoction",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Elias, Mr.",
+      "file": "cases/case_0295.json"
+    },
+    {
+      "id": "case_296",
+      "caseNumber": 296,
+      "title": "The Deadly Green Vial",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Expert",
+      "victim": "Dr. Ada Wilder",
+      "file": "cases/case_0296.json"
+    },
+    {
+      "id": "case_297",
+      "caseNumber": 297,
+      "title": "Lethal Laboratory Leak",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0297.json"
+    },
+    {
+      "id": "case_298",
+      "caseNumber": 298,
+      "title": "The Enigmatic Cyber Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Emily Rose (cybersecurity consultant)",
+      "file": "cases/case_0298.json"
+    },
+    {
+      "id": "case_299",
+      "caseNumber": 299,
+      "title": "The Midnight Heist Murders",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Hard",
+      "victim": "Unknown",
+      "file": "cases/case_0299.json"
+    },
+    {
+      "id": "case_300",
+      "caseNumber": 300,
+      "title": "The Masked Masterstroke",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Medium",
+      "victim": "The 'Enigmatic Portrait'",
+      "file": "cases/case_0300.json"
+    },
+    {
+      "id": "case_301",
+      "caseNumber": 301,
+      "title": "The Twisted Harvest Case",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Hard",
+      "victim": "Elijah Blackwood, age 65",
+      "file": "cases/case_0301.json"
+    },
+    {
+      "id": "case_302",
+      "caseNumber": 302,
+      "title": "Whispers of the Forged Brush",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0302.json"
+    },
+    {
+      "id": "case_303",
+      "caseNumber": 303,
+      "title": "Digital Deception",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Medium",
+      "victim": "Unknown",
+      "file": "cases/case_0303.json"
+    },
+    {
+      "id": "case_304",
+      "caseNumber": 304,
+      "title": "The Murder in Misty Mansion",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Mr. Jameson",
+      "file": "cases/case_0304.json"
+    },
+    {
+      "id": "case_305",
+      "caseNumber": 305,
+      "title": "The Silent Strings Case",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Medium",
+      "victim": "Unknown",
+      "file": "cases/case_0305.json"
+    },
+    {
+      "id": "case_306",
+      "caseNumber": 306,
+      "title": "The Tech Theft Case",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Joseph Patel, CTO of NextGen",
+      "file": "cases/case_0306.json"
+    },
+    {
+      "id": "case_307",
+      "caseNumber": 307,
+      "title": "Cyber Heist: The Vanished Datum",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Jake, the CFO",
+      "file": "cases/case_0307.json"
+    },
+    {
+      "id": "case_308",
+      "caseNumber": 308,
+      "title": "Whodunit on Moonlit Mansion",
+      "category": "Alibi Buster",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0308.json"
+    },
+    {
+      "id": "case_309",
+      "caseNumber": 309,
+      "title": "The Silent Scream",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Easy",
+      "victim": "Miss Viola the Trapeze Artist",
+      "file": "cases/case_0309.json"
+    },
+    {
+      "id": "case_310",
+      "caseNumber": 310,
+      "title": "The Tech-Savvy Heist",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0310.json"
+    },
+    {
+      "id": "case_311",
+      "caseNumber": 311,
+      "title": "The Shadows of Blackwood Manor",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Hard",
+      "victim": "Sir Hubert Blackwood, a prominent philanthropist and owner of Blackwood Manor.",
+      "file": "cases/case_0311.json"
+    },
+    {
+      "id": "case_312",
+      "caseNumber": 312,
+      "title": "Whodunit at the Art Heist",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Curator Dr. Maria Rossi",
+      "file": "cases/case_0312.json"
+    },
+    {
+      "id": "case_313",
+      "caseNumber": 313,
+      "title": "Diamond Deception",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Sir Isaac Vivacious, the host of the Diamond Ball",
+      "file": "cases/case_0313.json"
+    },
+    {
+      "id": "case_314",
+      "caseNumber": 314,
+      "title": "The Enigmatic Escape Room",
+      "category": "Locked Room Mystery",
+      "difficulty": "Easy",
+      "victim": "Unknown",
+      "file": "cases/case_0314.json"
+    },
+    {
+      "id": "case_315",
+      "caseNumber": 315,
+      "title": "The Enigmatic Study Soliloquy",
+      "category": "Locked Room Mystery",
+      "difficulty": "Medium",
+      "victim": "Emily Grayson",
+      "file": "cases/case_0315.json"
+    },
+    {
+      "id": "case_316",
+      "caseNumber": 316,
+      "title": "The Twisted Poisoning Affair",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Easy",
+      "victim": "Mayor Richard Thompson",
+      "file": "cases/case_0316.json"
+    },
+    {
+      "id": "case_317",
+      "caseNumber": 317,
+      "title": "Diamond Heist: The Shimmering Scheme",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "The Diamond Jubilee Auction Organizer, Ms. Elsa Stones",
+      "file": "cases/case_0317.json"
+    },
+    {
+      "id": "case_318",
+      "caseNumber": 318,
+      "title": "Art of Deception",
+      "category": "Museum & Art Gallery Forgery",
+      "difficulty": "Easy",
+      "victim": "Curator Dr. Amelia Thompson, whose career was built on preserving valuable artworks",
+      "file": "cases/case_0318.json"
+    },
+    {
+      "id": "case_319",
+      "caseNumber": 319,
+      "title": "Whodunnit at the Masquerade Ball",
+      "category": "Alibi Buster",
+      "difficulty": "Easy",
+      "victim": "John Smith - wealthy businessman",
+      "file": "cases/case_0319.json"
+    },
+    {
+      "id": "case_320",
+      "caseNumber": 320,
+      "title": "The Phantom Phantom Case",
+      "category": "Classic Whodunit Murder",
+      "difficulty": "Expert",
+      "victim": "Samuel Brampton, a widower family patriarch",
+      "file": "cases/case_0320.json"
+    },
+    {
+      "id": "case_321",
+      "caseNumber": 321,
+      "title": "The Twisted Poison Plot",
+      "category": "Poison & Toxic Mystery",
+      "difficulty": "Medium",
+      "victim": "Lady Eliza Ashwood",
+      "file": "cases/case_0321.json"
+    },
+    {
+      "id": "case_322",
+      "caseNumber": 322,
+      "title": "The Twisted Harvest",
+      "category": "Forensic Clue & Autopsy",
+      "difficulty": "Expert",
+      "victim": "Unknown",
+      "file": "cases/case_0322.json"
+    },
+    {
+      "id": "case_323",
+      "caseNumber": 323,
+      "title": "Diamond Dilemma",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Jasper James, owner of James Jewelers",
+      "file": "cases/case_0323.json"
+    },
+    {
+      "id": "case_324",
+      "caseNumber": 324,
+      "title": "Byte & Switch Case",
+      "category": "Cyber Crime & Tech Riddle",
+      "difficulty": "Easy",
+      "victim": "Emily, the CEO",
+      "file": "cases/case_0324.json"
+    },
+    {
+      "id": "case_325",
+      "caseNumber": 325,
+      "title": "Crime of the Sparkling Heist",
+      "category": "Heist & Diamond Theft",
+      "difficulty": "Easy",
+      "victim": "Director of Diamond Affairs, Mr. Brighton",
+      "file": "cases/case_0325.json"
     }
   ]
 }

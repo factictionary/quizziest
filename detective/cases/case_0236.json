@@ -1,0 +1,15 @@
+{
+  "title": "The Hacker Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "In the bustling tech hub of Silicon Valley, financial giant 'DigiCorp' faced an unprecedented tragedy. Their data breach exposed millions of confidential client files, including Social Security Numbers, financial records, and medical history. Chief Information Security Officer, Detective Jackson, now leads the investigation.\n\nVictim: Chief Information Security Officer (CISO), Detective Jackson\nCrime Scene: DigiCorp headquarters' server room\nForensic Clue: A tainted login credentials file under an unknown account (‘__’)\n\nSuspect 1: Marcus, the internal IT specialist\nSuspect 2: Sarah, the external cybersecurity consultant\nSuspect 3: John, the former DigiCorp employee\nSuspect 4: Emma, the receptionist\n\nQuestion: Who is responsible for the data breach at DigiCorp?\n\nOptions:\n1. Marcus (Login credentials manipulation)\n2. Sarah (Access granted during contract negotiation)\n3. John (Recent termination; access history review)\n4. Emma (Physical access to server room)\n\nCorrectIndex: 2\n\nDeduction Explanation:\nAs the investigation progressed, Detective Jackson noticed an unusual login credentials file named '__'. Upon closer examination, it was apparent that the credentials had been tampered with, granting unauthorized access to the server room. This pointed to Marcus, the internal IT specialist, who had the necessary authorization to modify the file. Confirming his motive, it was discovered that Marcus had recently received a reprimand for mishandling customer data. Additionally, there was no physical evidence implicating the other suspects.\n\nSarah, the external cybersecurity consultant, was given full access during contract negotiations and left no physical evidence at the scene. John, the former DigiCorp employee, had been terminated prior to the incident and did not have the opportunity to commit the crime. Emma, the receptionist, only had access to the server room due to physical presence, which doesn't align with the digital evidence indicating an inside job.\n\nThe clever ruse involved manipulating the login credentials file prior to Sarah granting access during contract negotiations.\n\nUpon questioning Marcus, he attempted to delete the log file showing the unauthorized login. However, our astute detective discovered it had been screenshotted by John, who also happened to be present during the confrontation. Marcus, caught in a web of deception, confessed to the crime, stating, 'I did it for the money!' The scheme involved Sarah and John colluding to extort money from DigiCorp by exposing the stolen data on the dark web, using the manipulated login credentials file created by Marcus. John's screenshotted log file incriminated Marcus, and the motive of money from the conspiracy revealed the culprits' intentions.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 236,
+  "id": "case_236"
+}

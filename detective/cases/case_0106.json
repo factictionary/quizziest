@@ -1,0 +1,19 @@
+{
+  "title": "Deadly Pharma Scandal",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In a seemingly ideal suburban neighborhood, a bitter rivalry between two pharmaceutical giants unfolded. Resident 'Dr. Ashley Wilder', an independent consultant, known for exposing corporate scandals, met her untimely demise. She was found in the Wilder Corporation's research lab located on the outskirts of town.\n\nVictim: Dr. Ashley Wilder (role as an independent consultant)",
+  "crimeScene": "The Wilder Corporation's research laboratory.",
+  "forensicClue": "An unusual residue (PDF file) on Dr. Wilder's computer.",
+  "question": "Who is the mastermind behind Dr. Wilder's death and how did they leave the peculiar clue? ",
+  "options": [
+    "Option A (CEO John Hamilton and ties to Wilder Corporation)",
+    "Option B (Dr. Regina Blackwood and rivalry)",
+    "Option C (Dr. Sebastian Ross and connection to both corporations)",
+    "Option D (Anonymous threat maker and leverage)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The poison contained in Dr. Wilder's body matches the toxicology profile of the mysterious poison used in the rival corporation's products. The peculiar PDF file left behind reveals an anonymous threat from the day before the murder, indicating the murderer had knowledge of Dr. Wilder's impending exposures. Thus, the most probable suspect is Option C (Dr. Sebastian Ross and connection to both corporations). The link between Dr. Wilder's death and the anonymous threat, along with the shared poison type, solidifies Dr. Ross's involvement as the mastermind behind the murder and leaving the peculiar clue.",
+  "caseNumber": 106,
+  "id": "case_106"
+}

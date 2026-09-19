@@ -1,0 +1,15 @@
+{
+  "title": "Shadows of the Cuckoo Clock Case",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "In the dimly lit, cobblestone alleyways of the old town, a gruesome murder occurred on a moonlit night. The victim, Charles Whitworth, a wealthy art collector, was found lying lifeless beside his newly acquired 19th-century cuckoo clock. The clock, adorned with intricate ivory carvings and a haunting melody, would strike the hour with a sinister clickety-clack.\n\nCharles entered the scene accompanied by his assistant, Alice, who swore she last saw Charles leaving the antique shop at 9 PM sharp. Around the same time, the only witness reported hearing the cuckoo clock's hourly strike - a sound that echoed through the narrow streets. \n\nThe suspects were: \n1. Thomas, the shop owner who locked the antique shop at 9 PM and had an alibi with his family.\n2. Sarah, the clockmaker who worked on the cuckoo clock till 10 PM.\n3. Michael, the street performer who played his accordion nearby and claimed to have overheard the argument between Charles and Alice before the murder occurred.\n4. Grace, the nosy neighbor who claimed to have seen Charles arguing with someone shortly before the murder took place.\n\nThe question: Who committed the crime and how were they able to do it?\nOptions:\nA. Thomas (he had the opportunity, but his alibi is strong)\nB. Sarah (had the means, worked on the cuckoo clock)\nC. Michael (heard the argument, had the motive)\nD. Grace (saw the argument, had the opportunity)\n\nThe correctIndex is 3 (Grace).\n\nThe deduction explanation is: \nAt 9 PM, Alice left Charles at the antique shop and headed to her apartment, locking the shop behind her. At that precise moment, Sarah was working on the cuckoo clock inside the shop, unable to witness what happened next. Meanwhile, Thomas was at home with his family, locked in his residence. Lastly, Michael was playing his accordion far from the shop. Grace, however, had an opportunity as she confirmed seeing Charles arguing with someone before the murder occurred.\n\nThe cuckoo clock's hourly strike at 9:00 PM could not have been the murderer as the clock's strike was synchronized with Alice's departure and not the moment of the murder. Therefore, the murder must have taken place after 9:00 PM when Alice was away, and before 10:00 PM when Sarah left the shop. \n\nThe motive for Grace could be the only strong motive, implying Charles' argument was with her. But the alibi of Grace is weak as she was seen leaving her apartment at 10:00 PM, which is after the crime occurred. Michael had left the scene at 8 PM, long before the argument could have taken place.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 102,
+  "id": "case_102"
+}

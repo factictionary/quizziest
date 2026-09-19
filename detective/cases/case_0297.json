@@ -1,0 +1,16 @@
+{
+  "title": "Lethal Laboratory Leak",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In the dimly lit lab of Dr. Harlow, a respected biologist, death played a sinister game. The gruesome discovery occurred at 3:17 AM when security guard, Phil, spotted a mysterious figure escaping through the back gate.\n\nVictim: Dr. Jane Harlow - Biologist\nCrime Scene: A state-of-the-art research laboratory\nForensic Clue: A mysterious chemical residue on the murder weapon\n\nThe police recorded the following statements:\n1. Dr. Jameson, assistant to Dr. Harlow, claimed they were working on a groundbreaking gene-editing project.\n2. Security guard Phil only saw the suspect's silhouette and didn't notice any distinguishing features.\n3. Dr. Wilson, a colleague, noticed shady financial dealings at the lab.\n4. Janitor Samuel discovered a broken glass beaker in the hallway.\n",
+  "question": "Who is the culprit and how did they commit the crime?",
+  "options": [
+    "Option A (Dr. Jameson and motive)",
+    "Option B (Security guard Phil and lack of evidence)",
+    "Option C (Dr. Wilson and financial motive)",
+    "Option D (Janitor Samuel and broken glass connection)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 297,
+  "id": "case_297"
+}

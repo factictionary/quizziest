@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Mix-Up at the Velvet Orchid",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "Elliot Graves, a famed art dealer, was found dead behind the bar of the Velvet Orchid, a dimly lit downtown speakeasy, at approximately 10:12 PM. The bartender, Maya Torres, says she was polishing glasses when the lights flickered, and the night security guard, Victor Hale, claims he was making his rounds from 9:30‑10:30 PM. Lena Wu, the owner’s assistant, insists she was locked in the office preparing invoices, while regular patron Carlos Mendes swears he left the venue at 9:40 PM after a quick drink. The police discover a single wet footprint leading to the back door, but the rain had stopped at 9:45 PM and the security camera shows the back door was opened at 10:05 PM, minutes after the victim’s estimated time of death.",
+  "victim": "Elliot Graves",
+  "crimeScene": "The Velvet Orchid speakeasy, downtown",
+  "forensicClue": "A single wet footprint leading to the back door, but the rain stopped at 9:45 PM and the security camera shows the back door was opened at 10:05 PM.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Maya Torres – She claims she was polishing glasses at 10:15 PM, but the bar register shows no activity after 10:05 PM.)",
+    "Option B (Victor Hale – He says he was on his patrol from 9:30‑10:30 PM, yet the security log shows his badge was deactivated at 9:55 PM.)",
+    "Option C (Lena Wu – She says she was in the office preparing invoices at 10:10 PM, but the office’s computer log shows she logged out at 9:58 PM, and a wet footprint matches her size.)",
+    "Option D (Carlos Mendes – He insists he left the bar at 9:40 PM, yet his coat was found draped over the back‑door chair, suggesting he was still inside.)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The wet footprint matches Lena Wu’s shoe size, and the rain had already ceased, so the footprint could only have been made after 9:45 PM. The security camera shows the back door opened at 10:05 PM, after the rain stopped, meaning someone entered or exited then. Lena claimed to be in the office at 10:10 PM, but the computer log proves she logged out at 9:58 PM, giving her a window to slip to the back door. Her alibi collapses, while Maya’s and Victor’s timelines are contradicted by logs, and Carlos’s coat alone doesn’t place him at the crime time. Therefore, Lena Wu is the only suspect whose timeline and physical clue (the footprint) align with the murder, making her the indisputable culprit.",
+  "caseNumber": 14,
+  "id": "case_14"
+}

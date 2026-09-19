@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Sapphire Lockdown",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Renowned jeweler Victor Marlowe was found dead in his study at precisely 9:03 PM, the heavy oak door bolted from the inside and the only window sealed shut. The room was immaculate except for a shattered glass shard on the carpet, a single muddy footprint leading to the desk, and Victor's prized sapphire missing from its velvet case. Four people were present in the manor that evening:\n\n1. **Butler Edmund** – \"I was in the garden pruning the roses when I heard a crash. I rushed in at 9:10, but the door was already locked.\"\n2. **Sister Clara** – \"I was in my room arranging the orchids I keep on my desk. I heard nothing until the servants shouted that Victor was dead.\"\n3. **Rival jeweler Anton** – \"I arrived at 8:55 to discuss a partnership. I waited in the lounge until Victor invited me in, then left at 9:00 when I thought he was busy.\"\n4. **Housekeeper Marta** – \"I was polishing the hallway floor. At 9:05 I heard a scream, ran to the study, and found Victor on the floor.\"\n\nThe forensic examiner noted a faint layer of orchid pollen on Victor's cufflink – a species only cultivated by Clara in her private study. The muddy footprint did not match any of the suspects' shoes, and the broken wristwatch stopped two minutes before the scream Marta claimed to hear.",
+  "victim": "Victor Marlowe",
+  "crimeScene": "Victor's locked study, a Victorian manor with a sealed window and bolted door.",
+  "forensicClue": "Orchid pollen from a rare species found on Victor's cufflink.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Butler Edmund – he claims to be in the garden but no key was found on him)",
+    "Option B (Sister Clara – orchid pollen on the cufflink matches her exclusive orchids)",
+    "Option C (Rival Jeweler Anton – his alibi conflicts with the watch stopped at 9:03)",
+    "Option D (Housekeeper Marta – her claimed scream occurs after the victim's watch stopped)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The decisive clue is the orchid pollen on Victor's cufflink. Only Sister Clara tends to the rare orchid in her private study, and no other suspect had access to that pollen. The muddy footprint, while mysterious, does not match any shoes and therefore is a red herring. The timeline shows the victim died at 9:03 (watch stopped), making Marta's 9:05 scream impossible and Anton's departure at 9:00 irrelevant. Edmund's claim about the garden provides no forensic link. Thus, the detective concludes that Sister Clara murdered Victor, likely stealing the sapphire before planting the pollen to mislead investigators.",
+  "caseNumber": 12,
+  "id": "case_12"
+}

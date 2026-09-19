@@ -1,0 +1,21 @@
+{
+  "title": "Cracking the Tech Vault Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Expert",
+  "story": "In the tech hub of Silicon Valley, a company known for its cutting-edge AI development, 'NeuroTech', was rocked by a major cyber heist. The CEO, Dr. Maria Rodriguez, noticed a significant drop in the company's stock price and critical data loss when she arrived at the office on a rainy morning. Upon inspecting the servers, she found vandalized hardware, and the mysterious message: 'AI experts only dare to hack into my code.'",
+  "victim": "Dr. Maria Rodriguez - CEO of NeuroTech",
+  "crimeScene": "NeuroTech's server room",
+  "forensicClue": "A handwritten note with a cipher puzzle",
+  "question": "Who is the culprit? How did the detective solve it?",
+  "options": [
+    "Option A (Dr. Eduardo and code manipulation)",
+    "Option B (Dr. Isabella and insider knowledge)",
+    "Option C (Mr. Rodriguez and access override)",
+    "Option D (Ms. Lopez and external attack)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The detective discovered the culprit is Option D, Ms. Lopez. The clues point out that the culprit must have been an insider, knowing the company's systems and data intimately. The cipher puzzle on the forensic note hints at an outsider attempting to keep their identity hidden. The stock price drop and data loss occurred simultaneously, revealing the attack was not an external hack but an insider's betrayal. The CEO, Dr. Rodriguez, had the opportunity and motive to cause damage during the night as he worked late on a secret AI project. Moreover, Mr. Rodriguez had the knowledge to bypass the access control. A thorough examination of the company's security log and witness statements connect Ms. Lopez, a junior AI developer, to the late-night server access. She was caught on camera exiting the office with a USB containing the company's proprietary algorithms, and her alibi falls apart upon investigation.",
+  "justification": "After reviewing the security footage, witness statements, and analyzing the timeline, Detective AI narrowed down the investigation to the four suspects. Upon further examination, it was evident that Ms. Lopez had the opportunity, knowledge, and motive to commit the crime. The other suspects either lacked incriminating evidence or had an alibi.",
+  "caseNumber": 198,
+  "id": "case_198"
+}

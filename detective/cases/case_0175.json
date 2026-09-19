@@ -1,0 +1,20 @@
+{
+  "title": "The Grim Reaper's Gambit",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "In the bleak streets of Darkwood District, a deceptively quiet neighborhood, a disturbing event unfolded. On a moonlit night, wealthy businessman and philanthropist, Mr. Adrian Blackwood, was found dead in his lavish mansion's study.\n\nCrime Scene: The study was dimly lit, with an antique globe casting eerie shadows upon the room's opulent furnishings. The body of Mr. Blackwood was discovered slumped behind his massive oak desk, with a vial containing a powerful toxin beside him, shattered. A handwritten note lay beside the poison, reading: 'The Grim Reaper visits even the richest.'",
+  "victim": "Mr. Adrian Blackwood",
+  "crimeScene": "a dimly lit study in a lavish mansion",
+  "forensicClue": "The shattered vial of poison (Type A Poison - Can only be obtained through a rare, exclusive deal with a shadowy distributor)",
+  "question": "How did Mr. Blackwood meet his end, and who left the sinister note? ",
+  "options": [
+    "The poison found beside the body belongs to a rare, exclusive distributor (Type A Poison).",
+    "The broken vial reveals the murderer used precision and knowledge of poisons.",
+    "The handwritten note hints at a deep-rooted feud or mental instability.",
+    "An unexpected visitor left the chilling note"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The poison found beside the body belongs to a rare, exclusive distributor (Type A Poison). This suggests that the murderer had particular knowledge of and connections to obtain such a poison, indicating motive or prior working relationship with Mr. Blackwood.\n\nUpon closer examination, the broken vial reveals the murderer used precision and knowledge of poisons, further supporting the suspect pool of potential co-workers or business associates of Mr. Blackwood who had access to the poison.\n\nThe chilling handwritten note hints at a deep-rooted feud or mental instability, which narrows down the suspects and personal tensions within the circle of friends or business partners.\n\nThe final clue – an unexpected visitor – links one of these suspects to the crime scene and could be a crucial piece of evidence when combined with the other details gathered throughout the investigation.",
+  "caseNumber": 175,
+  "id": "case_175"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Scrambled Data: The Tech Hack Mystery",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In the bustling startup city of Silicon Valley, our investigation revolves around ByteCo, a tech company that dealt with sensitive client data. Late one night, the company network mysteriously crashed, leaving the staff to face a sleepless night fixing the system. Engineer John, in charge of the security system, discovered the breach.\n\nVictim: Engineer John (Victim's role)\nCrime Scene: ByteCo's IT room (Location)\n\nTestimonies:\n1. Sarah (IT Assistant): 'I heard strange noises coming from the IT room before the crash, but when I rushed in, nobody was there.' - Silent alibi.\n2. Mark (Systems Admin): 'I was in the server room when the incident occurred, installing updates. No one entered or left without my knowledge.' - Logged alibi.\n3. Lisa (Client Relations): 'I received a mysterious email from a fake ByteCo address just before the crash, asking for sensitive data.' - Email scam.\n4. Alex (Hacker): 'I was challenged by a fellow hacker named James to break into ByteCo's system. We both laughed when we saw the chaos it caused.' - Confession.\n\nForensic Clue: The fake email address used in the scam was never registered at ByteCo (Forensic Hint)",
+  "victim": "Engineer John",
+  "crimeScene": "ByteCo's IT room",
+  "forensicClue": "The fake email address used in the scam was never registered at ByteCo (Forensic Hint)",
+  "question": "Who perpetrated the cyber crime and how was it done?",
+  "options": [
+    {
+      "option": "John's hacker friend James",
+      "reason": "Engineer John revealed they challenged a fellow hacker named James"
+    },
+    {
+      "option": "Sarah",
+      "reason": "IT Assistant's silent alibi and strange noises in the IT room"
+    },
+    {
+      "option": "Mark",
+      "reason": "Systems Admin's logged alibi and Lisa's email scam"
+    },
+    {
+      "option": "Lisa",
+      "reason": "Client Relations employee's involvement in the email scam and the mysterious noises"
+    }
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The investigation leads to Lisa, the email scammer. The mysterious noises in the IT room and Lisa receiving the suspicious email hint to her involvement. The fake email address used in the scam was never registered at ByteCo confirms her guilt.",
+  "caseNumber": 206,
+  "id": "case_206"
+}

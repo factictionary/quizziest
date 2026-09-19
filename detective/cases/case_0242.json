@@ -1,0 +1,19 @@
+{
+  "title": "Gemstone Heist: The Shimmering Scheme",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the sleek surroundings of Diamond Depths Jewelry Emporium, it all began with a routine opening ceremony. A seemingly innocent event to unveil the newly acquired, one-of-a-kind, 100-carat 'Twilight Star' diamond. But little did we know, a cunning heist was planned amongst the sparkling display.",
+  "victim": "Mr. Amos Stone, the enigmatic owner of Diamond Depths",
+  "crimeScene": "The lavish opening of Diamond Depths Jewelry Emporium",
+  "forensicClue": "Peculiar scratch on the velvet-lined display case near the Twilight Star diamond.",
+  "question": "Who stole the Twilight Star diamond and how was the crime solved?",
+  "options": [
+    "Option A: Sir Leo Whitmore (Scratch on the display case)",
+    "Option B: Miss Opal Ravenwood (Access card manipulation)",
+    "Option C: Master Xavier (Familiar's disappearance)",
+    "Option D: Countess Ella Vesperia (Audience distraction technique)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 242,
+  "id": "case_242"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Mirage Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "At 9:12 a.m. on a sweltering July morning, the famed Aurora Diamond vanished from the glass display of Lumen Jewelers on Fifth Avenue. The owner, Victor Hale, discovered the empty case moments later and called the precinct. Four people were on the premises that morning:\n\n- **Marcus**, the store manager, said he was in the back office reviewing inventory logs from 9:00 a.m. to 9:30 a.m. and stepped onto the sales floor only after the alarm sounded.\n- **Lena**, a senior sales associate, claimed she was assisting a client at the front counter from 9:05 a.m. to 9:45 a.m., then took a five‑minute coffee break.\n- **Rico**, the night‑shift security guard, reported patrolling the roof and ventilation shafts from 9:00 a.m. to 9:20 a.m., noting no one else was up there.\n- **Tasha**, the janitor, insisted she was sweeping the main lobby from 8:30 a.m. to 10:00 a.m. and never left the ground floor. A passing courier, however, recalled seeing Tasha wearing a heavy black coat despite the 85°F temperature.",
+  "victim": "Victor Hale, owner of Lumen Jewelers",
+  "crimeScene": "Lumen Jewelers, a high‑end boutique on Fifth Avenue, New York City",
+  "forensicClue": "A torn fragment of black cotton fabric was caught in the ventilation shaft’s grille; the weave matches the lining of a winter coat, not typical summer attire.",
+  "question": "Who stole the Aurora Diamond?",
+  "options": [
+    "Marcus – the manager who claimed to be in the office during the theft",
+    "Lena – the sales associate who was with a client at the front",
+    "Rico – the security guard who said he was on the roof",
+    "Tasha – the janitor seen in a black coat on a hot day"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The forensic clue ties the torn black cotton fabric to a winter‑style coat lining. The only person noted as wearing such a coat on a scorching day is Tasha, the janitor. Her alibi places her on the ground floor, but the ventilation shaft—her only route to the display case—was accessed from the roof, which Rico claimed to have patrolled. Rico’s timeline is impossible because the shaft’s lock disengages at 9:10 a.m., after his patrol ended. Therefore, Tasha’s unusual attire and the fabric fragment conclusively point to her as the thief.",
+  "caseNumber": 55,
+  "id": "case_55"
+}

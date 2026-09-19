@@ -1,0 +1,42 @@
+{
+  "title": "The Vanishing Masterpiece",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the dimly lit halls of the luxurious 'Art of Eternity Museum', an unspeakable crime unfolded. Former art curator, Sarah Thompson, was found dead بجوار the legendary, enigmatic 'Shifting Shadows' painting, believed to possess supernatural properties.",
+  "victim": "Former Art Curator Sarah Thompson",
+  "crimeScene": "The dimly lit hall of the Art of Eternity Museum, the infamous 'Shifting Shadows' painting.",
+  "forensicClue": "The signature 'X' seems to have faded and reappeared by itself, impossibly.",
+  "question": "Who is the culprit and how did they cover their tracks? ",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "During the investigation, it is discovered that Gallery Director, Charles Williams, had the motive to eliminate Sarah due to a feud over the painting's authenticity. On the night of the crime, security footage revealed a mysterious figure in a dark, hooded cloak leaving the crime scene just before the murder was discovered. \n\nThe critical clue lies in the 'Shifting Shadows' painting itself. Upon closer examination, the faded and reappeared 'X' signature indicates that the forger tampered with the painting. \n\nCharles, suspect number three, was caught attempting to alter the security footage to erase his presence and clear his name. The motive and evidence align perfectly to pin the crime on Charles. \n\nIn conclusion, the enigmatic painting provided a vital clue pointing to the Gallery Director as the culprit.",
+  "answer": [
+    {
+      "name": "Charles Williams",
+      "connection": "Gallery Director",
+      "alibi": "Attempts to alter security footage"
+    },
+    {
+      "name": "Suspect 1",
+      "connection": "Nearby gallery employee",
+      "alibi": "Assisting with a display nearby"
+    },
+    {
+      "name": "Suspect 2",
+      "connection": "Professional rival",
+      "alibi": "Studying the Shifting Shadows painting"
+    },
+    {
+      "name": "Suspect 3",
+      "connection": "Gallery Director",
+      "alibi": "Attempting to alter security footage"
+    }
+  ],
+  "caseNumber": 201,
+  "id": "case_201"
+}

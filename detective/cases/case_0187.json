@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit at Shadow Bay",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Medium",
+  "story": "In the misty, picturesque town of Shadow Bay, a shocking murder occurred at the prestigious Hallowood Manor. The victim, renowned art collector Edgar Blackwood, was found slumped over with a knife wound to the chest in his opulent study. The door was locked from the inside.",
+  "victim": "Edgar Blackwood, Art Collector",
+  "crimeScene": "Hallowood Manor, Edgar Blackwood's lavish study",
+  "forensicClue": "Odd paw prints near the murder scene",
+  "question": "Who killed Edgar Blackwood and why? ",
+  "options": [
+    "Option A: Lord Vexington (Enemy of Blackwood's) and motive - They had a rivalry due to business interests.",
+    "Option B: Lady Felicity (Blackwood's niece) and alibi - She was at the charity gala until late.",
+    "Option C: Professor Montague (Blackwood's old rival) and opportunity - He had a chance encounter with Blackwood the day before.",
+    "Option D: Mayor Thorne (Blackwood's old ally) and motive - Blackwood undermined Thorne's political aspirations years ago."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "After thorough investigation, we discovered that Mayor Thorne had the alibi of being at a town meeting until late, leaving Lady Felicity as the only suspect who could have committed the crime. The motive between Options C and D led to a deeper examination of their relationship with the victim. Hallowood Manor's security footage revealed a peculiar event: weird paw prints near the murder scene, hinting at an animal or something inexplicable. The investigation narrowed down to Professor Montague and Lord Vexington. The motive behind Mayor Thorne and Lady Felicity's choices were ruled out due to lack of opportunity and alibi evidence respectively. \n\nThe paw prints, however, hinted at a possible black cat called Whiskers, which was known to inhabit the Manor's grounds, but had never entered the indoors before. Furthermore, both Professor Montague and Lord Vexington had prior enmity with Edgar Blackwood, creating motives for the crime. The only piece of definitive evidence lies in the discovery of a handwritten note found at the scene that read: 'Silence is golden, even in death.', referring to Edgar Blackwood's unpublished book manuscript 'Silent Whispers' that contained incriminating secrets about Shadow Bay's political figures. Professor Montague and Lord Vexington were both known to have a copy of this manuscript. The key piece of evidence points towards Lord Vexington, as his fingerprints were found on the manuscript, while Professor Montague's were not.",
+  "caseNumber": 187,
+  "id": "case_187"
+}

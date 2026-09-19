@@ -1,0 +1,15 @@
+{
+  "title": "The Venomous Banquet",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "At the height of the Apex Global summit, the elite guests gathered at the lavish mansion of the host, Mr. Victor Blackwood. The opulent venue served an exquisite dinner prepared by the renowned chef, Monsieur Leon. The atmosphere was tense, as the attendees were discussing groundbreaking business ventures and rivalries. Suddenly, the room fell into chaos as the guests began gasping for breath.\n\nThe victim, Dr. Amelia Kim, the renowned biochemist from the summit, staggered and collapsed, succumbing to an unidentified toxin. The setting: A lavish mansion, filled with well-dressed tycoons and politicians. The timeline: The poisoning occurred after the dessert course. Here are the testimonies of the four suspects.\n\n{\n  \"suspect1\": {\n    \"name\": \"Mr. Carlos Montoya\",\n    \"reason\": \"There were no poisonous substances in my possession and I had a solid alibi during the incident.\"\n  },\n  \"suspect2\": {\n    \"name\": \"Mrs. Lily Grey\",\n    \"reason\": \"I was too far from the dining table, and I didn't tamper with the food.\"\n  },\n  \"suspect3\": {\n    \"name\": \"Dr. Simon Bell\",\n    \"reason\n: \"I was occupied with Dr. Kim's presentation, and I have no connection to poisonous substances.\"\n  },\n  \"suspect4\": {\n    \"name\": \"Mr. Sebastian Blackwood\",\n    \"reason\": \"I had the opportunity to tamper with the food, but there's no motive for me.\"\n  }\n}\n\nThe forensic evidence revealed a rare poison, Phosphine, in the victim's system. The timeline and alibis pointed to the Blackwood clan, notably Mr. Sebastian Blackwood. However, under closer inspection, the mysterious 'Blackwood Labels' found on the poison container reveals a fascinating clue. Each label had a unique poison symbol and a quote from the great scientist, Marie Curie: 'Determination is to personality what indomitable spirit is to character.'\n\nQuestion: Who poisoned Dr. Kim and what was their motive?\n\n{\"question\": \"Who poisoned Dr. Kim and what was their motive?\", \"options\": [{\"name\": \"Mr. Sebastian Blackwood\", \"quote\": \"Determination is to personality what indomitable spirit is to character.\", \"quoteSource\": \"Marie Curie\"}, {\"name\": \"Mrs. Harlowe Griffin\", \"quote\": \"My motives? Why, I'm afraid there's no motive at all.\", \"quoteSource\": \"Friedrich Nietzsche\"},\n  {\"name\": \"Robert Fairchild\", \"quote\": \"Perseverance is the key to solving any mystery.\", \"quoteSource\": \"Sherlock Holmes\"}, {\"name\": \"Mrs. Zara Blackwood\", \"quote\": \"Determination fuels my actions.\", \"quoteSource\": \"Marie Curie\"}]}",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 258,
+  "id": "case_258"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Dilemma",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the glitzy world of high-end jewelry, a heist aimed to steal a priceless diamond went awry. Our victim, Jasper James, was the owner of a prestigious jewelry store – James Jewelers. One night, Jasper received a cryptic phone call from an anonymous caller promising a dazzling 100-carat diamond would be delivered to his store, urging him to be prepared.",
+  "victim": "Jasper James, owner of James Jewelers",
+  "crimeScene": "The grand entrance of James Jewelers, with a large showcase containing the dazzling diamond.",
+  "forensicClue": "The distinctive scratch on the oval-shaped diamond box",
+  "question": "Who stole the diamond and how did they escape? ",
+  "options": [
+    "Option A (The enigmatic caller and a getaway car)",
+    "Option B (A disgruntled employee and a hidden escape route)",
+    "Option C (A rival jewelry store owner and a disguise)",
+    "Option D (A masked thief and an unusual weapon)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The forensic clue (the scratch on the oval-shaped diamond box) leads us to consider an option involving a disguise. The disgruntled employee and rival jewelry store owner can be easily ruled out as they would have familiarity with the store layout and the precious diamond. Examining the mysterious caller, we find a distinctive scratch on the oval-shaped diamond box, matching the employee's tool - a flathead screwdriver. The masked thief leaves no trace. However, the most plausible suspect is the disgruntled employee, Sarah Jane, who had access to the store, knew the layout, and used the same disguise (a black balaclava) as the culprit, making it tough to identify her. The unique screwdriver scratch on the box is a red herring, deliberately planted by Sarah Jane to mislead investigators.",
+  "caseNumber": 323,
+  "id": "case_323"
+}

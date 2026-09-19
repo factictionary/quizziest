@@ -1,0 +1,18 @@
+{
+  "title": "Shimmering Heist: The Dazzling Scam",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the glittering city of Diamondville, a dazzling theft occurred at the prestigious JadaJewels diamond store. The shop owner, Mr. Jameson, was the sole witness. Upon waking up on a Tuesday morning, he discovered that the masterpiece diamond necklace, 'Starburst of Eternity', was gone from the locked display case. The necklace, boasting five carats of flawless diamonds, was worth millions and considered untraceable due to its intricate design.",
+  "victim": "Mr. Jameson, the shop owner and sole witness",
+  "crimeScene": "The dimly lit JadaJewels diamond store.",
+  "forensicClue": "The sound of snoring",
+  "question": "Who stole the 'Starburst of Eternity' necklace and how did they get in? ",
+  "options": [
+    "Option A: Suspect A - A well-known con artist (Correct reason: The distinct snoring heard just before the theft)",
+    "Option B: Suspect B - A former employee (Correct reason: Footprints found near the display window),\n    \"Option C: Suspect C - A fashion designer (Correct reason: The unique diamond pattern on the stolen necklace matches their last project)",
+    "Option D: Suspect D - A mysterious midnight visitor (Correct reason: The smudged fingerprints on the locked display case)."
+  ],
+  "correctIndex": 2,
+  "caseNumber": 275,
+  "id": "case_275"
+}

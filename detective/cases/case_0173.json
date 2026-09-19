@@ -1,0 +1,17 @@
+{
+  "title": "The Shadow Hacker",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Expert",
+  "story": "In the futuristic city of NeoTech, the world was shaken by the shadowy figure known as the 'Phantom'. They targeted companies and stole their intellectual property, leaving cryptic messages on each victim's website. The latest victim was 'Galactic Innovations', a space exploration tech company. Suddenly, their server went down, and hackers demanded a ransom payment in cryptocurrency.\n\n  \n  \"crimeScene\": \"Galactic Innovations Corporate Server\",\n  \"victim\": \"Galactic Innovations\",\n  \"forensicClue\": \"Analysis of the hacked server revealed a message: 'Pay me, and your extraterrestrial secrets will remain hidden.' \"\n  \n  ",
+  "question": "Who is the Phantom, and why hack Galactic Innovations? How was the ransom demand so accurate?",
+  "options": [
+    "Option A (The CEO's motives and connection)",
+    "Option B (The hacker's profile and motives)",
+    "Option C (The CTO's revenge and secret)",
+    "Option D (The PR manager's connection and motives)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The correct answer lies within the CTO's background and unique motive. Examining the motives, we find that CTO, Dr. Amara, was once a brilliant hacker herself. Her expertise in space-related AI and data security made her indispensable to Galactic Innovations' success, yet also a top target for rivals seeking to exploit her past skills. As she struggled with addiction, she was once caught by security and fired. Humiliated, she sought revenge against her former company.\nThe ransom demand's accuracy indicates the hacker knew the victim well enough to understand Galactic Innovations collected sensitive data on extraterrestrial lifeforms and valuable space-related AI research.\nUnlocking the Phantom's true identity reveals Dr. Amara's story and motive for revenge.",
+  "caseNumber": 173,
+  "id": "case_173"
+}

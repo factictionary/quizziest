@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Desire Heist",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Expert",
+  "story": "In the glittering city of Las Vegas, the elite class gathered for the annual Diamond Auction event at the opulent Diamond Palace Hotel. Among the attendees, a notorious crew led by the cunning mastermind, Luciano 'The Diamond King' Montalbano. Montalbano's crew was rumored to have orchestrated the largest diamond theft in history. Late one night, the city's finest gemologist, Dr. Elsa Winslow, disappeared without a trace after discovering a hidden clue pointing to a mysterious buyer at the auction.",
+  "victim": "Dr. Elsa Winslow, a gemologist specializing in rare diamonds.",
+  "crimeScene": "The Diamond Palace Hotel, during the Diamond Auction event.",
+  "forensicClue": "A cryptic message left on a mirror: 'The King's treasure never goes unrewarded.'",
+  "question": "Who took Dr. Elsa Winslow and what did they want? How did the detective solve it?",
+  "options": [
+    "Option A: Luciano 'The Diamond King' Montalbano - The detective discovers a hidden contract between Montalbano and the mysterious buyer.",
+    "Option B: Unknown Auctioneer - The detective uncovers a secret deal between the Auctioneer and Montalbano.",
+    "Option C: Maddison 'The Shadow' Stevens - The detective finds a cryptic message on Dr. Winslow's hotel room mirror.",
+    "Option D: Quinn 'The Silent' Wilson - The detective discovers a concealed audio recording of a plan between Montalbano and Dr. Winslow."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The detective uncovers a hidden contract between Montalbano and the mysterious buyer, establishing Montalbano's connection to Dr. Winslow's disappearance. The cryptic message on the hotel room mirror leads to suspect 'Maddison 'The Shadow' Stevens', however, the actual culprit is Luciano 'The Diamond King' Montalbano. The clues point to Montalbano as his right-hand man 'The Shadow' Stevens left the cryptic message.",
+  "caseNumber": 165,
+  "id": "case_165"
+}

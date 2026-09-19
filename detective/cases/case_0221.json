@@ -1,0 +1,21 @@
+{
+  "title": "The Hack and the Hidden Code",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "In the bustling tech startup city of Silicon Valley, our tale unfolds at the sleek offices of 'CodeMinders'. Our beloved CTO, Elizabeth Johnson, is found slumped over her desk, a tragic victim of a cyber attack. The company's server logs reveal a massive breach:\n\nThe server was breached at 2:05 PM, resulting in the loss of sensitive client data.\n\nThe suspects I've gathered are:\n\n1. George, the dashing Head of Security (Option A).\n2. Sarah, the perceptive App Developer (Option B).\n3. Adam, the masterful IT Support Specialist (Option C).\n4. Alex, the innovative Data Analyst (Option D).\n",
+  "victim": "Elizabeth Johnson, the Chief Technology Officer",
+  "crimeScene": "The dimly lit offices of CodeMinders at 3 AM.",
+  "forensicClue": "The peculiar and elusive 'Redacted' file found in the server breach log.",
+  "question": "Who is the mastermind behind the cyber attack, and why?",
+  "options": [
+    "George (Suspect 1), the IT Security Head, was seen arguing with Elizabeth before the attack occurred. He might have known her login credentials.",
+    "Sarah (Suspect 2), the App Developer, had been working late due to an unresolved argument with Elizabeth. There's a cryptic message discovered in the server breach log: 'Redacted'\n\nTimeline:\n- 2:50 PM: Elizabeth and Sarah clash over an unfinished app.\n- 5 PM: Elizabeth dismisses Sarah from work.\n\nThe timeline demonstrates that Sarah was present at the scene and had access to the server.\n",
+    "Adam (Suspect 3), the agile IT Support Specialist, was working tirelessly fixing network issues.\n\n- 3 AM: The cyber attack occurs, implicating Adam as he was the last person to have access to the server.\n\nAdam's claim of innocence is undermined by the cryptic message, 'Redacted', discovered in the breach log.",
+    "Alex (Suspect 4), the enigmatic Data Analyst, was engrossed in his work on a complex AI algorithm.\n\n- 7 PM: Alex and Elizabeth had a heated discussion about AI development.\n- 10 PM: Alex receives an anonymous tip that raises suspicion on his motives.",
+    "The Redacted file (Forensic Clue): A peculiar 'Redacted' message in the server breach log leaves us with three strong suspects: Sarah, Adam, or Alex."
+  ],
+  "correctIndex": 2,
+  "correctExplanation": "The Redacted cryptic message hints at a motivated insider with privileged access to the server. Among the suspects, Adam had the most recent access to the server at 3 AM, leaving him as our prime suspect. The unsettling Redacted message in the server breach log creates doubt for Sarah, who was dismissed by Elizabeth at 5 PM. Sarah could have been instructed by 'Redacted' to hack the server. The Data Analyst, Alex, had a motive with his heated discussion with Elizabeth, but there is no direct forensic evidence linking him to the crime.",
+  "caseNumber": 221,
+  "id": "case_221"
+}

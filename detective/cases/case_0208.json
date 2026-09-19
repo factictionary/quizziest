@@ -1,0 +1,21 @@
+{
+  "title": "The Twisted Baking Contest",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In a quaint small town, the Cinnamon Roll Queen Bakery owner, Mrs. Winifred Whitmore, was found dead in the premises early Wednesday morning. The store, known for its exquisite cinnamon rolls, had just hosted a baking competition with participants from the town. Curious townspeople gathered to witness the final showdown.\n\nCrime Scene: The small bakery displayed various unfinished cakes, desserts, and an overwhelming scent of cinnamon. Blood samples were found on the spatula lying next to a broken plate.",
+  "victim": "Mrs. Winifred Whitmore, Cinnamon Roll Queen Bakery owner",
+  "crimeScene": "The small bakery displayed various unfinished cakes, desserts, and an overwhelming scent of cinnamon. Blood samples were found on the spatula lying next to a broken plate.",
+  "forensicClue": "The spatula with blood samples on it",
+  "question": "Who is the culprit and what is the motive? \nOptions: \n1. Mr. B. Baking (baking competition organizer) \n2. Miss Flour Swirl (baker who lost in the competition) \n3. Mr. Crumbly Caramel (a rival bakery owner) \n4. Ms. Cinnamon Swirl (a town resident who had a dispute with Mrs. Whitmore)",
+  "options": [
+    "Mr. B. Baking (baking competition organizer)",
+    "Miss Flour Swirl (baker who lost in the competition)",
+    "Mr. Crumbly Caramel (a rival bakery owner)",
+    "Ms. Cinnamon Swirl (a town resident who had a dispute with Mrs. Whitmore)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The spatula with blood samples on it leads us to Miss Flour Swirl as she was the one who lost in the competition against Mrs. Whitmore, potentially leading to a dispute between them. On closer inspection, we found Mrs. Whitmore's wedding ring under Miss Flour Swirl's coat. The motive matches, as she had a strong reason to eliminate the competition.",
+  "motive": "A dispute over the baking competition",
+  "caseNumber": 208,
+  "id": "case_208"
+}

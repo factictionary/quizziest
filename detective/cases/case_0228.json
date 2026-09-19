@@ -1,0 +1,20 @@
+{
+  "title": "The Phantom Poisoner",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In a dimly lit laboratory deep within the shadowy research facility, Dr. Ada Blackwood, a brilliant scientist working on cutting-edge genetic research, fell mysteriously ill after completing a highly classified project. Her death occurred under suspicious circumstances: the autopsy revealed traces of a rare and lethal toxin, \"Silent Shadow\", that had caused irreversible damage to her organs. The factory's production line had been working around the clock to keep the research secret, making it difficult to trace the poison's origin.",
+  "victim": "Dr. Ada Blackwood",
+  "crimeScene": "The dimly lit laboratory at the secret research facility.",
+  "forensicClue": "The presence of the Silent Shadow toxin in Dr. Blackwood's autopsy.",
+  "question": "Who poisoned Dr. Blackwood and why?",
+  "options": [
+    "Option A (Markus Grey and motive)",
+    "Option B (Dr. Jane Kim and motive)",
+    "Option C (Dr. Samuel Blue and motive)",
+    "Option D (Dr. Victor Red and motive)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The players' task is to uncover the motive behind Dr. Ada Blackwood's mysterious poisoning. The clues provided are as follows: \n1. The rare and deadly Silent Shadow toxin was found in Dr. Blackwood's autopsy report.\n2. The secret research facility was under tight security, making escape or outside interference improbable.\n3. All four suspects were present at the lab during the critical moments before and after Dr. Blackwood's sudden illness.\n4. Interpersonal tensions among the suspects arose over a competitive research project.\n\nThe motive lies within the interpersonal tensions among the suspects due to the competitive research project. Let's dissect the evidence: \n1. Markus Grey led the secret research project, Dr. Jane Kim and Dr. Samuel Blue were rivals for the sole position of project supervisor, and Dr. Victor Red was a former colleague resentful of Dr. Blackwood's new security protocols.\n\nThe Silent Shadow poison is found in the victim's autopsy, and the team was the last to witness Dr. Blackwood's critical moments.\n\nThe true culprit is Dr. Victor Red, who poisoned Dr. Blackwood out of resentment for the new security measures she implemented after exposing a previous security breach. The motive lies in the envy and spite Dr. Victor Red felt towards Ada. The autopsy report confirms the presence of Silent Shadow. The team was present during the crucial moments that led to her sudden illness, rendering alibis irrelevant.\n\nThe players must piece together the clues to reveal the poison's source and motive.",
+  "caseNumber": 228,
+  "id": "case_228"
+}

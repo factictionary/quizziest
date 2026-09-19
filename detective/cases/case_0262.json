@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit at the Masquerade Ball",
+  "category": "Alibi Buster",
+  "difficulty": "Medium",
+  "story": "On the night of the highly exclusive Masquerade Ball, esteemed writer and socialite, Lady Georgiana Rivers, was found fatally stabbed in her opulent mansion. The party, attended by the city's elite, was in full swing when the dreadful incident occurred.",
+  "victim": "Lady Georgiana Rivers (a respected socialite and writer)",
+  "crimeScene": "Lady Georgiana's lavish mansion",
+  "forensicClue": "An overturned wine decanter near the crime scene",
+  "question": "Who committed the crime and what was their motive? ",
+  "options": [
+    "Option A: Lord Jameson Trent (jealous over a literary feud)",
+    "Option B: Miss Scarlett Summers (rival author trying to sabotage Lady Georgiana's book launch)",
+    "Option C: Lord Victor Blackwood (angered by Lady Georgiana exposing a shady deal in her book)",
+    "Option D: Countess Elena DiModa (disagreement over a masked ball theme choice)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "At the heart of the investigation are a series of clues pointing to Lord Jameson Trent. First, the wine decanter found overturned, suggesting a struggle. Second, a threatening letter found in Lady Georgiana's study, signed 'The Pen Thief,' referencing their literary feud. Third, a witness claims to have seen Lord Jameson arguing with Lady Georgiana just before the murder occurred, unlike the other suspects who were engaged in different parts of the mansion during the same time frame. With these concrete links to the motive, evidence, and alibi, it becomes clear that Lord Jameson Trent is our culprit.",
+  "caseNumber": 262,
+  "id": "case_262"
+}

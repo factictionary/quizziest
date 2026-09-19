@@ -1,0 +1,20 @@
+{
+  "title": "The Vanishing Canvas",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Expert",
+  "story": "At the prestigious Bellwether Art Gallery, the prized 19th‑century masterpiece “Twilight over the Seine” vanished during a three‑day weekend. The original was discovered missing during the Monday morning opening; in its place lay a flawless replica. The gallery’s security footage shows the main doors locked from 8 PM Friday until 9 AM Monday, so no outsider could have entered. Four people had legitimate reasons to be inside: \n\nAlex Thompson, the gallery owner, says, “I locked the doors after the Friday private viewing and didn’t open them again until Monday morning.” Dr. Henry Lee, the consulting art historian, testifies, “I examined the painting on Thursday night and signed off on its authenticity. I left the gallery at 10 PM that night and never returned until Monday.” Samantha Rodriguez, a young artist on an apprenticeship, claims, “I was in the studio on Saturday afternoon sketching the painting, but I left before the gallery closed at 5 PM.” Jamie Patel, the conservator, asserts, “I was in the conservation lab on Sunday, applying a protective varnish to a different work. I logged out of the lab at 5:30 PM and never entered the gallery after that.”\n\nWhen the police examined the replica under UV light, the varnish glowed a distinctive turquoise hue. The exact formulation matches a batch recorded in Jamie Patel’s lab notebook, dated Friday night, and the drying pattern indicates the varnish was applied around 9 PM—just after the gallery was supposedly locked. This impossible timeline and the unique varnish point to the true culprit.",
+  "victim": "Bellwether Art Gallery (the painting \"Twilight over the Seine\")",
+  "crimeScene": "Main exhibition hall of Bellwether Art Gallery, downtown Los Angeles",
+  "forensicClue": "The replica’s varnish fluoresces under UV and matches the exact formula recorded in Jamie Patel's lab notebook, dated Friday night.",
+  "question": "Who swapped the original painting with the replica?",
+  "options": [
+    "Alex Thompson – Owner who could control the locks",
+    "Dr. Henry Lee – Expert who could authenticate the fake",
+    "Jamie Patel – Conservator with access to the unique varnish",
+    "Samantha Rodriguez – Apprentice who was seen near the painting"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. Security footage proves the gallery was locked from Friday 8 PM to Monday 9 AM, eliminating any external intruder. 2. Dr. Lee left the building at 10 PM Thursday, well before the lock‑down began, so he could not have swapped the work after Friday. 3. Samantha left the gallery before 5 PM Saturday, and the varnish was applied after the doors were locked, so she had no opportunity. 4. Alex’s alibi covers the entire lock‑down period, but he never handled varnish. 5. The forensic clue reveals the replica’s varnish matches a batch Jamie recorded applying on Friday night, and the drying pattern dates the application to around 9 PM—exactly when the gallery was locked. 6. Jamie’s own lab log shows he was still in the conservation lab at 5:30 PM Sunday, but the varnish’s timestamp proves he worked on the replica earlier, contradicting his claim of never entering the gallery after Friday. Therefore, the only person who could have applied the unique varnish during the locked period is Jamie Patel, making him the indisputable culprit.",
+  "caseNumber": 53,
+  "id": "case_53"
+}

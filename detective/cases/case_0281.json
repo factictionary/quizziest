@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Venom Vendetta",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "In a dimly lit penthouse overlooking the opulent cityscape, wealthy financier Elias Blackwood met an untimely death. Guests at the exclusive gathering included biotech magnate Dr. Evelyn Vesper, botanist Sir Isaac Newton, gambler Andrei Dragos, and a notorious art thief, Tzvetan Petrov. Despite the lavish decor, the air was thick with suspicion.",
+  "victim": "Elias Blackwood",
+  "crimeScene": "The penthouse party hosted by Elias Blackwood. Suspicious chemical laboratory setup.",
+  "forensicClue": "A peculiar symbol etched on the vial used to administer the poison: a stylized 'S' intertwined with a mysterious chemical symbol.",
+  "question": "Who poisoned Elias Blackwood and how did they escape? Provide a detailed reconstruction of the events.",
+  "options": [
+    "Option A: Dr. Evelyn Vesper - Administered the poison from a bottled elixir using a lab syringe.",
+    "Option B: Sir Isaac Newton - An expert in toxins, he used a vial of prussic acid from the toxicology display.",
+    "Option C: Andrei Dragos - Utilized a glass vial filled with vanilla extract from the gourmet kitchen, timed his poisoning attempt for the dinner course.",
+    "Option D: Tzvetan Petrov - Concealed a lethal جرعة سم (poison dose) in a rare Persian carpet, which he unrolled during the toast ceremony."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "At the climactic dinner course, Andrei Dragos subtly poisoned the vanilla extract from the gourmet kitchen. The precise timing of the poisoning, the glass vial found near the victim, and the blood type-specific poison (O+) all point towards him. Further, the etched 'S' symbol on the vial perfectly matches Dragos' family crest. In a twist, it was Dragos who unraveled the Persian carpet, concealing the lethal dose during the toast ceremony.",
+  "caseNumber": 281,
+  "id": "case_281"
+}

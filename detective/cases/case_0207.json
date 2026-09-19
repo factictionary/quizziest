@@ -1,0 +1,20 @@
+{
+  "title": "Whodunit at the Masquerade Ball? ",
+  "category": "Alibi Buster",
+  "difficulty": "Easy",
+  "story": "On a moonlit night at the opulent Stardust Masquerade Ball, the untimely death of esteemed music mogul, Jaxon Starling, shook the city. The lavish event took place at his palatial mansion.",
+  "victim": "Jaxon Starling, Music Mogul",
+  "crimeScene": "The opulent Stardust Masquerade Ball at Jaxon Starling's mansion.",
+  "forensicClue": "The crime scene analysis reveals a distinctive footprint left at the crime scene.",
+  "question": "Who should the detective investigate further and how did they kill Jaxon Starling? ",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The detective should focus on suspect 1 as the distinctive footprint found at the crime scene corresponds to the rare shoe size owned by none other than Jaxon Starling himself. It appears the music mogul met his end while dancing with his closest rival, Hypnotic Hayes. During the investigation, the detective discovers Hypnotic Hayes had a longstanding grudge against Jaxon Starling and had attended the masquerade ball under an assumed identity. The murder of Jaxon Starling is ruled a homicide, making Hypnotic Hayes the primary suspect who may have used Jaxon's footwear as a murder weapon.",
+  "caseNumber": 207,
+  "id": "case_207"
+}

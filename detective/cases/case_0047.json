@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Renowned chemist Dr. Evelyn Hart was found dead on her mahogany desk in the locked study of her Victorian manor during a thunderstorm. The study door was bolted from the inside, the only window was shut and barred, and the only entry was the main hallway, which was empty when the housekeeper, Lena, discovered the body at 7:00 AM. Dr. Hart’s wristwatch had stopped at 11:45 PM, and a half‑filled glass of water on the desk bore a faint almond scent and a single smudge of deep red lipstick on its rim.\n\nLena testified, “I was in the kitchen preparing breakfast at 6:30 AM; I didn’t hear anything until I saw the door ajar.” Milo, the lab assistant, said, “I was in the basement calibrating equipment from 9:00 PM until the power cut at 9:30 PM; after that I stayed in the hallway waiting for the generator.” Victor, Dr. Hart’s business partner, claimed, “I was in the library reading until 10:00 PM, then I retired to my guest room and slept.” Clara, the ex‑wife, asserted, “I spent the evening in my bedroom and never left; I heard nothing because the storm drowned out any sound.” The forensic report noted that the lipstick matched the exact shade Clara wears daily, and the house’s electronic key‑card log recorded Clara’s key used to unlock the study’s side door at 11:30 PM, five minutes before the watch stopped.",
+  "victim": "Dr. Evelyn Hart",
+  "crimeScene": "Locked study in a Victorian manor during a thunderstorm",
+  "forensicClue": "Lipstick on the glass matches Clara’s shade and her key‑card opened the study at 11:30 PM, contradicting her alibi.",
+  "question": "Who is the culprit?",
+  "options": [
+    "A) Lena, the housekeeper – she was the first to find the body and could have tampered with evidence.",
+    "B) Milo, the lab assistant – his work in the basement gave him access to chemicals.",
+    "C) Victor, the business partner – he stood to gain financially from Dr. Hart’s death.",
+    "D) Clara, the ex‑wife – her lipstick matches the glass and her key‑card log proves she entered the study minutes before death."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The decisive evidence is the lipstick on the water glass, which matches Clara’s signature shade, and the electronic key‑card log showing Clara unlocked the study at 11:30 PM. Dr. Hart’s watch stopped at 11:45 PM, placing the time of death after Clara entered. Clara’s claim of never leaving her bedroom is directly contradicted by the key‑card record, making her the only suspect whose alibi fails and whose forensic trace is present at the scene.",
+  "caseNumber": 47,
+  "id": "case_47"
+}

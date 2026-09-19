@@ -1,0 +1,19 @@
+{
+  "title": "The Hacktivist Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "In the bustling city of Silicon Valley, software firm 'ByteWorks' faced a bizarre and costly dilemma. The CEO, Thomas Smith, was trapped in a digital realm known as the 'ByteWorks World' due to a malicious cyber attack. His assistant, Sarah Jenkins, frantically dialed for help as she explained: 'Our company's IPO was scheduled for tomorrow, and the attack coincided with the release of our groundbreaking AI assistant product, AptiBot. Thomas's disappearance could ruin the company's future.'",
+  "victim": "Thomas Smith, CEO of ByteWorks",
+  "crimeScene": "ByteWorks World - A virtual world replicating ByteWorks company with AI-powered environments and characters",
+  "forensicClue": "A peculiar code snippet discovered on the compromised computer: 'The hack was for a noble cause - Hacktivism'",
+  "question": "Who is responsible for Thomas Smith's imprisonment in ByteWorks World and what is the motive? ",
+  "options": [
+    "Option A (Cyber-anarchist 'The Phantom' and their motto: 'Bypass for Justice')",
+    "Option B (Malicious competitor, Alice Kim, and her vendetta against ByteWorks)",
+    "Option C (Intruder, John Doe, who left a unique signature in the form of a painting)",
+    "Option D (Internal saboteur, Maria Ramirez, aiming to disrupt the IPO) "
+  ],
+  "correctIndex": 0,
+  "caseNumber": 130,
+  "id": "case_130"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Whodunnit in the Musical Mansion",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "On a dark and rainy night, the wealthy widow, Ms. Opal Blackwood, was found dead in her opulent mansion. The mansion's grand ballroom, adorned with a grand piano and a crystal chandelier, was the scene of the crime. It was locked from the inside, leaving no escape route for the murderer.",
+  "victim": "Ms. Opal Blackwood, the wealthy widow",
+  "crimeScene": "The grand ballroom, with a grand piano and a crystal chandelier",
+  "forensicClue": "The torn sheet music found near the victim's lifeless body",
+  "question": "Who committed the murder in the musical mansion? How did the detective solve it?",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 246,
+  "id": "case_246"
+}

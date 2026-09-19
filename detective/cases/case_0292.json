@@ -1,0 +1,20 @@
+{
+  "title": "Digital Deception",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "In the cyber world, mischief never sleeps. Our investigation unravels at 'CodeLab', a tech startup. When the cofounder, Benjamin Thompson, stumbled upon a shocking discovery, the world of CodeLab was turned upside down.",
+  "victim": "Benjamin Thompson, Tech Cofounder",
+  "crimeScene": "CodeLab - A bustling tech startup.",
+  "forensicClue": "A mysterious 'master key' file left behind at the crime scene.",
+  "question": "Who is responsible for the file manipulation, and how did they do it?",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The mysterious 'master key' file reveals a timeline discrepancy and uncovers Sarah's motive for sabotage. Let's dive into the story.",
+  "caseNumber": 292,
+  "id": "case_292"
+}

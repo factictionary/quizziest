@@ -1,0 +1,20 @@
+{
+  "title": "The Tech Theft Case",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In a bustling tech startup called 'NextGen', a series of mysterious software piracy cases had been occurring. One fateful evening, the company's CTO, Joseph Patel, discovered that his latest intellectual property had been stolen from the company server. The crime scene was the server room located in the lower level of the building.",
+  "victim": "Joseph Patel, CTO of NextGen",
+  "crimeScene": "Server room in NextGen's headquarters building",
+  "forensicClue": "An unexpectedly active IP address originating from a remote location during the theft",
+  "question": "Who is responsible for the stolen intellectual property and how were they able to access the server from a remote location? ",
+  "options": [
+    "Option A (Suspect 1 and their connection)",
+    "Option B (Suspect 2 and their motive)",
+    "Option C (Suspect 3 and their method)",
+    "Option D (Suspect 4 and their alibi)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The IP address provided a valuable clue to narrow down the suspects. Option C reveals that we find a pattern of suspicious IP addresses leading to a hacker forum member, 'The_Shadow_2021'. This member openly discusses their advanced hacking skills and targets tech companies. The_Shadow_2021 had a motive to cause chaos in the tech world by disrupting established businesses and a method that allowed them to remotely access the server from the hacker forum. Besides, The_Shadow_2021 has a solid alibi: they were gaming online during the theft timeline, which can be verified through online gaming platforms.",
+  "caseNumber": 306,
+  "id": "case_306"
+}

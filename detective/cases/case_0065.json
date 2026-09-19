@@ -1,0 +1,20 @@
+{
+  "title": "The Bitter Aftertaste",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Easy",
+  "story": "Renowned food critic Victoria Vittles collapsed during the tasting menu at Bistro Bliss, a sleek downtown eatery famed for its exotic spices. She was served a delicate sea‑urchin ceviche by Waiter Étienne, while Chef François oversaw the kitchen. After the incident, each staff member gave their account: Chef François swore he never handled the ceviche and was busy plating desserts at the time of the poisoning; Étienne claimed he only delivered the dish and left the kitchen immediately; Food Blogger Colette, a rival critic, said she argued with Victoria earlier in the evening but was at a food conference across town when the murder occurred; Owner Monsieur Leblanc insisted he was in his office preparing paperwork for an investor meeting. \n\nLater, the police reviewed the restaurant’s security footage and discovered a crucial inconsistency: the camera captured Monsieur Leblanc slipping into the kitchen exactly 20 minutes before the poison was administered, contradicting his claim of being in his office the whole time. The same footage also showed him handling the small vial of powdered aconite that was later found on the counter beside the ceviche.",
+  "victim": "Victoria Vittles, renowned food critic",
+  "crimeScene": "Bistro Bliss, a trendy downtown restaurant",
+  "forensicClue": "Security footage shows Monsieur Leblanc entering the kitchen 20 minutes before the poison was added, contradicting his alibi.",
+  "question": "Who poisoned Victoria Vittles?",
+  "options": [
+    "Chef François – he was angry about a scathing review.",
+    "Waiter Étienne – he felt slighted by the critic’s comments.",
+    "Food Blogger Colette – she wanted to silence a rival.",
+    "Monsieur Leblanc – he wanted to protect his investment."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "All suspects have motives, but only Monsieur Leblanc’s alibi is disproved by the security footage, which places him in the kitchen with the poison. The powder found matches the aconite he was seen handling, making him the indisputable culprit.",
+  "caseNumber": 65,
+  "id": "case_65"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Murder in Misty Mansion",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In the chilly, foggy town of Whispersville, a mysterious event unfolded at the opulent Misty Manor. The owner, wealthy businessman, Mr. Jameson, was found dead in his study with a bullet wound to the chest. His butler, the stoic Mr. Jenkins, seemed distraught but insisted he was the last to see the victim.",
+  "victim": "Mr. Jameson",
+  "crimeScene": "The study was dimly lit, with an antique pistol lying on the blood-stained Persian rug near Mr. Jameson's lifeless body. A telltale scratch on the study door hinted at forced entry.",
+  "forensicClue": "The murder weapon: A blood-stained revolver found in Mr. Jameson's study.",
+  "question": "Who committed the heinous act and how did they do it? Please provide a motive.",
+  "options": [
+    "Option A (The irate ex-employee and reason)",
+    "Option B (The envious business partner and reason)",
+    "Option C (The curious maid and reason)",
+    "Option D (The spiteful family member and reason)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "Investigate the motive behind the ex-employee's actions. Examining the scratches on the study door leads to the insight that the murderer wasn't alone. The revolver found in Mr. Jameson's study implies the murderer had access, suggesting ties to the victim. The motive behind the envious business partner (Option B) seems more plausible: Mr. Jameson was pulling out of a profitable venture, leaving the partner with nothing. The curious maid (Option C) lacks a strong motive, as there's no connection found between the victim and the maid. The spiteful family member (Option D) may have been upset, but the examination of the scratches on the door indicates multiple perpetrators, contradicting the family member's claim of being the sole angry party. Thus, the correct answer is the ex-employee (Option A) who, along with the jealous business partner (Option B), had a motive and is linked to the crime scene through the scratches on the door.",
+  "caseNumber": 304,
+  "id": "case_304"
+}

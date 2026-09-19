@@ -1,0 +1,31 @@
+{
+  "title": "The Phantom Poisoner",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Hard",
+  "story": "In the dimly lit, yet opulent world of high society, a notorious figure called 'The Phantom' was infamous for anonymously poisoning their rivals.\n\nThe eerie night saw the well-to-do members of a masked ball at the opulent mansion of Lady Scarlett. The guests gathered for the annual charity fundraiser were stunned when the seemingly healthy and vibrant CEO of 'TechVision' Corporation, Samuel Blackwood, suddenly collapsed amidst the dance floor.\n\nThe crime scene: A lavish hall adorned with opulent chandeliers and elegantly dressed guests. The victim's body was found sprawled behind a towering silk drape, clutching a lavishly decorated fan.\n\nVictim: Samuel Blackwood (CEO of TechVision Corporation)\n\nTestimonies:\n1. Lady Scarlett (Host): 'I heard Samuel's last words: 'Poison!' moments before he fell unconscious.'\n2. Maximillian (Famous Poet): 'I saw Samuel enter into a heated argument with Samuel Brown just before the incident.'\n3. Gertrude (Royal Ambassador): 'I noticed Samuel had a peculiar bruise on his neck that was hidden behind the silk drape.'\n4. Adrian (Literary Agent): 'I saw Samuel leaving the room with a distinctive green potion in his hand just before the accident happened.'",
+  "crimeScene": "Royal Ambassador Gertrude's testimony reveals a crucial clue: a mysterious bruise on Samuel Blackwood's neck.",
+  "forensicClue": "The autopsy report indicates Samuel consumed arsenic, proving TechVision Corporation as the source of the poisoned fan.",
+  "question": "Who poisoned Samuel Blackwood? How did the detective solve the mystery?",
+  "options": [
+    {
+      "option": "Samuel Brown (CEO of TechVision Corporation) and the green potion",
+      "reason": "Gertrude's testimony of the bruise and the autopsy report's arsenic detection point towards Samuel Brown's involvement at TechVision Corporation."
+    },
+    {
+      "option": "Maximillian (Famous Poet)",
+      "reason": "Samuel Blackwood left the room with Maximillian just before the incident, suggesting a poisoned green potion."
+    },
+    {
+      "option": "Adrian (Literary Agent)",
+      "reason": "Samuel Blackwood was seen carrying a distinctive green potion just before the tragedy, pointing towards Adrian."
+    },
+    {
+      "option": "Lady Scarlett (Host)",
+      "reason": "Lady Scarlett hosts the annual event, providing a motive and access to tamper with the poisoned fan."
+    }
+  ],
+  "correctIndex": 2,
+  "answer": "Adrian (Literary Agent)",
+  "caseNumber": 93,
+  "id": "case_93"
+}

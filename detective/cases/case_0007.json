@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Vault of Hart",
+  "category": "Locked Room Mystery",
+  "difficulty": "Medium",
+  "story": "Evelyn Hart, the city's most celebrated jeweler, was found dead inside her boutique's high‑security vault on the twelfth floor. The vault door was bolted from the inside, the only window was sealed with reinforced glass, and the internal clock stopped at 9:03 PM. No footprints or signs of forced entry were discovered, and the only disturbance was a single, faint smear of copper‑sulfate residue on the lock’s keyhole. \n\nFour people were present that evening: Leon, Evelyn's long‑time assistant, who says he was polishing the display cases until 8:45 PM; Maya, Evelyn's estranged ex‑wife, who claims she left the building at 8:30 PM after a heated argument; Victor, a rival jeweler, who insists he was at the Grand Gala until after 10 PM, though the gala program shows his speech ended at 9:30 PM; and Clara, the night‑shift security guard, who swears she heard the vault door click at 9:15 PM while monitoring the hallway cameras. Each of them mentions the copper‑sulfate smell—Leon says it’s from his cleaning solution, Maya says it’s from her garden, Victor says it’s the only chemical used in his custom engraving lab, and Clara says she never noticed it before.",
+  "victim": "Evelyn Hart",
+  "crimeScene": "Sealed vault on the 12th floor of Hart's boutique, locked from the inside, with a stopped internal clock at 9:03 PM.",
+  "forensicClue": "Copper‑sulfate residue on the lock’s keyhole, a chemical exclusively used in Victor's engraving workshop for etching precious metals.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Leon – says he was polishing, but his cleaning solution contains no copper‑sulfate)",
+    "Option B (Maya – left early and has no access to copper‑sulfate)",
+    "Option C (Victor – his engraving lab uses copper‑sulfate, and his gala alibi ends before the vault’s clock stopped)",
+    "Option D (Clara – was on duty but never handled copper‑sulfate and heard the door click after the murder time)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The only trace linking any suspect to the crime is the copper‑sulfate residue on the lock. Victor is the sole individual whose professional work requires copper‑sulfate, confirming his presence at the vault. Additionally, his claimed alibi fails because the gala program shows his speech ended at 9:30 PM, meaning he was free well before the vault’s internal clock stopped at 9:03 PM. The other suspects either have no reason to possess copper‑sulfate or have alibis that place them elsewhere. Therefore, Victor is indisputably the murderer.",
+  "caseNumber": 7,
+  "id": "case_7"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Shot in the Library",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Medium",
+  "story": "At precisely 11:57 p.m., the body of renowned historian Dr. Alan Pierce was discovered slumped over a mahogany desk in the private library of the Whitmore Estate, a single bullet wound to his right chest. The room showed no sign of struggle, but a shattered glass paperweight lay beside him, and the antique clock on the mantle had stopped at 11:58. Four people were present in the house that night.\n\nDr. Lena Hart, the estate’s forensic pathologist, testified, “I was in the lab reviewing the autopsy schedule until 11:30, then I headed to the kitchen for a late‑night coffee.” Victor Reed, Pierce’s business partner, said, “I was in the garden, waiting for a call from Alan, from 11:20 until after midnight.” Maya Torres, the housekeeper, claimed, “I was polishing the library desk from 11:15 to 11:45; I left the room to fetch a fresh towel and never returned.” Officer Grant, the night‑shift security guard, insisted, “I patrolled the east wing from 11:40 to 12:15; the cameras in the hallway were dead, so I couldn’t be seen.”",
+  "victim": "Dr. Alan Pierce",
+  "crimeScene": "Private library on the second floor of the Whitmore Estate, filled with books, a mahogany desk, and an antique mantle clock.",
+  "forensicClue": "The bullet entered from the victim's right side at a 45° angle, indicating a left‑handed shooter; a faint blood smear was found on the left side of a housekeeper's apron.",
+  "question": "Who killed Dr. Alan Pierce and how was the culprit identified?",
+  "options": [
+    "Option A (Dr. Lena Hart – she was in the lab and could have slipped away)",
+    "Option B (Victor Reed – he was waiting in the garden and had motive)",
+    "Option C (Maya Torres – the left‑handed housekeeper with blood on her apron)",
+    "Option D (Officer Grant – his patrol timeline conflicts with the clock’s stop time)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The forensic report shows the bullet’s trajectory came from the victim’s right side at a 45° angle, a hallmark of a left‑handed shooter. 2. Among the four suspects, only Maya Torres is explicitly described as left‑handed. 3. A faint blood smear on the left side of Maya’s apron matches the victim’s blood type, linking her physically to the shooting. 4. Maya claimed she left the library at 11:45, but the mantle clock stopped at 11:58, meaning the shot occurred after she said she exited. 5. Officer Grant’s alibi is impossible because the hallway cameras were dead, yet the clock’s stop time proves a shot was fired after his claimed patrol began, and no other suspect could have been in the library at that moment. The combination of the left‑handed trajectory, the blood‑stained apron, and the timeline inconsistency points unequivocally to Maya Torres as the murderer.",
+  "caseNumber": 52,
+  "id": "case_52"
+}

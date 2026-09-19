@@ -1,0 +1,20 @@
+{
+  "title": "Cyber Heist: The Vanished Datum",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In the depths of a modern city, the Tech Tycoon's office was robbed! The crime scene is located in the heart of Silicon Valley, within the grand Techopolis Tower. Corp Sec Sarah, a diligent tech expert, discovered the locked-down company network, indicating a sophisticated cyber-heist. The primary victim, CFO Jake, stumbled upon a shocking message on his monitor: 'All your data is gone – for now.'",
+  "victim": "Jake, the CFO",
+  "crimeScene": "Techopolis Tower, Corp Sec Sarah's office and CFO Jake's cubicle",
+  "forensicClue": "A web address (URL) written on Corp Sec Sarah's whiteboard.",
+  "question": "Who is the culprit? How did the detective solve it? ",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "On Corp Sec Sarah's whiteboard, someone scribbled the URL 'hackers.cyberpunk.net'. Detective John discovered this domain led to a forum discussing tech-savvy crimes. Analyzing the forum posts, he connected it to a notorious 'Scarlet Phantom', a notorious hacker. The Phantom had a history of disappearing shortly before getting caught. John traced a similar pattern in this case – the cyber-thief disappeared exactly at the moment of discovery. The detailed examination of the whiteboard notation and Scarlet Phantom's modus operandi led Detective John to suspect Scarlet Phantom (Option D), who masterfully executed the heist and then vanished into the digital shadows.",
+  "caseNumber": 307,
+  "id": "case_307"
+}

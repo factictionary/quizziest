@@ -1,0 +1,20 @@
+{
+  "title": "Byte & Switch Case",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In a modern tech startup, a hacking incident shook the company. Late one night, the CEO's laptop mysteriously went haywire, displaying a warning message: 'You've been hacked by @CyberPhantom.' The next morning, the CEO, Emily, reported the incident to the HR manager, Mr. Wu.",
+  "victim": "Emily, the CEO",
+  "crimeScene": "The dimly lit startup office",
+  "forensicClue": "An enigmatic '@CyberPhantom' username linked to the hacking incident.",
+  "question": "Who's the mastermind behind the @CyberPhantom username? How did the detective solve it?",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "During the investigation, detective Clarke discovered that Mr. Wu, the HR manager, was secretly working on a rival startup, sharing sensitive company data with them. Upon cross-referencing with the @CyberPhantom username, he found it coincided with Mr. Wu's Gmail address. The cryptic username was likely his abbreviation for 'Cyber Warrior' in his online gaming habit. The detective followed a trail of broken game progress in Mr. Wu's personal laptop, confirming his cyber-crime alias and linking to the workplace incident.",
+  "caseNumber": 324,
+  "id": "case_324"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The Heist of the Century",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Hard",
+  "story": "In the glittering city of Las Vegas, the opulent Diamond Museum housed the largest, untouched Pink Star Diamond. On an otherwise ordinary night, the security cameras captured a daring robbery: the museum’s doorman, the French pianist, the notorious card counter, and the wealthy socialite all had motive, means, and opportunity. Each suspect had a unique connection to the Pink Star Diamond.\n\nVictim: The Diamond Museum\nCrime Scene: The opulent Diamond Museum\nForensic Clue: A broken window in the museum lobby\n\nTestimonies:\n1. Doorman: \"I was on duty, opening the doors for guests when the theft occurred. I swear it was a masked figure who slipped past me.\"\n2. French Pianist: \"I was performing on the main stage when the theft happened. No way I could have orchestrated it.\"\n3. Card Counter: \"I was hiding in the VIP room, counting cards. I didn't leave until closing time.\"\n4. Socialite: \"I was at the champagne reception on the top floor, mingling with guests. I didn't leave until the thief was caught.\"\n\nCorrect Answer Indicator: 0\n\nOptions:\n0. Doorman (Suspect 1 and motive)\n1. French Pianist (Suspect 2 and alibi)\n2. Card Counter (Suspect 3 and opportunity)\n3. Socialite (Suspect 4 and connection to the diamond)\n\nDeduction Explanation: \nDespite having no alibi, the Card Counter had the opportunity to secretly enter the museum when it was less crowded and slip out unnoticed after the theft. The Socialite's connection to the Diamond brings her as a suspect as well. However, the real breakthrough comes from the broken window in the lobby. Only Suspect 2 (the French Pianist) had the agility to break the window without leaving any trace of evidence, while attending the heist as it happened. Thus, the Card Counter and the Socialite were de-selected, leaving us with Suspects 1 and 2. The Doorman's lack of opportunity to tamper with the diamond or leave any evidence makes Suspect 1 the most likely culprit.",
+  "options": [
+    "Suspect A",
+    "Suspect B",
+    "Suspect C",
+    "Suspect D"
+  ],
+  "correctIndex": 0,
+  "caseNumber": 232,
+  "id": "case_232"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Hacktivist Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "In the bustling city of Silicon Valley, our tale unfolds at 'ByteTech', a renowned tech startup. Late one night, the company's secure database was breached, resulting in a massive leak of sensitive client information. The CEO, Jameson Oakley, woke to find himself under siege by a mysterious hacker named 'ByteButcher'. 'ByteButcher' left a cryptic message: 'Your greed knows no bounds. Prepare to face the consequences!'",
+  "victim": "Jameson Oakley (CEO of ByteTech)",
+  "crimeScene": "ByteTech's secure database",
+  "forensicClue": "The encrypted message 'Your greed knows no bounds. Prepare to face the consequences!' seems to be a reference to a popular online gaming scenario.",
+  "question": "Who is the culprit and how did they break into the database?",
+  "options": [
+    "Option A: Marlon Blackwood (head of HR and ByteTech fanatic), reason: Focused on a password guessing attack.",
+    "Option B: Olivia Nexus (Cybersecurity expert and former ByteTech employee), reason: Access to sensitive information and a personal grudge.",
+    "Option C: Alexander Rise (CEO's right-hand man, secret gamer), reason: The encrypted message ties him to a gaming community.",
+    "Option D: Dr. Harper Griffin (head of R&D and knowledge of the company's network), reason: Access to the network and an unknown third-party program used in the attack"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 326,
+  "id": "case_326"
+}

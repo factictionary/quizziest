@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Data Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "Maya, a senior cybersecurity analyst, discovered that her encrypted external hard drive vanished from her downtown loft at 12 AM on Tuesday. The drive contained a prototype zero‑day exploit that could fetch a fortune on the dark web. Maya called the police, and four people were quickly identified as having been near the loft that night.\n\nLeo, Maya’s roommate, swears he was out for a jog and left the building at 11:30 PM, yet the building’s badge reader logged his access card opening the front door at 11:58 PM. Nina, the next‑door neighbor, says she was watching a late‑night movie and heard nothing, but she admits she stepped onto the balcony at 12:05 AM to get fresh air. Omar, a delivery driver, claims he dropped off a package at 11:45 PM, but his truck’s GPS shows he was 8 km away at 12:00 AM. Priya, Maya’s former colleague, says she was home studying for a certification exam; however, the hard drive’s internal log records an access attempt at 12:02 AM from IP 192.168.45.77, the exact address of Priya’s home Wi‑Fi network. The forensic team also recovered a faint fingerprint on the drive’s case that matches Priya’s left thumb.",
+  "victim": "Maya, senior cybersecurity analyst",
+  "crimeScene": "Maya’s downtown loft, a modern two‑bedroom apartment",
+  "forensicClue": "Hard drive log shows access at 12:02 AM from IP 192.168.45.77, which is Priya’s home router address, and a fingerprint on the case matches Priya.",
+  "question": "Who stole Maya’s encrypted hard drive?",
+  "options": [
+    "Leo (badge entry at 11:58 PM contradicts his alibi)",
+    "Nina (was on the balcony after the theft, no direct link)",
+    "Priya (access log from her IP and matching fingerprint)",
+    "Omar (GPS places him far away at the crucial time)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The key evidence is the hard drive’s internal log: it records an access attempt at 12:02 AM from IP 192.168.45.77, which is the exact address of Priya’s home Wi‑Fi. The fingerprint on the drive case also matches Priya’s left thumb. Leo’s badge entry shows he was in the building at the time, but he claims he left earlier, creating a discrepancy; however, he could not have accessed the drive after it was taken. Nina and Omar have no technical link to the drive. The only suspect with both the digital footprint and physical evidence is Priya, making her the indisputable culprit.",
+  "caseNumber": 64,
+  "id": "case_64"
+}

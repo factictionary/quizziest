@@ -1,0 +1,19 @@
+{
+  "title": "Da Vinci's Eclipse",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "In a dimly lit gallery, the curator, Mr. Wilde, found a painting labeled as 'The Last Supper' by Leonardo da Vinci, known to be impossible due to its destruction in a fire years ago. The exhibition was about the master's hidden works. A middle-aged woman, Ms. Thompson, displayed unfamiliarity with art, while Mr. Johnson, a cunning art dealer, exuded confidence. Emily, a museum intern, seemed anxious but maintained composure. Finally, there was Dr. Kim, an art historian who seemed genuinely puzzled.",
+  "victim": "The genuine 'The Last Supper' by Leonardo da Vinci",
+  "crimeScene": "The dimly lit gallery at the prestigious Art & Heritage Museum.",
+  "forensicClue": "The burn mark on the back of the forged painting.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Ms. Thompson and motive)",
+    "Option B (Mr. Johnson and method)",
+    "Option C (Emily and opportunity)",
+    "Option D (Dr. Kim and connection)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 113,
+  "id": "case_113"
+}

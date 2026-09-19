@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit: The Deadly Reunion",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "On a chilling autumn night, the small town of Willow Creek witnessed an unsettling event. At the grand old mansion known as 'The Grim Manor', a renowned literature professor, Dr. Alistair Blackwood, was found brutally murdered in his study. The door was locked from the inside, and there were no signs of forced entry. As the police cordoned off the crime scene, four guests were caught up in the ordeal, each with their own motive for committing the crime.",
+  "victim": "Dr. Alistair Blackwood",
+  "crimeScene": "The study in the locked 'Grim Manor'.",
+  "forensicClue": "A peculiar scratch on the doorknob.",
+  "question": "Who committed the murder? How did the detective solve it?",
+  "options": [
+    "Option A: Professor Emily Williams (Motive: Dr. Blackwood's rejection for her promotion)",
+    "Option B: Mr. Sebastian Grey (Motive: Dr. Blackwood's discovery of a stolen artifact)",
+    "Option C: Ms. Isadora Shaw (Motive: Dr. Blackwood's refusal to endorse her historical book manuscript)",
+    "Option D: Mr. Theodore Jenkins (Motive: Dr. Blackwood's exposure of a hidden treasure)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The scratch on the doorknob points to an inside job, suggesting someone within the dinner party had access to the mansion. Option C reveals Ms. Isadora Shaw had a personal motive due to Dr. Blackwood rejecting her manuscript endorsement. Upon further investigation, we discover that the manuscript dated back to an old mystery from the mansion's history involving bloodshed. Detective Rawlings, following this lead, confronts Ms. Shaw about the connection and she confesses to a frantic phone call, just before the murder, pleading she had nothing to do with it. In the call, she reveals the mysterious 'Bloodstone' hidden deep within the mansion, a relic with dark history. This vital piece of evidence links the murder to the old mystery, implicating all guests, as they now must face the consequences of their involvement in the hidden bloodstone's discovery.",
+  "caseNumber": 250,
+  "id": "case_250"
+}

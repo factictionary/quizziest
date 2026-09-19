@@ -1,0 +1,20 @@
+{
+  "title": "The Lavender Lethal Libation",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "Victor Harrow, the reclusive philanthropist of Ravenswood Manor, was found slumped over his mahogany desk in the library at 9:02 PM, a half‑filled glass of chilled Chardonnay clutched in his hand. The autopsy revealed rapid cardiac arrest caused by aconitine, a toxin derived from monkshood, but the toxicology report also noted a faint trace of lavender oil on the rim of the glass. \n\nFour witnesses give their accounts: Dr. Lila Marlow, the estate’s toxicologist, says she examined Victor at 9:45 PM and found him conversing with the guests, insisting she saw no sign of distress. Chef Anton Varela claims he served the wine at exactly 9:00 PM, chilled to 6 °C, and never handled the glasses after plating the dessert. Gardener Milo Reed insists he was pruning the rose bushes in the east garden from 9:00 PM onward, noting the garden lights were off because the power had been cut at 8:30 PM. Housekeeper Selma Quinn maintains she polished the silverware with a lavender‑scented oil at 9:15 PM, then refilled Victor’s glass after he asked for a top‑up, insisting the wine was still cold.",
+  "victim": "Victor Harrow",
+  "crimeScene": "Library of Ravenswood Manor, late‑night dinner party",
+  "forensicClue": "A microscopic film of lavender oil on the wine glass rim, matching the exact oil Selma uses for polishing silverware, and the toxin’s heat‑labile nature indicating it was added after the wine had been chilled.",
+  "question": "Who is the culprit and how was the murder carried out?",
+  "options": [
+    "Option A (Dr. Lila Marlow – she claims to have examined the victim later, but her timeline conflicts with the rapid onset of aconitine).",
+    "Option B (Chef Anton Varela – he served the wine, yet he never touched the glasses after service, making it unlikely he added the poison).",
+    "Option C (Housekeeper Selma Quinn – she used lavender oil to polish the silverware, and the oil residue on the glass proves she introduced the toxin after the wine was chilled).",
+    "Option D (Gardener Milo Reed – he was outside, but the garden lights were off, contradicting his alibi about being in the lit garden)."
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The key forensic clue is the lavender oil film on the glass rim. Only Selma Quinn uses that specific oil for polishing silverware, and she admits to handling the glasses at 9:15 PM, after the wine had been chilled. Aconitine degrades quickly when heated, so it could not have been mixed into the wine before chilling; it had to be introduced later, which matches Selma’s top‑up. Dr. Marlow’s later sighting is impossible because aconitine causes death within 30 minutes. Chef Varela never touched the glasses after service, and Milo Reed’s alibi fails but does not place him near the glass. Therefore, Selma Quinn is indisputably the murderer.",
+  "caseNumber": 32,
+  "id": "case_32"
+}

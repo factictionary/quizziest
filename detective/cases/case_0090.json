@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Autopsy at Harbor Dock",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Medium",
+  "story": "At the fog‑shrouded Harbor Dock, the body of marine engineer Victor Hale was discovered at 00:12, slumped over a rusted cargo crate. The night had been unusually cold, and a sudden power outage had plunged the dock’s security lights out for thirty minutes, leaving only the distant glow of a lighthouse. Victor had been overseeing the loading of a rare bioluminescent algae shipment when he collapsed, a thin line of foam still clinging to his lips.\n\nFour witnesses give their statements: Captain Marco Ruiz swears he was on his boat, anchored 200 meters away, checking his navigation charts at 23:50. Dr. Lena Ortiz, a marine biologist who had recently lost a grant to Victor, says she was in the dock office reviewing paperwork at 23:55. Officer Samir Patel claims he was patrolling the perimeter at 23:45, but the dock’s radio log shows his shift was on break until 00:10. Janice \"Jax\" Cole, a dock worker, insists she was cleaning the warehouse until the lights flickered back at 00:20. The autopsy reveals a trace of a rare toxin derived from the box jellyfish—substance only available in Dr. Ortiz’s private research lab.",
+  "victim": "Victor Hale, marine engineer",
+  "crimeScene": "Harbor Dock, near the cargo crate under a blackout",
+  "forensicClue": "A trace of box‑jellyfish toxin, which only Dr. Lena Ortiz’s lab possesses",
+  "question": "Who is the culprit?",
+  "options": [
+    "Captain Marco Ruiz – claims he was on his boat, but has no access to the toxin",
+    "Dr. Lena Ortiz – lost a grant to Victor and has exclusive access to the jellyfish toxin",
+    "Officer Samir Patel – his alibi is impossible because his radio log shows he was on break",
+    "Janice \"Jax\" Cole – was cleaning the warehouse, no motive or means"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The autopsy’s toxin is the decisive clue: only Dr. Lena Ortiz’s lab contains the box‑jellyfish toxin, and she had a clear motive—her research grant was cut in favor of Victor’s project. Officer Patel’s timeline discrepancy proves his statement false, but it does not link him to the toxin. Captain Ruiz and Janice Cole lack both motive and means. Therefore, Dr. Lena Ortiz is indisputably the murderer.",
+  "caseNumber": 90,
+  "id": "case_90"
+}

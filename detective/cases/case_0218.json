@@ -1,0 +1,20 @@
+{
+  "title": "The Twisted Deception",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Medium",
+  "story": "In the dimly lit streets of Littleville, a cold corpse lay on the cobblestone path near the infamous Crow's Nest. Detective Johnston, known for his sharp intellect, was called to the crime scene. The victim, a prominent novelist named Eleanor Blackwood, was found strangled with her own scarf, having an apparent motive to protect her upcoming book's plot twist.",
+  "victim": "Eleanor Blackwood",
+  "crimeScene": "The crime scene was bathed in moonlight, revealing Eleanor's cold hand clutching a crumpled piece of paper.",
+  "forensicClue": "The crumpled paper",
+  "question": "What did the crumpled paper reveal about the murder?",
+  "options": [
+    "Option A: Eleanor was desperately trying to protect her upcoming book's twist (and the killer is someone close to her literary world)",
+    "Option B: The paper contained a love letter to Eleanor, suggesting the murder was a passionate crime of emotion (and the killer is someone with a personal motive).",
+    "Option C: The paper reveals the killer wrote a warning note about exposing a dark secret in Eleanor's past (and the killer is someone harboring resentment against her)",
+    "Option D: Eleanor was conspiring a major heist, with the crumpled paper containing plans and escape routes (and the killer is someone who wanted to sabotage the plan)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "The correct answer is Option A: The crumpled paper held crucial information regarding Eleanor's upcoming book's twist, implicating a close acquaintance in the literary world as the culprit. This clue, combined with the motive of protecting the book's twist, helps narrow down the suspects and leads towards the true suspect.",
+  "caseNumber": 218,
+  "id": "case_218"
+}

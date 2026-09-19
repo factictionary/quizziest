@@ -1,0 +1,24 @@
+{
+  "title": "The Enigmatic Seance",
+  "category": "Locked Room Mystery",
+  "difficulty": "Hard",
+  "story": "In the gloomy mansion of eccentric millionaire, Sir Algernon Blackwood, a macabre murder occurred during a seance. Upon discovering the locked study door, amateur detective Claire Jenkins found Sir Algy sprawled on the floor, slain with an antique dagger marked with a peculiar pentacle symbol.",
+  "victim": "Sir Algernon Blackwood (Detective Claire's benefactor and owner of the mansion)",
+  "crimeScene": "The study, adorned with occult artifacts, had a locked door with no signs of forced entry.",
+  "forensicClue": "The pentacle-shaped bloodstain on the Persian carpet.",
+  "question": "Who committed the crime and how did they enter the room? ",
+  "options": [
+    "Option A (Guest 1 and their method of entry)",
+    "Option B (Guest 2 and their method of entry)",
+    "Option C (Guest 3 and their method of entry)",
+    "Option D (Guest 4 and their method of entry)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The locked door and the pentacle bloodstain indicate an inside job. Guest 4, an avid tarot reader, was caught admitting to conjuring the door's spirit barrier before the seance began. Detective Claire deduced that they not only had the opportunity due to their seat placement but also the motive, as Sir Algernon banned them from the mansion. Moreover, their knowledge of occult practices allowed them to create the spirit barrier, leaving a seemingly locked door with a hidden entrance behind a secret panel.",
+  "correctAnswer": {
+    "name": "Guest 4",
+    "method": "Hidden panel behind a large tapestry"
+  },
+  "caseNumber": 172,
+  "id": "case_172"
+}

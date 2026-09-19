@@ -1,0 +1,55 @@
+{
+  "title": "Tech Theft: The Silent Hacker",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "In the bustling city of Silicon Pulse, cybersecurity consultant Benjamin Cross was called to investigate a sudden data breach at TechVault, the city's largest tech firm. The nightly backups were gone, revealing a brazen heist of proprietary designs for new tech gadgets.\n\nVictim: Benjamin Cross\nCrime Scene: TechVault's server room\nForensic Clue: An empty security camera feed for the night of the theft\n\nTestimonies:\n1. Janitor Marcus:\n   'I heard unusual noises around midnight, but thought nothing of it at the time.'\n2. Security Guard Tony:\n   'I received a strange transmission at 12:01 AM requesting a password reset for the server room access.' \n3. Hacker 'Phantom' (Suspect 1):\n   'I cracked TechVault's security system by exploiting a vulnerability I discovered.'\n4. Employee Laura (Suspect 2):\n   'I accidentally erased the backups during a system update at midnight.' \n5. IT Manager James (Suspect 3):\n   'I initiated the password reset at 12:01 AM for a malfunctioning device.'",
+  "victim": "Benjamin Cross",
+  "crimeScene": "TechVault's server room",
+  "forensicClue": "An empty security camera feed for the night of the theft",
+  "testimonies": [
+    {
+      "testimonial": "Janitor Marcus: 'I heard unusual noises around midnight, but thought nothing of it at the time.'",
+      "person": "Janitor Marcus"
+    },
+    {
+      "testimonial": "Security Guard Tony: 'I received a strange transmission at 12:01 AM requesting a password reset for the server room access.'",
+      "person": "Security Guard Tony"
+    },
+    {
+      "testimonial": "Hacker 'Phantom': 'I cracked TechVault's security system by exploiting a vulnerability I discovered.'",
+      "person": "Hacker 'Phantom'"
+    },
+    {
+      "testimonial": "Employee Laura: 'I accidentally erased the backups during a system update at midnight.'",
+      "person": "Employee Laura"
+    },
+    {
+      "testimonial": "IT Manager James: 'I initiated the password reset at 12:01 AM for a malfunctioning device.'",
+      "person": "IT Manager James"
+    }
+  ],
+  "question": "Who stole the valuable tech designs from TechVault's server room?",
+  "options": [
+    {
+      "option": "Janitor Marcus",
+      "logic": "Janitor's testimony was unrelated to the crime."
+    },
+    {
+      "option": "Employee Laura",
+      "logic": "Employee Laura accidentally erased the backups at midnight."
+    },
+    {
+      "option": "IT Manager James",
+      "logic": "IT Manager James initiated the password reset at 12:01 AM."
+    },
+    {
+      "option": "Hacker 'Phantom'",
+      "logic": "Hacker 'Phantom' cracked the security system and claimed responsibility."
+    }
+  ],
+  "correctOption": 3,
+  "logic": "The logical discrepancy lies in the timeline of events: The security breach happened before the backup erasure and device reset.",
+  "correctIndex": 0,
+  "caseNumber": 268,
+  "id": "case_268"
+}

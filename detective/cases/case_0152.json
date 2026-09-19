@@ -1,0 +1,20 @@
+{
+  "title": "The Stolen Crypto Case",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Expert",
+  "story": "In the tech-savvy city of Silicon Valley, our victim is a renowned cryptocurrency magnate, Alex Stone. Late one fateful night, the Stone Crypto Exchange was ruthlessly hacked, causing a global financial uproar. The thief stole an immense fortune worth millions of dollars in digital assets.",
+  "victim": "Alex Stone, Cryptocurrency Magnate",
+  "crimeScene": "The dimly lit Stone Crypto Exchange.",
+  "forensicClue": "An encrypted message left on the Exchange's terminal: 'Cyberpunk took the bait.'",
+  "question": "Who is the culprit and how did they execute the heist? ",
+  "options": [
+    "Option A (Cyberpunk and the heist method)",
+    "Option B (The Hacker and the stolen funds trail)",
+    "Option C (The CEO and the encrypted message)",
+    "Option D (The IT Security Chief and the broken protocols)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Upon analysis, the cryptic message leads to cyberpunk culture enthusiast, Option C (The CEO and the encrypted message), as it points towards the person knowledgeable about the Stone Crypto Exchange's infrastructure. Furthermore, the CEO has a history of online activism and could be connected to Cyberpunk. Investigating further, it turns out the Exchange's security protocols were by-passed, pointing to Option D (The IT Security Chief and the broken protocols). With the combined evidence, we can conclude that the CEO, aka Cyberpunk, enlisted the IT Security Chief to breach the protocols, enabling the thief to execute the heist.",
+  "caseNumber": 152,
+  "id": "case_152"
+}

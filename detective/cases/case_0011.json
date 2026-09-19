@@ -1,0 +1,20 @@
+{
+  "title": "Deadly Dose in the Lab",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "Renowned toxicologist Dr. Elena Voss was found dead on the marble floor of her private research lab, a half‑filled cup of cold tea beside her. The autopsy revealed fatal aconitine poisoning, a plant alkaloid that dissolves only in water above 70 °C. Four people were present that night: Maya, the meticulous lab assistant who prepared the tea; Leon, the night‑shift security guard who logged his patrol at 8:00 PM; Dr. Kade, a rival researcher who argued with Elena over a grant earlier that week; and Rosa, the housekeeper who cleaned the lab after hours. Maya insists she brewed the tea at 7:30 PM and left it to cool, Leon swears he was on the hallway cameras the whole time, Dr. Kade claims he left the lab at 7:45 PM after a brief discussion, and Rosa says she only entered after the lights were off at 9:00 PM. The forensic team discovered a faint residue of aconitine on the rim of Elena’s inhaler, a device she used for asthma, and a single fingerprint on the inhaler matches Dr. Kade’s. Moreover, the lab’s security badge log shows Dr. Kade’s badge was swiped at 8:12 PM, contradicting his alibi.",
+  "victim": "Dr. Elena Voss",
+  "crimeScene": "Private research laboratory, marble floor, cold tea on a stainless steel tray, inhaler on the desk",
+  "forensicClue": "Aconitine residue on Elena’s inhaler with Dr. Kade’s fingerprint and badge log entry at 8:12 PM",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Maya – she prepared the tea but the toxin requires hot water, making her claim impossible)",
+    "Option B (Dr. Kade – his fingerprint on the inhaler and badge log prove he was in the lab after his claimed departure)",
+    "Option C (Leon – his patrol log is unverified, but no physical evidence ties him to the toxin)",
+    "Option D (Rosa – she entered after the lights were off, yet the inhaler was already contaminated before her arrival)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The toxin, aconitine, cannot dissolve in cold tea, eliminating Maya’s method. Leon’s alibi is not contradicted by any physical evidence. Rosa entered after 9:00 PM, but the inhaler was already contaminated. The decisive evidence is the aconitine residue on Elena’s inhaler, a device Dr. Kade used, plus his badge swipe at 8:12 PM, which directly contradicts his claim of leaving at 7:45 PM. Therefore, Dr. Kade is the only suspect whose presence and means align with the forensic findings.",
+  "caseNumber": 11,
+  "id": "case_11"
+}

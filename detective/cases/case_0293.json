@@ -1,0 +1,19 @@
+{
+  "title": "Whodunnit: The Late-Night Heist",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "On a dimly lit corner of the city, Detective John was investigating a series of baffling robberies. The latest target was a high-security vault at the prestigious Diamond Dynasty jewelry store. The alarm was triggered at 11:55 pm, and the only eyewitness, Mrs. Smith, confirmed seeing a hooded figure leaving the scene at 11:53 pm.",
+  "victim": "Victim: The owner of Diamond Dynasty, Mr. Singh.",
+  "crimeScene": "Setting: Diamond Dynasty jewelry store, dimly lit, 11:55 pm.",
+  "forensicClue": "Forensic Evidence: A distinctive shoe imprint left behind with a size 10",
+  "question": "Who pulled off the heist and what was their motive?",
+  "options": [
+    "Option A: Suspect 1 (Motive: Mercenary, Alibi: Reliable dinner party at 9 pm)",
+    "Option B: Suspect 2 (Motive: Family feud, Alibi: Movie marathon at home)",
+    "Option C: Suspect 3 (Motive: Jealousy, Alibi: Late-night jog)",
+    "Option D: Suspect 4 (Motive: Ambition, Alibi: Research at the library from 9 pm to midnight)"
+  ],
+  "correctIndex": 3,
+  "caseNumber": 293,
+  "id": "case_293"
+}

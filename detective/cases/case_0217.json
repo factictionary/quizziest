@@ -1,0 +1,19 @@
+{
+  "title": "Critical Poisoning Scandal",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Hard",
+  "story": "In the opulent world of high society, a deadly poison scandal rocked the city. A notorious industrialist, Mr.\nRobert Blackwood, unexpectedly collapsed at his lavish charity gala. This exclusive gathering took place\nat his grand mansion on a moonlit evening. Within hours, the illustrious host recovered remarkably fast.\nFurthermore, another prominent attendee, Dr. Ada Thompson, experienced a severe allergic reaction that resolved within minutes.\n\nAmongst the guests of the event, we have:  \n  \n1. Mr. Sebastian Blackwood - Robert's brother\n2. Mr. Maxwell Stone - A rival industrialist\n3. Ms. Penelope Reed - A renowned botanist\n4. Dr. Jameson Hawkins - A notorious chemist\n",
+  "crimeScene": "The crime scene is the opulent mansion where the event took place.",
+  "forensicClue": "Note the strange ingredient found in Dr. Hawkins' laboratory.",
+  "question": "How did the culprit poison Robert Blackwood? And who had the motive?",
+  "options": [
+    "The poison was a rare flower extract from Dr. Penelope Reed's collection, motive: rivalry.",
+    "Dr. Hawkins mixed the poison, motive: a failed experiment.",
+    "Mr. Stone prepared a concoction, motive: financial competition.",
+    "Mr. Sebastian Blackwood dosed the food, motive: revenge."
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The key clue lies in Dr. Hawkins' mysterious laboratory findings. Amongst the suspects, only Dr. Hawkins had the motive for revenge (against Robert Blackwood) and the opportunity to poison the food. His failed experiment at his lab suggests the poison was not premeditated, unlike the others. Thus, Mr. Sebastian Blackwood is the culprit.",
+  "caseNumber": 217,
+  "id": "case_217"
+}

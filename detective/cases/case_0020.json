@@ -1,0 +1,20 @@
+{
+  "title": "The Midnight Muse Heist",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "When the city museum opened its new exhibit, the prized 19th‑century canvas \"The Midnight Muse\" was missing, replaced by a flawless replica. The head curator, Elena Marquez, was found unconscious in the gallery’s climate‑control room, a blunt‑object wound to her head. Four people were on duty that night: Marco, the restoration specialist, who says he was polishing frames in the back lab; Sofia, the night‑shift security guard, who insists she was on her 30‑minute break at 2 am; Victor, the museum director, who claims he was reviewing budget spreadsheets in his office until 1:45 am; and Lena, the intern, who says she was cataloguing inventory in the storage wing.\n\nThe forensic team uncovered a tiny speck of a modern synthetic pigment—phthalo‑blue‑X—found only in a batch delivered to the restoration lab on the morning of the theft. The same pigment appears in the forged canvas. A coffee cup bearing Victor’s monogram was discovered on a nearby table, still warm. Moreover, the security system logs show the alarm was active at 2:15 am, contradicting the claim that it was disabled for maintenance from 1 am‑3 am. Sofia’s badge was scanned at 2:05 am, yet the guard roster shows she never works the night shift; her scheduled shift begins at 8 am. The only person with access to both the restoration lab’s pigment and the director’s office at the crucial hour was Victor.",
+  "victim": "Elena Marquez, Head Curator",
+  "crimeScene": "City Museum’s Renaissance Gallery, climate‑control room adjacent to the exhibit hall",
+  "forensicClue": "A speck of modern synthetic pigment (phthalo‑blue‑X) only present in the restoration lab’s morning delivery, found in the forged painting",
+  "question": "Who is the culprit and how did the detective solve the case?",
+  "options": [
+    "Option A (Marco – He had the pigments but no alibi for the night)",
+    "Option B (Sofia – She claims a break at 2 am, but her schedule shows she never works nights)",
+    "Option C (Victor – His monogrammed coffee cup, access to the pigment batch, and false alibi expose him)",
+    "Option D (Lena – She was in storage, but no evidence ties her to the forgery)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The forged canvas contains a pigment that was only delivered to the restoration lab that morning, meaning only someone with lab access could have used it. Victor, the director, had both the monogrammed coffee cup found at the scene and the only keycard that opened the lab after hours. Sofia’s badge scan is a red herring; her schedule proves she was not on duty, so she could not have been the one who scanned the badge. Marco and Lena lack any direct link to the pigment or the coffee cup. Therefore, Victor’s false alibi and the forensic pigment clue indisputably point to him as the thief.",
+  "caseNumber": 20,
+  "id": "case_20"
+}

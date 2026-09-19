@@ -1,0 +1,20 @@
+{
+  "title": "The Enigmatic Cyber Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "In the bustling metropolis of Silicon City, cybersecurity consultant, Emily Rose, uncovered a shocking cyber theft case. Our tale unfolds at the luxurious tech company, EchoByte, where a vast amount of valuable cryptocurrency was stolen from their vault. When investigating the crime scene, forensic expert ForensicFred found a peculiar audio clip on the company network: 'The code is the key; the key to the vault, the vault of secrets.'",
+  "victim": "Emily Rose (cybersecurity consultant)",
+  "crimeScene": "EchoByte company network",
+  "forensicClue": "Audio clip: 'The code is the key; the key to the vault, the vault of secrets.'",
+  "question": "Who committed the cyber theft at EchoByte, and what was the clue unlocked?",
+  "options": [
+    "Option A (Suspect 1 and motive)",
+    "Option B (Suspect 2 and motive)",
+    "Option C (Suspect 3 and motive)",
+    "Option D (Suspect 4 and motive)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "Investigating the case, we find that the audio clip hinted at a challenge that matched EchoByte's internal motto: 'Code is Key, Key is Vault, Vault is Secrets'. The clue reveals that the culprit must be someone close to the company, knowing their motto, and possessing the necessary technical expertise to pull off such a heist. Upon interrogating employees, we discover that the only one who fits this profile is EchoByte's CEO, Jonathan Blackwood, who had secretly invested in a rival cryptocurrency company and needed the funds from the stolen cryptocurrency. Option 1 reveals this crucial motive.",
+  "caseNumber": 298,
+  "id": "case_298"
+}

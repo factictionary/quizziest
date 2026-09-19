@@ -1,0 +1,20 @@
+{
+  "title": "Digital Deception",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "In a bustling tech hub, the sleek offices of 'ByteSec', a cybersecurity company, came under suspicion after a massive data breach. CEO Anjali Patel was missing, with evidence of a cyber attack that had infected the company's network. The crime scene is the company's server room, where we find a torn piece of paper with a password written in haste.",
+  "victim": "Anjali Patel - CEO of ByteSec",
+  "crimeScene": "The server room of ByteSec, where a torn piece of paper with a hastily written password was found.",
+  "forensicClue": "The hastily scribbled password on the torn piece of paper",
+  "question": "Who is the culprit and how was the crime committed?",
+  "options": [
+    "Option A (Suspect 1 and method)",
+    "Option B (Suspect 2 and method)",
+    "Option C (Suspect 3 and method)",
+    "Option D (Suspect 4 and method)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The data breach was executed through the hastily scribbled password found on the torn piece of paper, implicating Suspect 3. The server room's CCTV footage shows a mysterious figure in a hoodie, which led to the surveillance device being tampered with prior to the crime. This tampering leaves us with a crucial discrepancy in the timeline.",
+  "caseNumber": 209,
+  "id": "case_209"
+}

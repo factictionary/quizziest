@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Sauté Murder",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "At precisely midnight, the famed Chef Anton Marquez was found slumped over his prep station in the open kitchen of La Lune, a bustling downtown bistro. The autopsy placed the fatal stab wound at 10:00 p.m., just as the kitchen timer, set for a 30‑minute sauce reduction, was supposed to chime. The kitchen was sealed; only staff with keycard access could have entered after the service lights dimmed at 9:45.\n\nLena, the barmaid, swears she was polishing glasses behind the bar until 11 p.m. and never crossed the kitchen threshold. Marco, the night guard, insists he was patrolling the back alley at 10 p.m. and didn’t possess his keycard that night. Priya, the victim’s assistant, claims she was in the walk‑in freezer organizing supplies from 9:45 to 10:15. Victor, a rival chef, says he was in his office drafting a new menu and only entered the kitchen at 11 p.m. to retrieve a notebook.",
+  "victim": "Chef Anton Marquez",
+  "crimeScene": "The open kitchen of La Lune restaurant during the midnight service",
+  "forensicClue": "Security logs record Marco's keycard opening the kitchen door at 10:05, five minutes after the autopsy‑determined time of death at 10:00.",
+  "question": "Who is the culprit and how was the alibi busted?",
+  "options": [
+    "Option A (Lena – she claims she never entered the kitchen, but no evidence places her there)",
+    "Option B (Marco – his keycard entry after the time of death contradicts his claim of being on patrol)",
+    "Option C (Priya – she was in the freezer, yet the freezer’s temperature logs show it remained untouched during the critical window)",
+    "Option D (Victor – he says he was in his office, but his alibi is unverified and irrelevant to the kitchen breach)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "1. The autopsy pins the murder at 10:00 p.m. 2. The kitchen door can only be opened with a keycard after the service lights go out at 9:45. 3. Security logs show Marco’s keycard was used at 10:05, meaning he entered the kitchen five minutes after the victim was already dead. 4. Marco’s statement that he was patrolling the alley and didn’t have his keycard is directly contradicted by the log. 5. No other suspect’s alibi is disproven by hard evidence: Lena never appears in the logs, Priya’s freezer activity is logged as idle, and Victor’s office whereabouts are irrelevant. 6. Therefore, Marco is the only person whose presence in the kitchen is proven and whose timeline makes the murder possible, making him the indisputable culprit.",
+  "caseNumber": 19,
+  "id": "case_19"
+}

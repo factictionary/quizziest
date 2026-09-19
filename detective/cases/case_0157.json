@@ -1,0 +1,20 @@
+{
+  "title": "Diamond Deception",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Easy",
+  "story": "In the glittering city of Ashburton, a dazzling event took place at the opulent Carlton Gemstone Museum. The museum's renowned diamond collection was on display, attracting wealthy guests who flocked to witness the gleaming treasures. Among them, a notorious gemstone thief named Anton Blackwood, known for his impeccable skills and lightning-quick escapes.",
+  "victim": "Cynthia Gems, the museum director",
+  "crimeScene": "The opulent Carlton Gemstone Museum, filled with dazzling diamond displays",
+  "forensicClue": "An anomalous scratch on the exhibition panel near the stolen diamond",
+  "question": "Who is the culprit, and how did they break in? ",
+  "options": [
+    "Option A (Anton Blackwood and the ventilation system)",
+    "Option B (Dr. Emerald and the hidden trapdoor)",
+    "Option C (Samantha Jewelry and the disguised entrance)",
+    "Option D (Victor Vault and the magnetic lock bypassing)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "During the investigation, the museum's security footage revealed a unique scratch on the showcase near the stolen diamond. Surprisingly, the scratch closely matched the texture of Anton Blackwood's gloves. Meanwhile, fiber samples from the scene matched the carpet in Dr. Emerald's penthouse. The hidden trapdoor in Dr. Emerald's study provided the escape route, making him the prime suspect. While investigating Dr. Emerald's place, the detective discovered the magnetic lock on the vault door had been bypassed. Dr. Emerald was found to have a history of gemstone theft and criminal affiliations with Anton Blackwood.",
+  "caseNumber": 157,
+  "id": "case_157"
+}

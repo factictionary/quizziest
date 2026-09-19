@@ -1,0 +1,20 @@
+{
+  "title": "Art of Deception",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "In the esteemed Michelangelo Museum, a priceless artwork by the Italian Renaissance master was stolen. The crime scene is a dimly lit gallery housing the 'David and Goliath' oil painting. A forged note left behind read: 'Art is not a replica, it's a revolution!', signed 'The Rebel Painter'. The painting was stolen just as the museum closed early due to an emergency staff meeting.",
+  "victim": "Curator Dr. Amelia Thompson, whose career was built on preserving valuable artworks",
+  "crimeScene": "The dimly lit gallery housing the 'David and Goliath' oil painting.",
+  "forensicClue": "An unexpected PowerPoint presentation key left behind at the crime scene",
+  "question": "Who is the culprit? How did the detective solve it?",
+  "options": [
+    "Option A (Suspect 1 and reason)",
+    "Option B (Suspect 2 and reason)",
+    "Option C (Suspect 3 and reason)",
+    "Option D (Suspect 4 and reason)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "Scan the crime scene for clues.",
+  "caseNumber": 318,
+  "id": "case_318"
+}

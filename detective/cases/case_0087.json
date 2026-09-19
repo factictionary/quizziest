@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Algorithm Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Hard",
+  "story": "Dr. Lena Ortiz, the visionary behind the breakthrough AI model \"ECHO,\" reported that the prototype code was stolen from the underground data vault of NovaTech Labs at 02:15 AM. The vault is protected by a biometric fingerprint scanner, a motion‑sensor grid, and a tamper‑proof audit log. Four employees were on duty that night:\n\n1. Victor Hale, Chief Security Officer, claimed, \"I was monitoring the live feed from the control room from 01:30 AM to 03:00 AM. I saw no one enter the vault until the alarm went off.\"\n2. Priya Nair, Junior Developer, said, \"I was debugging a peripheral script in the break‑room until 02:00 AM, then I left for home. I never touched the vault.\"\n3. Marco Silva, Systems Engineer, asserted, \"I was performing routine firmware updates on the server rack at 02:10 AM. I stepped out for a coffee at 02:12 AM and returned at 02:30 AM.\"\n4. Elena Wu, Project Manager, explained, \"I was on a video conference with the board from 01:45 AM to 02:20 AM. My fingerprint scanner was disabled for scheduled maintenance, so I couldn't have opened the vault.\"\n\nThe audit log shows the vault opened at 02:13 AM using Elena Wu’s fingerprint, yet Elena’s scanner was offline. A USB drive recovered near the exit contained a file whose compile‑time watermark matched Marco Silva’s personal Git commit signature, and the drive’s encryption key hash was identical to Marco’s stored system key. The forensic team also found a faint residual heat signature on the motion sensors that corresponded to a single footstep at 02:12 AM, exactly when Marco claimed to be away for coffee.",
+  "victim": "Dr. Lena Ortiz, Lead AI Researcher",
+  "crimeScene": "Underground biometric‑secured data vault at NovaTech Labs, Silicon Valley",
+  "forensicClue": "A USB drive with a compile‑time watermark matching Marco Silva’s Git signature and an encryption key hash identical to his system key.",
+  "question": "Who stole the prototype AI code?",
+  "options": [
+    "Victor Hale (Security officer with full camera access)",
+    "Priya Nair (Junior developer with limited privileges)",
+    "Marco Silva (Systems engineer whose signature matches the stolen file)",
+    "Elena Wu (Project manager whose fingerprint was logged despite a disabled scanner)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The vault log records Elena Wu’s fingerprint at 02:13 AM, but Elena proves her scanner was offline for maintenance, making the log entry impossible for her. 2. The only other fingerprint that could have been used is Marco’s, whose fingerprint was cached in the system for emergency overrides. 3. The USB drive found contains a compile‑time watermark that matches Marco’s personal Git commit signature, linking him directly to the stolen code. 4. The encryption key hash on the drive is identical to Marco’s stored system key, confirming he encrypted the data before leaving. 5. The motion‑sensor heat trace shows a single footstep at 02:12 AM, aligning with Marco’s claim of stepping out for coffee—he actually used that moment to slip the USB drive into the vault and copy the files. All evidence converges on Marco Silva as the sole culprit.",
+  "caseNumber": 87,
+  "id": "case_87"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Stolen Masterpiece",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Medium",
+  "story": "In the grand and well-regarded Art Gallery of Europe, an intriguing incident unfolded. The priceless 'Lost Impressionist Masterpiece' – a recently acquired painting by the infamous Impressionist artist, 'Man of Enigmas' – was stolen during the charity gala event. Guests marveled at the striking piece, depicting a mysterious woman in a sun-drenched garden. Suddenly, the lights flickered, and when they returned, the priceless piece was gone.",
+  "victim": "Director of Art Gallery of Europe",
+  "crimeScene": "A lavish charity gala event inside the Art Gallery of Europe, featuring an awe-inspiringly decorated opulent space.",
+  "forensicClue": "The damp footprints found near the exhibition hall's exit.",
+  "question": "Who is the culprit and how was the painting stolen? ",
+  "options": [
+    "Option A: Suspect A - The renowned art restorer, Suspect B - The ex-gallery employee, Suspect C - The cunning art dealer and Suspect D - The ambitious curator.",
+    "Option B: The painting's frame was meticulously sawn, allowing the thief to carefully lift the masterpiece without leaving evident traces.",
+    "Option C: A secret entrance behind the velvet ropes was discovered, suggesting an insider job.",
+    "Option D: The mysterious woman, a supposed artist, conspired with an unknown accomplice to pull off a daring heist"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "The detailed examination of the crime scene reveals a secret entrance, pointing directly to Insider Suspect C. Upon further investigation, it is discovered that Suspect C had an opportunity and motive to steal the masterpiece due to their bitter rivalry with the Gallery Director (victim). The damp footprints near the entrance point to a hurried escape, potentially implicating an accomplice which aligns with Suspect D's motive to prove their mysterious artistic prowess.",
+  "caseNumber": 264,
+  "id": "case_264"
+}

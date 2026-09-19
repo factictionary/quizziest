@@ -1,0 +1,20 @@
+{
+  "title": "The Silent Scream",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Easy",
+  "story": "In a dimly lit alleyway adjacent to the old abandoned mansion, the eerie howls of the wind intertwined with the somber cries of the night. Authorities discovered the lifeless body of renowned circus performer, Miss Viola the Trapeze Artist, lying on a rusty old swing from the former trapeze act she once performed.",
+  "victim": "Miss Viola the Trapeze Artist",
+  "crimeScene": "The desolate alleyway next to the abandoned mansion",
+  "forensicClue": "A peculiar scratch on Miss Viola’s neck",
+  "question": "Who is responsible for Miss Viola's demise and how did they leave the peculiar scratch on her neck?",
+  "options": [
+    "Option A (The enigmatic Shadowman and a concealed knife)",
+    "Option B (The long-time rival, Mr. Whirlwind and a rival circus)",
+    "Option C (The charismatic Strongman and a hidden rope burn)",
+    "Option D (The reclusive Clown and a disguised ink scratch)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Upon autopsy, the scratch on Miss Viola's neck revealed a distinctive pattern, only matching the rope used by the charismatic Strongman. The scratch was concealed by his signature Clown makeup. Further investigation into the clashing circuses reveals a bitter rivalry and a sinister note found at the Strongman's tent, detailing the plan to silence Viola once and for all. The enigmatic Shadowman was found with an alibi and the rival circus' Whirlwind had no motive.",
+  "caseNumber": 309,
+  "id": "case_309"
+}

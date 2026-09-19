@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Bloom Murder",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Expert",
+  "story": "Renowned botanist Dr. Amelia Reed was found dead among the wilted orchids of her private greenhouse on the night of September 12. The autopsy revealed lethal cyanide poisoning, and a half‑filled teacup beside her bore a faint almond scent. Four people were present that evening: Dr. Lena Hart, the forensic pathologist who was called to the scene; Marco Ruiz, the night security guard who patrols the estate; Elise Tan, Amelia's research assistant; and Victor Delaine, the neighbor who often borrowed rare plants. \n\nLena Hart testifies, \"I arrived at 23:45, the body was already cold, and I saw the teacup still steaming—no one could have poured it after death.\" Marco Ruiz insists, \"I was on my rounds at 22:30 and saw Amelia alive, reading notes near the greenhouse. I left at 23:00 and didn’t return until after the alarm.\" Elise Tan says, \"I was in the lab all evening, preparing samples; I never entered the greenhouse after 20:00.\" Victor Delaine claims, \"I was on my balcony all night, watching the stars; the only thing I heard was the distant hum of the greenhouse fans.\" A subtle forensic clue emerges: the cyanide residue on the teacup matches the brand of tea bags sold only at the campus café, which shuts its doors at 21:00. Moreover, Amelia’s phone pinged the cellular tower at 22:15, after Marco says he saw her alive at 22:30, yet her body temperature indicates death around 21:30.",
+  "victim": "Dr. Amelia Reed",
+  "crimeScene": "Amelia's private greenhouse filled with exotic orchids",
+  "forensicClue": "Cyanide‑tainted tea matches a brand sold only before 21:00, and the victim's phone pinged at 22:15 contradicting the guard's timeline.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Dr. Lena Hart – her gloves bore cyanide residue)",
+    "Option B (Marco Ruiz – his timeline conflicts with the phone ping and body temperature)",
+    "Option C (Elise Tan – she had access to cyanide but no fingerprints on the cup)",
+    "Option D (Victor Delaine – pollen found, yet his alibi holds)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "The autopsy places time of death around 21:30 based on body cooling. The tea used contained cyanide and could only have been prepared before the café closed at 21:00. Amelia's phone pinged at 22:15, meaning she was still alive then, contradicting the guard's claim that he saw her alive at 22:30 and left at 23:00. If she died at 21:30, she could not have been alive at 22:15, so the phone ping must have been a post‑mortem signal from a device still on her person. Marco Ruiz is the only suspect whose alibi places him near the greenhouse after the estimated time of death and who claims to have seen her alive later, which is impossible. All other suspects have either no forensic link or solid alibis. Therefore, Marco Ruiz is indisputably the murderer.",
+  "caseNumber": 26,
+  "id": "case_26"
+}

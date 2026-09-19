@@ -1,0 +1,20 @@
+{
+  "title": "Deceptive Duo",
+  "category": "Classic Whodunit Murder",
+  "difficulty": "Medium",
+  "story": "In the dimly lit streets of Oldtown, a gruesome murder occurred at the notorious Blackwood Mansion. It's said that the eccentric millionaire, Sir Reginald Blackwood, built this gothic wonder in order to immortalize his twisted obsession with the macabre. Last night, his butler, Frederick, found the lifeless body of Sir Reginald's valet, James, in the study. The victim's wristwatch was broken, indicating a violent struggle.",
+  "victim": "James, Sir Reginald's valet",
+  "crimeScene": "The study within the Blackwood Mansion is shrouded in shadows, the air heavy with the scent of aged leather and stale cigar smoke. The study is cluttered with antique books, ornate paintings, and an imposing mahogany desk.",
+  "forensicClue": "An incriminating note was found: a cryptic message scrawled on a torn page from one of Sir Reginald's rare books: 'The Dead Man's Secret'.",
+  "question": "Who committed the murder and what was the motive? Unravel the mystery by examining the suspects and their connections.",
+  "options": [
+    "Suspect 1: Sir Reginald Blackwood (Revenge due to ill-mannered behavior; motive)",
+    "Suspect 2: James's sister Sarah (Pique; motive)",
+    "Suspect 3: Frederick (Stealing valuable items; motive)",
+    "Suspect 4: Lord George (Grudge; motive)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "",
+  "caseNumber": 151,
+  "id": "case_151"
+}

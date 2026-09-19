@@ -1,0 +1,20 @@
+{
+  "title": "The Sealed Study",
+  "category": "Locked Room Mystery",
+  "difficulty": "Easy",
+  "story": "Renowned art dealer Victor Hale was found dead in his private study, a room with a single door that locked from the inside and a narrow window that could not be opened more than a few centimeters. Victor lay slumped over his desk, a single bullet wound to the heart, and a half‑crumpled note on the floor. The police sealed the room and interviewed the four people who were in the house that evening.\n\nJames, the Butler, claimed, \"I was polishing the silver in the dining room until I heard the shot. I ran to the study, but the door was locked from the inside. I never entered the study after dinner.\"\n\nLila, Victor’s sister, said, \"I was in the conservatory arranging flowers. I saw the window slightly ajar when I stepped out, but I didn’t think much of it. I heard the gunshot and rushed in, finding Victor already dead.\"\n\nDr. Patel, the family physician, testified, \"I was reviewing Victor’s medical records in the upstairs bedroom. I heard the shot at 9:15 p.m., left my room, and found the study door locked. I knocked, but there was no answer, so I called the police.\"\n\nThomas, Victor’s lawyer, asserted, \"I was in the library cataloguing the will’s revisions. The grandfather clock there struck nine, and I was still there when the shot rang. I walked to the study, but the door was locked; I could see Victor through the glass panel of the desk.\"\n\nThe forensic team noted three key clues: (1) a faint smear of red lipstick on the study’s interior doorknob, (2) a single spent .38‑caliber cartridge found on the carpet, and (3) the window latch was undisturbed, meaning the window had never been opened. Only Lila habitually wore bright red lipstick, but her alibi placed her in the conservatory, a room with no direct line of sight to the study’s doorknob. The clock in the library was found stopped at 8:45 p.m., contradicting Thomas’s claim that it struck nine.",
+  "victim": "Victor Hale",
+  "crimeScene": "Victor’s locked study in his mansion, with a single interior door and a narrow, never‑opened window.",
+  "forensicClue": "Red lipstick smear on the interior doorknob and a stopped library clock that disproves the lawyer’s timeline.",
+  "question": "Who is the culprit?",
+  "options": [
+    "Option A (James, the Butler – claims he never entered the study)",
+    "Option B (Lila, the Sister – lipstick found on doorknob, but alibi places her elsewhere)",
+    "Option C (Dr. Patel, the Physician – was in the bedroom, no physical evidence linking him)",
+    "Option D (Thomas, the Lawyer – false alibi about the clock and no access to the doorknob)"
+  ],
+  "correctIndex": 1,
+  "deductionExplanation": "1. The lipstick smear on the interior doorknob points to someone who touched it from inside; only Lila regularly wears red lipstick. 2. The window latch was untouched, so the window could not have been used for entry or exit, eliminating any claim of an open window. 3. Thomas’s alibi fails because the library clock was stopped at 8:45 p.m., meaning he could not have heard a shot at 9:15 p.m. while the clock struck nine. 4. James and Dr. Patel have no physical evidence linking them to the interior doorknob. 5. Lila’s alibi places her in the conservatory, but the conservatory door opens directly into the hallway, and the only way to reach the study’s doorknob is through the hallway, which she would have passed, leaving the lipstick trace. Therefore, Lila is the only suspect who both left the incriminating lipstick and could have been inside the study, making her the undeniable culprit.",
+  "caseNumber": 77,
+  "id": "case_77"
+}

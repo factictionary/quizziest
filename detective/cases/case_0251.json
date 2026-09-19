@@ -1,0 +1,19 @@
+{
+  "title": "Whodunnit: The Late Night Heist",
+  "category": "Alibi Buster",
+  "difficulty": "Hard",
+  "story": "On a moonlit night, the city's finest art gallery was robbed of a priceless painting - \"The Enigmatic Masterpiece\". The victim, Gallery Owner Sarah Winslow, woke up to a broken door lock and a mysterious note left on the vandalized counter: 'You can't catch a true artist.'",
+  "victim": "Sarah Winslow - Gallery Owner",
+  "crimeScene": "The scene was chaotic, with shattered glass, and a trail of golden paint leading to the exit. A single set of footprints were found in the foyer - size 8 males.",
+  "forensicClue": "A distinctive half-erased signature found on a nearby easel, possibly left by the culprit.",
+  "question": "Who committed the crime and why?",
+  "options": [
+    "Option A (Suspect 1 and motive)",
+    "Option B (Suspect 2 and motive)",
+    "Option C (Suspect 3 and motive)",
+    "Option D (Suspect 4 and motive)"
+  ],
+  "correctIndex": 2,
+  "caseNumber": 251,
+  "id": "case_251"
+}

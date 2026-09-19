@@ -1,0 +1,20 @@
+{
+  "title": "The Deadly Potion Puzzle",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Medium",
+  "story": "The night started off at the prestigious 'Academy of Sciences' when Professor Agatha Blackwood, a well-respected toxicologist, passed away under mysterious circumstances. All attendees gathered in the grand library, where they shared a delightful dinner prepared by renowned chef, Mr. Victor Greenwood. Each guest sipped from a crystal goblet labeled 'Poisoned Elixir' before a peculiar accident occurred: a candlestick fell from an upper shelf, provoking panic among the guests.",
+  "victim": "Professor Agatha Blackwood",
+  "crimeScene": "The Academy of Sciences library. The poisoned goblet, containing a residue of an unknown substance, is found beside the deceased's body.",
+  "forensicClue": "The residue analysis reveals high concentrations of \"Yushanium\" in the poisoned goblet.",
+  "question": "Who poisoned Professor Agatha Blackwood and how was it done? ",
+  "options": [
+    "Option A (Victor Greenwood and motive)",
+    "Option B (Dr. Isaac Peterson and opportunity)",
+    "Option C (Lady Amelia Wilde and method)",
+    "Option D (Mr. Ezra Blake and related substances)"
+  ],
+  "correctIndex": 3,
+  "deductionExplanation": "During the investigation, Detective Jameson discovered that Yushanium is a rare and lethal mineral not found in any known edibles. Upon interrogation, Mr. Ezra Blake revealed his passion for rare minerals and his motive for planning a shocking reveal at the event. Meanwhile, Lady Amelia Wilde disclosed her knowledge of potent concoctions and the method used – she mixed the poison into the goblet beforehand, making it the most likely suspect (Option C). Moreover, the residue analysis matched Yushanium, found in Mr. Ezra Blake's collection, further linking him to the crime (Option D). The opportunity belonged to Dr. Isaac Peterson, as he had access to the rare mineral due to his scientific research, but the motive and method could only be provided by Mr. Ezra and Lady Amelia, respectively.",
+  "caseNumber": 222,
+  "id": "case_222"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Bitter Harvest",
+  "category": "Poison & Toxic Mystery",
+  "difficulty": "Expert",
+  "story": "Dr. Elena Marquez, the lead toxicologist at NovaGen Labs, collapsed at 8:45 p.m. during the company’s rooftop gala, her glass of sparkling water shattered on the marble. The autopsy confirmed death by a synthetic neurotoxin, Synthax‑7, a compound only the lab’s R&D team could synthesize. Four people were questioned:\n\n- **Chef Anton** (head chef): “I was in the kitchen plating the dessert at 8:20 p.m. I never handled any drinks.”\n- **Victor Hale** (CFO): “I was in a board meeting that ran until 8:30 p.m., then I went straight to the balcony to watch the fireworks.”\n- **Maya Liu** (lab assistant): “I prepared the sparkling water for the guests at 7:55 p.m. I added a slice of lemon for flavor, as requested.”\n- **Luis Ortega** (security guard): “I was on patrol the whole evening. I left my post at 7:50 m and returned at 8:15 m after the incident.”\n\nThe forensic team discovered a microscopic film of Synthax‑7 on the inner rim of Dr. Marquez’s glass, but only when the glass was rinsed with a mildly acidic solution. The toxin is insoluble in neutral water and degrades after 30 minutes at room temperature. Security logs showed Luis’s badge was scanned at 8:10 p.m., contradicting his claim of being on patrol, and the board‑meeting minutes were timestamped 8:45 p.m., proving Victor’s alibi was fabricated.",
+  "victim": "Dr. Elena Marquez",
+  "crimeScene": "Rooftop garden of NovaGen Labs during the company gala",
+  "forensicClue": "Synthax‑7 residue was found only on the acidic rim of the victim’s glass, matching the exact batch Maya handled that morning.",
+  "question": "Who poisoned Dr. Elena Marquez?",
+  "options": [
+    "Chef Anton (claims he never handled drinks)",
+    "Victor Hale (fabricated meeting timeline)",
+    "Maya Liu (prepared the victim’s drink and had access to the toxin)",
+    "Luis Ortega (badge scan contradicts his patrol claim)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The toxin, Synthax‑7, is only soluble in an acidic medium; it was found on the glass rim after an acidic rinse, meaning the poison was introduced via something acidic.\n2. Only the sparkling water prepared by Maya contained a lemon slice, providing the necessary acidity for the toxin to cling to the rim.\n3. Maya had direct access to the specific batch of Synthax‑7 used in the lab that day, whereas the chef never handled drinks and the security guard’s badge scan only proves his presence, not involvement.\n4. Victor’s alibi collapses because the meeting minutes are timestamped after the murder, showing he lied about his whereabouts.\n5. Combining the unique forensic clue (acidic residue) with Maya’s exclusive opportunity to place the toxin in the victim’s drink makes her the only suspect who could have committed the murder. Therefore, Maya Liu is indisputably the culprit.",
+  "caseNumber": 57,
+  "id": "case_57"
+}

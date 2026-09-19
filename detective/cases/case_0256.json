@@ -1,0 +1,20 @@
+{
+  "title": "Whodunnit at the Masquerade Bash",
+  "category": "Alibi Buster",
+  "difficulty": "Expert",
+  "story": "On a moonlit night, amidst the opulent surroundings of the exclusive Masquerade Bash, the wealthy socialite, Lady Amelia Blackwood, was found stabbed to death in the grand ballroom. The party was filled with masked guests, each with a perfect alibi.",
+  "victim": "Lady Amelia Blackwood",
+  "crimeScene": "The grand ballroom of the Masquerade Bash was illuminated by flickering chandeliers, casting shadows on the polished marble floor. The crime scene was marked by a lifeless body of Lady Amelia Blackwood, dressed in an elegant black gown, her lifeblood staining the moonlit floor.",
+  "forensicClue": "A distinctive mask found near the victim.",
+  "question": "Who committed the crime and which mask did they wear? Unravel the tangled web of alibis.",
+  "options": [
+    "Sir Hugo and the Blue Feather Mask",
+    "Mr. Ezra and the Silver Leaf Mask",
+    "Ms. Opal and the Purple Pearl Mask",
+    "Mr. Thorne and the Red Crystal Mask"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "At the crime scene, a distinct pattern on Lady Amelia's death certificate reads 'Blue Feather Mask'. Upon reviewing the night's events, it was Ms. Opal who held the Blue Feather Mask near the time of the murder. The elegant Ms. Opal, a renowned opera singer, wore the enchanting Purple Pearl Mask during the event. Mr. Thorne, with his Red Crystal Mask, was caught up in an argument with Lady Amelia in a private study before the fatal event, making him unlikely to be the killer. Sir Hugo, wearing the Silver Leaf Mask, was seen engaged in a dance with Lady Amelia, providing an alibi for Mr. Ezra, wearing the Green Willow Mask, who was seen engaged in a conversation with Lady Amelia in the ballroom prior to the argument with Mr. Thorne. Unfortunately, the mask worn by the killer is not found among the provided options.",
+  "caseNumber": 256,
+  "id": "case_256"
+}

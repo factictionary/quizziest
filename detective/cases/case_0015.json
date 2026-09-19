@@ -1,0 +1,20 @@
+{
+  "title": "The Midnight Malware Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Medium",
+  "story": "At 02:13 AM, NovaBank’s secure data center alarm blared as the main firewall logged an unauthorized intrusion. Lena Ortiz, the bank’s lead security engineer, was found slumped over her workstation, a fresh ransomware note displayed on her screen. The breach wiped the transaction logs from server rack 7B, but a fragmented packet capture remained. Four colleagues were on call that night: Alex, the senior sysadmin, claimed he was performing routine backups; Maya, the junior developer, said she was debugging a mobile app in the break room; Raj, the network analyst, insisted he was on a scheduled VPN maintenance shift that ended at 02:00 AM; and Zoe, a freelance penetration‑tester hired for a weekend audit, swore she logged off at 01:45 AM after a coffee. The forensic team uncovered a crucial clue: the malicious SSH key used to enter the server was generated on a workstation whose system clock was set five minutes ahead of the true time, and the VPN logs showed Raj’s session terminated at 02:08 AM, three minutes after the breach began.",
+  "victim": "Lena Ortiz, lead security engineer at NovaBank",
+  "crimeScene": "NovaBank's secure data center, server rack 7B, after hours",
+  "forensicClue": "The attacker’s SSH key was created on a machine with its clock fast by five minutes, matching the exact time discrepancy in the VPN log that shows the culprit was still connected after the breach started.",
+  "question": "Who is the culprit and how did the detective solve it?",
+  "options": [
+    "Option A (Alex – claims to be doing backups, but his admin console shows no activity)",
+    "Option B (Maya – was in the break room, yet her laptop’s Wi‑Fi was still connected to the data center network)",
+    "Option C (Raj – his VPN session stayed active past the breach start, and his workstation clock was fast, matching the malicious SSH key timestamp)",
+    "Option D (Zoe – hired for a pen‑test, but her login records end before the intrusion)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The forensic clue ties the malicious SSH key to a workstation whose clock was five minutes fast. Only Raj’s VPN session remained active after the breach began, and his workstation was the only one known to have its system clock misconfigured by exactly five minutes—a detail he admitted during a pre‑audit check. All other suspects have alibis that align with the network logs. Therefore, Raj’s continued VPN connection and the clock discrepancy point unequivocally to him as the attacker.",
+  "caseNumber": 15,
+  "id": "case_15"
+}

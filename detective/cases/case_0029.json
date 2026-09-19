@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Spark at the Aurora",
+  "category": "Heist & Diamond Theft",
+  "difficulty": "Medium",
+  "story": "At 22:30 on a rain‑slick Thursday, the Aurora Museum’s prized diamond, the Star of Orion, vanished from its climate‑controlled showcase. The victim, Dr. Elise Marlowe, the museum’s head curator, discovered the empty case at 22:45 and called the police. Four witnesses gave statements:\n\n1. **Tom Reed (Head of Security)** – “I was on my routine patrol at the north wing when the alarm sounded. I rushed back, but the cameras were down for a scheduled two‑minute maintenance at 22:13‑22:15, so I couldn’t see anything.”\n2. **Maya Singh (Curator’s Assistant)** – “I was finalising the inventory log in the office until 22:20. I left the office to lock the side door at 22:22 and heard nothing unusual.”\n3. **Victor Hale (Wealthy Patron)** – “I arrived early to view the private collection and was in the lounge until 22:10. I left the museum at 22:12, but I saw Tom checking the cameras before they went offline.”\n4. **Luis Ortega (Cleaning Crew Leader)** – “My crew started the after‑hours sweep at 22:15. I was polishing the marble floor in the main hall and never entered the showcase room.”\n\nA single silk‑thread fragment, identical to the rare gloves Luis always wears while polishing, was found caught on the broken glass of the showcase. The lock on the case required a master key held only by Tom, yet the security log shows the master key was never removed from the security office that night.",
+  "victim": "Dr. Elise Marlowe (Head Curator)",
+  "crimeScene": "Grand Hall of the Aurora Museum, main showcase area",
+  "forensicClue": "A silk‑thread fragment matching Luis’s polishing gloves was found on the broken showcase glass.",
+  "question": "Who stole the Star of Orion and how was the theft uncovered?",
+  "options": [
+    "Option A (Tom Reed – claims he was on patrol but the camera downtime doesn’t match his timeline)",
+    "Option B (Maya Singh – was near the side door but has no access to the master key)",
+    "Option C (Luis Ortega – his unique silk glove fiber was found at the scene and his crew was on the floor during the outage)",
+    "Option D (Victor Hale – left before the outage and was seen by Tom checking cameras)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "The decisive clue is the silk‑thread fragment that matches only Luis’s polishing gloves, which were found on the broken showcase glass. The security cameras were offline for exactly two minutes (22:13‑22:15), the window when Luis’s crew began their sweep at 22:15, giving him the only opportunity to slip in unnoticed. Tom’s claim about the camera maintenance is true, but it does not place him at the showcase. Maya and Victor were elsewhere and lacked the means to open the master‑key lock. Therefore, Luis Ortega is indisputably the culprit.",
+  "caseNumber": 29,
+  "id": "case_29"
+}

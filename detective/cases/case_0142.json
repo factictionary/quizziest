@@ -1,0 +1,18 @@
+{
+  "title": "Whispers of Deception",
+  "category": "Museum & Art Gallery Forgery",
+  "difficulty": "Easy",
+  "story": "On a peaceful evening at the Metropolitan Museum of Art, curator Charlotte Ashley informed the guests about a newly acquired painting by the enigmatic artist, 'A. Vanishing Vision'. As the crowd admired the artwork, a sudden commotion erupted in the Impressionist section.\n\nVictim: The esteemed museum director, Sir Harrington Davenport\nCrime Scene: The gallery showing A. Vanishing Vision\n\nWitness testimonies:\n1. Susan Edwards, a curator: 'I heard a loud pop from the Impressionist section moments before the chaos started.' \n2. Thomas Lee, a gallery attendant: 'I saw a suspicious figure running from the Impressionist section towards the security office.' \n3. Veronica Johnson, a fellow curator: 'I saw Sir Harrington arguing with a visitor about the forged signature on the painting.' ",
+  "forensicClue": "A hidden forgery signature",
+  "question": "Who is the culprit? How did the detective solve it?",
+  "options": [
+    "Option A: Sir Harrington Davenport (reason)",
+    "Option B: Mr. Anthony Blackwood (reason)",
+    "Option C: Ms. Susan Edwards (reason)",
+    "Option D: Mr. Thomas Lee (reason)"
+  ],
+  "correctIndex": 0,
+  "deductionExplanation": "During the investigation, forensic experts discovered a hidden forgery signature on the 'A. Vanishing Vision' painting.\n\nSir Harrington Davenport is the museum director, who argued with a visitor about the fake signature on the artwork. Sir Harrington initially denies involvement, but the discovery of the hidden forgery signature confirms his guilt.\n\nThe puzzle piece falls into place when Mr. Anthony Blackwood is linked to both Sir Harrington and the forgery signature. Anthony is an art forger who was hired by Sir Harrington to replace the original painting with a forged copy during the gallery showing.\n\nMs. Susan Edwards, a curator, had access to Sir Harrington's office and could have tampered with the painting, but there's no direct proof, making this suspect less credible.\n\nMr. Thomas Lee, a security guard, is asked to stage an altercation to distract the crowd during the crime wave. Although he played his part well, there is no direct connection to the crime itself, excluding him from suspicion.",
+  "caseNumber": 142,
+  "id": "case_142"
+}

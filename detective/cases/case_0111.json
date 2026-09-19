@@ -1,0 +1,22 @@
+{
+  "title": "The Twisted Melodies Murder",
+  "category": "Forensic Clue & Autopsy",
+  "difficulty": "Medium",
+  "story": "In the dimly lit Speakeasy called Twisted Melodies, a young jazz pianist named Earl Blackwood was found brutally murdered. The bar, famed for its enchanting tunes, was engulfed in shadows, with crimson stains spreading across the polished wooden floor. The keys of Earl’s grand piano stood eerily untouched, still emitting a ghostly echo of the masterful melodies he played just hours ago.",
+  "victim": "Earl Blackwood (a young jazz pianist)",
+  "crimeScene": "Twisted Melodies Speakeasy",
+  "forensicClue": "An unusual pattern of corrosive residue on the piano keys.",
+  "question": "Who killed Earl Blackwood and why?",
+  "options": [
+    "Option A (Emma, the seductive songstress and Earl’s rival, and reason: jealousy)",
+    "Option B (Hank, the enigmatic owner, and reason: a mysterious contract)",
+    "Option C (Porter, the volatile drummer, and reason: an argument)",
+    "Option D (Katrina, the cunning bartender, and reason: a misplaced evidence)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "Upon closer inspection of the crime scene, the forensic team discovered an unusual pattern of corrosive residue on the piano keys. Upon further investigation, it was revealed that the corrosive substance was used to mute the piano, preventing witnesses from hearing crucial evidence that could implicate the enigmatic owner, Hank. A mysterious contract was found signed by Earl, giving exclusive rights to the Speakeasy to Hank. This suggests that Hank had a motive to eliminate Earl to maintain control over the establishment. Meanwhile, Porter – the volatile drummer – was seen arguing with Earl mere hours before the murder. Porter had the opportunity to commit the crime, but lacks a strong motive. A mischievous bartender named Katrina was seen manipulating evidence to cover her tracks. However, the residue on the piano keys reveals a more devious plot. Katrina's alibi checks out, but Hank's connection to the corrosive residue suggests a sinister orchestration.",
+  "answerIndex": 2,
+  "solution": "The murderer is Hank, the enigmatic owner of Twisted Melodies. The corrosive substance found on the piano keys reveals that the murder was a premeditated plot. If you analyze the forensic evidence, you'll find that the corrosive substance was used to mute the piano. Additionally, the mysterious contract signed by Earl Blackwood was found in Hank's possession, showing that he had exclusive rights to the Speakeasy, thus providing a motive for the murder. Katrina, the mischievous bartender, has a motive (curtaining her tracks) but the residue on the piano keys points to a more nefarious plan. Her alibi checks out, but the link between Hank and the corrosive residue hints at a sinister orchestration.",
+  "caseNumber": 111,
+  "id": "case_111"
+}

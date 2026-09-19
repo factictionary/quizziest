@@ -1,0 +1,20 @@
+{
+  "title": "Midnight Breach at Cipher Labs",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "Maya, a senior cybersecurity analyst at Cipher Labs, discovered that the encrypted backup of her zero‑day exploit had been wiped from the company server at 02:15 AM UTC. The server logs recorded a successful SSH login from the internal IP 10.0.0.45 at exactly that moment. Four people had access to that credential: Leo, the senior developer; Nina, the IT administrator; Omar, a freelance penetration tester hired for the week; and Priya, the project manager who also handled key‑management. Leo swears he was debugging code in the lounge until 03:00 AM local time. Nina says she was reviewing firewall rules from home and never left her desk. Omar claims he was on a scheduled video call with a client in Tokyo, which started at 10:15 PM his local time (01:15 AM UTC) and ended at 01:45 AM UTC. Priya insists she was still on that same call when the breach occurred, noting the call’s timestamp shows she was active until 02:00 AM UTC. After the incident, a USB flash drive bearing Priya’s personal encryption key was found in the server room trash bin, and the drive’s metadata shows it was last used at 02:10 AM UTC.",
+  "victim": "Maya (Cybersecurity Analyst)",
+  "crimeScene": "Cipher Labs server room, Silicon Valley",
+  "forensicClue": "USB flash drive with Priya’s encryption key found in trash, last used at 02:10 AM UTC",
+  "question": "Who erased Maya’s encrypted backup and how was the culprit identified?",
+  "options": [
+    "Option A (Leo – He was debugging code in the lounge)",
+    "Option B (Nina – She was reviewing firewall rules from home)",
+    "Option C (Priya – Her USB key was found in the trash and the timeline doesn’t fit her alibi)",
+    "Option D (Omar – He was on a video call that ended before the breach)"
+  ],
+  "correctIndex": 2,
+  "deductionExplanation": "1. The server log shows a login at 02:15 AM UTC from IP 10.0.0.45. Only the four suspects have credentials for that IP. 2. Omar’s call ended at 01:45 AM UTC, so he could not have logged in at 02:15 AM. 3. Nina was at home and has no record of accessing the server at that hour. 4. Leo was in the lounge until 03:00 AM, but the lounge is on a separate VLAN and cannot reach the internal IP 10.0.0.45. 5. Priya claimed she was still on the call until 02:00 AM UTC, but the call log ends at 02:00 AM, leaving a 15‑minute gap before the breach. 6. The decisive forensic clue is the USB flash drive with Priya’s personal encryption key, found in the server‑room trash and last used at 02:10 AM UTC – just five minutes before the login. The only person who could have used that key at that time is Priya, making her the indisputable culprit.",
+  "caseNumber": 92,
+  "id": "case_92"
+}

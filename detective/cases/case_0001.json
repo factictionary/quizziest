@@ -1,20 +1,20 @@
 {
-  "id": "case_1",
-  "caseNumber": 1,
-  "title": "The Frozen Lake Cabin Murder",
-  "category": "Alibi Buster",
-  "difficulty": "Medium",
-  "story": "Billionaire Arthur Sterling was found shot dead inside his secluded lakeside cabin in the middle of a heavy snowstorm. The police arrive at 8:00 AM. Detective Vance notes that fresh snow started falling at midnight and stopped at 6:00 AM.\n\nThere is only one set of boot footprints leading TO the cabin door, but NO footprints leading away. The suspect, Arthur's business partner Mark, claims: 'I arrived on foot at 11:30 PM last night to deliver files, we talked, and then I walked back to my hotel around 1:00 AM before going to sleep.'",
-  "victim": "Arthur Sterling (Billionaire)",
-  "crimeScene": "Secluded snowbound lake cabin",
-  "forensicClue": "Look closely at the snowfall timeline versus Mark's claimed departure time.",
-  "question": "Why did Detective Vance immediately arrest Mark for lying about his alibi?",
+  "title": "Midnight Malware Heist",
+  "category": "Cyber Crime & Tech Riddle",
+  "difficulty": "Easy",
+  "story": "At 02:13 AM local time, the servers of NovaTech were seized by a ransomware payload that locked every file and erased the CEO's encrypted backup. The victim, Lina Patel, the visionary founder, was found slumped over her desk, a dead battery in her smartwatch indicating she had been working late. Four colleagues were on call that night:\n\nAlex, the system administrator, claims he was monitoring the firewall from the office lounge, noting that the lounge's coffee machine was still steaming – a sign the lounge was still occupied. Maya, a software developer, says she was debugging code in the remote lab, a room that had been sealed for maintenance from 01:00 AM to 03:00 AM, and she never left the lab. Leo, a freelance security consultant, insists he was on a video call with a client in Tokyo, which would have been 07:00 PM his time, making it impossible to access the NovaTech network. Priya, the IT support lead, says she was on a scheduled power‑down of the backup UPS, a task that logged a clean shutdown at 01:55 AM.\n\nWhen investigators combed the trash, they uncovered a discarded USB flash drive stamped with the unique serial \"XJ‑9B2\". The inventory log shows that only Maya's company‑issued USB bears that serial. Moreover, the server’s access log recorded a successful login from the internal IP 10.4.2.7 at 02:12 AM, exactly one minute before the ransomware executed. That IP is statically assigned to Maya’s workstation, which was supposed to be powered off for maintenance.",
+  "victim": "Lina Patel, CEO of NovaTech",
+  "crimeScene": "NovaTech headquarters, main server room and open‑plan office on the 12th floor",
+  "forensicClue": "A USB drive with serial \"XJ‑9B2\" found in trash, matching Maya's only issued flash drive, and a login from Maya's workstation IP at 02:12 AM.",
+  "question": "Who is the culprit and how did the detective solve the case?",
   "options": [
-    "If Mark arrived at 11:30 PM before the snow started, his footprints would have been covered by 6 hours of fresh snow. Clear visible tracks at 8:00 AM prove he arrived AFTER 6:00 AM.",
-    "The footprints leading to the cabin had snow inside them, proving he never arrived at 11:30 PM.",
-    "Mark was wearing sneakers instead of boots.",
-    "The cabin door was locked from the outside with a master key found in Mark's pocket."
+    "Option A (Alex – claims he was in the lounge, but the coffee machine was off at that hour)",
+    "Option B (Leo – says he was on a call with Tokyo, but the time zones make it impossible to access the network)",
+    "Option C (Maya – her USB serial matches the discarded drive and her workstation logged the critical login)",
+    "Option D (Priya – performed a UPS shutdown, but the logs show the UPS was still online at the time of the attack)"
   ],
-  "correctIndex": 0,
-  "deductionExplanation": "Fresh snow fell continuously from midnight to 6:00 AM. If Mark arrived at 11:30 PM (before the snow started), his arrival footprints would have been completely buried under 6 hours of snow. The fact that clear arrival footprints were visible at 8:00 AM proves they were made AFTER the snow stopped at 6:00 AM. The killer walked into the cabin after 6:00 AM, committed the murder, and wore Arthur's oversized snowshoes or stepped backwards to fake the scene!"
+  "correctIndex": 2,
+  "deductionExplanation": "The decisive evidence is the USB flash drive with serial \"XJ‑9B2\" found at the scene; inventory records tie that serial exclusively to Maya's issued drive. Additionally, the server log shows a login from Maya's static IP (10.4.2.7) at 02:12 AM, just before the ransomware executed. Maya's alibi fails because the lab where she claimed to be was under maintenance and her workstation should have been powered down. The other suspects' statements either contain timeline impossibilities or lack forensic links. Therefore, Maya is indisputably the culprit.",
+  "caseNumber": 1,
+  "id": "case_1"
 }
