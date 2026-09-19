@@ -1,0 +1,95 @@
+{
+  "version": "1.1.0",
+  "backgrounds": [
+    {
+      "filename": "bg_dark_noir_study.jpg",
+      "theme": "dark",
+      "title": "Noir Detective Study"
+    },
+    {
+      "filename": "bg_dark_noir_study_2.jpg",
+      "theme": "dark",
+      "title": "Noir Study Moonlight"
+    },
+    {
+      "filename": "bg_dark_noir_study_3.jpg",
+      "theme": "dark",
+      "title": "Noir Study Desk Shadow"
+    },
+    {
+      "filename": "bg_dark_noir_study_4.jpg",
+      "theme": "dark",
+      "title": "Noir Study Bookshelf Glow"
+    },
+    {
+      "filename": "bg_dark_rainy_manor.jpg",
+      "theme": "dark",
+      "title": "Rainy Gothic Manor"
+    },
+    {
+      "filename": "bg_dark_rainy_manor_2.jpg",
+      "theme": "dark",
+      "title": "Rainy Manor Lightning"
+    },
+    {
+      "filename": "bg_dark_rainy_manor_3.jpg",
+      "theme": "dark",
+      "title": "Rainy Manor Iron Gate"
+    },
+    {
+      "filename": "bg_dark_rainy_manor_4.jpg",
+      "theme": "dark",
+      "title": "Rainy Manor Hallway"
+    },
+    {
+      "filename": "bg_dark_cyber_alley.jpg",
+      "theme": "dark",
+      "title": "Cyber Midnight Alley"
+    },
+    {
+      "filename": "bg_dark_cyber_alley_2.jpg",
+      "theme": "dark",
+      "title": "Cyber Alley Neon Wet"
+    },
+    {
+      "filename": "bg_dark_museum_vault.jpg",
+      "theme": "dark",
+      "title": "Ancient Museum Vault"
+    },
+    {
+      "filename": "bg_dark_museum_vault_2.jpg",
+      "theme": "dark",
+      "title": "Museum Gallery Dark"
+    },
+    {
+      "filename": "bg_light_vintage_library.jpg",
+      "theme": "light",
+      "title": "Grand Victorian Library"
+    },
+    {
+      "filename": "bg_light_vintage_library_2.jpg",
+      "theme": "light",
+      "title": "Sunlit Reading Rotunda"
+    },
+    {
+      "filename": "bg_light_grand_ballroom.jpg",
+      "theme": "light",
+      "title": "Sunlit Ballroom Salon"
+    },
+    {
+      "filename": "bg_light_grand_ballroom_2.jpg",
+      "theme": "light",
+      "title": "Chandelier Gallery Day"
+    },
+    {
+      "filename": "bg_light_sunny_manor.jpg",
+      "theme": "light",
+      "title": "Sunlit Estate Garden"
+    },
+    {
+      "filename": "bg_light_sunny_manor_2.jpg",
+      "theme": "light",
+      "title": "Conservatory Glasshouse"
+    }
+  ]
+}
