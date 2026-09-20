@@ -2,20 +2,20 @@
   "categoryId": "pop_culture",
   "title": "Cinema & Pop Culture",
   "badge": "POPULAR ⭐",
-  "totalQuestions": 3,
-  "lastUpdated": "2026-09-18T21:29:53.293818Z",
+  "totalQuestions": 50,
+  "lastUpdated": "2026-09-20T09:00:00.000000Z",
   "questions": [
     {
       "id": "p1",
       "category": "pop_culture",
       "question": "What is the highest-grossing film of all time globally (unadjusted for inflation)?",
       "options": [
+        "Star Wars: The Force Awakens",
         "Avatar",
-        "Avengers: Endgame",
         "Titanic",
-        "Star Wars: The Force Awakens"
+        "Avengers: Endgame"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "James Cameron's 2009 sci-fi epic Avatar has grossed over $2.92 Billion worldwide across multiple re-releases.",
       "difficulty": "easy",
       "funFact": "James Cameron waited over 10 years to film Avatar until 3D camera technology caught up with his vision!"
@@ -25,12 +25,12 @@
       "category": "pop_culture",
       "question": "Which superhero movie won Heath Ledger a posthumous Academy Award for Best Supporting Actor?",
       "options": [
-        "The Dark Knight",
-        "Batman Begins",
         "Joker",
-        "The Dark Knight Rises"
+        "The Dark Knight Rises",
+        "The Dark Knight",
+        "Batman Begins"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Heath Ledger won the Oscar for his iconic performance as the Joker in Christopher Nolan's 2008 masterpiece The Dark Knight.",
       "difficulty": "easy",
       "funFact": "Heath Ledger spent a month locked alone in a London hotel room developing the Joker's eerie voice, mannerisms, and diary!"
@@ -49,6 +49,711 @@
       "explanation": "The dark alternate reflection of Hawkins, Indiana is known throughout the series as The Upside Down.",
       "difficulty": "easy",
       "funFact": "The Duffer Brothers initially pitched the show under the working title 'Montauk'!"
+    },
+    {
+      "id": "p4",
+      "category": "pop_culture",
+      "question": "How many Oscars did Titanic win at the 1998 ceremony, tying the record?",
+      "options": [
+        "11",
+        "8",
+        "5",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Titanic won 11 Oscars, tying Ben-Hur (1959) for the record, later matched by The Lord of the Rings: The Return of the King.",
+      "difficulty": "medium",
+      "funFact": "Titanic was the first film ever to gross over $1 billion."
+    },
+    {
+      "id": "p5",
+      "category": "pop_culture",
+      "question": "Which director made both Titanic and Avatar?",
+      "options": [
+        "James Cameron",
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "Ridley Scott"
+      ],
+      "correctIndex": 0,
+      "explanation": "James Cameron directed both films, which each held the title of the highest-grossing film ever.",
+      "difficulty": "easy",
+      "funFact": "He also directed The Terminator and Aliens."
+    },
+    {
+      "id": "p6",
+      "category": "pop_culture",
+      "question": "Which 1975 film directed by Steven Spielberg is often called the first summer blockbuster?",
+      "options": [
+        "E.T.",
+        "Star Wars",
+        "Close Encounters",
+        "Jaws"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jaws' huge success in summer 1975 changed how Hollywood released big films.",
+      "difficulty": "medium",
+      "funFact": "The mechanical shark, nicknamed Bruce, often broke down during filming."
+    },
+    {
+      "id": "p7",
+      "category": "pop_culture",
+      "question": "Who directed the original Star Wars, released in 1977?",
+      "options": [
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "George Lucas",
+        "J. J. Abrams"
+      ],
+      "correctIndex": 2,
+      "explanation": "George Lucas wrote and directed Star Wars: A New Hope, launching one of the biggest franchises ever.",
+      "difficulty": "easy",
+      "funFact": "It opened in only about 32 theatres at first."
+    },
+    {
+      "id": "p8",
+      "category": "pop_culture",
+      "question": "Which actor delivered the line 'I'll be back' in The Terminator (1984)?",
+      "options": [
+        "Arnold Schwarzenegger",
+        "Bruce Willis",
+        "Jean-Claude Van Damme",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Schwarzenegger's Terminator says the line to a police desk officer before returning in a car.",
+      "difficulty": "easy",
+      "funFact": "Schwarzenegger reportedly has fewer than 20 lines in the film."
+    },
+    {
+      "id": "p9",
+      "category": "pop_culture",
+      "question": "Which Hogwarts house is Harry Potter sorted into?",
+      "options": [
+        "Hufflepuff",
+        "Gryffindor",
+        "Slytherin",
+        "Ravenclaw"
+      ],
+      "correctIndex": 1,
+      "explanation": "Harry is sorted into Gryffindor, the house known for bravery.",
+      "difficulty": "easy",
+      "funFact": "The Sorting Hat considered putting him in Slytherin."
+    },
+    {
+      "id": "p10",
+      "category": "pop_culture",
+      "question": "Which film in 2008 began the Marvel Cinematic Universe?",
+      "options": [
+        "Thor",
+        "Captain America",
+        "The Incredible Hulk",
+        "Iron Man"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iron Man, starring Robert Downey Jr., launched the MCU.",
+      "difficulty": "easy",
+      "funFact": "Iron Man's famous final line 'I am Iron Man' was reportedly ad-libbed."
+    },
+    {
+      "id": "p11",
+      "category": "pop_culture",
+      "question": "In which Marvel movie does Thanos snap his fingers and turn half of all life to dust?",
+      "options": [
+        "Avengers: Endgame",
+        "Age of Ultron",
+        "Avengers: Infinity War",
+        "Thor: Ragnarok"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thanos completes the Infinity Gauntlet and uses it at the end of Infinity War (2018).",
+      "difficulty": "easy",
+      "funFact": "Infinity War and Endgame were filmed back to back."
+    },
+    {
+      "id": "p12",
+      "category": "pop_culture",
+      "question": "Which superhero film became the first to be nominated for the Best Picture Oscar?",
+      "options": [
+        "The Dark Knight",
+        "Avengers: Endgame",
+        "Joker",
+        "Black Panther"
+      ],
+      "correctIndex": 3,
+      "explanation": "Black Panther (2018) became the first superhero film nominated for Best Picture, at the 2019 Oscars.",
+      "difficulty": "hard",
+      "funFact": "The character first appeared in Marvel comics in 1966."
+    },
+    {
+      "id": "p13",
+      "category": "pop_culture",
+      "question": "Which film became the first non-English-language movie to win Best Picture at the Oscars?",
+      "options": [
+        "Parasite",
+        "Life Is Beautiful",
+        "Crouching Tiger, Hidden Dragon",
+        "Roma"
+      ],
+      "correctIndex": 0,
+      "explanation": "South Korea's Parasite, directed by Bong Joon-ho, won Best Picture at the 2020 ceremony.",
+      "difficulty": "medium",
+      "funFact": "It also won the Palme d'Or at Cannes in 2019."
+    },
+    {
+      "id": "p14",
+      "category": "pop_culture",
+      "question": "Which film won Best Picture at the Oscars in 2024?",
+      "options": [
+        "Killers of the Flower Moon",
+        "Barbie",
+        "Poor Things",
+        "Oppenheimer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Christopher Nolan's Oppenheimer won seven Oscars including Best Picture and Best Director.",
+      "difficulty": "easy",
+      "funFact": "It was released the same day as Barbie, creating the 'Barbenheimer' phenomenon."
+    },
+    {
+      "id": "p15",
+      "category": "pop_culture",
+      "question": "Which song from RRR won the Oscar for Best Original Song in 2023?",
+      "options": [
+        "Chaiyya Chaiyya",
+        "Jai Ho",
+        "Naatu Naatu",
+        "Kajra Re"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Naatu Naatu,' composed by M. M. Keeravani, became the first song from an Indian film to win the Oscar.",
+      "difficulty": "easy",
+      "funFact": "The song was filmed in Ukraine near the presidential palace in Kyiv."
+    },
+    {
+      "id": "p16",
+      "category": "pop_culture",
+      "question": "Which composer won two Oscars for the 2008 film Slumdog Millionaire?",
+      "options": [
+        "Pritam",
+        "Shankar Mahadevan",
+        "Ilaiyaraaja",
+        "A. R. Rahman"
+      ],
+      "correctIndex": 3,
+      "explanation": "A. R. Rahman won Best Original Score and Best Original Song for 'Jai Ho'.",
+      "difficulty": "medium",
+      "funFact": "Rahman is nicknamed the 'Mozart of Madras'."
+    },
+    {
+      "id": "p17",
+      "category": "pop_culture",
+      "question": "Which Indian filmmaker, director of Pather Panchali, received an honorary Oscar in 1992?",
+      "options": [
+        "Satyajit Ray",
+        "Mrinal Sen",
+        "Raj Kapoor",
+        "Guru Dutt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Satyajit Ray was awarded an Academy Honorary Award for lifetime achievement shortly before his death.",
+      "difficulty": "hard",
+      "funFact": "He reportedly pawned his wife's jewellery to fund Pather Panchali."
+    },
+    {
+      "id": "p18",
+      "category": "pop_culture",
+      "question": "Which Aamir Khan film was nominated for the Best Foreign Language Film Oscar at the 2002 ceremony?",
+      "options": [
+        "Taare Zameen Par",
+        "Dangal",
+        "3 Idiots",
+        "Lagaan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lagaan, a cricket drama set in colonial India, was nominated at the 74th Academy Awards.",
+      "difficulty": "medium",
+      "funFact": "It was the third Indian film ever to be nominated in that category."
+    },
+    {
+      "id": "p19",
+      "category": "pop_culture",
+      "question": "In which 1975 film do Jai and Veeru fight the dacoit Gabbar Singh?",
+      "options": [
+        "Zanjeer",
+        "Don",
+        "Deewaar",
+        "Sholay"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sholay starred Amitabh Bachchan and Dharmendra, with Amjad Khan as the villain Gabbar Singh.",
+      "difficulty": "easy",
+      "funFact": "It reportedly ran for five years continuously in a Mumbai theatre."
+    },
+    {
+      "id": "p20",
+      "category": "pop_culture",
+      "question": "Which Bollywood film ran for over 20 years at Mumbai's Maratha Mandir theatre?",
+      "options": [
+        "Sholay",
+        "Dilwale Dulhania Le Jayenge",
+        "Mughal-E-Azam",
+        "Kuch Kuch Hota Hai"
+      ],
+      "correctIndex": 1,
+      "explanation": "DDLJ (1995), starring Shah Rukh Khan and Kajol, played at Maratha Mandir for about 25 years.",
+      "difficulty": "medium",
+      "funFact": "The film's Raj and Simran remain iconic romantic figures in Indian cinema."
+    },
+    {
+      "id": "p21",
+      "category": "pop_culture",
+      "question": "Which actor is known by the nickname 'King Khan' or 'Badshah of Bollywood'?",
+      "options": [
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Saif Ali Khan",
+        "Aamir Khan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shah Rukh Khan earned the title over decades of blockbuster romances and action films.",
+      "difficulty": "easy",
+      "funFact": "He began his career on TV with the serial Fauji in 1988."
+    },
+    {
+      "id": "p22",
+      "category": "pop_culture",
+      "question": "Which 2017 film became the first Indian film to gross over Rs 1,000 crore?",
+      "options": [
+        "Sultan",
+        "PK",
+        "Dangal",
+        "Baahubali 2: The Conclusion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Baahubali 2 crossed the 1,000 crore mark within about ten days of release.",
+      "difficulty": "medium",
+      "funFact": "'Why did Kattappa kill Baahubali?' became one of India's biggest cinema questions."
+    },
+    {
+      "id": "p23",
+      "category": "pop_culture",
+      "question": "What does 'Bollywood' get its name from?",
+      "options": [
+        "Bollywood Studio",
+        "Bollywood Hills",
+        "Bengal + Hollywood",
+        "Bombay + Hollywood"
+      ],
+      "correctIndex": 3,
+      "explanation": "The name blends Bombay (now Mumbai), home of Hindi cinema, and Hollywood.",
+      "difficulty": "easy",
+      "funFact": "India produces more films per year than any other country."
+    },
+    {
+      "id": "p24",
+      "category": "pop_culture",
+      "question": "Rajinikanth, known as 'Superstar', was born in which city and once worked there as a bus conductor?",
+      "options": [
+        "Mumbai",
+        "Chennai",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rajinikanth was born Shivaji Rao Gaekwad in Bengaluru and worked as a BMTC bus conductor before entering films.",
+      "difficulty": "hard",
+      "funFact": "He got his first break with K. Balachander in Tamil cinema."
+    },
+    {
+      "id": "p25",
+      "category": "pop_culture",
+      "question": "KGF: Chapter 1 (2018) belongs to which film industry?",
+      "options": [
+        "Tamil (Kollywood)",
+        "Telugu (Tollywood)",
+        "Kannada (Sandalwood)",
+        "Malayalam (Mollywood)"
+      ],
+      "correctIndex": 2,
+      "explanation": "KGF, starring Yash, put Kannada cinema on the pan-Indian map.",
+      "difficulty": "easy",
+      "funFact": "KGF stands for Kolar Gold Fields, in Karnataka."
+    },
+    {
+      "id": "p26",
+      "category": "pop_culture",
+      "question": "What is the name of the coffee shop in Friends?",
+      "options": [
+        "Central Perk",
+        "Cafe Nervosa",
+        "Java Joe's",
+        "The Grind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Central Perk is where the six friends meet in New York on the show.",
+      "difficulty": "easy",
+      "funFact": "Friends ran for ten seasons from 1994 to 2004."
+    },
+    {
+      "id": "p27",
+      "category": "pop_culture",
+      "question": "In Game of Thrones, which house has the motto 'Winter Is Coming'?",
+      "options": [
+        "House Targaryen",
+        "House Lannister",
+        "House Stark",
+        "House Baratheon"
+      ],
+      "correctIndex": 2,
+      "explanation": "House Stark of Winterfell use the words as their motto.",
+      "difficulty": "easy",
+      "funFact": "The show ended in 2019 after eight seasons."
+    },
+    {
+      "id": "p28",
+      "category": "pop_culture",
+      "question": "What is Walter White's job at the start of Breaking Bad?",
+      "options": [
+        "High school chemistry teacher",
+        "Lawyer",
+        "Doctor",
+        "Police officer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Walter White, played by Bryan Cranston, is a chemistry teacher who starts making meth.",
+      "difficulty": "easy",
+      "funFact": "The show is set in Albuquerque, New Mexico."
+    },
+    {
+      "id": "p29",
+      "category": "pop_culture",
+      "question": "The Netflix hit Squid Game is from which country?",
+      "options": [
+        "South Korea",
+        "Thailand",
+        "China",
+        "Japan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Squid Game, created by Hwang Dong-hyuk, became a global phenomenon in 2021.",
+      "difficulty": "easy",
+      "funFact": "Hwang reportedly spent about a decade trying to get the show made."
+    },
+    {
+      "id": "p30",
+      "category": "pop_culture",
+      "question": "In Money Heist, what do the robbers wear as masks?",
+      "options": [
+        "Picasso",
+        "Che Guevara",
+        "Salvador Dali",
+        "Charlie Chaplin"
+      ],
+      "correctIndex": 2,
+      "explanation": "The gang wears red jumpsuits and Salvador Dali masks.",
+      "difficulty": "medium",
+      "funFact": "The Spanish show was originally aired on Antena 3 before Netflix picked it up."
+    },
+    {
+      "id": "p31",
+      "category": "pop_culture",
+      "question": "Which long-running animated TV show is set in the town of Springfield?",
+      "options": [
+        "Family Guy",
+        "The Simpsons",
+        "South Park",
+        "Bob's Burgers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Simpsons premiered as a series in 1989 and is the longest-running American animated series.",
+      "difficulty": "easy",
+      "funFact": "It started as short cartoons on The Tracey Ullman Show."
+    },
+    {
+      "id": "p32",
+      "category": "pop_culture",
+      "question": "Which Michael Jackson album (1982) is widely credited as the best-selling album ever?",
+      "options": [
+        "Thriller",
+        "Off the Wall",
+        "Dangerous",
+        "Bad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thriller is estimated to have sold around 70 million copies worldwide.",
+      "difficulty": "easy",
+      "funFact": "It won a record eight Grammys in 1984."
+    },
+    {
+      "id": "p33",
+      "category": "pop_culture",
+      "question": "From which English city did The Beatles come?",
+      "options": [
+        "Birmingham",
+        "London",
+        "Manchester",
+        "Liverpool"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Beatles formed in Liverpool in 1960, started as The Quarrymen.",
+      "difficulty": "easy",
+      "funFact": "They had 20 number-one hits on the Billboard Hot 100."
+    },
+    {
+      "id": "p34",
+      "category": "pop_culture",
+      "question": "Which Taylor Swift tour became the first to gross over $1 billion?",
+      "options": [
+        "The Eras Tour",
+        "Reputation Tour",
+        "1989 World Tour",
+        "Lover Fest"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Eras Tour (2023-2024) became the highest-grossing concert tour ever, at over $2 billion.",
+      "difficulty": "medium",
+      "funFact": "The tour had over 140 shows."
+    },
+    {
+      "id": "p35",
+      "category": "pop_culture",
+      "question": "Which Korean group's 'Dynamite' made them the first Korean act to top the Billboard Hot 100 in 2020?",
+      "options": [
+        "Exo",
+        "BTS",
+        "Blackpink",
+        "Stray Kids"
+      ],
+      "correctIndex": 1,
+      "explanation": "BTS topped the chart in September 2020 with 'Dynamite'.",
+      "difficulty": "medium",
+      "funFact": "BTS stands for Bangtan Sonyeondan, or 'Bulletproof Boy Scouts'."
+    },
+    {
+      "id": "p36",
+      "category": "pop_culture",
+      "question": "Which actor won the Best Actor Oscar for playing Freddie Mercury in Bohemian Rhapsody?",
+      "options": [
+        "Joaquin Phoenix",
+        "Gary Oldman",
+        "Rami Malek",
+        "Eddie Redmayne"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rami Malek won Best Actor at the 2019 Oscars for the Queen biopic.",
+      "difficulty": "medium",
+      "funFact": "He wore prosthetic teeth to play Mercury."
+    },
+    {
+      "id": "p37",
+      "category": "pop_culture",
+      "question": "Which singer is known as 'The King of Rock and Roll'?",
+      "options": [
+        "Elvis Presley",
+        "Chuck Berry",
+        "Little Richard",
+        "Buddy Holly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Elvis Presley, from Memphis, became a global icon in the 1950s.",
+      "difficulty": "easy",
+      "funFact": "His home Graceland is in Memphis, Tennessee."
+    },
+    {
+      "id": "p38",
+      "category": "pop_culture",
+      "question": "Which 1995 film was the first entirely computer-animated feature film?",
+      "options": [
+        "Toy Story",
+        "Finding Nemo",
+        "A Bug's Life",
+        "Shrek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pixar's Toy Story was the first full-length computer-animated feature.",
+      "difficulty": "easy",
+      "funFact": "Early drafts had Woody as a much nastier character."
+    },
+    {
+      "id": "p39",
+      "category": "pop_culture",
+      "question": "What is the name of the snowman in Disney's Frozen?",
+      "options": [
+        "Olaf",
+        "Kristoff",
+        "Hans",
+        "Sven"
+      ],
+      "correctIndex": 0,
+      "explanation": "Olaf, voiced by Josh Gad, is a snowman brought to life by Elsa's magic.",
+      "difficulty": "easy",
+      "funFact": "Olaf loves warm hugs and summer."
+    },
+    {
+      "id": "p40",
+      "category": "pop_culture",
+      "question": "The Lion King's story is loosely inspired by which Shakespeare play?",
+      "options": [
+        "Hamlet",
+        "Macbeth",
+        "Romeo and Juliet",
+        "Othello"
+      ],
+      "correctIndex": 0,
+      "explanation": "Simba's story of a young prince and a usurping uncle echoes Hamlet.",
+      "difficulty": "medium",
+      "funFact": "'Simba' means 'lion' in Swahili."
+    },
+    {
+      "id": "p41",
+      "category": "pop_culture",
+      "question": "Which animated film won the first Academy Award for Best Animated Feature in 2002?",
+      "options": [
+        "Monsters, Inc.",
+        "Shrek",
+        "Ice Age",
+        "Spirited Away"
+      ],
+      "correctIndex": 1,
+      "explanation": "DreamWorks' Shrek won the very first Oscar in the new category.",
+      "difficulty": "hard",
+      "funFact": "Mike Myers re-recorded Shrek's voice with a Scottish accent."
+    },
+    {
+      "id": "p42",
+      "category": "pop_culture",
+      "question": "Which actor plays Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+      "options": [
+        "Chris Hemsworth",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Robert Downey Jr."
+      ],
+      "correctIndex": 3,
+      "explanation": "Robert Downey Jr. played Tony Stark from 2008 to Avengers: Endgame in 2019.",
+      "difficulty": "easy",
+      "funFact": "Iron Man's suit was a huge part of the film's effects."
+    },
+    {
+      "id": "p43",
+      "category": "pop_culture",
+      "question": "For which film did Leonardo DiCaprio finally win his Best Actor Oscar in 2016?",
+      "options": [
+        "The Revenant",
+        "Titanic",
+        "Inception",
+        "The Wolf of Wall Street"
+      ],
+      "correctIndex": 0,
+      "explanation": "DiCaprio won for playing frontiersman Hugh Glass in The Revenant.",
+      "difficulty": "medium",
+      "funFact": "He had been nominated several times before winning."
+    },
+    {
+      "id": "p44",
+      "category": "pop_culture",
+      "question": "Which actor holds the record for the most Academy Award nominations?",
+      "options": [
+        "Daniel Day-Lewis",
+        "Katharine Hepburn",
+        "Jack Nicholson",
+        "Meryl Streep"
+      ],
+      "correctIndex": 3,
+      "explanation": "Meryl Streep has been nominated more than 20 times and has won three Oscars.",
+      "difficulty": "hard",
+      "funFact": "She won for Kramer vs. Kramer, Sophie's Choice and The Iron Lady."
+    },
+    {
+      "id": "p45",
+      "category": "pop_culture",
+      "question": "In The Matrix, which pill does Neo take to learn the truth?",
+      "options": [
+        "Yellow pill",
+        "Blue pill",
+        "Green pill",
+        "Red pill"
+      ],
+      "correctIndex": 3,
+      "explanation": "Morpheus offers Neo a choice, and Neo takes the red pill.",
+      "difficulty": "easy",
+      "funFact": "The film's 'bullet time' effect was hugely influential."
+    },
+    {
+      "id": "p46",
+      "category": "pop_culture",
+      "question": "In Inception, what object does Cobb spin to check whether he is dreaming?",
+      "options": [
+        "A dice",
+        "A watch",
+        "A coin",
+        "A spinning top"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cobb's totem is a spinning top, which would keep spinning in a dream.",
+      "difficulty": "medium",
+      "funFact": "The film ends with the top's fate unresolved."
+    },
+    {
+      "id": "p47",
+      "category": "pop_culture",
+      "question": "In Jurassic Park, from what do scientists extract dinosaur DNA?",
+      "options": [
+        "A dinosaur tooth",
+        "A mosquito trapped in amber",
+        "Frozen dinosaur bones",
+        "Fossilised eggs"
+      ],
+      "correctIndex": 1,
+      "explanation": "The park's scientists took dinosaur blood from mosquitoes preserved in amber.",
+      "difficulty": "medium",
+      "funFact": "The T. rex roar was a mix of animal sounds, including a baby elephant."
+    },
+    {
+      "id": "p48",
+      "category": "pop_culture",
+      "question": "Which 2009 Bollywood film made 'Aal Izz Well' a household phrase?",
+      "options": [
+        "Dil Chahta Hai",
+        "3 Idiots",
+        "Zindagi Na Milegi Dobara",
+        "Rang De Basanti"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 Idiots, starring Aamir Khan, made the phrase a national catchphrase.",
+      "difficulty": "easy",
+      "funFact": "It was loosely based on Chetan Bhagat's novel Five Point Someone."
+    },
+    {
+      "id": "p49",
+      "category": "pop_culture",
+      "question": "Which TV quiz show, hosted by Amitabh Bachchan, is India's version of 'Who Wants to Be a Millionaire?'",
+      "options": [
+        "Bharat Ka Veer",
+        "Kaun Banega Crorepati",
+        "Jeopardy India",
+        "Mastermind India"
+      ],
+      "correctIndex": 1,
+      "explanation": "KBC premiered in 2000, and Amitabh Bachchan is its best-known host.",
+      "difficulty": "easy",
+      "funFact": "'Lock kiya jaye' became a famous catchphrase."
+    },
+    {
+      "id": "p50",
+      "category": "pop_culture",
+      "question": "Which 1973 film established Amitabh Bachchan's 'Angry Young Man' persona?",
+      "options": [
+        "Anand",
+        "Zanjeer",
+        "Namak Haraam",
+        "Abhimaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zanjeer, directed by Prakash Mehra, made Bachchan a star as the intense police inspector Vijay.",
+      "difficulty": "hard",
+      "funFact": "All India Radio once rejected him because of his voice."
     }
   ]
 }
