@@ -2,20 +2,20 @@
   "categoryId": "crazy_facts",
   "title": "Believe It Or Not!",
   "badge": "VIRAL ⚡",
-  "totalQuestions": 2,
-  "lastUpdated": "2026-09-18T21:29:53.332035Z",
+  "totalQuestions": 50,
+  "lastUpdated": "2026-09-20T09:00:00.000000Z",
   "questions": [
     {
       "id": "cf1",
       "category": "crazy_facts",
       "question": "How many hearts does an octopus possess?",
       "options": [
-        "3",
         "1",
         "2",
+        "3",
         "4"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Octopuses have 3 hearts: two pump blue copper-rich blood to the gills, while the central systemic heart pumps blood through the rest of the body.",
       "difficulty": "easy",
       "funFact": "When an octopus swims, its main systemic heart actually stops beating, which is why they prefer crawling on the seafloor!"
@@ -26,14 +26,734 @@
       "question": "Which food item never spoils and has been found edible inside 3,000-year-old ancient Egyptian tombs?",
       "options": [
         "Honey",
+        "Dried Rice",
         "Olive Oil",
-        "Salted Pork",
-        "Dried Rice"
+        "Salted Pork"
       ],
       "correctIndex": 0,
       "explanation": "Pure honey has low moisture, high acidity, and hydrogen peroxide produced by bees, making it completely impossible for bacteria to grow.",
       "difficulty": "easy",
       "funFact": "Archaeologists exploring Egyptian pyramids have tasted 3,000-year-old honey and confirmed it was still delicious!"
+    },
+    {
+      "id": "cf3",
+      "category": "crazy_facts",
+      "question": "Which of these is botanically classified as a berry?",
+      "options": [
+        "Blackberry",
+        "Raspberry",
+        "Strawberry",
+        "Banana"
+      ],
+      "correctIndex": 3,
+      "explanation": "Botanically, a berry develops from a single ovary with seeds inside, which fits bananas but not strawberries, raspberries or blackberries.",
+      "difficulty": "medium",
+      "funFact": "Strawberries are technically 'accessory fruits', not true berries."
+    },
+    {
+      "id": "cf4",
+      "category": "crazy_facts",
+      "question": "What is unusual about wombat poop?",
+      "options": [
+        "It floats",
+        "It glows in the dark",
+        "It is cube-shaped",
+        "It is blue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wombats produce cube-shaped droppings, thanks to the varying stiffness of their intestines, which helps the poop stay in place and mark territory.",
+      "difficulty": "easy",
+      "funFact": "A wombat can produce around 80 to 100 cubes a night."
+    },
+    {
+      "id": "cf5",
+      "category": "crazy_facts",
+      "question": "Sharks have existed for longer than which of these?",
+      "options": [
+        "Flowers",
+        "Trees",
+        "Dinosaurs",
+        "Mammals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sharks date back over 450 million years, while the first trees appeared roughly 380 million years ago.",
+      "difficulty": "medium",
+      "funFact": "Sharks even predate the dinosaurs by around 200 million years."
+    },
+    {
+      "id": "cf6",
+      "category": "crazy_facts",
+      "question": "The University of Oxford is older than which empire?",
+      "options": [
+        "The Roman Empire",
+        "The Aztec Empire",
+        "The Mongol Empire",
+        "The Ottoman Empire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teaching at Oxford dates back to about 1096, while the Aztec capital Tenochtitlan was founded in 1325.",
+      "difficulty": "hard",
+      "funFact": "It is also older than the Inca Empire."
+    },
+    {
+      "id": "cf7",
+      "category": "crazy_facts",
+      "question": "What is the national animal of Scotland?",
+      "options": [
+        "The Red Deer",
+        "The Golden Eagle",
+        "The Lion",
+        "The Unicorn"
+      ],
+      "correctIndex": 3,
+      "explanation": "The unicorn has been a Scottish heraldic symbol since the 12th century and represents purity and power.",
+      "difficulty": "easy",
+      "funFact": "The Royal Coat of Arms of Scotland features two unicorns."
+    },
+    {
+      "id": "cf8",
+      "category": "crazy_facts",
+      "question": "With which body part do butterflies taste?",
+      "options": [
+        "Their eyes",
+        "Their wings",
+        "Their feet",
+        "Their antennae"
+      ],
+      "correctIndex": 2,
+      "explanation": "Butterflies have taste receptors on their feet, so they can 'taste' a leaf by landing on it.",
+      "difficulty": "medium",
+      "funFact": "They use this to check whether a leaf is suitable to lay eggs on."
+    },
+    {
+      "id": "cf9",
+      "category": "crazy_facts",
+      "question": "Why are flamingos pink?",
+      "options": [
+        "Because they sunbathe",
+        "Because of a genetic mutation",
+        "Because of the pigments in their food",
+        "They are born pink"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flamingos get carotenoid pigments from algae and small shrimp they eat.",
+      "difficulty": "medium",
+      "funFact": "Baby flamingos are born with grey feathers."
+    },
+    {
+      "id": "cf10",
+      "category": "crazy_facts",
+      "question": "Which animal has fingerprints almost indistinguishable from humans'?",
+      "options": [
+        "Koala",
+        "Raccoon",
+        "Chimpanzee",
+        "Gorilla"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koalas' fingerprints are so similar to ours that they could confuse crime scene investigators.",
+      "difficulty": "hard",
+      "funFact": "Koalas sleep for around 18 to 22 hours a day."
+    },
+    {
+      "id": "cf11",
+      "category": "crazy_facts",
+      "question": "How many neck vertebrae does a giraffe have?",
+      "options": [
+        "7",
+        "25",
+        "14",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giraffes have seven neck vertebrae, the same number as humans, but each is hugely elongated.",
+      "difficulty": "medium",
+      "funFact": "Nearly all mammals have seven neck vertebrae."
+    },
+    {
+      "id": "cf12",
+      "category": "crazy_facts",
+      "question": "How do dolphins sleep?",
+      "options": [
+        "With one half of the brain awake",
+        "Only when they're on land",
+        "Upside down",
+        "They don't sleep"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dolphins rest one half of the brain at a time so they can keep surfacing to breathe.",
+      "difficulty": "medium",
+      "funFact": "They can keep this up for days."
+    },
+    {
+      "id": "cf13",
+      "category": "crazy_facts",
+      "question": "Which bird is known for being able to recognise individual human faces?",
+      "options": [
+        "Penguin",
+        "Crow",
+        "Pigeon",
+        "Ostrich"
+      ],
+      "correctIndex": 1,
+      "explanation": "Studies have found that crows can recognise faces and can even remember people who threatened them.",
+      "difficulty": "medium",
+      "funFact": "Crows can pass this knowledge to other crows."
+    },
+    {
+      "id": "cf14",
+      "category": "crazy_facts",
+      "question": "Which bird is well known for being able to fly backwards?",
+      "options": [
+        "Owl",
+        "Sparrow",
+        "Hummingbird",
+        "Eagle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hummingbirds can hover and fly backwards thanks to a unique wing rotation.",
+      "difficulty": "easy",
+      "funFact": "Their wings can beat dozens of times per second."
+    },
+    {
+      "id": "cf15",
+      "category": "crazy_facts",
+      "question": "Which large animal cannot jump?",
+      "options": [
+        "Hippo",
+        "Elephant",
+        "Giraffe",
+        "Rhino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elephants are widely regarded as unable to jump because of their weight and leg structure.",
+      "difficulty": "medium",
+      "funFact": "They can, however, swim well."
+    },
+    {
+      "id": "cf16",
+      "category": "crazy_facts",
+      "question": "Which tiny animal has survived exposure to the vacuum of space?",
+      "options": [
+        "Cockroach",
+        "Ant",
+        "Tardigrade (water bear)",
+        "Housefly"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 2007, tardigrades in an ESA experiment survived the vacuum and radiation of space.",
+      "difficulty": "hard",
+      "funFact": "They can also survive extreme cold and heat."
+    },
+    {
+      "id": "cf17",
+      "category": "crazy_facts",
+      "question": "Which creature can revert to an earlier life stage and is called 'biologically immortal'?",
+      "options": [
+        "Blue whale",
+        "Octopus",
+        "Sea turtle",
+        "Turritopsis dohrnii (jellyfish)"
+      ],
+      "correctIndex": 3,
+      "explanation": "This jellyfish can revert to its juvenile polyp stage when stressed, potentially avoiding death by ageing.",
+      "difficulty": "hard",
+      "funFact": "It can still be killed by predators or disease."
+    },
+    {
+      "id": "cf18",
+      "category": "crazy_facts",
+      "question": "A mantis shrimp's punch accelerates as fast as what?",
+      "options": [
+        "A snail",
+        "A cheetah",
+        "A car",
+        "A .22 calibre bullet"
+      ],
+      "correctIndex": 3,
+      "explanation": "The shrimp's club strikes with an acceleration similar to a .22 bullet, producing tiny bubbles that collapse with force.",
+      "difficulty": "hard",
+      "funFact": "Its punch can break aquarium glass."
+    },
+    {
+      "id": "cf19",
+      "category": "crazy_facts",
+      "question": "Which amphibian can regrow lost limbs and even parts of its brain?",
+      "options": [
+        "Newt",
+        "Toad",
+        "Frog",
+        "Axolotl"
+      ],
+      "correctIndex": 3,
+      "explanation": "Axolotls can regenerate limbs, spinal cord, and even parts of the heart and brain.",
+      "difficulty": "medium",
+      "funFact": "They're native to Mexico and are found in only a few lakes."
+    },
+    {
+      "id": "cf20",
+      "category": "crazy_facts",
+      "question": "Which mammal lays eggs?",
+      "options": [
+        "Bat",
+        "Kangaroo",
+        "Koala",
+        "Platypus"
+      ],
+      "correctIndex": 3,
+      "explanation": "The platypus and echidnas are monotremes, egg-laying mammals.",
+      "difficulty": "easy",
+      "funFact": "Male platypuses have venomous spurs on their hind legs."
+    },
+    {
+      "id": "cf21",
+      "category": "crazy_facts",
+      "question": "What is the largest animal known ever to have lived on Earth?",
+      "options": [
+        "Elephant",
+        "Megalodon",
+        "Blue whale",
+        "Argentinosaurus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Blue whales can reach around 30 metres and weigh up to about 180 tonnes.",
+      "difficulty": "easy",
+      "funFact": "Its tongue can weigh as much as an elephant."
+    },
+    {
+      "id": "cf22",
+      "category": "crazy_facts",
+      "question": "How long can it take a sloth to digest a meal?",
+      "options": [
+        "Up to a month",
+        "About a day",
+        "About 1 hour",
+        "About 6 hours"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sloths' slow metabolism means digestion can take two weeks to a month.",
+      "difficulty": "hard",
+      "funFact": "They climb down from trees roughly once a week to go to the toilet."
+    },
+    {
+      "id": "cf23",
+      "category": "crazy_facts",
+      "question": "Roughly how many bones does a newborn baby have?",
+      "options": [
+        "500",
+        "150",
+        "About 300",
+        "206"
+      ],
+      "correctIndex": 2,
+      "explanation": "Babies are born with about 270 to 300 bones, many of which fuse together, giving adults 206.",
+      "difficulty": "medium",
+      "funFact": "A baby's skull has soft spots so it can pass through the birth canal."
+    },
+    {
+      "id": "cf24",
+      "category": "crazy_facts",
+      "question": "Roughly what percentage of the body's energy does the human brain use?",
+      "options": [
+        "About 50%",
+        "About 20%",
+        "About 2%",
+        "About 80%"
+      ],
+      "correctIndex": 1,
+      "explanation": "The brain is only about 2% of body weight but uses around 20% of the body's energy.",
+      "difficulty": "medium",
+      "funFact": "The brain runs on roughly the power of a dim light bulb."
+    },
+    {
+      "id": "cf25",
+      "category": "crazy_facts",
+      "question": "What is the largest desert in the world?",
+      "options": [
+        "Antarctica",
+        "Sahara",
+        "Gobi",
+        "Arabian"
+      ],
+      "correctIndex": 0,
+      "explanation": "A desert is defined by low precipitation, and Antarctica is the largest at about 14 million km2.",
+      "difficulty": "easy",
+      "funFact": "Antarctica holds about 70% of the world's fresh water in its ice."
+    },
+    {
+      "id": "cf26",
+      "category": "crazy_facts",
+      "question": "How many time zones does Russia span?",
+      "options": [
+        "7",
+        "5",
+        "11",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "Russia spans 11 time zones, more than any other country.",
+      "difficulty": "medium",
+      "funFact": "France has more when counting its overseas territories."
+    },
+    {
+      "id": "cf27",
+      "category": "crazy_facts",
+      "question": "Which country has the most lakes?",
+      "options": [
+        "Canada",
+        "USA",
+        "Finland",
+        "Russia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Canada has millions of lakes, more than any other country.",
+      "difficulty": "medium",
+      "funFact": "Around 9% of Canada's surface is covered by fresh water."
+    },
+    {
+      "id": "cf28",
+      "category": "crazy_facts",
+      "question": "What is the lowest land point on Earth's surface?",
+      "options": [
+        "The Dead Sea shore",
+        "Lake Baikal",
+        "The Caspian Sea",
+        "Death Valley"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Dead Sea's shore is more than 400 metres below sea level.",
+      "difficulty": "medium",
+      "funFact": "Its salt content lets people float easily."
+    },
+    {
+      "id": "cf29",
+      "category": "crazy_facts",
+      "question": "Which mountain is taller than Everest when measured from its base on the ocean floor?",
+      "options": [
+        "K2",
+        "Kilimanjaro",
+        "Mauna Kea",
+        "Denali"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mauna Kea in Hawaii rises about 10,200 m from base to peak, though only about 4,200 m sits above sea level.",
+      "difficulty": "hard",
+      "funFact": "Everest is the highest above sea level."
+    },
+    {
+      "id": "cf30",
+      "category": "crazy_facts",
+      "question": "What is the smallest country in the world by area?",
+      "options": [
+        "Liechtenstein",
+        "San Marino",
+        "Vatican City",
+        "Monaco"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Vatican City covers about 0.44 km2.",
+      "difficulty": "easy",
+      "funFact": "It has its own post office, radio station and army of Swiss Guards."
+    },
+    {
+      "id": "cf31",
+      "category": "crazy_facts",
+      "question": "Why does the Eiffel Tower get taller in summer?",
+      "options": [
+        "The ground rises",
+        "Workers add height",
+        "It's built on a spring",
+        "Heat makes the iron expand"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thermal expansion of the iron can add up to about 15 cm in hot weather.",
+      "difficulty": "medium",
+      "funFact": "It also leans slightly away from the sun."
+    },
+    {
+      "id": "cf32",
+      "category": "crazy_facts",
+      "question": "The Great Barrier Reef is the largest living structure on Earth and is visible from where?",
+      "options": [
+        "Only from the Moon",
+        "Space",
+        "Only by plane",
+        "Only underwater"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reef is about 2,300 km long and can be seen from orbit.",
+      "difficulty": "easy",
+      "funFact": "It's made of billions of tiny coral polyps."
+    },
+    {
+      "id": "cf33",
+      "category": "crazy_facts",
+      "question": "What was the Sahara Desert like about 6,000 to 11,000 years ago?",
+      "options": [
+        "Green with lakes and grasslands",
+        "Frozen",
+        "Covered in forests of pine",
+        "Underwater"
+      ],
+      "correctIndex": 0,
+      "explanation": "During the African Humid Period, the Sahara had lakes, rivers and grasslands.",
+      "difficulty": "hard",
+      "funFact": "Cave paintings show swimmers and cattle."
+    },
+    {
+      "id": "cf34",
+      "category": "crazy_facts",
+      "question": "Which planet in our Solar System is not named after a Greek or Roman god?",
+      "options": [
+        "Earth",
+        "Venus",
+        "Mars",
+        "Mercury"
+      ],
+      "correctIndex": 0,
+      "explanation": "Earth's name comes from Old English and Germanic words meaning 'ground'.",
+      "difficulty": "medium",
+      "funFact": "Uranus is named after a Greek god, but its name isn't Roman."
+    },
+    {
+      "id": "cf35",
+      "category": "crazy_facts",
+      "question": "What was bubble wrap originally intended to be?",
+      "options": [
+        "Insulation for houses",
+        "A type of raincoat",
+        "Packaging",
+        "Wallpaper"
+      ],
+      "correctIndex": 3,
+      "explanation": "In 1957, engineers Alfred Fielding and Marc Chavannes tried to make textured wallpaper, which flopped.",
+      "difficulty": "medium",
+      "funFact": "Bubble Wrap Appreciation Day is celebrated in January."
+    },
+    {
+      "id": "cf36",
+      "category": "crazy_facts",
+      "question": "How were Post-it notes invented?",
+      "options": [
+        "By NASA",
+        "By a student",
+        "From a weak adhesive that was a failure",
+        "From a paper factory accident"
+      ],
+      "correctIndex": 2,
+      "explanation": "3M scientist Spencer Silver created a weak glue in 1968, and colleague Art Fry later found a use for it.",
+      "difficulty": "medium",
+      "funFact": "Post-it notes are canary yellow because the lab had that colour of scrap paper."
+    },
+    {
+      "id": "cf37",
+      "category": "crazy_facts",
+      "question": "According to the popular story, who invented the Popsicle by accident in 1905?",
+      "options": [
+        "A soldier",
+        "An 11-year-old boy",
+        "A chef",
+        "A scientist"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frank Epperson, aged 11, left soda with a stirring stick outside overnight, and it froze.",
+      "difficulty": "medium",
+      "funFact": "He later patented it as the 'Epsicle'."
+    },
+    {
+      "id": "cf38",
+      "category": "crazy_facts",
+      "question": "How was the microwave oven discovered?",
+      "options": [
+        "A space mission",
+        "A lightning strike",
+        "A chocolate bar melted in an engineer's pocket",
+        "A kitchen fire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Percy Spencer noticed a candy bar melting near a radar magnetron in 1945.",
+      "difficulty": "hard",
+      "funFact": "The first microwave oven was called Radarange."
+    },
+    {
+      "id": "cf39",
+      "category": "crazy_facts",
+      "question": "How long did the shortest war in history, the Anglo-Zanzibar War of 1896, last?",
+      "options": [
+        "3 days",
+        "1 year",
+        "1 week",
+        "About 40 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The British bombardment of Zanzibar's palace lasted only about 38 to 45 minutes.",
+      "difficulty": "hard",
+      "funFact": "It ended with the flight of the Sultan."
+    },
+    {
+      "id": "cf40",
+      "category": "crazy_facts",
+      "question": "How tall was Napoleon Bonaparte, compared to the average man of his time?",
+      "options": [
+        "A giant",
+        "About average height",
+        "Under 5 feet",
+        "Extremely short"
+      ],
+      "correctIndex": 1,
+      "explanation": "Napoleon was about 5 ft 6 to 7 in (1.68 m), average for the time, and the myth arose from French versus English inches.",
+      "difficulty": "medium",
+      "funFact": "His nickname 'le petit caporal' was affectionate."
+    },
+    {
+      "id": "cf41",
+      "category": "crazy_facts",
+      "question": "What is the truth about Viking horned helmets?",
+      "options": [
+        "They were used only by kings",
+        "They were made of gold",
+        "They are a myth from 19th-century costumes",
+        "Vikings wore them in battle"
+      ],
+      "correctIndex": 2,
+      "explanation": "The image was popularised by Wagner opera costume designs in the 1800s, not historical evidence.",
+      "difficulty": "medium",
+      "funFact": "Vikings mostly wore simple iron helmets, if they wore any."
+    },
+    {
+      "id": "cf42",
+      "category": "crazy_facts",
+      "question": "What did the US Supreme Court decide about tomatoes in 1893?",
+      "options": [
+        "They're illegal",
+        "They're berries",
+        "They're fruits",
+        "They're vegetables for tax purposes"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Nix v. Hedden, the court ruled tomatoes were vegetables for tariff rules, though botanically fruit.",
+      "difficulty": "hard",
+      "funFact": "The case was about import duties."
+    },
+    {
+      "id": "cf43",
+      "category": "crazy_facts",
+      "question": "Which board game originated in India as 'chaturanga'?",
+      "options": [
+        "Monopoly",
+        "Checkers",
+        "Chess",
+        "Ludo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chess developed from chaturanga in India around the 6th century.",
+      "difficulty": "easy",
+      "funFact": "It spread to Persia and then across the world."
+    },
+    {
+      "id": "cf44",
+      "category": "crazy_facts",
+      "question": "The English word 'shampoo' is derived from which language?",
+      "options": [
+        "Hindi",
+        "Latin",
+        "French",
+        "Arabic"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Shampoo' comes from the Hindi word 'champo', meaning to massage or knead.",
+      "difficulty": "medium",
+      "funFact": "It entered English in the 18th century."
+    },
+    {
+      "id": "cf45",
+      "category": "crazy_facts",
+      "question": "Which classic board game came from India as 'Moksha Patam'?",
+      "options": [
+        "Monopoly",
+        "Scrabble",
+        "Carrom",
+        "Snakes and Ladders"
+      ],
+      "correctIndex": 3,
+      "explanation": "Snakes and Ladders began in ancient India as a game teaching virtue and vice.",
+      "difficulty": "easy",
+      "funFact": "The Victorians brought it to England."
+    },
+    {
+      "id": "cf46",
+      "category": "crazy_facts",
+      "question": "Which Indian mathematician wrote rules for using zero as a number in 628 AD?",
+      "options": [
+        "Bhaskara II",
+        "Brahmagupta",
+        "Aryabhata",
+        "Ramanujan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Brahmagupta's Brahmasphutasiddhanta described arithmetic with zero.",
+      "difficulty": "hard",
+      "funFact": "The modern decimal number system also came from India."
+    },
+    {
+      "id": "cf47",
+      "category": "crazy_facts",
+      "question": "What shape are a goat's pupils?",
+      "options": [
+        "Star-shaped",
+        "Rectangular",
+        "Heart-shaped",
+        "Round"
+      ],
+      "correctIndex": 1,
+      "explanation": "Goats have horizontal, rectangular pupils that give them wide-angle vision.",
+      "difficulty": "medium",
+      "funFact": "Sheep and octopuses also have rectangular pupils."
+    },
+    {
+      "id": "cf48",
+      "category": "crazy_facts",
+      "question": "Which is the only mammal capable of true, sustained flight?",
+      "options": [
+        "Colugo",
+        "Sugar glider",
+        "Flying squirrel",
+        "Bat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bats can flap and fly, whereas flying squirrels only glide.",
+      "difficulty": "easy",
+      "funFact": "There are over 1,400 bat species."
+    },
+    {
+      "id": "cf49",
+      "category": "crazy_facts",
+      "question": "How much faster do fingernails grow than toenails?",
+      "options": [
+        "About 3 to 4 times",
+        "About 10 times",
+        "They grow the same",
+        "Toenails grow faster"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fingernails grow around 3 mm a month, while toenails grow around 1 mm.",
+      "difficulty": "hard",
+      "funFact": "Nails grow faster in summer."
+    },
+    {
+      "id": "cf50",
+      "category": "crazy_facts",
+      "question": "Why do sea otters hold hands while sleeping?",
+      "options": [
+        "To avoid drifting apart",
+        "To keep warm",
+        "To play",
+        "To scare predators"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sea otters float on their backs and hold hands so their group doesn't drift apart.",
+      "difficulty": "medium",
+      "funFact": "Mother otters also wrap their pups in kelp."
     }
   ]
 }
