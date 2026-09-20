@@ -2,20 +2,20 @@
   "categoryId": "tech_ai",
   "title": "Tech & AI Legends",
   "badge": "TRENDING 🔥",
-  "totalQuestions": 5,
-  "lastUpdated": "2026-09-18T21:29:53.291500Z",
+  "totalQuestions": 50,
+  "lastUpdated": "2026-09-20T09:00:00.000000Z",
   "questions": [
     {
       "id": "t1",
       "category": "tech_ai",
       "question": "Which company originally created the Android operating system before Google acquired it in 2005?",
       "options": [
+        "Symbian",
         "Android Inc.",
         "Motorola",
-        "Symbian",
         "Palm Inc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Android Inc. was founded in Palo Alto, California in 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White before Google bought it.",
       "difficulty": "medium",
       "funFact": "Andy Rubin originally developed Android as an OS for digital cameras, not smartphones!"
@@ -26,9 +26,9 @@
       "question": "What does the 'GPT' in ChatGPT stand for?",
       "options": [
         "Generative Pre-trained Transformer",
-        "General Programmed Technology",
         "Guided Predictive Transmitter",
-        "Global Processing Tensor"
+        "Global Processing Tensor",
+        "General Programmed Technology"
       ],
       "correctIndex": 0,
       "explanation": "GPT stands for Generative Pre-trained Transformer, based on the Transformer architecture introduced by Google researchers in 2017.",
@@ -40,12 +40,12 @@
       "category": "tech_ai",
       "question": "What was the very first video ever uploaded to YouTube in April 2005?",
       "options": [
+        "First Vlog Test",
         "Me at the zoo",
         "Hello World",
-        "Guitar Solo in Studio",
-        "First Vlog Test"
+        "Guitar Solo in Studio"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "'Me at the zoo' was uploaded by YouTube co-founder Jawed Karim at the San Diego Zoo on April 23, 2005.",
       "difficulty": "easy",
       "funFact": "The video is only 19 seconds long and shows elephants in the background!"
@@ -55,12 +55,12 @@
       "category": "tech_ai",
       "question": "Which programming language was originally called 'Oak' before being renamed?",
       "options": [
+        "C++",
         "Java",
-        "Python",
         "Ruby",
-        "C++"
+        "Python"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "James Gosling named Java 'Oak' after an oak tree outside his office window at Sun Microsystems.",
       "difficulty": "medium",
       "funFact": "It was renamed to Java after the popular Indonesian coffee consumed by the development team!"
@@ -70,15 +70,690 @@
       "category": "tech_ai",
       "question": "In what year did the legendary chess AI 'Deep Blue' defeat World Champion Garry Kasparov?",
       "options": [
-        "1997",
         "1991",
         "2001",
+        "1997",
         "1989"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "IBM's Deep Blue defeated Garry Kasparov in a 6-game match in May 1997, marking a milestone in artificial intelligence history.",
       "difficulty": "hard",
       "funFact": "Kasparov initially accused IBM of cheating by having a human grandmaster secretly intervene!"
+    },
+    {
+      "id": "t6",
+      "category": "tech_ai",
+      "question": "Who invented the World Wide Web while working at CERN in 1989?",
+      "options": [
+        "Marc Andreessen",
+        "Vint Cerf",
+        "Tim Berners-Lee",
+        "Bill Gates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tim Berners-Lee proposed a system of linked hypertext documents at CERN, and the first website went live in 1991.",
+      "difficulty": "easy",
+      "funFact": "CERN made the web technology free to use in 1993."
+    },
+    {
+      "id": "t7",
+      "category": "tech_ai",
+      "question": "Who unveiled the first iPhone in January 2007?",
+      "options": [
+        "Tim Cook",
+        "Steve Wozniak",
+        "Jony Ive",
+        "Steve Jobs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Steve Jobs introduced the iPhone at Macworld 2007, calling it a widescreen iPod, a phone and an internet communicator.",
+      "difficulty": "easy",
+      "funFact": "The first iPhone did not have an App Store."
+    },
+    {
+      "id": "t8",
+      "category": "tech_ai",
+      "question": "Who created the Linux kernel in 1991?",
+      "options": [
+        "Dennis Ritchie",
+        "Linus Torvalds",
+        "Richard Stallman",
+        "Bill Joy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finnish student Linus Torvalds began Linux as a hobby project, and it now powers Android, servers and supercomputers.",
+      "difficulty": "medium",
+      "funFact": "Linux's mascot is a penguin named Tux."
+    },
+    {
+      "id": "t9",
+      "category": "tech_ai",
+      "question": "The Python programming language is named after what?",
+      "options": [
+        "A programmer's pet",
+        "The snake",
+        "A Greek myth",
+        "Monty Python's Flying Circus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Guido van Rossum named Python after the British comedy show Monty Python's Flying Circus.",
+      "difficulty": "easy",
+      "funFact": "Python's first version was released in 1991."
+    },
+    {
+      "id": "t10",
+      "category": "tech_ai",
+      "question": "What was the first literal 'computer bug' found in 1947?",
+      "options": [
+        "A spider in a mainframe",
+        "A cockroach in a keyboard",
+        "A moth in a Harvard Mark II relay",
+        "A beetle in a tape drive"
+      ],
+      "correctIndex": 2,
+      "explanation": "Operators found a moth stuck in a relay of the Harvard Mark II and taped it into the logbook, and the term 'debugging' was popularised by Grace Hopper's team.",
+      "difficulty": "hard",
+      "funFact": "The moth is preserved at the Smithsonian."
+    },
+    {
+      "id": "t11",
+      "category": "tech_ai",
+      "question": "Which early computer, completed in 1945, is often called the first general-purpose electronic computer?",
+      "options": [
+        "UNIVAC",
+        "Colossus",
+        "Altair 8800",
+        "ENIAC"
+      ],
+      "correctIndex": 3,
+      "explanation": "ENIAC was built at the University of Pennsylvania and occupied a room, using thousands of vacuum tubes.",
+      "difficulty": "hard",
+      "funFact": "It weighed about 30 tons."
+    },
+    {
+      "id": "t12",
+      "category": "tech_ai",
+      "question": "What is the Turing Test, proposed by Alan Turing in 1950, designed to test?",
+      "options": [
+        "Memory size",
+        "Battery life",
+        "Whether a machine can imitate human conversation",
+        "Computer speed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Turing's imitation game asks whether a human judge can tell a machine from a person in text conversation.",
+      "difficulty": "medium",
+      "funFact": "Turing also helped break the Enigma code in WWII."
+    },
+    {
+      "id": "t13",
+      "category": "tech_ai",
+      "question": "Who coined the term 'artificial intelligence' at the 1956 Dartmouth workshop?",
+      "options": [
+        "Alan Turing",
+        "Marvin Minsky",
+        "John McCarthy",
+        "Elon Musk"
+      ],
+      "correctIndex": 2,
+      "explanation": "John McCarthy used the term in the proposal for the Dartmouth Summer Research Project on Artificial Intelligence.",
+      "difficulty": "hard",
+      "funFact": "McCarthy also invented the Lisp programming language."
+    },
+    {
+      "id": "t14",
+      "category": "tech_ai",
+      "question": "In 2016, Google DeepMind's AlphaGo defeated which world-class Go player?",
+      "options": [
+        "Garry Kasparov",
+        "Lee Sedol",
+        "Magnus Carlsen",
+        "Ke Jie"
+      ],
+      "correctIndex": 1,
+      "explanation": "AlphaGo beat Lee Sedol 4 games to 1 in Seoul, a milestone since Go is far more complex than chess.",
+      "difficulty": "medium",
+      "funFact": "Its famous 'Move 37' shocked experts."
+    },
+    {
+      "id": "t15",
+      "category": "tech_ai",
+      "question": "Which company acquired the AI lab DeepMind in 2014?",
+      "options": [
+        "Apple",
+        "Google",
+        "Facebook",
+        "Microsoft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Google acquired DeepMind, founded in London in 2010, in 2014 for a reported price of around $500 million.",
+      "difficulty": "medium",
+      "funFact": "DeepMind's co-founder Demis Hassabis later shared a Nobel Prize."
+    },
+    {
+      "id": "t16",
+      "category": "tech_ai",
+      "question": "How quickly did ChatGPT reach 1 million users after launching in November 2022?",
+      "options": [
+        "About 5 months",
+        "About 1 hour",
+        "About 1 year",
+        "About 5 days"
+      ],
+      "correctIndex": 3,
+      "explanation": "ChatGPT launched on 30 November 2022 and hit 1 million users in about five days.",
+      "difficulty": "medium",
+      "funFact": "It was one of the fastest-growing consumer apps ever."
+    },
+    {
+      "id": "t17",
+      "category": "tech_ai",
+      "question": "In which year was OpenAI founded?",
+      "options": [
+        "2019",
+        "2010",
+        "2015",
+        "2022"
+      ],
+      "correctIndex": 2,
+      "explanation": "OpenAI was founded in December 2015 as a non-profit AI research lab.",
+      "difficulty": "medium",
+      "funFact": "Co-founders included Sam Altman and Elon Musk."
+    },
+    {
+      "id": "t18",
+      "category": "tech_ai",
+      "question": "Which AI company, founded in 2021 by former OpenAI researchers including Dario and Daniela Amodei, makes Claude?",
+      "options": [
+        "Mistral",
+        "Cohere",
+        "Anthropic",
+        "Inflection"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anthropic is an AI safety company that builds the Claude family of AI models.",
+      "difficulty": "easy",
+      "funFact": "Anthropic was founded by a group of former OpenAI researchers with a focus on AI safety."
+    },
+    {
+      "id": "t19",
+      "category": "tech_ai",
+      "question": "What does Moore's Law predict?",
+      "options": [
+        "Internet speed doubles yearly",
+        "Storage costs double",
+        "Batteries double in life",
+        "Transistors on a chip double roughly every two years"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gordon Moore observed in 1965 that chip transistor counts grow exponentially, and the pace was later stated as doubling about every two years.",
+      "difficulty": "medium",
+      "funFact": "Moore co-founded Intel."
+    },
+    {
+      "id": "t20",
+      "category": "tech_ai",
+      "question": "What is the maximum number of Bitcoin that can ever exist?",
+      "options": [
+        "21 million",
+        "100 million",
+        "1 billion",
+        "Unlimited"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bitcoin's code caps supply at 21 million coins, making it scarce by design.",
+      "difficulty": "easy",
+      "funFact": "Its creator, Satoshi Nakamoto, has never been definitively identified."
+    },
+    {
+      "id": "t21",
+      "category": "tech_ai",
+      "question": "What does 'HTTP' stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Transfer Text Process",
+        "Hyper Terminal Transport Program",
+        "Home Tool Transfer Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "HTTP is the protocol web browsers use to request pages from servers.",
+      "difficulty": "easy",
+      "funFact": "HTTPS adds encryption for security."
+    },
+    {
+      "id": "t22",
+      "category": "tech_ai",
+      "question": "What does RAM stand for in computers?",
+      "options": [
+        "Rapid Application Memory",
+        "Read Access Module",
+        "Runtime Array Machine",
+        "Random Access Memory"
+      ],
+      "correctIndex": 3,
+      "explanation": "RAM is fast, temporary memory that a computer uses for running programs.",
+      "difficulty": "easy",
+      "funFact": "Data in RAM is lost when power is turned off."
+    },
+    {
+      "id": "t23",
+      "category": "tech_ai",
+      "question": "Who sent the first network email in 1971 and popularised the '@' symbol?",
+      "options": [
+        "Tim Berners-Lee",
+        "Steve Jobs",
+        "Ray Tomlinson",
+        "Bill Gates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ray Tomlinson used the @ symbol to separate the user name from the host on ARPANET.",
+      "difficulty": "hard",
+      "funFact": "He couldn't remember the content of the first email."
+    },
+    {
+      "id": "t24",
+      "category": "tech_ai",
+      "question": "Why was the QWERTY keyboard layout designed?",
+      "options": [
+        "To make typing faster",
+        "To save space",
+        "To confuse users",
+        "To reduce typewriter jams"
+      ],
+      "correctIndex": 3,
+      "explanation": "Christopher Latham Sholes arranged keys to keep commonly paired letters apart, reducing jamming on early typewriters.",
+      "difficulty": "medium",
+      "funFact": "The layout survived long after typewriters disappeared."
+    },
+    {
+      "id": "t25",
+      "category": "tech_ai",
+      "question": "Who invented the first computer mouse in the 1960s?",
+      "options": [
+        "Steve Jobs",
+        "Xerox Alto team",
+        "Bill Gates",
+        "Douglas Engelbart"
+      ],
+      "correctIndex": 3,
+      "explanation": "Douglas Engelbart and Bill English built the first mouse prototype at Stanford Research Institute.",
+      "difficulty": "hard",
+      "funFact": "The first mouse was made of wood."
+    },
+    {
+      "id": "t26",
+      "category": "tech_ai",
+      "question": "In which year was Google Chrome launched?",
+      "options": [
+        "2004",
+        "2008",
+        "2012",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "Google launched the Chrome browser in September 2008.",
+      "difficulty": "medium",
+      "funFact": "It is now the world's most-used browser."
+    },
+    {
+      "id": "t27",
+      "category": "tech_ai",
+      "question": "How much free storage did Gmail offer when it launched on 1 April 2004?",
+      "options": [
+        "100 MB",
+        "1 GB",
+        "10 GB",
+        "15 GB"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gmail's 1 GB of free storage was massive compared with rivals' few megabytes, and many people thought it was an April Fools joke.",
+      "difficulty": "medium",
+      "funFact": "It was invite-only at first."
+    },
+    {
+      "id": "t28",
+      "category": "tech_ai",
+      "question": "In July 2023, Twitter was rebranded as what?",
+      "options": [
+        "Bluesky",
+        "Chirp",
+        "X",
+        "Threads"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elon Musk's company changed the Twitter name and logo to X in July 2023.",
+      "difficulty": "easy",
+      "funFact": "Twitter was originally styled as 'twttr'."
+    },
+    {
+      "id": "t29",
+      "category": "tech_ai",
+      "question": "Which organisation manages India's Unified Payments Interface (UPI), launched in 2016?",
+      "options": [
+        "NPCI",
+        "RBI",
+        "UIDAI",
+        "SEBI"
+      ],
+      "correctIndex": 0,
+      "explanation": "The National Payments Corporation of India launched UPI in 2016, enabling instant bank transfers with a phone.",
+      "difficulty": "medium",
+      "funFact": "India became the world leader in real-time digital payments."
+    },
+    {
+      "id": "t30",
+      "category": "tech_ai",
+      "question": "Which was India's first indigenous supercomputer series, developed by C-DAC in 1991 under Vijay Bhatkar?",
+      "options": [
+        "Pratyush",
+        "PARAM",
+        "Eka",
+        "Aditya"
+      ],
+      "correctIndex": 1,
+      "explanation": "PARAM 8000 was built after India was denied a foreign supercomputer.",
+      "difficulty": "hard",
+      "funFact": "'Param' means 'supreme' in Sanskrit."
+    },
+    {
+      "id": "t31",
+      "category": "tech_ai",
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Pune"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bengaluru is home to a huge number of IT firms and startups, and hosts many global tech centres.",
+      "difficulty": "easy",
+      "funFact": "It is also home to ISRO's headquarters."
+    },
+    {
+      "id": "t32",
+      "category": "tech_ai",
+      "question": "In which year did Sundar Pichai become CEO of Google?",
+      "options": [
+        "2015",
+        "2010",
+        "2019",
+        "2004"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pichai became Google's CEO in 2015 and CEO of parent company Alphabet in 2019.",
+      "difficulty": "medium",
+      "funFact": "He joined Google in 2004 and helped launch Chrome."
+    },
+    {
+      "id": "t33",
+      "category": "tech_ai",
+      "question": "Satya Nadella, the CEO of Microsoft since 2014, was born in which Indian city?",
+      "options": [
+        "Hyderabad",
+        "Mumbai",
+        "Bengaluru",
+        "Delhi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadella was born in Hyderabad and studied at Manipal before moving to the US.",
+      "difficulty": "medium",
+      "funFact": "He followed Steve Ballmer as CEO."
+    },
+    {
+      "id": "t34",
+      "category": "tech_ai",
+      "question": "Geoffrey Hinton, the 'Godfather of AI', won the Nobel Prize in which field in 2024?",
+      "options": [
+        "Peace",
+        "Physics",
+        "Chemistry",
+        "Medicine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hinton shared the 2024 Nobel Prize in Physics with John Hopfield for work on artificial neural networks.",
+      "difficulty": "hard",
+      "funFact": "Hinton left Google in 2023 to speak about AI's risks."
+    },
+    {
+      "id": "t35",
+      "category": "tech_ai",
+      "question": "What does DeepMind's AlphaFold predict?",
+      "options": [
+        "Chess moves",
+        "3D structures of proteins",
+        "Weather",
+        "Stock prices"
+      ],
+      "correctIndex": 1,
+      "explanation": "AlphaFold can predict protein structures from amino-acid sequences, helping drug discovery and biology.",
+      "difficulty": "medium",
+      "funFact": "Its creators shared the 2024 Nobel Prize in Chemistry."
+    },
+    {
+      "id": "t36",
+      "category": "tech_ai",
+      "question": "In which year did Apple introduce Siri on the iPhone 4S?",
+      "options": [
+        "2016",
+        "2014",
+        "2011",
+        "2007"
+      ],
+      "correctIndex": 2,
+      "explanation": "Siri came out in October 2011 as the first mainstream voice assistant on a smartphone.",
+      "difficulty": "medium",
+      "funFact": "Siri began as a separate app before Apple bought it."
+    },
+    {
+      "id": "t37",
+      "category": "tech_ai",
+      "question": "Which company launched the Echo smart speaker with Alexa in 2014?",
+      "options": [
+        "Apple",
+        "Amazon",
+        "Microsoft",
+        "Google"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amazon's Echo introduced the Alexa voice assistant in late 2014.",
+      "difficulty": "easy",
+      "funFact": "The name Alexa was inspired by the Library of Alexandria."
+    },
+    {
+      "id": "t38",
+      "category": "tech_ai",
+      "question": "IBM's Watson AI famously won which TV quiz show in 2011?",
+      "options": [
+        "Who Wants to Be a Millionaire",
+        "Wheel of Fortune",
+        "Family Feud",
+        "Jeopardy!"
+      ],
+      "correctIndex": 3,
+      "explanation": "Watson defeated champions Ken Jennings and Brad Rutter on Jeopardy!",
+      "difficulty": "medium",
+      "funFact": "Watson was named after IBM's founder, Thomas J. Watson."
+    },
+    {
+      "id": "t39",
+      "category": "tech_ai",
+      "question": "What does CAPTCHA stand for?",
+      "options": [
+        "Central Automated Password Check",
+        "Completely Automated Public Turing test to tell Computers and Humans Apart",
+        "Computer Access Protection Test",
+        "Code And Password Test"
+      ],
+      "correctIndex": 1,
+      "explanation": "CAPTCHA is designed to tell humans from bots with challenges only humans could easily solve.",
+      "difficulty": "hard",
+      "funFact": "It's basically a reverse Turing test."
+    },
+    {
+      "id": "t40",
+      "category": "tech_ai",
+      "question": "What does 'Wi-Fi' actually stand for?",
+      "options": [
+        "Wide Fiber",
+        "It doesn't stand for anything",
+        "Wireless Finder",
+        "Wireless Fidelity"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wireless Fidelity' is a popular myth; the name was made up by a branding firm.",
+      "difficulty": "hard",
+      "funFact": "The term was created in 1999."
+    },
+    {
+      "id": "t41",
+      "category": "tech_ai",
+      "question": "Bluetooth is named after a medieval king of which country?",
+      "options": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "correctIndex": 1,
+      "explanation": "The technology is named after King Harald Bluetooth of Denmark, who united tribes, as Bluetooth unites devices.",
+      "difficulty": "medium",
+      "funFact": "The Bluetooth logo combines Harald's initials in Viking runes."
+    },
+    {
+      "id": "t42",
+      "category": "tech_ai",
+      "question": "Who is often called the 'father of the computer' for designing the Analytical Engine?",
+      "options": [
+        "Charles Babbage",
+        "John von Neumann",
+        "Alan Turing",
+        "Bill Gates"
+      ],
+      "correctIndex": 0,
+      "explanation": "Charles Babbage designed the mechanical Analytical Engine in the 1830s, a concept ahead of its time.",
+      "difficulty": "medium",
+      "funFact": "It was never fully built during his life."
+    },
+    {
+      "id": "t43",
+      "category": "tech_ai",
+      "question": "Who is often considered the world's first computer programmer?",
+      "options": [
+        "Katherine Johnson",
+        "Ada Lovelace",
+        "Grace Hopper",
+        "Margaret Hamilton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ada Lovelace wrote an algorithm for Babbage's Analytical Engine in the 1840s.",
+      "difficulty": "medium",
+      "funFact": "She was the daughter of the poet Lord Byron."
+    },
+    {
+      "id": "t44",
+      "category": "tech_ai",
+      "question": "Which company made the first smartphone, the 'Simon' in 1994?",
+      "options": [
+        "BlackBerry",
+        "IBM",
+        "Apple",
+        "Nokia"
+      ],
+      "correctIndex": 1,
+      "explanation": "The IBM Simon Personal Communicator had a touchscreen and could send emails and faxes.",
+      "difficulty": "hard",
+      "funFact": "It came about 13 years before the iPhone."
+    },
+    {
+      "id": "t45",
+      "category": "tech_ai",
+      "question": "Which research lab developed the Alto computer, which inspired graphical user interfaces?",
+      "options": [
+        "MIT Media Lab",
+        "Xerox PARC",
+        "IBM Research",
+        "Bell Labs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xerox PARC's Alto pioneered windows, icons and the mouse, ideas later adopted by Apple and Microsoft.",
+      "difficulty": "hard",
+      "funFact": "Steve Jobs visited PARC in 1979."
+    },
+    {
+      "id": "t46",
+      "category": "tech_ai",
+      "question": "In AI, what is a 'hallucination'?",
+      "options": [
+        "When a model shuts down",
+        "When a model confidently generates false information",
+        "When a model gets hacked",
+        "When a model repeats a word"
+      ],
+      "correctIndex": 1,
+      "explanation": "AI hallucinations are outputs that sound plausible but are made up or incorrect.",
+      "difficulty": "easy",
+      "funFact": "That's why AI answers should be verified."
+    },
+    {
+      "id": "t47",
+      "category": "tech_ai",
+      "question": "Who created the Git version-control system in 2005?",
+      "options": [
+        "Dennis Ritchie",
+        "Guido van Rossum",
+        "James Gosling",
+        "Linus Torvalds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Torvalds built Git in a few weeks to manage the Linux kernel's development.",
+      "difficulty": "medium",
+      "funFact": "Torvalds joked that he names his projects after himself, since 'git' is British slang for an unpleasant person."
+    },
+    {
+      "id": "t48",
+      "category": "tech_ai",
+      "question": "How much did Microsoft pay to acquire GitHub in 2018?",
+      "options": [
+        "$7.5 billion",
+        "$1 billion",
+        "$75 billion",
+        "$750 million"
+      ],
+      "correctIndex": 0,
+      "explanation": "Microsoft bought GitHub for about $7.5 billion in stock.",
+      "difficulty": "hard",
+      "funFact": "GitHub hosts over 100 million developers."
+    },
+    {
+      "id": "t49",
+      "category": "tech_ai",
+      "question": "Which programming language does Google's Flutter framework use?",
+      "options": [
+        "Go",
+        "Dart",
+        "Kotlin",
+        "Swift"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flutter, an open-source UI toolkit, uses Dart to build apps for mobile, web and desktop from one codebase.",
+      "difficulty": "medium",
+      "funFact": "Flutter was first released in 2017."
+    },
+    {
+      "id": "t50",
+      "category": "tech_ai",
+      "question": "Which company introduced the 'GPU' with the GeForce 256 in 1999?",
+      "options": [
+        "IBM",
+        "Nvidia",
+        "AMD",
+        "Intel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nvidia marketed the GeForce 256 as the world's first GPU.",
+      "difficulty": "hard",
+      "funFact": "GPUs later became the engines of the AI boom."
     }
   ]
 }
