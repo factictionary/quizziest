@@ -2,8 +2,8 @@
   "categoryId": "world_history",
   "title": "World Mysteries & Empires",
   "badge": "EPIC 🏛️",
-  "totalQuestions": 2,
-  "lastUpdated": "2026-09-18T21:29:53.311995Z",
+  "totalQuestions": 50,
+  "lastUpdated": "2026-09-20T09:00:00.000000Z",
   "questions": [
     {
       "id": "h1",
@@ -11,9 +11,9 @@
       "question": "Which ancient Wonder of the World is the only one that still largely stands intact today?",
       "options": [
         "Great Pyramid of Giza",
-        "Hanging Gardens of Babylon",
         "Colossus of Rhodes",
-        "Lighthouse of Alexandria"
+        "Lighthouse of Alexandria",
+        "Hanging Gardens of Babylon"
       ],
       "correctIndex": 0,
       "explanation": "Built circa 2560 BC for Pharaoh Khufu, the Great Pyramid of Giza is the oldest and only surviving Wonder of the Ancient World.",
@@ -25,15 +25,735 @@
       "category": "world_history",
       "question": "Which Roman Emperor famously made his beloved horse Incitatus a Roman senator (or promised to)?",
       "options": [
+        "Julius Caesar",
         "Caligula",
         "Nero",
-        "Commodus",
-        "Julius Caesar"
+        "Commodus"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Emperor Caligula pampered his horse with an ivory stable, purple blankets, and threatened to appoint him consul to mock the Senate.",
       "difficulty": "medium",
       "funFact": "Caligula's real name was Gaius Julius Caesar Augustus Germanicus; 'Caligula' means 'Little Boot'!"
+    },
+    {
+      "id": "h3",
+      "category": "world_history",
+      "question": "Which Mughal emperor built the Taj Mahal in memory of his wife Mumtaz Mahal?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Jahangir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shah Jahan commissioned the Taj Mahal in Agra after Mumtaz Mahal died in 1631; it was completed around 1653.",
+      "difficulty": "easy",
+      "funFact": "Around 20,000 workers are said to have worked on it for about two decades."
+    },
+    {
+      "id": "h4",
+      "category": "world_history",
+      "question": "Which Mauryan emperor embraced Buddhism after the bloody Kalinga War?",
+      "options": [
+        "Harsha",
+        "Bindusara",
+        "Ashoka",
+        "Chandragupta Maurya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ashoka was so moved by the suffering in the Kalinga War (about 261 BC) that he gave up conquest and spread Buddhism and non-violence.",
+      "difficulty": "easy",
+      "funFact": "The lion capital from his pillar at Sarnath is India's national emblem."
+    },
+    {
+      "id": "h5",
+      "category": "world_history",
+      "question": "Who founded the Mauryan Empire with guidance from the scholar Chanakya?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Kanishka",
+        "Samudragupta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chandragupta Maurya overthrew the Nanda dynasty around 321 BC and built one of ancient India's largest empires.",
+      "difficulty": "medium",
+      "funFact": "Chanakya is also credited with writing the Arthashastra, a text on statecraft."
+    },
+    {
+      "id": "h6",
+      "category": "world_history",
+      "question": "Which battle in 1526 established the Mughal Empire in India?",
+      "options": [
+        "Battle of Plassey",
+        "Battle of Haldighati",
+        "Battle of Buxar",
+        "First Battle of Panipat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Babur defeated Ibrahim Lodi of the Delhi Sultanate at Panipat, using gunpowder and field artillery.",
+      "difficulty": "medium",
+      "funFact": "Babur was a descendant of both Timur and Genghis Khan."
+    },
+    {
+      "id": "h7",
+      "category": "world_history",
+      "question": "The Battle of Plassey in 1757 helped which power gain control over Bengal?",
+      "options": [
+        "The Marathas",
+        "The British East India Company",
+        "The Portuguese",
+        "The French"
+      ],
+      "correctIndex": 1,
+      "explanation": "Robert Clive's victory over Nawab Siraj ud-Daulah, helped by Mir Jafar's betrayal, laid the foundation for British rule in India.",
+      "difficulty": "medium",
+      "funFact": "The battle lasted only about a day."
+    },
+    {
+      "id": "h8",
+      "category": "world_history",
+      "question": "Which ruler was known as the 'Tiger of Mysore' and died defending Srirangapatna in 1799?",
+      "options": [
+        "Tipu Sultan",
+        "Hyder Ali",
+        "Krishnadevaraya",
+        "Shivaji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tipu Sultan fought the British in the Anglo-Mysore Wars and was killed in the siege of Srirangapatna in 1799.",
+      "difficulty": "medium",
+      "funFact": "He used war rockets that later inspired British rocket technology."
+    },
+    {
+      "id": "h9",
+      "category": "world_history",
+      "question": "Who is credited with founding Bengaluru in 1537?",
+      "options": [
+        "Hyder Ali",
+        "Tipu Sultan",
+        "Kempegowda",
+        "Nalvadi Krishnaraja Wodeyar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kempe Gowda I, a chieftain under the Vijayanagara Empire, built a mud fort and laid out the city in 1537.",
+      "difficulty": "medium",
+      "funFact": "He placed four watchtowers marking how far he thought the city would grow."
+    },
+    {
+      "id": "h10",
+      "category": "world_history",
+      "question": "Can the Great Wall of China be seen from space with the naked eye?",
+      "options": [
+        "Yes, easily",
+        "No, this is a popular myth",
+        "Only at night",
+        "Yes, from the Moon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Astronauts say the wall is too narrow to be seen without aid from orbit, and it can't be seen from the Moon at all.",
+      "difficulty": "easy",
+      "funFact": "The Wall is made up of many separate walls built over more than 2,000 years."
+    },
+    {
+      "id": "h11",
+      "category": "world_history",
+      "question": "Cleopatra lived closer in time to which event than to the building of the Great Pyramid?",
+      "options": [
+        "The Roman conquest of Britain",
+        "The fall of Constantinople",
+        "The Moon landing",
+        "The Renaissance"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Great Pyramid was built around 2560 BC, over 2,500 years before Cleopatra, who died in 30 BC, about 2,000 years before the 1969 Moon landing.",
+      "difficulty": "hard",
+      "funFact": "Cleopatra was actually from a Greek-Macedonian dynasty, the Ptolemies."
+    },
+    {
+      "id": "h12",
+      "category": "world_history",
+      "question": "Which discovery allowed scholars to decipher Egyptian hieroglyphs?",
+      "options": [
+        "The Dead Sea Scrolls",
+        "The Behistun Inscription",
+        "The Code of Hammurabi",
+        "The Rosetta Stone"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Rosetta Stone carries the same decree in hieroglyphs, Demotic and Greek, and Jean-Francois Champollion cracked the code in 1822.",
+      "difficulty": "medium",
+      "funFact": "It was found by French soldiers in 1799 and is now in the British Museum."
+    },
+    {
+      "id": "h13",
+      "category": "world_history",
+      "question": "Which civilization built Machu Picchu in the Andes?",
+      "options": [
+        "The Maya",
+        "The Aztec",
+        "The Inca",
+        "The Olmec"
+      ],
+      "correctIndex": 2,
+      "explanation": "Machu Picchu was built around the mid-1400s under the Inca ruler Pachacuti and abandoned during the Spanish conquest.",
+      "difficulty": "easy",
+      "funFact": "Hiram Bingham brought it to world attention in 1911."
+    },
+    {
+      "id": "h14",
+      "category": "world_history",
+      "question": "Who founded the Mongol Empire in 1206?",
+      "options": [
+        "Attila",
+        "Genghis Khan",
+        "Kublai Khan",
+        "Timur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Temujin was proclaimed Genghis Khan and united the Mongol tribes, starting the largest contiguous land empire in history.",
+      "difficulty": "easy",
+      "funFact": "At its peak, the empire stretched from Korea to Eastern Europe."
+    },
+    {
+      "id": "h15",
+      "category": "world_history",
+      "question": "Alexander the Great died in 323 BC in which city?",
+      "options": [
+        "Persepolis",
+        "Babylon",
+        "Athens",
+        "Alexandria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alexander died in Babylon at about 32 years old, after never losing a major battle.",
+      "difficulty": "medium",
+      "funFact": "The cause of his death is still debated."
+    },
+    {
+      "id": "h16",
+      "category": "world_history",
+      "question": "On which date was Julius Caesar assassinated in 44 BC?",
+      "options": [
+        "1 January",
+        "The Ides of July",
+        "The Ides of March (15 March)",
+        "31 December"
+      ],
+      "correctIndex": 2,
+      "explanation": "A group of senators including Brutus and Cassius stabbed Caesar on the Ides of March.",
+      "difficulty": "easy",
+      "funFact": "He was reportedly stabbed 23 times."
+    },
+    {
+      "id": "h17",
+      "category": "world_history",
+      "question": "Roughly how many spectators could the Roman Colosseum hold?",
+      "options": [
+        "About 1,000",
+        "About 500,000",
+        "About 50,000",
+        "About 5,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Colosseum could host roughly 50,000 spectators for gladiator fights and public spectacles.",
+      "difficulty": "medium",
+      "funFact": "It could reportedly be emptied in minutes thanks to its 80 entrances."
+    },
+    {
+      "id": "h18",
+      "category": "world_history",
+      "question": "Which Viking explorer is believed to have reached North America around the year 1000?",
+      "options": [
+        "Harald Hardrada",
+        "Erik the Red",
+        "Ragnar Lothbrok",
+        "Leif Erikson"
+      ],
+      "correctIndex": 3,
+      "explanation": "Norse explorer Leif Erikson landed in a place he called Vinland, about 500 years before Columbus.",
+      "difficulty": "medium",
+      "funFact": "Archaeologists confirmed a Norse site at L'Anse aux Meadows in Newfoundland."
+    },
+    {
+      "id": "h19",
+      "category": "world_history",
+      "question": "In which year did Christopher Columbus first reach the Americas?",
+      "options": [
+        "1519",
+        "1453",
+        "1492",
+        "1607"
+      ],
+      "correctIndex": 2,
+      "explanation": "Columbus sailed under the Spanish crown and landed in the Bahamas in October 1492, while searching for a route to Asia.",
+      "difficulty": "easy",
+      "funFact": "He died believing he had reached Asia."
+    },
+    {
+      "id": "h20",
+      "category": "world_history",
+      "question": "Roughly what share of Europe's population did the Black Death kill in the 1300s?",
+      "options": [
+        "About a third to a half",
+        "Nearly 90%",
+        "About 10%",
+        "About 5%"
+      ],
+      "correctIndex": 0,
+      "explanation": "The plague from 1347 to 1351 killed an estimated 30 to 50% of Europe's people.",
+      "difficulty": "medium",
+      "funFact": "It is thought to have spread via fleas on rats along trade routes."
+    },
+    {
+      "id": "h21",
+      "category": "world_history",
+      "question": "Which English king was forced to seal the Magna Carta in 1215?",
+      "options": [
+        "King John",
+        "Edward I",
+        "Henry VIII",
+        "Richard the Lionheart"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rebel barons made King John agree to limits on royal power, an early step toward constitutional law.",
+      "difficulty": "medium",
+      "funFact": "Only four of the original 1215 copies survive."
+    },
+    {
+      "id": "h22",
+      "category": "world_history",
+      "question": "Which Ottoman sultan conquered Constantinople in 1453?",
+      "options": [
+        "Mehmed II",
+        "Selim I",
+        "Suleiman the Magnificent",
+        "Osman I"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mehmed II, aged 21, captured the city and ended the Byzantine Empire.",
+      "difficulty": "medium",
+      "funFact": "The Ottomans used enormous cannons to break the ancient walls."
+    },
+    {
+      "id": "h23",
+      "category": "world_history",
+      "question": "The French Revolution is commonly said to have begun with the storming of which fortress in 1789?",
+      "options": [
+        "Versailles",
+        "The Bastille",
+        "The Louvre",
+        "The Tuileries"
+      ],
+      "correctIndex": 1,
+      "explanation": "On 14 July 1789, Parisians stormed the Bastille prison, which became a symbol of the revolution.",
+      "difficulty": "easy",
+      "funFact": "France still celebrates 14 July as Bastille Day."
+    },
+    {
+      "id": "h24",
+      "category": "world_history",
+      "question": "Where was Napoleon exiled after his defeat at Waterloo in 1815?",
+      "options": [
+        "Corsica",
+        "Elba",
+        "Malta",
+        "Saint Helena"
+      ],
+      "correctIndex": 3,
+      "explanation": "The British sent Napoleon to remote Saint Helena in the South Atlantic, where he died in 1821.",
+      "difficulty": "medium",
+      "funFact": "Earlier, he had escaped from exile on the island of Elba."
+    },
+    {
+      "id": "h25",
+      "category": "world_history",
+      "question": "In which year did the Titanic sink?",
+      "options": [
+        "1920",
+        "1898",
+        "1905",
+        "1912"
+      ],
+      "correctIndex": 3,
+      "explanation": "The RMS Titanic hit an iceberg on 14 April 1912 and sank in the early hours of 15 April on her maiden voyage.",
+      "difficulty": "easy",
+      "funFact": "Only about a third of the roughly 2,200 people on board survived."
+    },
+    {
+      "id": "h26",
+      "category": "world_history",
+      "question": "The assassination of which archduke in Sarajevo sparked World War I?",
+      "options": [
+        "Franz Ferdinand",
+        "Maximilian",
+        "Rudolf",
+        "Franz Joseph"
+      ],
+      "correctIndex": 0,
+      "explanation": "Archduke Franz Ferdinand of Austria-Hungary was shot by Gavrilo Princip on 28 June 1914.",
+      "difficulty": "medium",
+      "funFact": "The war began about a month later."
+    },
+    {
+      "id": "h27",
+      "category": "world_history",
+      "question": "In what year did the Berlin Wall fall?",
+      "options": [
+        "1961",
+        "1975",
+        "1991",
+        "1989"
+      ],
+      "correctIndex": 3,
+      "explanation": "East Germany opened the border on 9 November 1989, and Germany reunified in 1990.",
+      "difficulty": "easy",
+      "funFact": "The wall had stood since 1961."
+    },
+    {
+      "id": "h28",
+      "category": "world_history",
+      "question": "Where is Stonehenge located?",
+      "options": [
+        "Salisbury Plain, England",
+        "County Meath, Ireland",
+        "Highlands, Scotland",
+        "Brittany, France"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stonehenge stands on Salisbury Plain in Wiltshire, with construction beginning around 3000 BC.",
+      "difficulty": "easy",
+      "funFact": "Some of its bluestones were brought from Wales, about 240 km away."
+    },
+    {
+      "id": "h29",
+      "category": "world_history",
+      "question": "What is the native name of Easter Island, famous for its giant moai statues?",
+      "options": [
+        "Hawaiki",
+        "Tahiti",
+        "Rapa Nui",
+        "Pitcairn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rapa Nui belongs to Chile and has nearly 1,000 moai carved by the Polynesian islanders.",
+      "difficulty": "medium",
+      "funFact": "The statues are mostly heads and torsos, but many have buried bodies below."
+    },
+    {
+      "id": "h30",
+      "category": "world_history",
+      "question": "What is a big unsolved mystery of the Indus Valley Civilization?",
+      "options": [
+        "Its language is fully known",
+        "It had no trade",
+        "Its script has never been deciphered",
+        "Its cities were never found"
+      ],
+      "correctIndex": 2,
+      "explanation": "Symbols found on seals at Harappa and Mohenjo-daro remain undeciphered despite decades of study.",
+      "difficulty": "medium",
+      "funFact": "The cities had advanced drainage systems around 2500 BC."
+    },
+    {
+      "id": "h31",
+      "category": "world_history",
+      "question": "Nalanda, one of the world's oldest universities, was located in which modern Indian state?",
+      "options": [
+        "Odisha",
+        "Bihar",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nalanda flourished from around the 5th century AD and drew scholars from across Asia, before being destroyed in the 12th century.",
+      "difficulty": "medium",
+      "funFact": "It reportedly had a library so huge that it burned for months."
+    },
+    {
+      "id": "h32",
+      "category": "world_history",
+      "question": "What word was found carved on a post after the 'Lost Colony' of Roanoke vanished?",
+      "options": [
+        "Roanoke",
+        "England",
+        "Virginia",
+        "Croatoan"
+      ],
+      "correctIndex": 3,
+      "explanation": "When John White returned in 1590, the settlers had disappeared, leaving only the word CROATOAN carved on a post.",
+      "difficulty": "hard",
+      "funFact": "Their fate remains one of America's oldest mysteries."
+    },
+    {
+      "id": "h33",
+      "category": "world_history",
+      "question": "The ship Mary Celeste was found in 1872 in what state?",
+      "options": [
+        "Sunk in a harbour",
+        "On fire",
+        "Drifting with no crew aboard",
+        "Full of pirates"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ship was found adrift in the Atlantic, seaworthy but with nobody on board, and the crew were never found.",
+      "difficulty": "medium",
+      "funFact": "Its cargo of alcohol was mostly untouched."
+    },
+    {
+      "id": "h34",
+      "category": "world_history",
+      "question": "What is the Voynich Manuscript, held at Yale?",
+      "options": [
+        "An undeciphered book in an unknown script",
+        "An ancient Greek atlas",
+        "A lost Shakespeare play",
+        "A pirate treasure map"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 15th-century book is filled with strange plants and diagrams in a script nobody has been able to read.",
+      "difficulty": "hard",
+      "funFact": "Theories range from a hoax to a lost language."
+    },
+    {
+      "id": "h35",
+      "category": "world_history",
+      "question": "The Antikythera mechanism, found in a shipwreck, is thought to be what?",
+      "options": [
+        "A Viking compass",
+        "An Egyptian clock",
+        "An ancient Greek astronomical calculator",
+        "A Roman weapon"
+      ],
+      "correctIndex": 2,
+      "explanation": "This bronze gear device from about the 2nd century BC tracked the movements of the Sun, Moon and planets.",
+      "difficulty": "hard",
+      "funFact": "Nothing as complex appeared again for over a thousand years."
+    },
+    {
+      "id": "h36",
+      "category": "world_history",
+      "question": "Who was buried with the Terracotta Army in China?",
+      "options": [
+        "Confucius",
+        "Emperor Wu",
+        "Kublai Khan",
+        "Qin Shi Huang, the first emperor"
+      ],
+      "correctIndex": 3,
+      "explanation": "The thousands of clay soldiers guard the tomb of Qin Shi Huang, who unified China in 221 BC.",
+      "difficulty": "medium",
+      "funFact": "Local farmers found it in 1974 while digging a well."
+    },
+    {
+      "id": "h37",
+      "category": "world_history",
+      "question": "The great Library of Alexandria was located in which country?",
+      "options": [
+        "Turkey",
+        "Greece",
+        "Egypt",
+        "Italy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The library, founded in the Ptolemaic period, aimed to collect all the world's knowledge in Alexandria, Egypt.",
+      "difficulty": "easy",
+      "funFact": "How and when it was destroyed is still debated by historians."
+    },
+    {
+      "id": "h38",
+      "category": "world_history",
+      "question": "Which volcano buried the Roman city of Pompeii in 79 AD?",
+      "options": [
+        "Mount Olympus",
+        "Stromboli",
+        "Mount Etna",
+        "Mount Vesuvius"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vesuvius erupted and buried Pompeii and Herculaneum in ash and pumice, preserving them for centuries.",
+      "difficulty": "easy",
+      "funFact": "Some victims were preserved in ash as detailed body casts."
+    },
+    {
+      "id": "h39",
+      "category": "world_history",
+      "question": "In which year did the Ottoman Sultanate formally end?",
+      "options": [
+        "1914",
+        "1945",
+        "1453",
+        "1922"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Ottoman Sultanate was abolished in 1922, and Turkey became a republic in 1923 under Mustafa Kemal Ataturk.",
+      "difficulty": "hard",
+      "funFact": "The empire had lasted over 600 years."
+    },
+    {
+      "id": "h40",
+      "category": "world_history",
+      "question": "The Aztec capital Tenochtitlan lies beneath which modern city?",
+      "options": [
+        "Bogota",
+        "Mexico City",
+        "Havana",
+        "Lima"
+      ],
+      "correctIndex": 1,
+      "explanation": "Founded in 1325 on an island in Lake Texcoco, Tenochtitlan was conquered by Hernan Cortes in 1521.",
+      "difficulty": "medium",
+      "funFact": "It had causeways, canals and floating gardens."
+    },
+    {
+      "id": "h41",
+      "category": "world_history",
+      "question": "Mansa Musa, one of the richest people in history, ruled which empire?",
+      "options": [
+        "Songhai Empire",
+        "Mali Empire",
+        "Ghana Empire",
+        "Ottoman Empire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mansa Musa's 1324 pilgrimage to Mecca, with lots of gold, reportedly caused inflation in the places he visited.",
+      "difficulty": "medium",
+      "funFact": "Timbuktu became a major centre of learning under his rule."
+    },
+    {
+      "id": "h42",
+      "category": "world_history",
+      "question": "Who was the first emperor to unify China in 221 BC?",
+      "options": [
+        "Qin Shi Huang",
+        "Emperor Wu",
+        "Kublai Khan",
+        "Liu Bang"
+      ],
+      "correctIndex": 0,
+      "explanation": "Qin Shi Huang unified the warring states, standardised writing and measures, and began the early Great Wall.",
+      "difficulty": "medium",
+      "funFact": "The word 'China' is thought to derive from 'Qin'."
+    },
+    {
+      "id": "h43",
+      "category": "world_history",
+      "question": "Which queen led the 1857 revolt at Jhansi against the British?",
+      "options": [
+        "Razia Sultana",
+        "Ahilyabai Holkar",
+        "Rani Chennamma",
+        "Rani Lakshmibai"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rani Lakshmibai of Jhansi fought the British in the Indian Rebellion of 1857 and died in battle in 1858.",
+      "difficulty": "easy",
+      "funFact": "She is said to have fought with her infant son tied to her back."
+    },
+    {
+      "id": "h44",
+      "category": "world_history",
+      "question": "Gandhi's Salt March in 1930 ended at which coastal village?",
+      "options": [
+        "Porbandar",
+        "Dwarka",
+        "Dandi",
+        "Surat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gandhi walked about 390 km from Sabarmati Ashram to Dandi to protest the British salt tax.",
+      "difficulty": "medium",
+      "funFact": "The march took about 24 days."
+    },
+    {
+      "id": "h45",
+      "category": "world_history",
+      "question": "Which Chola king built the Brihadisvara Temple in Thanjavur?",
+      "options": [
+        "Vijayalaya Chola",
+        "Rajendra Chola",
+        "Raja Raja Chola I",
+        "Karikala Chola"
+      ],
+      "correctIndex": 2,
+      "explanation": "Raja Raja Chola I completed this UNESCO World Heritage temple around 1010 AD.",
+      "difficulty": "hard",
+      "funFact": "Its main tower is about 66 m tall."
+    },
+    {
+      "id": "h46",
+      "category": "world_history",
+      "question": "Hampi in Karnataka was the capital of which empire?",
+      "options": [
+        "Vijayanagara Empire",
+        "Maurya Empire",
+        "Chola Empire",
+        "Gupta Empire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hampi was the centre of the Vijayanagara Empire, founded in 1336 by Harihara and Bukka.",
+      "difficulty": "easy",
+      "funFact": "Foreign visitors once described it as one of the richest cities in the world."
+    },
+    {
+      "id": "h47",
+      "category": "world_history",
+      "question": "Whose expedition completed the first voyage around the world (1519-1522)?",
+      "options": [
+        "James Cook's",
+        "Vasco da Gama's",
+        "Ferdinand Magellan's",
+        "Francis Drake's"
+      ],
+      "correctIndex": 2,
+      "explanation": "Magellan's fleet completed the circumnavigation after he died in the Philippines, under Juan Sebastian Elcano.",
+      "difficulty": "medium",
+      "funFact": "Only 18 of about 240 men made it back."
+    },
+    {
+      "id": "h48",
+      "category": "world_history",
+      "question": "Which invention by Johannes Gutenberg around 1440 transformed Europe?",
+      "options": [
+        "The compass",
+        "The movable-type printing press",
+        "The telescope",
+        "The steam engine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gutenberg's press in Mainz made books cheaper and helped spread ideas during the Renaissance and Reformation.",
+      "difficulty": "easy",
+      "funFact": "His famous Bible was among the first major books printed in Europe."
+    },
+    {
+      "id": "h49",
+      "category": "world_history",
+      "question": "Which Greek hero is credited with devising the Trojan Horse plan?",
+      "options": [
+        "Achilles",
+        "Odysseus",
+        "Hector",
+        "Agamemnon"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Greek legend, Odysseus came up with hiding soldiers in a wooden horse to enter Troy.",
+      "difficulty": "easy",
+      "funFact": "The story appears in later texts like Virgil's Aeneid, not in Homer's Iliad."
+    },
+    {
+      "id": "h50",
+      "category": "world_history",
+      "question": "The Silk Road was a network of trade routes linking China with which region?",
+      "options": [
+        "Antarctica",
+        "Australia",
+        "The Americas",
+        "The Mediterranean"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Silk Road connected China with India, Persia and the Mediterranean, carrying silk, spices, paper and ideas.",
+      "difficulty": "easy",
+      "funFact": "It was not one road but many routes, and ideas like Buddhism travelled along it too."
     }
   ]
 }
