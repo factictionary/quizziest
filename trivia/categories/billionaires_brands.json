@@ -2,23 +2,758 @@
   "categoryId": "billionaires_brands",
   "title": "Logos, Brands & Billionaires",
   "badge": "VIP 💎",
-  "totalQuestions": 1,
-  "lastUpdated": "2026-09-18T21:29:53.316482Z",
+  "totalQuestions": 50,
+  "lastUpdated": "2026-09-20T09:00:00.000000Z",
   "questions": [
     {
       "id": "b1",
       "category": "billionaires_brands",
-      "question": "What was the very first item ever sold on Amazon in 1995?",
+      "question": "What did Carolyn Davidson get paid for designing the Nike Swoosh in 1971?",
       "options": [
-        "A Book ('Fluid Concepts & Creative Analogies')",
-        "A CD",
-        "A Computer Mouse",
-        "A Coffee Mug"
+        "$35,000",
+        "$350",
+        "$35",
+        "$3,500"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carolyn Davidson, a graphic design student, was paid just $35 for the Swoosh. Nike later gave her company stock and a gold ring with the Swoosh.",
+      "difficulty": "easy",
+      "funFact": "The Swoosh represents the wing of Nike, the Greek goddess of victory."
+    },
+    {
+      "id": "b2",
+      "category": "billionaires_brands",
+      "question": "Whose image appeared in Apple's very first logo from 1976?",
+      "options": [
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Steve Jobs",
+        "Isaac Newton"
+      ],
+      "correctIndex": 3,
+      "explanation": "The original Apple logo, drawn by co-founder Ronald Wayne, showed Isaac Newton sitting under an apple tree.",
+      "difficulty": "medium",
+      "funFact": "The logo was replaced within a year by the rainbow apple with a bite taken out."
+    },
+    {
+      "id": "b3",
+      "category": "billionaires_brands",
+      "question": "What was Google's original name when it began as a Stanford research project?",
+      "options": [
+        "SearchBot",
+        "BackRub",
+        "Googol",
+        "PageRank"
+      ],
+      "correctIndex": 1,
+      "explanation": "Larry Page and Sergey Brin first called their search engine BackRub because it analysed backlinks.",
+      "difficulty": "medium",
+      "funFact": "The name Google is a play on 'googol', the number 1 followed by 100 zeros."
+    },
+    {
+      "id": "b4",
+      "category": "billionaires_brands",
+      "question": "In which city did Bill Gates and Paul Allen found Microsoft in 1975?",
+      "options": [
+        "Redmond",
+        "San Francisco",
+        "Albuquerque",
+        "Seattle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Microsoft was founded in Albuquerque, New Mexico, to write software for the Altair 8800, and moved to the Seattle area in 1979.",
+      "difficulty": "medium",
+      "funFact": "The name is a blend of 'microcomputer' and 'software'."
+    },
+    {
+      "id": "b5",
+      "category": "billionaires_brands",
+      "question": "What did Warren Buffett's Berkshire Hathaway originally make before becoming an investment giant?",
+      "options": [
+        "Insurance",
+        "Textiles",
+        "Steel",
+        "Railway parts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Berkshire Hathaway was a New England textile manufacturer. Buffett took control and shifted its capital into investments.",
+      "difficulty": "medium",
+      "funFact": "Buffett has said buying the textile business was one of his worst early decisions."
+    },
+    {
+      "id": "b6",
+      "category": "billionaires_brands",
+      "question": "The name 'Starbucks' was inspired by a character from which novel?",
+      "options": [
+        "Robinson Crusoe",
+        "Oliver Twist",
+        "Moby-Dick",
+        "Treasure Island"
+      ],
+      "correctIndex": 2,
+      "explanation": "Starbucks is named after Starbuck, the first mate of the Pequod in Herman Melville's Moby-Dick.",
+      "difficulty": "easy",
+      "funFact": "The green siren in the logo is a twin-tailed mermaid from old maritime lore."
+    },
+    {
+      "id": "b7",
+      "category": "billionaires_brands",
+      "question": "The name 'LEGO' comes from Danish words meaning what?",
+      "options": [
+        "Build big",
+        "Happy toys",
+        "Small bricks",
+        "Play well"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEGO is a contraction of the Danish 'leg godt', meaning 'play well'.",
+      "difficulty": "easy",
+      "funFact": "LEGO started in 1932 making wooden toys, and plastic bricks came in the late 1940s."
+    },
+    {
+      "id": "b8",
+      "category": "billionaires_brands",
+      "question": "Adidas is named after which person?",
+      "options": [
+        "Adam Diesel",
+        "Adi Dassler",
+        "Adrian Dassel",
+        "Adolf Adler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adidas comes from Adolf 'Adi' Dassler, who founded the company in Herzogenaurach, Germany.",
+      "difficulty": "easy",
+      "funFact": "Adi's brother Rudolf started a rival company nearby, which became Puma."
+    },
+    {
+      "id": "b9",
+      "category": "billionaires_brands",
+      "question": "Which sportswear giant was founded by Adi Dassler's brother Rudolf?",
+      "options": [
+        "Reebok",
+        "Under Armour",
+        "Puma",
+        "Asics"
+      ],
+      "correctIndex": 2,
+      "explanation": "After a bitter family feud, Rudolf Dassler founded Puma in 1948, across the river from Adidas.",
+      "difficulty": "medium",
+      "funFact": "The two brands' rivalry split the town of Herzogenaurach into two camps."
+    },
+    {
+      "id": "b10",
+      "category": "billionaires_brands",
+      "question": "Samsung, founded in 1938, started out as a trading company selling what?",
+      "options": [
+        "Televisions",
+        "Sewing machines",
+        "Radios",
+        "Dried fish, fruit and noodles"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lee Byung-chul founded Samsung in Korea as a small trading firm dealing in groceries such as dried fish, fruit and noodles.",
+      "difficulty": "hard",
+      "funFact": "'Samsung' means 'three stars' in Korean."
+    },
+    {
+      "id": "b11",
+      "category": "billionaires_brands",
+      "question": "Toyota began as a manufacturer of which machines?",
+      "options": [
+        "Tractors",
+        "Automatic looms",
+        "Bicycles",
+        "Sewing machines"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakichi Toyoda invented automatic looms, and his son Kiichiro started the automobile division in 1933.",
+      "difficulty": "medium",
+      "funFact": "The name was changed from 'Toyoda' to 'Toyota' because it sounded better and took fewer strokes to write in Japanese."
+    },
+    {
+      "id": "b12",
+      "category": "billionaires_brands",
+      "question": "Nokia, the phone giant, started in Finland in 1865 as what kind of business?",
+      "options": [
+        "A bank",
+        "A telephone exchange",
+        "A shipyard",
+        "A paper (pulp) mill"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nokia began as a wood-pulp and paper mill and later expanded into rubber, cables and electronics.",
+      "difficulty": "hard",
+      "funFact": "Nokia made rubber boots and tyres before it made mobile phones."
+    },
+    {
+      "id": "b13",
+      "category": "billionaires_brands",
+      "question": "Who founded the Tata Group in 1868?",
+      "options": [
+        "Dorabji Tata",
+        "J.R.D. Tata",
+        "Jamsetji Tata",
+        "Ratan Tata"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jamsetji Nusserwanji Tata founded the group, starting with a trading firm, and is called the father of Indian industry.",
+      "difficulty": "easy",
+      "funFact": "Jamsetji also envisioned the Taj Mahal Palace hotel, which opened in 1903."
+    },
+    {
+      "id": "b14",
+      "category": "billionaires_brands",
+      "question": "What was the first product category Flipkart sold when it started in 2007?",
+      "options": [
+        "Mobile phones",
+        "Groceries",
+        "Books",
+        "Clothes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sachin and Binny Bansal, former Amazon employees, started Flipkart in Bengaluru as an online bookstore.",
+      "difficulty": "easy",
+      "funFact": "Flipkart was later acquired by Walmart in 2018 in a deal valuing it at about $20 billion."
+    },
+    {
+      "id": "b15",
+      "category": "billionaires_brands",
+      "question": "How much starting capital did Infosys have when it was founded in 1981?",
+      "options": [
+        "Rs 1 lakh",
+        "Rs 1 crore",
+        "Rs 10 lakh",
+        "Rs 10,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Seven founders led by N. R. Narayana Murthy started Infosys with just Rs 10,000, with Sudha Murty contributing the money.",
+      "difficulty": "medium",
+      "funFact": "Infosys began in Pune and later moved to Bengaluru."
+    },
+    {
+      "id": "b16",
+      "category": "billionaires_brands",
+      "question": "What was Zomato originally called when it launched in 2008?",
+      "options": [
+        "Foodiebay",
+        "Menuwala",
+        "Dineout",
+        "Tastybook"
       ],
       "correctIndex": 0,
-      "explanation": "Jeff Bezos founded Amazon as an online bookstore; the first book sold was Douglas Hofstadter's 'Fluid Concepts and Creative Analogies'.",
+      "explanation": "Deepinder Goyal and Pankaj Chaddah started it as Foodiebay, an online restaurant menu directory, and renamed it Zomato in 2010.",
       "difficulty": "medium",
-      "funFact": "Amazon was originally called 'Cadabra' (as in Abracadabra), but Bezos changed it after a lawyer misheard it as 'Cadaver'!"
+      "funFact": "Zomato went public on Indian stock exchanges in July 2021."
+    },
+    {
+      "id": "b17",
+      "category": "billionaires_brands",
+      "question": "What is the name of Mukesh Ambani's famous Mumbai residence?",
+      "options": [
+        "Antilia",
+        "Jatia House",
+        "Jalsa",
+        "Mannat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antilia is a 27-storey private skyscraper on Altamount Road, Mumbai, named after a mythical Atlantic island.",
+      "difficulty": "easy",
+      "funFact": "It is often described as one of the most expensive homes in the world."
+    },
+    {
+      "id": "b18",
+      "category": "billionaires_brands",
+      "question": "What does the arrow in Amazon's logo connect?",
+      "options": [
+        "Amazon to World",
+        "A to Z",
+        "Books to Cloud",
+        "Buyer to Seller"
+      ],
+      "correctIndex": 1,
+      "explanation": "The smile-shaped arrow points from A to Z to show Amazon sells everything, and also looks like a smile for happy customers.",
+      "difficulty": "easy",
+      "funFact": "The current logo was introduced in 2000."
+    },
+    {
+      "id": "b19",
+      "category": "billionaires_brands",
+      "question": "Where is the hidden arrow in the FedEx logo?",
+      "options": [
+        "Above the 'e'",
+        "Between the 'E' and the 'x'",
+        "Under the 'd'",
+        "Inside the 'F'"
+      ],
+      "correctIndex": 1,
+      "explanation": "The white negative space between the E and x forms an arrow, symbolising speed and precision.",
+      "difficulty": "medium",
+      "funFact": "The FedEx logo has won over 40 design awards."
+    },
+    {
+      "id": "b20",
+      "category": "billionaires_brands",
+      "question": "What animal is hidden in the mountain of the Toblerone logo?",
+      "options": [
+        "A lion",
+        "An eagle",
+        "A wolf",
+        "A bear"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Matterhorn in the logo hides a bear, the symbol of Bern, the Swiss city where Toblerone was created.",
+      "difficulty": "medium",
+      "funFact": "Toblerone's triangular shape was inspired by the Matterhorn and the pyramids of dancing girls at the Folies Bergere."
+    },
+    {
+      "id": "b21",
+      "category": "billionaires_brands",
+      "question": "What number is hidden inside the Baskin-Robbins logo?",
+      "options": [
+        "31",
+        "21",
+        "7",
+        "100"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pink parts of the 'BR' spell out '31', for the 31 flavors offered, one for each day of the month.",
+      "difficulty": "medium",
+      "funFact": "The brand promised a different flavor every day of the month."
+    },
+    {
+      "id": "b22",
+      "category": "billionaires_brands",
+      "question": "Who invented Coca-Cola in 1886?",
+      "options": [
+        "Asa Candler",
+        "John Pemberton",
+        "Benjamin Thomas",
+        "Robert Woodruff"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pharmacist John Stith Pemberton created it in Atlanta as a medicinal tonic; Asa Candler later built it into a giant.",
+      "difficulty": "medium",
+      "funFact": "Coca-Cola was originally sold at the soda fountain for five cents a glass."
+    },
+    {
+      "id": "b23",
+      "category": "billionaires_brands",
+      "question": "What was Pepsi originally called when it was invented in 1893?",
+      "options": [
+        "Pep Cola",
+        "Cola Fizz",
+        "Caleb's Cola",
+        "Brad's Drink"
+      ],
+      "correctIndex": 3,
+      "explanation": "Caleb Bradham created 'Brad's Drink' in New Bern, North Carolina, and renamed it Pepsi-Cola in 1898.",
+      "difficulty": "hard",
+      "funFact": "The name came from 'dyspepsia', as it was marketed as a digestive aid."
+    },
+    {
+      "id": "b24",
+      "category": "billionaires_brands",
+      "question": "Who founded the original McDonald's restaurant?",
+      "options": [
+        "Harland Sanders",
+        "Richard and Maurice McDonald",
+        "Dave Thomas",
+        "Ray Kroc"
+      ],
+      "correctIndex": 1,
+      "explanation": "The McDonald brothers started the restaurant in San Bernardino, California. Ray Kroc later franchised it and bought them out in 1961.",
+      "difficulty": "medium",
+      "funFact": "Ray Kroc bought out the brothers for $2.7 million."
+    },
+    {
+      "id": "b25",
+      "category": "billionaires_brands",
+      "question": "How many herbs and spices are in KFC's famous secret recipe?",
+      "options": [
+        "15",
+        "11",
+        "7",
+        "21"
+      ],
+      "correctIndex": 1,
+      "explanation": "Colonel Harland Sanders' Original Recipe is said to use 11 herbs and spices, kept locked in a vault.",
+      "difficulty": "easy",
+      "funFact": "Sanders started franchising his chicken recipe when he was in his sixties."
+    },
+    {
+      "id": "b26",
+      "category": "billionaires_brands",
+      "question": "PayPal was sold to eBay in 2002 for roughly how much?",
+      "options": [
+        "$500 million",
+        "$150 million",
+        "$15 billion",
+        "$1.5 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "eBay acquired PayPal for about $1.5 billion. Elon Musk, whose X.com merged into PayPal, earned around $175 million.",
+      "difficulty": "hard",
+      "funFact": "The early PayPal team later became known as the 'PayPal Mafia'."
+    },
+    {
+      "id": "b27",
+      "category": "billionaires_brands",
+      "question": "How much did Disney pay to acquire Pixar in 2006?",
+      "options": [
+        "About $7.4 billion",
+        "About $740 million",
+        "About $2 billion",
+        "About $74 billion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Disney bought Pixar in an all-stock deal worth around $7.4 billion, making Steve Jobs Disney's largest shareholder.",
+      "difficulty": "hard",
+      "funFact": "Jobs had bought Pixar from Lucasfilm in 1986 for about $5 million."
+    },
+    {
+      "id": "b28",
+      "category": "billionaires_brands",
+      "question": "Which Apple co-founder sold his 10% stake for just $800 in 1976?",
+      "options": [
+        "Ronald Wayne",
+        "Steve Wozniak",
+        "Mike Markkula",
+        "Jef Raskin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ronald Wayne left Apple twelve days after founding it, selling his stake for $800. It would be worth billions today.",
+      "difficulty": "medium",
+      "funFact": "Wayne also drew Apple's first logo and wrote its first partnership agreement."
+    },
+    {
+      "id": "b29",
+      "category": "billionaires_brands",
+      "question": "How much did Yahoo reportedly offer to buy Facebook in 2006, which Mark Zuckerberg rejected?",
+      "options": [
+        "$10 billion",
+        "$100 million",
+        "$500 million",
+        "$1 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yahoo reportedly offered around $1 billion, and Zuckerberg turned it down, later saying he wanted to keep building.",
+      "difficulty": "hard",
+      "funFact": "Facebook is now part of Meta, valued at over a trillion dollars at times."
+    },
+    {
+      "id": "b30",
+      "category": "billionaires_brands",
+      "question": "Facebook bought Instagram in 2012 for how much?",
+      "options": [
+        "$100 million",
+        "$1 billion",
+        "$10 billion",
+        "$500 million"
+      ],
+      "correctIndex": 1,
+      "explanation": "Facebook acquired Instagram for about $1 billion, when it had just 13 employees.",
+      "difficulty": "medium",
+      "funFact": "Instagram launched in October 2010 and reached 1 million users in about two months."
+    },
+    {
+      "id": "b31",
+      "category": "billionaires_brands",
+      "question": "Facebook acquired WhatsApp in 2014 for approximately how much?",
+      "options": [
+        "$50 billion",
+        "$1 billion",
+        "$5 billion",
+        "$19 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "The deal was worth about $19 billion in cash and stock, one of the largest tech acquisitions at the time.",
+      "difficulty": "medium",
+      "funFact": "WhatsApp had around 55 employees when it was acquired."
+    },
+    {
+      "id": "b32",
+      "category": "billionaires_brands",
+      "question": "What was shown in the first video ever uploaded to YouTube in 2005?",
+      "options": [
+        "Co-founder at a zoo",
+        "A concert clip",
+        "A cat playing piano",
+        "A skateboarding trick"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Me at the zoo' by co-founder Jawed Karim shows him in front of elephants at the San Diego Zoo.",
+      "difficulty": "easy",
+      "funFact": "Google bought YouTube in 2006 for about $1.65 billion."
+    },
+    {
+      "id": "b33",
+      "category": "billionaires_brands",
+      "question": "Blockbuster once passed on buying Netflix. What was the price Netflix reportedly asked?",
+      "options": [
+        "$5 billion",
+        "$500 million",
+        "$50 million",
+        "$5 million"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 2000, Reed Hastings offered Netflix to Blockbuster for $50 million, and it was declined.",
+      "difficulty": "hard",
+      "funFact": "Blockbuster went bankrupt in 2010 while Netflix grew into a giant."
+    },
+    {
+      "id": "b34",
+      "category": "billionaires_brands",
+      "question": "What was Twitter's original working name?",
+      "options": [
+        "Chirper",
+        "Buzzr",
+        "twttr",
+        "Tweetly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Twitter was originally styled 'twttr' after Flickr, and the vowels were added later.",
+      "difficulty": "medium",
+      "funFact": "The first tweet was posted by Jack Dorsey in March 2006."
+    },
+    {
+      "id": "b35",
+      "category": "billionaires_brands",
+      "question": "The name 'Google' is a play on 'googol'. What is a googol?",
+      "options": [
+        "1 followed by 10 zeros",
+        "1 million billion",
+        "1 followed by 100 zeros",
+        "1 followed by 1,000 zeros"
+      ],
+      "correctIndex": 2,
+      "explanation": "A googol is 10^100. The founders chose the name to reflect organising an immense amount of information.",
+      "difficulty": "medium",
+      "funFact": "The spelling was reportedly a typo when the domain was registered."
+    },
+    {
+      "id": "b36",
+      "category": "billionaires_brands",
+      "question": "At what age did Warren Buffett buy his first stock?",
+      "options": [
+        "21",
+        "30",
+        "11",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "Buffett bought his first shares, Cities Service Preferred, at age 11 and later regretted not waiting longer.",
+      "difficulty": "medium",
+      "funFact": "He earned more than 99% of his wealth after turning 50."
+    },
+    {
+      "id": "b37",
+      "category": "billionaires_brands",
+      "question": "Which university did Mark Zuckerberg attend before dropping out to focus on Facebook?",
+      "options": [
+        "Harvard",
+        "MIT",
+        "Stanford",
+        "Yale"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zuckerberg started Facebook in his Harvard dorm room in 2004 and left to run it full time.",
+      "difficulty": "easy",
+      "funFact": "Bill Gates also left Harvard to found Microsoft."
+    },
+    {
+      "id": "b38",
+      "category": "billionaires_brands",
+      "question": "Which company was the first to reach a $1 trillion market value?",
+      "options": [
+        "Amazon",
+        "Microsoft",
+        "Google",
+        "Apple"
+      ],
+      "correctIndex": 3,
+      "explanation": "Apple became the first US-listed company to hit $1 trillion in August 2018.",
+      "difficulty": "medium",
+      "funFact": "Apple later became the first to reach $2 trillion and $3 trillion as well."
+    },
+    {
+      "id": "b39",
+      "category": "billionaires_brands",
+      "question": "Which company became the first to reach a $5 trillion market value in 2025?",
+      "options": [
+        "Nvidia",
+        "Apple",
+        "Microsoft",
+        "Tesla"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nvidia crossed $5 trillion in October 2025, driven by demand for AI chips.",
+      "difficulty": "medium",
+      "funFact": "Nvidia originally focused on graphics cards for video games."
+    },
+    {
+      "id": "b40",
+      "category": "billionaires_brands",
+      "question": "Nvidia's founders reportedly planned the company at which restaurant chain?",
+      "options": [
+        "Denny's",
+        "Subway",
+        "Pizza Hut",
+        "McDonald's"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jensen Huang, Chris Malachowsky and Curtis Priem discussed the idea at a Denny's diner in San Jose in 1993.",
+      "difficulty": "medium",
+      "funFact": "Jensen Huang once worked as a dishwasher and busboy at Denny's."
+    },
+    {
+      "id": "b41",
+      "category": "billionaires_brands",
+      "question": "In which city was Rolex originally founded in 1905?",
+      "options": [
+        "London",
+        "Zurich",
+        "Geneva",
+        "Paris"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hans Wilsdorf and Alfred Davis founded Wilsdorf & Davis in London and moved to Geneva in 1919.",
+      "difficulty": "hard",
+      "funFact": "The name 'Rolex' was chosen because it was easy to pronounce in any language."
+    },
+    {
+      "id": "b42",
+      "category": "billionaires_brands",
+      "question": "The Ferrari prancing horse logo was taken from which person's aircraft?",
+      "options": [
+        "Tazio Nuvolari",
+        "Benito Mussolini",
+        "Francesco Baracca, a WWI pilot",
+        "Enzo Ferrari"
+      ],
+      "correctIndex": 2,
+      "explanation": "Baracca's mother suggested Enzo use the horse from her son's plane for luck.",
+      "difficulty": "hard",
+      "funFact": "The yellow background is the colour of Modena, Enzo Ferrari's hometown."
+    },
+    {
+      "id": "b43",
+      "category": "billionaires_brands",
+      "question": "Before making sports cars, Ferruccio Lamborghini built what?",
+      "options": [
+        "Planes",
+        "Motorbikes",
+        "Tractors",
+        "Bicycles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lamborghini made tractors and got into cars after a dispute with Enzo Ferrari over a clutch problem.",
+      "difficulty": "medium",
+      "funFact": "The Lamborghini logo shows a raging bull, his zodiac sign of Taurus."
+    },
+    {
+      "id": "b44",
+      "category": "billionaires_brands",
+      "question": "What does the name IKEA stand for?",
+      "options": [
+        "Interior Kits Europe America",
+        "It's Kids' Everyday Amusement",
+        "Founder's initials plus his farm and village",
+        "Instant Kitchen And Equipment"
+      ],
+      "correctIndex": 2,
+      "explanation": "IKEA combines Ingvar Kamprad's initials with Elmtaryd, his family's farm, and Agunnaryd, his village in Sweden.",
+      "difficulty": "medium",
+      "funFact": "Kamprad started IKEA at age 17 in 1943."
+    },
+    {
+      "id": "b45",
+      "category": "billionaires_brands",
+      "question": "Tiffany & Co.'s famous robin-egg blue box colour is trademarked and matches which Pantone name?",
+      "options": [
+        "1837 Blue",
+        "Robin 5",
+        "Diamond Blue",
+        "Sky 1900"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiffany's custom Pantone colour is named '1837 Blue' after the year the company was founded.",
+      "difficulty": "hard",
+      "funFact": "Tiffany has used the blue for its boxes since 1845."
+    },
+    {
+      "id": "b46",
+      "category": "billionaires_brands",
+      "question": "In which year did Reliance Jio launch commercial services in India?",
+      "options": [
+        "2019",
+        "2010",
+        "2013",
+        "2016"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jio launched in September 2016 with free data and voice, which drastically reduced mobile data prices.",
+      "difficulty": "easy",
+      "funFact": "Jio gained 100 million subscribers in about six months."
+    },
+    {
+      "id": "b47",
+      "category": "billionaires_brands",
+      "question": "Where did Dhirubhai Ambani work as a young man before founding Reliance?",
+      "options": [
+        "A petrol station in Aden, Yemen",
+        "A bank in Mumbai",
+        "A shipping firm in Dubai",
+        "A textile mill in Surat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dhirubhai worked as a petrol pump attendant in Aden, Yemen, before returning to India in 1958 to start a trading business.",
+      "difficulty": "hard",
+      "funFact": "Reliance began as a spice and yarn trading business."
+    },
+    {
+      "id": "b48",
+      "category": "billionaires_brands",
+      "question": "What was Jack Ma's profession before founding Alibaba?",
+      "options": [
+        "Journalist",
+        "English teacher",
+        "Banker",
+        "Software engineer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jack Ma taught English in Hangzhou and founded Alibaba in 1999 with 17 others in his apartment.",
+      "difficulty": "easy",
+      "funFact": "He reportedly was rejected for a job at KFC."
+    },
+    {
+      "id": "b49",
+      "category": "billionaires_brands",
+      "question": "What was the launch price target of the Tata Nano, called the world's cheapest car?",
+      "options": [
+        "Rs 1 lakh",
+        "Rs 5 lakh",
+        "Rs 50,000",
+        "Rs 2 lakh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ratan Tata promised a car for about one lakh rupees so middle-class families could move up from scooters.",
+      "difficulty": "medium",
+      "funFact": "The Nano launched in 2009."
+    },
+    {
+      "id": "b50",
+      "category": "billionaires_brands",
+      "question": "Before Mickey Mouse, Walt Disney created which cartoon character that he lost the rights to?",
+      "options": [
+        "Oswald the Lucky Rabbit",
+        "Goofy",
+        "Donald Duck",
+        "Bugs Bunny"
+      ],
+      "correctIndex": 0,
+      "explanation": "Universal owned Oswald's rights, so Disney created Mickey Mouse in 1928. Disney regained Oswald in 2006.",
+      "difficulty": "medium",
+      "funFact": "Mickey Mouse was reportedly first named 'Mortimer' before Walt's wife suggested Mickey."
     }
   ]
 }
