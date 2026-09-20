@@ -2,13 +2,13 @@
   "categoryId": "cosmos_science",
   "title": "Cosmos & Weird Science",
   "badge": "MIND-BLOWN 🤯",
-  "totalQuestions": 2,
-  "lastUpdated": "2026-09-18T21:29:53.295816Z",
+  "totalQuestions": 50,
+  "lastUpdated": "2026-09-20T09:00:00.000000Z",
   "questions": [
     {
       "id": "c1",
       "category": "cosmos_science",
-      "question": "What is the boundary around a black hole beyond which nothing—not even light—can escape?",
+      "question": "What is the boundary around a black hole beyond which nothing, not even light, can escape?",
       "options": [
         "Event Horizon",
         "Photon Sphere",
@@ -25,15 +25,735 @@
       "category": "cosmos_science",
       "question": "How long does light from the Sun take to travel across space and reach Earth?",
       "options": [
-        "8 minutes 20 seconds",
         "1 second",
+        "8 minutes 20 seconds",
         "4 minutes 12 seconds",
         "1 hour"
       ],
-      "correctIndex": 0,
-      "explanation": "Traveling at 300,000 km/s across 149.6 Million km, sunlight takes roughly 8 minutes and 20 seconds to reach our eyes.",
+      "correctIndex": 1,
+      "explanation": "Traveling at 300,000 km/s across 149.6 million km, sunlight takes roughly 8 minutes and 20 seconds to reach our eyes.",
       "difficulty": "easy",
       "funFact": "If the Sun vanished right this second, Earth would stay lit and in orbit for another 8 minutes and 20 seconds!"
+    },
+    {
+      "id": "c3",
+      "category": "cosmos_science",
+      "question": "Which is the largest planet in our Solar System?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Saturn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jupiter is more than twice as massive as all the other planets combined.",
+      "difficulty": "easy",
+      "funFact": "More than 1,300 Earths could fit inside Jupiter."
+    },
+    {
+      "id": "c4",
+      "category": "cosmos_science",
+      "question": "Which planet is the hottest in our Solar System?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "correctIndex": 2,
+      "explanation": "Venus's thick carbon dioxide atmosphere causes a runaway greenhouse effect, with surface temperatures around 465 degrees C, hotter than Mercury.",
+      "difficulty": "easy",
+      "funFact": "Venus is hot enough to melt lead."
+    },
+    {
+      "id": "c5",
+      "category": "cosmos_science",
+      "question": "Which planet has a day longer than its year?",
+      "options": [
+        "Mercury",
+        "Saturn",
+        "Venus",
+        "Mars"
+      ],
+      "correctIndex": 2,
+      "explanation": "Venus takes about 243 Earth days to rotate once but only about 225 days to orbit the Sun.",
+      "difficulty": "medium",
+      "funFact": "Venus also spins backwards compared to most planets, so the Sun rises in the west."
+    },
+    {
+      "id": "c6",
+      "category": "cosmos_science",
+      "question": "Which pair of planets is thought to have 'diamond rain' deep inside?",
+      "options": [
+        "Pluto and Ceres",
+        "Mars and Mercury",
+        "Earth and Venus",
+        "Uranus and Neptune"
+      ],
+      "correctIndex": 3,
+      "explanation": "Extreme pressure and heat inside Uranus and Neptune are believed to squeeze carbon into diamonds that sink through the interior.",
+      "difficulty": "hard",
+      "funFact": "Experiments with lasers have recreated this process in the lab."
+    },
+    {
+      "id": "c7",
+      "category": "cosmos_science",
+      "question": "Olympus Mons on Mars is the tallest known volcano in the Solar System. About how tall is it?",
+      "options": [
+        "8.8 km",
+        "22 km",
+        "5 km",
+        "50 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "Olympus Mons stands about 22 km high, roughly two and a half times the height of Mount Everest.",
+      "difficulty": "medium",
+      "funFact": "It is so wide that if you stood on it you couldn't see its edges because of the planet's curvature."
+    },
+    {
+      "id": "c8",
+      "category": "cosmos_science",
+      "question": "What percentage of the Solar System's total mass is in the Sun?",
+      "options": [
+        "About 90%",
+        "About 50%",
+        "About 75%",
+        "About 99.8%"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Sun holds roughly 99.86% of all mass in the Solar System, leaving very little for all the planets combined.",
+      "difficulty": "medium",
+      "funFact": "Jupiter makes up most of the remaining mass."
+    },
+    {
+      "id": "c9",
+      "category": "cosmos_science",
+      "question": "What does a teaspoon of neutron star material weigh?",
+      "options": [
+        "A few kilograms",
+        "About 1 tonne",
+        "A few hundred kilograms",
+        "Billions of tonnes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Neutron stars are so dense that a teaspoon of their material would weigh billions of tonnes on Earth.",
+      "difficulty": "medium",
+      "funFact": "A neutron star is only about 20 km wide but has more mass than the Sun."
+    },
+    {
+      "id": "c10",
+      "category": "cosmos_science",
+      "question": "What is the nearest star to Earth after the Sun?",
+      "options": [
+        "Betelgeuse",
+        "Proxima Centauri",
+        "Alpha Andromedae",
+        "Sirius"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proxima Centauri is about 4.24 light-years away and is a small red dwarf.",
+      "difficulty": "easy",
+      "funFact": "With today's fastest spacecraft, the trip would take tens of thousands of years."
+    },
+    {
+      "id": "c11",
+      "category": "cosmos_science",
+      "question": "Which large galaxy is on course to collide with the Milky Way in billions of years?",
+      "options": [
+        "Andromeda",
+        "Whirlpool",
+        "Triangulum",
+        "Sombrero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andromeda is about 2.5 million light-years away and approaching us, with a merger expected in about 4 to 5 billion years.",
+      "difficulty": "medium",
+      "funFact": "Even in a galaxy collision, individual stars will almost never crash into each other."
+    },
+    {
+      "id": "c12",
+      "category": "cosmos_science",
+      "question": "About how old is the universe?",
+      "options": [
+        "50 billion years",
+        "13.8 billion years",
+        "100 million years",
+        "4.5 billion years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Measurements of the cosmic microwave background put the age of the universe at about 13.8 billion years.",
+      "difficulty": "easy",
+      "funFact": "Earth is only about 4.5 billion years old."
+    },
+    {
+      "id": "c13",
+      "category": "cosmos_science",
+      "question": "Who accidentally discovered the cosmic microwave background radiation in 1965?",
+      "options": [
+        "Sagan and Drake",
+        "Penzias and Wilson",
+        "Hubble and Lemaitre",
+        "Hawking and Penrose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arno Penzias and Robert Wilson detected a persistent radio noise that turned out to be the afterglow of the Big Bang.",
+      "difficulty": "hard",
+      "funFact": "They first thought the noise came from pigeon droppings on their antenna."
+    },
+    {
+      "id": "c14",
+      "category": "cosmos_science",
+      "question": "About what percentage of the universe is ordinary matter (stars, planets, us)?",
+      "options": [
+        "About 27%",
+        "About 95%",
+        "About 50%",
+        "About 5%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ordinary matter is about 5% of the universe, with about 27% dark matter and 68% dark energy.",
+      "difficulty": "hard",
+      "funFact": "Scientists still don't know what dark matter and dark energy are."
+    },
+    {
+      "id": "c15",
+      "category": "cosmos_science",
+      "question": "Who was the first human to travel into space?",
+      "options": [
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Alan Shepard",
+        "Valentina Tereshkova"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soviet cosmonaut Yuri Gagarin orbited Earth on 12 April 1961 aboard Vostok 1.",
+      "difficulty": "easy",
+      "funFact": "His flight lasted only 108 minutes."
+    },
+    {
+      "id": "c16",
+      "category": "cosmos_science",
+      "question": "Who was the first person to walk on the Moon?",
+      "options": [
+        "John Glenn",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Michael Collins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Neil Armstrong stepped onto the Moon on 20 July 1969 during Apollo 11.",
+      "difficulty": "easy",
+      "funFact": "Michael Collins stayed in orbit and never walked on the Moon."
+    },
+    {
+      "id": "c17",
+      "category": "cosmos_science",
+      "question": "How many humans have walked on the Moon?",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "24"
+      ],
+      "correctIndex": 2,
+      "explanation": "Twelve astronauts walked on the Moon across six Apollo landings between 1969 and 1972.",
+      "difficulty": "medium",
+      "funFact": "No human has been back on the Moon since 1972."
+    },
+    {
+      "id": "c18",
+      "category": "cosmos_science",
+      "question": "Which spacecraft launched in 1977 became the first to enter interstellar space?",
+      "options": [
+        "New Horizons",
+        "Cassini",
+        "Pioneer 10",
+        "Voyager 1"
+      ],
+      "correctIndex": 3,
+      "explanation": "Voyager 1 crossed the heliopause into interstellar space in 2012 and is the most distant human-made object.",
+      "difficulty": "medium",
+      "funFact": "Each Voyager carries a golden record with sounds and images from Earth."
+    },
+    {
+      "id": "c19",
+      "category": "cosmos_science",
+      "question": "The famous 'Pale Blue Dot' photograph of Earth was taken by which spacecraft?",
+      "options": [
+        "Cassini",
+        "Voyager 1",
+        "Apollo 8",
+        "Hubble"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voyager 1 took the image in 1990 from about 6 billion km away, at the request of Carl Sagan.",
+      "difficulty": "medium",
+      "funFact": "In it, Earth appears as less than a single pixel."
+    },
+    {
+      "id": "c20",
+      "category": "cosmos_science",
+      "question": "On which date did the James Webb Space Telescope launch?",
+      "options": [
+        "14 July 2015",
+        "20 July 2019",
+        "1 January 2020",
+        "25 December 2021"
+      ],
+      "correctIndex": 3,
+      "explanation": "JWST launched on Christmas Day 2021 aboard an Ariane 5 rocket and observes mainly in infrared light.",
+      "difficulty": "hard",
+      "funFact": "It sits about 1.5 million km from Earth at the L2 point."
+    },
+    {
+      "id": "c21",
+      "category": "cosmos_science",
+      "question": "Chandrayaan-3 made history in 2023 by landing near which part of the Moon?",
+      "options": [
+        "The equator",
+        "The north pole",
+        "The south pole",
+        "The far side centre"
+      ],
+      "correctIndex": 2,
+      "explanation": "On 23 August 2023, India became the first country to soft-land near the Moon's south pole.",
+      "difficulty": "easy",
+      "funFact": "India also became the fourth country to soft-land on the Moon."
+    },
+    {
+      "id": "c22",
+      "category": "cosmos_science",
+      "question": "India's Mangalyaan (Mars Orbiter Mission) made India the first country to do what?",
+      "options": [
+        "Reach Mars orbit on its first attempt",
+        "Find life on Mars",
+        "Land humans on Mars",
+        "Bring back Martian rocks"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mangalyaan entered Mars orbit in September 2014 on ISRO's first try, at a cost lower than many Hollywood films.",
+      "difficulty": "medium",
+      "funFact": "The mission cost about 450 crore rupees."
+    },
+    {
+      "id": "c23",
+      "category": "cosmos_science",
+      "question": "ISRO's Aditya-L1 mission, launched in 2023, was sent to study what?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "The Sun",
+        "The Moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aditya-L1 is India's first space-based solar observatory, positioned near the Sun-Earth L1 point.",
+      "difficulty": "easy",
+      "funFact": "L1 lets it watch the Sun continuously without eclipses."
+    },
+    {
+      "id": "c24",
+      "category": "cosmos_science",
+      "question": "Which planet is less dense than water and would theoretically float?",
+      "options": [
+        "Mercury",
+        "Saturn",
+        "Jupiter",
+        "Earth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Saturn's average density is about 0.69 g/cm3, lower than water's 1 g/cm3.",
+      "difficulty": "medium",
+      "funFact": "You would need a bathtub bigger than the planet to try it."
+    },
+    {
+      "id": "c25",
+      "category": "cosmos_science",
+      "question": "Which planet rotates on its side, tilted at about 98 degrees?",
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Mars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uranus's extreme tilt is thought to come from an ancient massive collision, so it rolls around the Sun like a ball.",
+      "difficulty": "medium",
+      "funFact": "Its poles get about 42 years of continuous sunlight followed by 42 years of darkness."
+    },
+    {
+      "id": "c26",
+      "category": "cosmos_science",
+      "question": "Jupiter's Great Red Spot is what?",
+      "options": [
+        "A volcano",
+        "An ocean",
+        "A giant storm larger than Earth",
+        "A crater"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Great Red Spot is an enormous anticyclonic storm that has been observed for well over a century and is wider than Earth.",
+      "difficulty": "easy",
+      "funFact": "It has been shrinking in recent decades."
+    },
+    {
+      "id": "c27",
+      "category": "cosmos_science",
+      "question": "In 2006, Pluto was reclassified as what?",
+      "options": [
+        "A moon",
+        "A dwarf planet",
+        "A comet",
+        "An asteroid"
+      ],
+      "correctIndex": 1,
+      "explanation": "The International Astronomical Union defined 'planet' in 2006, and Pluto didn't meet the requirement of clearing its orbit.",
+      "difficulty": "easy",
+      "funFact": "Pluto is smaller than Earth's Moon."
+    },
+    {
+      "id": "c28",
+      "category": "cosmos_science",
+      "question": "Which moon of Jupiter is believed to hide a huge subsurface ocean beneath its ice?",
+      "options": [
+        "Callisto",
+        "Io",
+        "Triton",
+        "Europa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Europa's icy shell is thought to cover a global salty ocean, making it a prime target in the search for alien life.",
+      "difficulty": "medium",
+      "funFact": "It may hold about twice as much water as all of Earth's oceans."
+    },
+    {
+      "id": "c29",
+      "category": "cosmos_science",
+      "question": "Which moon in our Solar System has a thick atmosphere and lakes of liquid methane?",
+      "options": [
+        "Ganymede",
+        "Enceladus",
+        "Titan",
+        "Phobos"
+      ],
+      "correctIndex": 2,
+      "explanation": "Saturn's moon Titan has a dense nitrogen atmosphere and hydrocarbon lakes and seas on its surface.",
+      "difficulty": "medium",
+      "funFact": "NASA's Dragonfly mission is planned to fly a rotorcraft there."
+    },
+    {
+      "id": "c30",
+      "category": "cosmos_science",
+      "question": "Why can't you hear sound in space?",
+      "options": [
+        "Space is too cold",
+        "There is no medium (air) for sound waves to travel through",
+        "Sound is too fast",
+        "Space is too bright"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sound needs a medium like air to travel, and space is a near-vacuum.",
+      "difficulty": "easy",
+      "funFact": "Astronauts talk to each other on radios, which use electromagnetic waves, not sound."
+    },
+    {
+      "id": "c31",
+      "category": "cosmos_science",
+      "question": "What happens to astronauts' height in space?",
+      "options": [
+        "They grow taller",
+        "It stays the same",
+        "They grow wider",
+        "They shrink"
+      ],
+      "correctIndex": 0,
+      "explanation": "Without gravity compressing the spine, astronauts can grow up to a couple of inches (about 5 cm) taller.",
+      "difficulty": "medium",
+      "funFact": "They return to normal height soon after coming back to Earth."
+    },
+    {
+      "id": "c32",
+      "category": "cosmos_science",
+      "question": "What is the most abundant element in the universe?",
+      "options": [
+        "Helium",
+        "Carbon",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hydrogen makes up roughly 75% of the ordinary matter in the universe.",
+      "difficulty": "easy",
+      "funFact": "Most of the hydrogen in your body was created in the Big Bang."
+    },
+    {
+      "id": "c33",
+      "category": "cosmos_science",
+      "question": "About how fast does the ground move due to Earth's rotation at the equator?",
+      "options": [
+        "About 30,000 km/h",
+        "About 500 km/h",
+        "About 1,670 km/h",
+        "About 100 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Earth rotates once every 24 hours, giving a speed at the equator of roughly 1,670 km/h.",
+      "difficulty": "medium",
+      "funFact": "Earth is also orbiting the Sun at about 107,000 km/h."
+    },
+    {
+      "id": "c34",
+      "category": "cosmos_science",
+      "question": "A bolt of lightning is about how much hotter than the Sun's surface?",
+      "options": [
+        "About the same",
+        "It is cooler",
+        "About 5 times",
+        "About 100 times"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lightning heats air to around 30,000 K, about five times hotter than the Sun's roughly 5,500 degrees C surface.",
+      "difficulty": "hard",
+      "funFact": "A lightning bolt lasts only a fraction of a second."
+    },
+    {
+      "id": "c35",
+      "category": "cosmos_science",
+      "question": "What food is often said to never spoil due to its low moisture and natural acidity?",
+      "options": [
+        "Bread",
+        "Honey",
+        "Cheese",
+        "Milk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Honey's low water content and acidity make it extremely resistant to bacteria, and edible honey has been found in ancient Egyptian tombs.",
+      "difficulty": "easy",
+      "funFact": "Bees fan honey with their wings to reduce moisture."
+    },
+    {
+      "id": "c36",
+      "category": "cosmos_science",
+      "question": "Why are bananas slightly radioactive?",
+      "options": [
+        "They are grown near nuclear plants",
+        "They absorb cosmic rays",
+        "They contain uranium",
+        "They contain potassium-40"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bananas are rich in potassium, a small fraction of which is the radioactive isotope potassium-40.",
+      "difficulty": "medium",
+      "funFact": "The radiation is so small it's harmless; it's even used as an informal 'banana equivalent dose' unit."
+    },
+    {
+      "id": "c37",
+      "category": "cosmos_science",
+      "question": "How many hearts does an octopus have?",
+      "options": [
+        "Two",
+        "Three",
+        "One",
+        "Eight"
+      ],
+      "correctIndex": 1,
+      "explanation": "An octopus has two branchial hearts for the gills and one systemic heart for the body.",
+      "difficulty": "easy",
+      "funFact": "Octopus blood is blue because it uses copper-based haemocyanin."
+    },
+    {
+      "id": "c38",
+      "category": "cosmos_science",
+      "question": "Roughly how much of our DNA do humans share with chimpanzees?",
+      "options": [
+        "About 98-99%",
+        "About 90%",
+        "About 50%",
+        "About 75%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Humans and chimpanzees share about 98 to 99% of their DNA, showing a recent common ancestor.",
+      "difficulty": "medium",
+      "funFact": "We also share about half our genes with a banana."
+    },
+    {
+      "id": "c39",
+      "category": "cosmos_science",
+      "question": "What is absolute zero, the lowest possible temperature?",
+      "options": [
+        "-100 degrees C",
+        "-459 degrees C",
+        "0 degrees C",
+        "-273.15 degrees C"
+      ],
+      "correctIndex": 3,
+      "explanation": "Absolute zero is 0 Kelvin, or -273.15 degrees C, where particles have minimal thermal motion.",
+      "difficulty": "medium",
+      "funFact": "Scientists have cooled atoms to within a tiny fraction of a degree above it."
+    },
+    {
+      "id": "c40",
+      "category": "cosmos_science",
+      "question": "At what temperature is water at its densest?",
+      "options": [
+        "-4 degrees C",
+        "4 degrees C",
+        "100 degrees C",
+        "0 degrees C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water is densest at about 4 degrees C, so ice floats and lakes freeze from the top down.",
+      "difficulty": "hard",
+      "funFact": "This odd property allows aquatic life to survive winter."
+    },
+    {
+      "id": "c41",
+      "category": "cosmos_science",
+      "question": "Why do GPS satellites have to account for Einstein's theory of relativity?",
+      "options": [
+        "They orbit the Moon",
+        "They fly faster than light",
+        "They are magnetic",
+        "Their clocks tick at different rates than clocks on Earth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Satellite clocks run differently due to their speed and weaker gravity, and without correction GPS would drift by kilometres a day.",
+      "difficulty": "hard",
+      "funFact": "The net effect is about 38 microseconds per day."
+    },
+    {
+      "id": "c42",
+      "category": "cosmos_science",
+      "question": "Schrodinger's cat is a famous thought experiment about which idea in physics?",
+      "options": [
+        "Quantum superposition",
+        "Gravity",
+        "Atomic energy",
+        "Black holes"
+      ],
+      "correctIndex": 0,
+      "explanation": "The cat is described as both alive and dead until observed, illustrating superposition in quantum mechanics.",
+      "difficulty": "medium",
+      "funFact": "Schrodinger proposed it to show how strange he thought the idea was."
+    },
+    {
+      "id": "c43",
+      "category": "cosmos_science",
+      "question": "The Chandrasekhar limit, about 1.4 solar masses, decides the fate of what?",
+      "options": [
+        "White dwarf stars",
+        "Galaxies",
+        "Comets",
+        "Planets"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subrahmanyan Chandrasekhar showed that a white dwarf above about 1.4 solar masses collapses, leading to a supernova or neutron star.",
+      "difficulty": "hard",
+      "funFact": "He won the Nobel Prize in Physics in 1983."
+    },
+    {
+      "id": "c44",
+      "category": "cosmos_science",
+      "question": "Which Indian scientist won the 1930 Nobel Prize in Physics for the scattering of light?",
+      "options": [
+        "Vikram Sarabhai",
+        "C. V. Raman",
+        "Satyendra Nath Bose",
+        "Homi Bhabha"
+      ],
+      "correctIndex": 1,
+      "explanation": "C. V. Raman discovered the Raman effect, and India celebrates National Science Day on 28 February to mark it.",
+      "difficulty": "easy",
+      "funFact": "He was the first Asian to win a Nobel Prize in science."
+    },
+    {
+      "id": "c45",
+      "category": "cosmos_science",
+      "question": "About how hot is the core of the Sun?",
+      "options": [
+        "About 1 million degrees C",
+        "About 15 million degrees C",
+        "About 100 million degrees C",
+        "About 5,500 degrees C"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Sun's core is around 15 million degrees C, hot enough for hydrogen fusion.",
+      "difficulty": "medium",
+      "funFact": "The Sun's surface is much cooler than its outer atmosphere, the corona."
+    },
+    {
+      "id": "c46",
+      "category": "cosmos_science",
+      "question": "What will the Sun eventually become in about 5 billion years?",
+      "options": [
+        "A neutron star",
+        "A red giant",
+        "A supernova",
+        "A black hole"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Sun will swell into a red giant, likely engulfing Mercury and Venus, then shed layers and become a white dwarf.",
+      "difficulty": "medium",
+      "funFact": "It is currently about halfway through its life."
+    },
+    {
+      "id": "c47",
+      "category": "cosmos_science",
+      "question": "Why can the Moon exactly cover the Sun during a total solar eclipse?",
+      "options": [
+        "Earth's shadow bends light",
+        "The Sun is about 400 times wider and 400 times farther away",
+        "They're the same size",
+        "The Moon is glowing"
+      ],
+      "correctIndex": 1,
+      "explanation": "By coincidence, the Sun is about 400 times larger than the Moon and about 400 times farther away, so they look the same size.",
+      "difficulty": "hard",
+      "funFact": "This coincidence won't last, since the Moon is slowly moving away."
+    },
+    {
+      "id": "c48",
+      "category": "cosmos_science",
+      "question": "How fast is the Moon drifting away from Earth each year?",
+      "options": [
+        "About 3.8 km",
+        "About 3.8 cm",
+        "About 38 metres",
+        "About 0.1 mm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Measurements from mirrors left by Apollo astronauts show the Moon recedes about 3.8 cm per year.",
+      "difficulty": "hard",
+      "funFact": "Days on Earth are slowly getting longer for the same reason."
+    },
+    {
+      "id": "c49",
+      "category": "cosmos_science",
+      "question": "What is a day on Mars called?",
+      "options": [
+        "A lunar",
+        "A cycle",
+        "A sol",
+        "A jov"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Martian day is called a sol and lasts about 24 hours and 37 minutes.",
+      "difficulty": "medium",
+      "funFact": "Mars rovers count missions in sols."
+    },
+    {
+      "id": "c50",
+      "category": "cosmos_science",
+      "question": "Which galaxy's black hole was the first ever photographed, in 2019?",
+      "options": [
+        "The Milky Way",
+        "Andromeda",
+        "Sombrero",
+        "Messier 87"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Event Horizon Telescope collaboration released the first black hole image in April 2019, showing M87*'s shadow.",
+      "difficulty": "medium",
+      "funFact": "A picture of our own galaxy's black hole, Sagittarius A*, followed in 2022."
     }
   ]
 }
